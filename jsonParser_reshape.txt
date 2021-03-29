@@ -1,0 +1,145 @@
+############################## Python 2.7.16 #############################
+import urllib, json
+
+url="https://www.ebi.ac.uk/vg/epirr/view/all?format=json"
+response = urllib.urlopen(url)
+data = json.loads(response.read())
+
+
+fo = open('EpiAtlas_EpiRR.txt', 'w')
+print>>fo,'EpiRR'+'\t'+'EpiRR_status'+'\t'+'project'+'\t'+'metadata'+'\t'+'value'
+
+for idx in range(0,len(data)):
+ url=data[idx]["_links"]["self"]
+ response = urllib.urlopen(url)
+ url_json = json.loads(response.read())
+ for key,value in url_json["meta_data"].items():
+  print>>fo,url_json["full_accession"]+'\t'+url_json["status"]+'\t'+url_json["project"]+'\t'+key+'\t'+value.encode('utf-8')
+
+fo.close()
+
+#an error occured at EpiRR NR:3016 due to "degree symbol" 
+# -> as a qiuck and dirty solution: manually add the missing metadata for this registery (16 items) 
+# -> continue the above code from idx:3017 (append to the existing file)
+# the error is below:
+# IHECRE00004713.2,  idx=3017
+Traceback (most recent call last):
+  File "<stdin>", line 6, in <module>
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc2 in position 119: ordinal not in range(128)
+
+
+# open the EpiAtlas_EpiRR.txt in excel and save it as csv (shared on Drive)
+
+# go to R to reshape long table to wide using dcast
+############################# R #######################
+# local machine: start R from the wordcloud conda env
+# conda activate wordcloud
+
+library(ggplot2)
+library(reshape2)
+library(forcats)
+library(wordcloud)
+library(tm)
+library(SnowballC)
+
+
+x <- read.csv("EpiAtlas_EpiRR.csv",sep=",", header=T)
+x[is.na(x$value),"value"] <- "NAO" # to distingiush between "real NA" entries from the project and the "artificial NA" which results in from dcast function, Be careful there are empty strings as well
+z <- dcast(x, EpiRR+EpiRR_status+project~metadata, value.var="value")
+write.csv(z, "EpiAtlas_EpiRR_metadata_all.csv", row.names = FALSE) # this generates the bigTable
+
+############################# bash #############################
+# calculate frequencies of metadata terms of each project and later save them together with the bigTable (gnerated above EpiAtlas_EpiRR_metadata_all.csv) into xlsx sheet called IHEC_metadata_summary.xlxs which is shared on Drive
+#e.g DEEP
+grep DEEP EpiAtlas_EpiRR.csv |cut -f 4 -d , |sort|uniq -c|sort -k1,1nr -k2,2|less
+################################################################
+
+
+
+
+# generating figures for presentation
+ggplot(x, aes(x=fct_infreq(metadata))) + geom_bar() +  theme(axis.text.x = element_text(size = 7, angle = 90)) + facet_wrap(~project, scales="free") + xlab("metadata")
+ggsave("~/mnt/DEEP/TL/deep-external01/work/abdosa/EpiAtlas/metadata_all.png", width=16, height=16)
+
+
+ggplot(z, aes(x=project, fill=EpiRR_status)) + geom_bar() +  theme_bw() + theme(axis.text.x = element_text(size = 10, angle = 90))
+ggsave("~/mnt/DEEP/TL/deep-external01/work/abdosa/EpiAtlas/metadata_overview.png", width=8, height=8)
+
+for (i in unique(x$project))
+{
+z <- dcast(x[x$project==i,], EpiRR+EpiRR_status+project~metadata, value.var="value")
+write.csv(z, paste("~/mnt/DEEP//TL/deep-external01/work/abdosa/EpiAtlas/EpiAtlas_EpiRR_metadata_",i,".csv",sep="",collapse="_"), row.names = FALSE)
+}
+
+for (i in unique(x$project))
+{
+l <- table(x[x$project==i,"metadata"])
+l <- l[l!=0]
+cat(i,":",length(l),"\n")
+write.csv(l, paste("~/mnt/DEEP/TL/deep-external01/work/abdosa/EpiAtlas/metadata_",i,".csv",sep="",collapse="_"), row.names = FALSE)
+}
+
+
+for (i in unique(x$project))
+{
+ggplot(subset(x, project==i), aes(x=fct_infreq(value))) + geom_bar() + scale_x_discrete(label = function(x) stringr::str_trunc(x, 12)) +  theme(axis.text.x = element_text(size = 7, angle = 90)) + facet_wrap(~metadata, scales="free") + xlab("")
+ggsave(paste("~/mnt/DEEP/TL/deep-external01/work/abdosa/EpiAtlas/metadata_terms_",i,".png",sep="",collapse="_"), width=16, height=16)
+print(i)
+}
+
+
+############ word cloud in R : https://www.geeksforgeeks.org/generating-word-cloud-in-r-programming/
+
+for (i in unique(x$project))
+{
+
+#text <- colnames(z)[-c(1,2,3)]
+#text <- x[(x$project=="BLUEPRINT" & x$metadata=="cell_type"),"value"]
+#text <- gsub(" ","_", text)
+
+text <- x[x$project==i,"metadata"]
+text <- gsub(" ","_", text)
+
+docs = Corpus(VectorSource(text))    
+  
+# Text transformation 
+toSpace = content_transformer( 
+              function (x, pattern) 
+              gsub(pattern, " ", x)) 
+docs1 = tm_map(docs, toSpace, "/") 
+docs1 = tm_map(docs, toSpace, "@") 
+docs1 = tm_map(docs, toSpace, "#") 
+  
+# Cleaning the Text 
+docs1 = tm_map(docs1, content_transformer(tolower)) 
+docs1 = tm_map(docs1, removeNumbers) 
+docs1 = tm_map(docs1, stripWhitespace) 
+  
+# Build a term-document matrix 
+dtm = TermDocumentMatrix(docs) 
+m = as.matrix(dtm) 
+v = sort(rowSums(m), decreasing = TRUE) 
+d = data.frame(word = names(v), freq = v) 
+  
+# Generate the Word cloud 
+png(paste("wordcloud_metadata_",i,".png",sep="",collapse="_"), width=800, height=800)
+wordcloud(words = d$word,  
+          freq = d$freq, 
+          min.freq = 1,  
+          max.words = 200, 
+          random.order = FALSE,  
+          rot.per = 0.35,  
+          colors = brewer.pal(8, "Dark2")) 
+
+dev.off()
+}
+
+
+
+
+#UpSet
+# local machine R.4.3 biconda 
+lt=list(BLUEPRINT=x[x$project=="BLUEPRINT","metadata"], DEEP=x[x$project=="DEEP","metadata"], CEEHRC=x[x$project=="CEEHRC","metadata"], Roadmap=x[x$project=="NIH Roadmap Epigenomics","metadata"], AMED_CREST=x[x$project=="AMED-CREST","metadata"],  ENCODE=x[x$project=="ENCODE","metadata"], KNIH=x[x$project=="Korea Epigenome Project (KNIH)","metadata"], GIS=x[x$project=="GIS","metadata"], EpiHK=x[x$project=="EpiHK","metadata"])
+
+ltm <- list_to_matrix(lt)
+UpSet(m)
