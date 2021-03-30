@@ -1,0 +1,50 @@
+[
+    {
+        "harmonized": "tissue_type",
+        "strategy": {
+            "merge_delimited": [
+                "tissue_type",
+                "tissue-type",
+                "tissue"
+            ]
+        }
+    },
+    {
+        "harmonized": "sample_ontology",
+        "strategy": {
+            "merge_delimited": [
+                "sample_ontology_curie",
+                "sample_ontology_uri"
+            ]
+        }
+    },
+    {
+        "harmonized": "age",
+        "strategy": {
+            "merge_delimited": [
+                "age",
+                "donor_age"
+            ]
+        }
+    },
+    {
+        "harmonized": "sex",
+        "strategy": {
+            "merge_delimited": [
+                "sex",
+                "donor_sex",
+                "gender"
+            ]
+        }
+    },
+    {
+        "harmonized": "disease_ontology_term",
+        "strategy": {
+            "merge_delimited": [
+                "disease_ontology_curie",
+                "disease ontology uri",
+                "disease_ontology_uri"
+            ]
+        }
+    }
+]
