@@ -10,7 +10,7 @@
         }
     },
     {
-        "harmonized": "sample_ontology",
+        "harmonized": "sample_ontology_term",
         "strategy": {
             "merge_delimited": [
                 "sample_ontology_curie",
@@ -25,10 +25,12 @@
                 "age",
                 "donor_age"
             ]
-        }
+		},
+		"options": {"make_int":""}
     },
     {
         "harmonized": "sex",
+		"options": {"lowercase":""},
         "strategy": {
             "merge_delimited": [
                 "sex",
