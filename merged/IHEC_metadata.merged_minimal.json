@@ -785,21 +785,21 @@
     },
     {
         "age": "16week embryo",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/EFO:0001196::efo:0001196",
         "sex": "female",
         "tissue_type": "lung"
     },
     {
         "age": "16week embryo",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/EFO:0001196::efo:0001196",
         "sex": "female",
         "tissue_type": "lung"
     },
     {
         "age": "16week embryo",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/EFO:0001196::efo:0001196",
         "sex": "female",
         "tissue_type": "lung"
@@ -1914,7 +1914,7 @@
         "age": "20 - 30",
         "disease_ontology_term": "",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0000786",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": "bone marrow"
     },
     {
@@ -11525,14 +11525,14 @@
         "age": "NAO",
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0000050",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": ""
     },
     {
         "age": "NAO",
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0001059",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": ""
     },
     {
@@ -11567,7 +11567,7 @@
         "age": "NAO",
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0000038",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": ""
     },
     {
@@ -11581,14 +11581,14 @@
         "age": "NAO",
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0001024",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": ""
     },
     {
         "age": "NAO",
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0000557",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": ""
     },
     {
@@ -11630,7 +11630,7 @@
         "age": "NAO",
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0000576",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": ""
     },
     {
@@ -12246,7 +12246,7 @@
         "age": "NAO",
         "disease_ontology_term": "C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0000236",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": ""
     },
     {
@@ -12510,918 +12510,918 @@
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 68,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 40,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 14,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 19,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 78,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 71,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 77,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 60,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 64,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 68,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 68,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 68,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 40,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 40,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 40,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 14,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 14,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 14,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 19,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 19,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 19,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 23,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 36,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 78,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 78,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 78,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 71,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 71,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 71,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 77,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 77,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 77,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 75,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 60,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 60,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 60,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 64,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 64,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 64,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 69,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": "NAO",
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 30,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "female",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
     {
         "age": 26,
-        "disease_ontology_term": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::ncit:C0549184",
-        "sample_ontology_term": "cl:0002544::http://purl.obolibrary.org/obo/CL_0002544",
+        "disease_ontology_term": "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184",
+        "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0002544::cl:0002544",
         "sex": "male",
         "tissue_type": ""
     },
@@ -14416,7 +14416,7 @@
         "age": 38,
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/CL_0000148",
-        "sex": "unknown::female",
+        "sex": "female::unknown",
         "tissue_type": ""
     },
     {
@@ -18791,7 +18791,7 @@
         "age": "NAO",
         "disease_ontology_term": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/UBERON_0016538",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": "Temporal Cortex"
     },
     {
@@ -18924,7 +18924,7 @@
         "age": "NAO",
         "disease_ontology_term": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/UBERON_0002037",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": "Cerebellum"
     },
     {
@@ -19071,7 +19071,7 @@
         "age": "NAO",
         "disease_ontology_term": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184",
         "sample_ontology_term": "http://purl.obolibrary.org/obo/UBERON_0000451",
-        "sex": "unknown::mixed",
+        "sex": "mixed::unknown",
         "tissue_type": "Prefrontal Cortex"
     },
     {
@@ -20650,7 +20650,7 @@
         "tissue_type": "Prefrontal Cortex"
     },
     {
-        "age": "NAO::postnatal day 0.5",
+        "age": "postnatal day 0.5::NAO",
         "disease_ontology_term": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900",
         "sample_ontology_term": "https://www.ebi.ac.uk/ols/ontologies/uberon/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FUBERON_0000473",
         "sex": "male",

@@ -20,7 +20,10 @@ def from_jsonfile(f):
 	with open(f) as infile:
 		return json.load(infile)
 
-
+def to_excel(fname, data, index=False):
+	frame = pd.DataFrame(data)
+	frame.to_excel(fname, index=index)
+	return fname
 
 def hash_bigtable(f=None):
 	if not f: f = "raw/IHEC_metadata_summary.xlsx"
@@ -56,6 +59,8 @@ def merge_attributes(f=None):
 
 	print(to_jsonfile('merged/IHEC_metadata.merged.json', updated))
 	print(to_jsonfile('merged/IHEC_metadata.merged_minimal.json', minimal))
+	print(to_excel('merged/IHEC_metadata.merged.xlsx', updated))
+	print(to_excel('merged/IHEC_metadata.merged_minimal.xlsx', minimal))
 	return 'ok'
 
 if __name__ == "__main__":
