@@ -22,7 +22,7 @@ data = json.loads(response.read())
 
 d = []
 
-fo = open('EpiAtlas_EpiRR.txt', 'w')
+fo = open('raw/EpiAtlas_EpiRR.txt', 'w')
 print('EpiRR'+'\t'+'EpiRR_status'+'\t'+'project'+'\t'+'metadata'+'\t'+'value', file=fo)
 
 for idx in range(0,len(data)):
@@ -39,5 +39,5 @@ fo.close()
 df = pd.DataFrame(d)
 df.columns = ['EpiRR', 'EpiRR_status', 'project', 'metadata', 'value']
 df2 = df.pivot_table(index=["EpiRR","EpiRR_status","project"], columns='metadata', values='value', aggfunc='first')
-df2.to_csv(r'EpiAtlas_EpiRR_metadata_all.csv', na_rep="NaN")
+df2.to_csv(r'raw/EpiAtlas_EpiRR_metadata_all.csv', na_rep="NaN")
 
