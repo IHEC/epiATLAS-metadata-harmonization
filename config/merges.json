@@ -1,22 +1,68 @@
 [
     {
-        "harmonized": "tissue_type",
+        "harmonized": "EpiRR",
         "strategy": {
             "merge_delimited": [
-                "tissue_type",
-                "tissue-type",
-                "tissue"
+                "EpiRR"
             ]
-        }
+		}
     },
     {
-        "harmonized": "sample_ontology_term",
+        "harmonized": "EpiRR_status",
         "strategy": {
             "merge_delimited": [
-                "sample_ontology_curie",
-                "sample_ontology_uri"
+                "EpiRR_status"
             ]
-        }
+		}
+    },
+    {
+        "harmonized": "project",
+        "strategy": {
+            "merge_delimited": [
+                "project"
+            ]
+		}
+    },
+    {
+        "harmonized": "donor_health_status",
+        "strategy": {
+            "merge_delimited": [
+                "donor_health_status",
+                "disease",
+                "cause of death"
+            ]
+        },
+		"options": {"lowercase":""}
+    },
+    {
+        "harmonized": "disease_ontology_term",
+        "strategy": {
+            "merge_delimited": [
+                "donor_health_status_ontology_curie",
+                "donor_health_status_ontology_uri",
+                "disease_ontology",
+                "disease_ontology_curie",
+                "disease ontology uri",
+                "disease_ontology_uri"
+            ]
+        },
+		"options": {"merge_ontology":""}
+    },
+    {
+        "harmonized": "health_state",
+        "strategy": {
+            "merge_delimited": [
+                "health_state"
+            ]
+		}
+    },
+    {
+        "harmonized": "phenotype",
+        "strategy": {
+            "merge_delimited": [
+                "phenotype"
+            ]
+		}
     },
     {
         "harmonized": "age",
@@ -27,6 +73,88 @@
             ]
 		},
 		"options": {"make_int":""}
+    },
+    {
+        "harmonized": "donor_age_unit",
+        "strategy": {
+            "merge_delimited": [
+                "donor_age_unit"
+            ]
+		}
+    },
+    {
+        "harmonized": "donor_life_stage",
+        "strategy": {
+            "merge_delimited": [
+                "donor_life_stage",
+                "dev_stage"
+            ]
+        },
+		"options": {"lowercase":""}
+    },
+    {
+        "harmonized": "biomaterial_type",
+        "strategy": {
+            "merge_delimited": [
+                "biomaterial_type",
+                "sample_type",
+                "sample type"
+            ]
+		},
+		"options": {"lowercase":""}
+    },
+    {
+        "harmonized": "tissue_type",
+        "strategy": {
+            "merge_delimited": [
+                "tissue_type",
+                "tissue-type",
+                "tissue",
+                "organism_part",
+                "body_site"
+            ]
+        },
+		"options": {"lowercase":""}
+    },
+    {
+        "harmonized": "cell_type",
+        "strategy": {
+            "merge_delimited": [
+                "cell_type",
+                "cell ontology"
+            ]
+		},
+		"options": {"lowercase":""}
+    },
+    {
+        "harmonized": "origin_sample",
+        "strategy": {
+            "merge_delimited": [
+                "origin_sample"
+            ]
+		}
+    },
+    {
+        "harmonized": "sample_ontology_term",
+        "strategy": {
+            "merge_delimited": [
+                "sample_ontology_curie",
+                "sample_ontology_uri",
+                "origin_sample_ontology_curie",
+                "origin_sample_ontology_uri",
+                "cell ontology uri"
+            ]
+        },
+		"options": {"merge_ontology":""}
+    },
+
+    {
+        "harmonized": "markers",
+        "strategy": {
+            "merge_delimited": [
+                "markers"
+            ]
+		}
     },
     {
         "harmonized": "sex",
@@ -40,13 +168,30 @@
         }
     },
     {
-        "harmonized": "disease_ontology_term",
+        "harmonized": "donor_id",
         "strategy": {
             "merge_delimited": [
-                "disease_ontology_curie",
-                "disease ontology uri",
-                "disease_ontology_uri"
+                "donor_id",
+                "donor id",
+                "subject_id"
             ]
-        }
+        },
+		"options": {"lowercase":""}
+    },
+    {
+        "harmonized": "taxon_id",
+        "strategy": {
+            "merge_delimited": [
+                "taxon_id"
+            ]
+		}
+    },
+    {
+        "harmonized": "line",
+        "strategy": {
+            "merge_delimited": [
+                "line"
+            ]
+		}
     }
 ]
