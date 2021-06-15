@@ -1,0 +1,2674 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "t cell",
+          "t-cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "t cell"
+      },
+      {
+        "from": [
+          "cd4-positive alpha-beta memory t cell",
+          "cd4-positive, alpha-beta memory t cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cd4-positive alpha-beta memory t cell"
+      },
+      {
+        "from": [
+          "b cells",
+          "b-cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "b cells"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "luminal cell",
+          "luminal cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luminal cell"
+      },
+      {
+        "from": [
+          "basal cells",
+          "basal cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "basal cell"
+      },
+      {
+        "from": [
+          "endocardial cells",
+          "endocardial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endocardial cell"
+      },
+      {
+        "from": [
+          "hepatocyte",
+          "hepatocytes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hepatocyte"
+      },
+      {
+        "from": [
+          "stromal cells",
+          "stromal cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stromal cell"
+      },
+      {
+        "from": [
+          "b cell",
+          "b cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "b cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "aortic enothelial cells",
+          "aortic endothelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "aortic endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of umbilical artery::human umbilical artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value.replace(\" - \",\"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column age using expression value.replace(\" - \",\"-\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value.replace(\"and\",\"AND\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column age using expression value.replace(\"and\",\"AND\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value.replace(\"at least\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column age using expression value.replace(\"at least\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value.replace(\"AND\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column age using expression value.replace(\"AND\",\"\")"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 40  less than 50"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " 40-49"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 50  less than 60"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " 50 -59"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 50 -59"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " 50-59"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 60  less than 70"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " 60-69"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 70  less than 80"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " 70-79"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 80  less than 90"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " 80-89"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value.replace(\" \",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column age using expression value.replace(\" \",\"\")"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "16-week-old",
+                "l": "16-week-old"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "16-week-old",
+                "l": "16-week-old"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "child"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "16-week-old"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "16weekembryo",
+                "l": "16weekembryo"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "embryonic"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "16weekembryo",
+                "l": "16weekembryo"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "16weekembryo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "newborn"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "newborn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0-1"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "postnatalday0.5",
+                "l": "postnatalday0.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "day"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "postnatalday0.5",
+                "l": "postnatalday0.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "postnatal day 0.5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "newborn"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "postnatalday0.5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0.5"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "postnatalday7.5",
+                "l": "postnatalday7.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "day"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "postnatalday7.5",
+                "l": "postnatalday7.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "postnatal day 7.5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "newborn"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "postnatalday7.5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "7.5"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "fetal",
+                "l": "fetal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "fetal",
+                "l": "fetal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "\"NA\""
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "11-40"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "fetal",
+                "l": "fetal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "11-40"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "embryonic",
+                "l": "embryonic"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "week",
+                "l": "week"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "embryonic",
+                "l": "embryonic"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0-10"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "fetal",
+                "l": "fetal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "year",
+                "l": "year"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0-1"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "0-1",
+                "l": "0-1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "day",
+                "l": "day"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0-1"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "0-1",
+                "l": "0-1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "day"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0-1"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "newborn",
+                "l": "newborn"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "day",
+                "l": "day"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "postnatal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "newborn"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "embryonic",
+                "l": "embryonic"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "embryonic",
+                "l": "embryonic"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "day"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "embryonic",
+                "l": "embryonic"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "0-10"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "adult",
+                "l": "adult"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "year"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "gestational weeks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "fetal"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "fetal",
+                "l": "fetal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "fetal"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "fetal",
+                "l": "fetal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "fetal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "week"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "week",
+                "l": "week"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "postnatal"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "year",
+                "l": "year"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "adult"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "0-18",
+                "l": "0-18"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "children"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "0-5",
+                "l": "0-5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "child"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "15-20",
+                "l": "15-20"
+              }
+            },
+            {
+              "v": {
+                "v": "0-5",
+                "l": "0-5"
+              }
+            },
+            {
+              "v": {
+                "v": "1-5",
+                "l": "1-5"
+              }
+            },
+            {
+              "v": {
+                "v": "10-15",
+                "l": "10-15"
+              }
+            },
+            {
+              "v": {
+                "v": "14",
+                "l": "14"
+              }
+            },
+            {
+              "v": {
+                "v": "19",
+                "l": "19"
+              }
+            },
+            {
+              "v": {
+                "v": "3-10",
+                "l": "3-10"
+              }
+            },
+            {
+              "v": {
+                "v": "5-10",
+                "l": "5-10"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_age_unit",
+          "expression": "value",
+          "columnName": "donor_age_unit",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "child"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "child",
+                "l": "child"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "year"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "0-18",
+                "l": "0-18"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "year"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "0-18",
+                "l": "0-18"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "child"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": true,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "adult"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "adult",
+                "l": "adult"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "year"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_life_stage",
+          "expression": "value",
+          "columnName": "donor_life_stage",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "unknown",
+                "l": "unknown"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown::female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "female"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown::mixed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mixed"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "age",
+          "expression": "value",
+          "columnName": "age",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "(blank)",
+                "l": "(blank)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "year"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "(blank)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_age_unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_age_unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "age",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column age"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(blank)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_life_stage"
+  }
+]

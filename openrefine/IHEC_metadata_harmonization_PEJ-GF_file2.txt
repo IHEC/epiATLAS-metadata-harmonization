@@ -1,0 +1,2715 @@
+[
+
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "record-based"
+      },
+      "columnName": "health_state",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "unknown"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "alive"
+        }
+      ],
+      "description": "Mass edit cells in column health_state"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "biomaterial_type",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "primary cells"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "primary cell"
+        }
+      ],
+      "description": "Mass edit cells in column biomaterial_type"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "biomaterial_type",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "cell culture::primary cell"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "primary cell culture"
+        }
+      ],
+      "description": "Mass edit cells in column biomaterial_type"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "Korea Epigenome Project (KNIH)",
+                  "l": "Korea Epigenome Project (KNIH)"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "biomaterial_type",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "normal tissue::primary cell"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "primary cell"
+        }
+      ],
+      "description": "Mass edit cells in column biomaterial_type"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11b+,CD16-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11b+/CD16-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD14+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD14 positive"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- / CD31- / CD49f- / EpCAMhigh"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45-/CD31-/CD49f-/EpCAMhigh"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- / CD31- / CD49f+ / EpCAMhigh"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45-/CD31-/CD49f+/EpCAMhigh"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- / CD31- / CD49f- / EpCAM-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45-/CD31-/CD49f-/EpCAM-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+,CD27-,IgD+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD27- IgD+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+,CD27+,IgA+,IgG+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD27+ IgA+ IgG+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+ CD27+ IgA/G+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD27+ IgA IgG+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+ CD27+ IgA IgG+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD27+ IgA+ IgG+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD14 positive"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD14+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Oct4"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "OCT4"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "90% CD34-, CD13+, CD33+, CD117+, CD9+, CD71+, HLA-DR-, MPOcy-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "90% CD34- CD13+ CD33+ CD117+ CD9+ CD71+ HLA-DR- MPOcy-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "BCR2+, FLT3 ITD+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "BCR2+ FLT3 ITD+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD10-; CD45RA-; CD135-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD10- CD45RA- CD135-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11b-/CD16-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11b- CD16-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11b+/CD16-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11b+ CD16-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11b+/CD16++"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11b+ CD16++"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11b+/CD16dim"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11b+ CD16dim"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11c+; CD80int"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11c+ CD80int"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11c+;CD80hi;CD86hi;HLA-DR/DQ/Dphi"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11c+ CD80hi CD86hi HLA-DR/DQ/Dphi"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD14+/-CD16+/-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD14+/- CD16+/-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD14+/CD16+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD14+ CD16+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19/IgD/CD38"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19 IgD CD38"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+/CD20+/CD38low/CD23+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD20+ CD38low CD23+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+/CD20hi/CD38med"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD20hi CD38med"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+/CD27+/IgM+/IgD+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD27+ IgM+ IgD+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD20med/CD38high"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD20med CD38high"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3-,CD19-,CD56-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3- CD19- CD56-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3-positive, CD4-positive, CD8-positive"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD8+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3+CD4+CD25-CD45RA-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD25- CD45RA-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3+CD4+CD25-CD45RA+CCR7-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD25- CD45RA+ CCR7-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3+CD4+CD25hiCD127low"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD25hi CD127low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD34-,CD19+,sIgM-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD34- CD19+ sIgM-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD34-,CD71+,CD235a-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD34- CD71+ CD235a-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD34-,CD71++,CD235a-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD34- CD71++ CD235a-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD34-,CD71++,CD235a+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD34- CD71++ CD235a+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD34+,CD71+,CD235a-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD34+ CD71+ CD235a-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD34+/38+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD34+ CD38+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD34+CD38-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD34+ CD38-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- / CD31- / CD49f+ / EpCAMlow"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAMlow"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45-/CD31-/CD49f-/EpCAM-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f- EpCAM-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45-/CD31-/CD49f-/EpCAM+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f- EpCAM+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45-/CD31-/CD49f-/EpCAMhigh"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f- EpCAMhigh"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45-/CD31-/CD49f+/EpCAM-(low)"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAM-(low)"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45-/CD31-/CD49f+/EpCAM+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAM+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45-/CD31-/CD49f+/EpCAMhigh"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAMhigh"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45-GPA+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- GPA+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45+; CD34-; CD33-; CD11b-; CD19+; CD7-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45+ CD34- CD33- CD11b- CD19+ CD7-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45+34-33+11b+14+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45+ CD34- CD33+ CD11b+ CD14+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD7-; CD34+; CD38+; CD10-; CD45RA+; CD135+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD7- CD34+ CD38+ CD10- CD45RA+ CD135+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD7-;CD34+;CD38+;CD10-;CD45RA-;CD135+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD7- CD34+ CD38+ CD10- CD45RA- CD135+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD90(-) Podocalyxin(+)"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD90- Podocalyxin+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD90(+), CD105(+), CD34(-)"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD90+ CD105+ CD34-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "DAPI-CD45-CD31-CD49f-EpCAM-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "DAPI- CD45- CD31- CD49f- EpCAM-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "DAPI-CD45-CD31-CD49f-EpCAM+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "DAPI- CD45- CD31- CD49f- EpCAM+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "DAPI-CD45-CD31-CD49f+EpCAM+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "DAPI- CD45- CD31- CD49f+ EpCAM+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "DAPI-CD45-CD31-CD49f+EpCAM-/low"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "DAPI- CD45- CD31- CD49f+ EpCAM-(low)"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "NPM+, FLT3+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "NPM+ FLT3+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "line",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Karpas-422"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "KARPAS-422"
+        }
+      ],
+      "description": "Mass edit cells in column line"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value.replace(\",\",\"\")",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column markers using expression value.replace(\",\",\"\")"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "90% CD34- CD13+ CD33+ CD117+ CD9+ CD71+ HLA-DR- MPOcy-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "90% CD34- CD13+ CD33+ CD117+ CD9+ CD71+ HLA_DR- MPOcy-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11b+ CD16dim"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11b+ CD16_dim"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11c+ CD80hi CD86hi HLA-DR/DQ/Dphi"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11c+ CD80_high CD86_high HLA_DR/DQ/Dphi"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+ CD20+ CD38low CD23+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD20+ CD38_low CD23+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD19+ CD20hi CD38med"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD19+ CD20_high CD38_med"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD20med CD38high"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD20_med CD38_high"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3- CD56+ CD16dim"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3- CD56+ CD16_dim"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3+ CD4+ CD25+ CD127low"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD25+ CD127_low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3+ CD4+ CD25hi CD127low"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD25high CD127_low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD3+ CD4+ CD25high CD127_low"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD25_high CD127_low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- CD31- CD49f- EpCAMhigh"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f- EpCAM_high"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- CD31- CD49f+ EpCAMlow"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAM_low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- CD31- CD49f+ EpCAMhigh"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAM_high"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- CD31- CD49f+ EpCAM-(low)"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAM-_low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "DAPI- CD45- CD31- CD49f+ EpCAM-(low)"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "DAPI- CD45- CD31- CD49f+ EpCAM-_low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Lin- CD34+ CD38+ CD123 low CD45RA-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lin- CD34+ CD38+ CD123_low CD45RA-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Lin- CD34+ CD38+ IL-3Ra low CD45RA-"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lin- CD34+ CD38+ IL-3Ra_low CD45RA-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "pathological population (gate 35%) with immunophenotype CD34- CD33+ CD13+ CD14+ CD64+ CD117-."
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "pathological population (gate 35%) with immunophenotype CD34- CD33+ CD13+ CD14+ CD64+ CD117-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "PSA-NCAM(-)"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "PSA_NCAM-"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "PSA-NCAM(+)"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "PSA_NCAM+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "cell_type",
+            "expression": "value",
+            "columnName": "cell_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "cd4-positive helper t cell",
+                  "l": "cd4-positive helper t cell"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "cell_type",
+            "expression": "value",
+            "columnName": "cell_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "cd4-positive, alpha-beta t cell",
+                  "l": "cd4-positive, alpha-beta t cell"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "cell_type",
+            "expression": "value",
+            "columnName": "cell_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "cd49f_positive_cytotrophoblast",
+                  "l": "cd49f_positive_cytotrophoblast"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD49f+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "cell_type",
+            "expression": "value",
+            "columnName": "cell_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "central memory cd4-positive, alpha-beta t cell",
+                  "l": "central memory cd4-positive, alpha-beta t cell"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "cell_type",
+            "expression": "value",
+            "columnName": "cell_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "effector memory cd4-positive, alpha-beta t cell",
+                  "l": "effector memory cd4-positive, alpha-beta t cell"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "cell_type",
+            "expression": "value",
+            "columnName": "cell_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "naive cd4-positive t cell",
+                  "l": "naive cd4-positive t cell"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Nestin"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "nestin"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Tuj1"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "TuJ1"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "http://www.blueprint-epigenome.eu/index.cfm?p=7BF8A4B6-F4FE-861A-2AD57A08D63D0B58"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": ""
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "See protocol http://www.blueprint-epigenome.eu/index.cfm?p=7BF8A4B6-F4FE-861A-2AD57A08D63D0B58"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": ""
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "line",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "MCF10A"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "MCF 10A"
+        }
+      ],
+      "description": "Mass edit cells in column line"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "biomaterial_type",
+            "expression": "value",
+            "columnName": "biomaterial_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "cell line",
+                  "l": "cell line"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "cell_type",
+            "expression": "value",
+            "columnName": "cell_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "induced pluripotent stem cell",
+                  "l": "induced pluripotent stem cell"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "line",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "iPSC"
+        }
+      ],
+      "description": "Mass edit cells in column line"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "line",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "IMR90"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "IMR-90"
+        }
+      ],
+      "description": "Mass edit cells in column line"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD45- CD31- CD49f+ EpCAM-_low"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD45- CD31- CD49f+ EpCAM_low"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "unknown"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": ""
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD41a+ CD42b+ Hoechst"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD41a+ CD42b+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD56dim CD3- CD16+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD56_dim CD3- CD16+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "biomaterial_type",
+            "expression": "value",
+            "columnName": "biomaterial_type",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "cell line",
+                  "l": "cell line"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "line",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "iPSC"
+        }
+      ],
+      "description": "Mass edit cells in column line"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "text",
+            "name": "markers",
+            "columnName": "markers",
+            "query": "int",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "CD11c+ CD80int"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "CD11c+ CD80_int"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "text",
+            "name": "markers",
+            "columnName": "markers",
+            "query": "dim",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "92% of the blasts shows the immunophenotype: CD45dim CD33++ CD64+ CD56+ CD34- CD14- and the 7% of   CD45dim CD33++ CD64+ CD56+ CD34- CD14+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "92% of the blasts shows the immunophenotype: CD45dim CD33++ CD64+ CD56+ CD34- CD14- and the 7% of   CD45_dim CD33++ CD64+ CD56+ CD34- CD14+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "BLUEPRINT",
+                  "l": "BLUEPRINT"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00001412.1",
+                  "l": "IHECRE00001412.1"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "text",
+            "name": "EpiRR",
+            "columnName": "EpiRR",
+            "query": "IHECRE00001412",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD3+ CD4+ CD8+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "DEEP",
+                  "l": "DEEP"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00001921.1",
+                  "l": "IHECRE00001921.1"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "text",
+            "name": "EpiRR",
+            "columnName": "EpiRR",
+            "query": "IHECRE00001921",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "DEEP",
+                  "l": "DEEP"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00001931.1",
+                  "l": "IHECRE00001931.1"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "text",
+            "name": "EpiRR",
+            "columnName": "EpiRR",
+            "query": "IHECRE00001931",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "DEEP",
+                  "l": "DEEP"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00001932.1",
+                  "l": "IHECRE00001932.1"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "text",
+            "name": "EpiRR",
+            "columnName": "EpiRR",
+            "query": "IHECRE00001932",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "DEEP",
+                  "l": "DEEP"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00001933.1",
+                  "l": "IHECRE00001933.1"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "text",
+            "name": "EpiRR",
+            "columnName": "EpiRR",
+            "query": "IHECRE00001933",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "DEEP",
+                  "l": "DEEP"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00001934.1",
+                  "l": "IHECRE00001934.1"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "text",
+            "name": "EpiRR",
+            "columnName": "EpiRR",
+            "query": "IHECRE00001934",
+            "mode": "text",
+            "caseSensitive": false,
+            "invert": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "CD4+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "markers",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "92% of the blasts shows the immunophenotype: CD45dim CD33++ CD64+ CD56+ CD34- CD14- and the 7% of   CD45_dim CD33++ CD64+ CD56+ CD34- CD14+"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "92% of the blasts shows: CD45_dim CD33++ CD64+ CD56+ CD34- CD14- and the 7% of CD45_dim CD33++ CD64+ CD56+ CD34- CD14+"
+        }
+      ],
+      "description": "Mass edit cells in column markers"
+    }
+  ]
