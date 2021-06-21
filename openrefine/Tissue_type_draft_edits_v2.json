@@ -176,6 +176,26 @@
     "edits": [
       {
         "from": [
+          "bone marrow - mononuclear cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "bone marrow?"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
           "bone marroy"
         ],
         "fromBlank": false,
@@ -296,11 +316,91 @@
     "edits": [
       {
         "from": [
+          "brodmann (1909) area 11"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 11"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "brodmann (1909) area 44"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 44"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "brodmann (1909) area 8;brodmann (1909) area 9"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 8;Brodmann (1909) area 9?"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
           "cord blood"
         ],
         "fromBlank": false,
         "fromError": false,
         "to": "umbilical cord blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "germinal matrix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "future brain?"
       }
     ],
     "description": "Mass edit cells in column tissue_type"
@@ -336,6 +436,66 @@
     "edits": [
       {
         "from": [
+          "large intestine-colon-ascending (right)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ascending colon"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "large intestine-colon-rectosigmoid"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "sigmoid colon?"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "lung fibroblast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lung?"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
           "middle frontal area 46"
         ],
         "fromBlank": false,
@@ -356,11 +516,11 @@
     "edits": [
       {
         "from": [
-          "Brodmann (1909) area 46"
+          "muscle of trunk"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "brodmann (1909) area 46"
+        "to": "musculature of trunk"
       }
     ],
     "description": "Mass edit cells in column tissue_type"
@@ -420,7 +580,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "blood vessel endothelium"
+        "to": "blood vessel endothelium "
       }
     ],
     "description": "Mass edit cells in column tissue_type"
