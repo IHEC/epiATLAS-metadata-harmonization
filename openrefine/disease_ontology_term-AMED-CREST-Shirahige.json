@@ -1,0 +1,1398 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "unknown",
+                "l": "unknown"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "unknown",
+                "l": "unknown"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "unknown",
+                "l": "unknown"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "alive",
+                "l": "alive"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "alive",
+                "l": "alive"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "pneumonia",
+                "l": "pneumonia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3333"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "pneumonia",
+                "l": "pneumonia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "doid:552"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3333"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "anoxia",
+                "l": "anoxia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2876"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "anoxia",
+                "l": "anoxia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2876"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "anoxia,asphyxiation",
+                "l": "anoxia,asphyxiation"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2876"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "motor vehicle accident (mva)",
+                "l": "motor vehicle accident (mva)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "missing",
+                "l": "missing"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "missing",
+                "l": "missing"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "intracranial hemorrhage",
+                "l": "intracranial hemorrhage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "head trauma,self-inflicted gunshot woulnd (sigsw)",
+                "l": "head trauma,self-inflicted gunshot woulnd (sigsw)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "head trauma,self-inflicted gunshot woulnd (sigsw)",
+                "l": "head trauma,self-inflicted gunshot woulnd (sigsw)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "head trauma",
+                "l": "head trauma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "head trauma",
+                "l": "head trauma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "blunt force trauma (bft)",
+                "l": "blunt force trauma (bft)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3714660"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "blunt force trauma (bft)",
+                "l": "blunt force trauma (bft)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3714660"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "head trauma,self-inflicted gunshot woulnd (sigsw)",
+                "l": "head trauma,self-inflicted gunshot woulnd (sigsw)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3714660"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "head trauma",
+                "l": "head trauma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3714660"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "alive,sample from cea operation::carotid stenosis",
+                "l": "alive,sample from cea operation::carotid stenosis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ncit:C0277545::ncit:C0549184::https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI_Metathesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "alive,sample from cea operation::carotid stenosis",
+                "l": "alive,sample from cea operation::carotid stenosis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "doid:13001"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  }
+]

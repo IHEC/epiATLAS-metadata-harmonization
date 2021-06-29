@@ -1,0 +1,976 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001873.2",
+                "l": "IHECRE00001873.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "hogehgoe"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001873.2",
+                "l": "IHECRE00001873.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hogehgoe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "complete hydatidiform mole"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complete hydatidiform mole"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hydatidiform mole"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complete hydatidiform mole"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "healthy::trisomy 18"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Trisomy 18"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Complete hydatidiform mole"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "complete hydatidiform mole"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Trisomy 18"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "trisomy 18"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001961.2",
+                "l": "IHECRE00001961.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001962.2",
+                "l": "IHECRE00001962.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001963.2",
+                "l": "IHECRE00001963.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001964.2",
+                "l": "IHECRE00001964.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001952.2",
+                "l": "IHECRE00001952.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001960.2",
+                "l": "IHECRE00001960.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001958.3",
+                "l": "IHECRE00001958.3"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001957.2",
+                "l": "IHECRE00001957.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001959.2",
+                "l": "IHECRE00001959.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001965.2",
+                "l": "IHECRE00001965.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001953.2",
+                "l": "IHECRE00001953.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001966.2",
+                "l": "IHECRE00001966.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001954.2",
+                "l": "IHECRE00001954.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001955.3",
+                "l": "IHECRE00001955.3"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001956.2",
+                "l": "IHECRE00001956.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "myoma::healthy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "healthy"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  }
+]

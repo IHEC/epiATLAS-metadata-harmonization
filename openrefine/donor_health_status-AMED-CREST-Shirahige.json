@@ -1,0 +1,1754 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk002",
+                "l": "jtk002"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pneumonia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk003",
+                "l": "jtk003"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pneumonia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk004",
+                "l": "jtk004"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pneumonia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk012",
+                "l": "jtk012"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pneumonia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk012",
+                "l": "jtk012"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "pneumonia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anoxia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk014",
+                "l": "jtk014"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anoxia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk015",
+                "l": "jtk015"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anoxia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk016",
+                "l": "jtk016"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "alive"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk017",
+                "l": "jtk017"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "alive"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk019",
+                "l": "jtk019"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "head trauma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk021",
+                "l": "jtk021"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anoxia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk022",
+                "l": "jtk022"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anoxia"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk025",
+                "l": "jtk025"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "head trauma,self-inflicted gunshot woulnd (sigsw)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk026",
+                "l": "jtk026"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "alive,sample from cea operation::carotid stenosis"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk027",
+                "l": "jtk027"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk030",
+                "l": "jtk030"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "blunt force trauma (bft)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk031",
+                "l": "jtk031"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "blunt force trauma (bft)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk032",
+                "l": "jtk032"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "blunt force trauma (bft)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk034",
+                "l": "jtk034"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "blunt force trauma (bft)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk035",
+                "l": "jtk035"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk049",
+                "l": "jtk049"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "head trauma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk050",
+                "l": "jtk050"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "head trauma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk051",
+                "l": "jtk051"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "missing"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk036",
+                "l": "jtk036"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk038",
+                "l": "jtk038"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk039",
+                "l": "jtk039"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk040",
+                "l": "jtk040"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk041",
+                "l": "jtk041"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk043",
+                "l": "jtk043"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_id",
+          "expression": "value",
+          "columnName": "donor_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "jtk044",
+                "l": "jtk044"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  }
+]
