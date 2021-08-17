@@ -1,0 +1,3065 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "unknown",
+                "l": "unknown"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0277545"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0277545"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "healthy",
+                "l": "healthy"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code= C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004680.4",
+                "l": "IHECRE00004680.4"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "apparently healthy",
+                "l": "apparently healthy"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "healthy",
+                "l": "healthy"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code= C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "normal",
+                "l": "normal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "b cell lymphoma",
+                "l": "b cell lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0079731"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "breast cancer (adenocarcinoma)",
+                "l": "breast cancer (adenocarcinoma)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0858252"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cervical adenocarcinoma",
+                "l": "cervical adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0279672"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "chronic myelogenous leukemia (cml)",
+                "l": "chronic myelogenous leukemia (cml)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0023473"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "colorectal adenocarcinoma",
+                "l": "colorectal adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C1319315"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "colorectal carcinoma",
+                "l": "colorectal carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0009402"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ewing's sarcoma",
+                "l": "ewing's sarcoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0553580"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "grade iv, adenocarcinoma",
+                "l": "grade iv, adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0007112"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "hepatocellular carcinoma",
+                "l": "hepatocellular carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0019204"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "human b cell non-hodgkin's lymphoma",
+                "l": "human b cell non-hodgkin's lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=CL448793"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "igak myeloma",
+                "l": "igak myeloma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0026764"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "immunoglobulin a lambda myeloma",
+                "l": "immunoglobulin a lambda myeloma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0026764"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "large cell lymphoma; diffuse mixed histiocytic and lymphocytic lymphoma; follicular b cell lymphoma",
+                "l": "large cell lymphoma; diffuse mixed histiocytic and lymphocytic lymphoma; follicular b cell lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1333295"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "malignant pluripotent embryonal carcinoma",
+                "l": "malignant pluripotent embryonal carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0206659"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "metastatic neuroblastoma from bone marrow",
+                "l": "metastatic neuroblastoma from bone marrow"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C2751421"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "pancreatic carcinoma",
+                "l": "pancreatic carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1335302"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "refractory immunoblastic b cell lymphoma progressed from follicular centroblastic/centrocytic lymphoma",
+                "l": "refractory immunoblastic b cell lymphoma progressed from follicular centroblastic/centrocytic lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1333295"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "submaxillar tumor",
+                "l": "submaxillar tumor"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0279751"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "t-acute lymphoblastic leukemia (t-all; type iii cortical)",
+                "l": "t-acute lymphoblastic leukemia (t-all; type iii cortical)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0279583"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "t-cell acute lymphoblastic leukemia cell line atcc crl-2629",
+                "l": "t-cell acute lymphoblastic leukemia cell line atcc crl-2629"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0279592"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "b cell lymphoma",
+                "l": "b cell lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0079731"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1333295"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004627.4",
+                "l": "IHECRE00004627.4"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "b cell lymphoma",
+                "l": "b cell lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1333295"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0079744"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004691.4",
+                "l": "IHECRE00004691.4"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "b cell lymphoma",
+                "l": "b cell lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1333295"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1333296"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "breast cancer (adenocarcinoma)",
+                "l": "breast cancer (adenocarcinoma)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0858252"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1134719"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cervical adenocarcinoma",
+                "l": "cervical adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0279672"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1334053"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "chronic myelogenous leukemia (cml)",
+                "l": "chronic myelogenous leukemia (cml)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0023473"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0005699"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "colorectal adenocarcinoma",
+                "l": "colorectal adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C1319315"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0338106"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "colorectal carcinoma",
+                "l": "colorectal carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0009402"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0699790"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ewing's sarcoma",
+                "l": "ewing's sarcoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0553580"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0877849"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "grade iv, adenocarcinoma",
+                "l": "grade iv, adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0007112"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0600139"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "hepatocellular carcinoma",
+                "l": "hepatocellular carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0019204"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0206624"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "human b cell non-hodgkin's lymphoma",
+                "l": "human b cell non-hodgkin's lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=CL448793"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C1333295"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "healthy",
+                "l": "healthy"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "unknown",
+                "l": "unknown"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0277545"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0277545"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "bipolar disorder and iron deficiency",
+                "l": "bipolar disorder and iron deficiency"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0005586::https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C2749754"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "healthy with polysubstance abuse",
+                "l": "healthy with polysubstance abuse"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0747752"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "normal muscosa, but diverticular disease",
+                "l": "normal muscosa, but diverticular disease"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C1510475"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "osteomylitis",
+                "l": "osteomylitis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0029443"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "pancreatic carcinoma",
+                "l": "pancreatic carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncit.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0235974"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "ntr",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ntr:0003830"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL:0000681"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "ntr",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "uberon:0004023::ntr:0000427"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "uberon:0004023::CL:0000047"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "ntr",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "uberon:0001851::ntr:0000427"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "uberon:0001851::CL:0000047"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "ntr",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ntr:0000856"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0000089"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "ntr",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ntr:0001407"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0004022"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "efo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EFO:0007105::EFO:0007106::EFO:0007107"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  }
+]
