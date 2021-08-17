@@ -57,10 +57,10 @@ def merge_attributes(f=None):
         updated.append(record)
         minimal.append(sm_record)
 
-    print(to_jsonfile('merged/EpiAtlas_EpiRR_metadata_all.merged.json', updated))
-    print(to_jsonfile('merged/EpiAtlas_EpiRR_metadata_all.merged_minimal.json', minimal))
-    print(to_excel('merged/EpiAtlas_EpiRR_metadata_all.merged.xlsx', updated))
-    print(to_excel('merged/EpiAtlas_EpiRR_metadata_all.merged_minimal.xlsx', minimal))
+    print(to_jsonfile('merged/EpiAtlas_EpiRR_metadata_all.merged_sorted.json', updated))
+    print(to_jsonfile('merged/EpiAtlas_EpiRR_metadata_all.merged_minimal_sorted.json', minimal))
+    print(to_excel('merged/EpiAtlas_EpiRR_metadata_all.merged_sorted.xlsx', updated))
+    print(to_excel('merged/EpiAtlas_EpiRR_metadata_all.merged_minimal_sorted.xlsx', minimal))
     return 'ok'
 
 if __name__ == "__main__":

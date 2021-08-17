@@ -50,7 +50,7 @@ def merge_delimited(record, cfg, opts=None):
 
 	if len(cleanedup) == 1: return uniq(cleanedup)
 	else:
-		return delimit.join(cleanedup) if cleanedup else ''
+		return delimit.join(sorted(cleanedup)) if cleanedup else ''
 
 
 
