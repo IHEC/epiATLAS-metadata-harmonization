@@ -1,0 +1,148 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "t cell",
+          "t-cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "t cell"
+      },
+      {
+        "from": [
+          "cd4-positive alpha-beta memory t cell",
+          "cd4-positive, alpha-beta memory t cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cd4-positive alpha-beta memory t cell"
+      },
+      {
+        "from": [
+          "b cells",
+          "b-cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "b cells"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "luminal cell",
+          "luminal cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luminal cell"
+      },
+      {
+        "from": [
+          "basal cells",
+          "basal cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "basal cell"
+      },
+      {
+        "from": [
+          "endocardial cells",
+          "endocardial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endocardial cell"
+      },
+      {
+        "from": [
+          "hepatocyte",
+          "hepatocytes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hepatocyte"
+      },
+      {
+        "from": [
+          "stromal cells",
+          "stromal cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stromal cell"
+      },
+      {
+        "from": [
+          "b cell",
+          "b cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "b cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "aortic enothelial cells",
+          "aortic endothelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "aortic endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of umbilical artery::human umbilical artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  }
+]

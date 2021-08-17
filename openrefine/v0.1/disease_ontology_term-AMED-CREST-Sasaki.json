@@ -1,0 +1,1409 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "t cell",
+          "t-cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "t cell"
+      },
+      {
+        "from": [
+          "cd4-positive alpha-beta memory t cell",
+          "cd4-positive, alpha-beta memory t cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cd4-positive alpha-beta memory t cell"
+      },
+      {
+        "from": [
+          "b cells",
+          "b-cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "b cells"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "luminal cell",
+          "luminal cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "luminal cell"
+      },
+      {
+        "from": [
+          "basal cells",
+          "basal cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "basal cell"
+      },
+      {
+        "from": [
+          "endocardial cells",
+          "endocardial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endocardial cell"
+      },
+      {
+        "from": [
+          "hepatocyte",
+          "hepatocytes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hepatocyte"
+      },
+      {
+        "from": [
+          "stromal cells",
+          "stromal cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stromal cell"
+      },
+      {
+        "from": [
+          "b cell",
+          "b cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "b cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "aortic enothelial cells",
+          "aortic endothelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "aortic endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of umbilical artery::human umbilical artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0020217"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0678213"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900::https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0152096"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0152096"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004596.1",
+                "l": "IHECRE00004596.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004598.1",
+                "l": "IHECRE00004598.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004597.1",
+                "l": "IHECRE00004597.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004592.1",
+                "l": "IHECRE00004592.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004722.1",
+                "l": "IHECRE00004722.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004601.1",
+                "l": "IHECRE00004601.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004591.1",
+                "l": "IHECRE00004591.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004594.1",
+                "l": "IHECRE00004594.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004593.1",
+                "l": "IHECRE00004593.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004595.1",
+                "l": "IHECRE00004595.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004599.1",
+                "l": "IHECRE00004599.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004600.1",
+                "l": "IHECRE00004600.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004590.1",
+                "l": "IHECRE00004590.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004720.1",
+                "l": "IHECRE00004720.1"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00004721.1",
+                "l": "IHECRE00004721.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001961.2",
+                "l": "IHECRE00001961.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001962.2",
+                "l": "IHECRE00001962.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001963.2",
+                "l": "IHECRE00001963.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001964.2",
+                "l": "IHECRE00001964.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001952.2",
+                "l": "IHECRE00001952.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001960.2",
+                "l": "IHECRE00001960.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001958.3",
+                "l": "IHECRE00001958.3"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001957.2",
+                "l": "IHECRE00001957.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001959.2",
+                "l": "IHECRE00001959.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001965.2",
+                "l": "IHECRE00001965.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001953.2",
+                "l": "IHECRE00001953.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001966.2",
+                "l": "IHECRE00001966.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001954.2",
+                "l": "IHECRE00001954.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001955.3",
+                "l": "IHECRE00001955.3"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001956.2",
+                "l": "IHECRE00001956.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0027086::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001961.2",
+                "l": "IHECRE00001961.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001962.2",
+                "l": "IHECRE00001962.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001963.2",
+                "l": "IHECRE00001963.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001964.2",
+                "l": "IHECRE00001964.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001952.2",
+                "l": "IHECRE00001952.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001960.2",
+                "l": "IHECRE00001960.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001958.3",
+                "l": "IHECRE00001958.3"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001957.2",
+                "l": "IHECRE00001957.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001959.2",
+                "l": "IHECRE00001959.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001965.2",
+                "l": "IHECRE00001965.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001953.2",
+                "l": "IHECRE00001953.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001966.2",
+                "l": "IHECRE00001966.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001954.2",
+                "l": "IHECRE00001954.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001955.3",
+                "l": "IHECRE00001955.3"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00001956.2",
+                "l": "IHECRE00001956.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00003430.2",
+                "l": "IHECRE00003430.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003420.2",
+                "l": "IHECRE00003420.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003421.2",
+                "l": "IHECRE00003421.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003410.2",
+                "l": "IHECRE00003410.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003422.2",
+                "l": "IHECRE00003422.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003411.2",
+                "l": "IHECRE00003411.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003423.2",
+                "l": "IHECRE00003423.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003412.2",
+                "l": "IHECRE00003412.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003424.2",
+                "l": "IHECRE00003424.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003413.2",
+                "l": "IHECRE00003413.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003425.2",
+                "l": "IHECRE00003425.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003414.2",
+                "l": "IHECRE00003414.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003426.2",
+                "l": "IHECRE00003426.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003415.2",
+                "l": "IHECRE00003415.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003427.2",
+                "l": "IHECRE00003427.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003416.2",
+                "l": "IHECRE00003416.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003428.2",
+                "l": "IHECRE00003428.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003417.2",
+                "l": "IHECRE00003417.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003429.2",
+                "l": "IHECRE00003429.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003418.2",
+                "l": "IHECRE00003418.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003407.2",
+                "l": "IHECRE00003407.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003419.2",
+                "l": "IHECRE00003419.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003408.2",
+                "l": "IHECRE00003408.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003409.2",
+                "l": "IHECRE00003409.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00003715.2",
+                "l": "IHECRE00003715.2"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00003716.2",
+                "l": "IHECRE00003716.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20MetaThesaurus&code=C3898900"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  }
+]
