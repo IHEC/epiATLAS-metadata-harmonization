@@ -1,0 +1,177 @@
+[
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00004713.2",
+                  "l": "IHECRE00004713.2"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "EpiHK",
+                  "l": "EpiHK"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "donor_health_status",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [],
+          "fromBlank": true,
+          "fromError": false,
+          "to": "NA"
+        }
+      ],
+      "description": "Mass edit cells in column donor_health_status"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00004713.2",
+                  "l": "IHECRE00004713.2"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "EpiHK",
+                  "l": "EpiHK"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "disease_ontology_term",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "NCIM:C0549184::https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0549184"
+        }
+      ],
+      "description": "Mass edit cells in column disease_ontology_term"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [
+          {
+            "type": "list",
+            "name": "EpiRR",
+            "expression": "value",
+            "columnName": "EpiRR",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "IHECRE00004713.2",
+                  "l": "IHECRE00004713.2"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          },
+          {
+            "type": "list",
+            "name": "project",
+            "expression": "value",
+            "columnName": "project",
+            "invert": false,
+            "omitBlank": false,
+            "omitError": false,
+            "selection": [
+              {
+                "v": {
+                  "v": "EpiHK",
+                  "l": "EpiHK"
+                }
+              }
+            ],
+            "selectBlank": false,
+            "selectError": false
+          }
+        ],
+        "mode": "row-based"
+      },
+      "columnName": "sample_ontology_term",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "cl:0000148::uberon:0001003"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "http://purl.obolibrary.org/obo/CL_2000000"
+        }
+      ],
+      "description": "Mass edit cells in column sample_ontology_term"
+    }
+  ]
