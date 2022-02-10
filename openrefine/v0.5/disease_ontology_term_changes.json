@@ -1,0 +1,82 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ncim:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "doid:7148"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ncim:C0003873"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "doid:8577"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ncim:C3553962"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "doid:9452"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ncim:C0015695"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_term"
+  }
+]

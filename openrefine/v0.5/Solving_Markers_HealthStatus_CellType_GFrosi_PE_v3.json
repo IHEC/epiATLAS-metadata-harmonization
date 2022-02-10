@@ -1,0 +1,3704 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "bone marrow?"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mononuclear cell of bone marrow"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "tissue_type",
+          "columnName": "tissue_type",
+          "query": "?",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "future brain?"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "germinal neuroepithelium"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "tissue_type",
+          "columnName": "tissue_type",
+          "query": "?",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sigmoid colon?"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "sigmoid colon"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "popolazione patologica (gate 89% circa) CD34+ HLA-DR+ CD19+"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pathological population (gate 89%) CD34+ HLA-DR+ CD19+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "b cell",
+                "l": "b cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "cl:0000236"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "b cell",
+                "l": "b cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cl:0000236::cl:2000006"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cl:2000006"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "zfa:0009115",
+                "l": "zfa:0009115"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "zfa:0009115"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cl:0000187"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:0000187",
+                "l": "cl:0000187"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "phenotype",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "EFO_0000609"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column phenotype"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "b cell from peripheral blood",
+                "l": "b cell from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "b cell from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "b cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "renal artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "arcuate artery endothelial cells"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "cytotrophoblast",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CEEHRC",
+                "l": "CEEHRC"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cytotrophoblast cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mononuclear cytotrophoblast cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "cytotrophoblast",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cd49f_positive_cytotrophoblast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "trophoblast"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "cytotrophoblast",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cytotrophoblast cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "trophoblast cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "cytotrophoblast",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hla-g_positive_extravillous_cytotrophoblast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "trophoblast cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "trophoblast",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "trophoblast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "trophoblast cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "trophoblast",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "AMED-CREST",
+                "l": "AMED-CREST"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "trophoblast stem cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "trophoblast cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cord blood",
+                "l": "cord blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "biomaterial_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "primary cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primary tissue"
+      }
+    ],
+    "description": "Mass edit cells in column biomaterial_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cord blood",
+                "l": "cord blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "umbilical cord blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cord blood",
+                "l": "cord blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cl:0000081"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "uberon:0012168"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cord blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cord blood progenitors"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD34-positive, CD38-negative hematopoietic stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "blastocyst",
+                "l": "blastocyst"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "cl:0002321"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "blastocyst",
+                "l": "blastocyst"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "blastocyst"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "embryonic cell (metazoa)"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "endometrial_epithelium_follicular_phase",
+                "l": "endometrial_epithelium_follicular_phase"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "cl:0002327"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "endometrial_epithelium_follicular_phase",
+                "l": "endometrial_epithelium_follicular_phase"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cl:0002327"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cl:0009084"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endometrial_epithelium_follicular_phase"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "epithelial cell of endometrial gland"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "naive cd4-positive t cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "naive thymus-derived CD4-positive, alpha-beta T cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "naive thymus-derived cd4-positive, alpha-beta t cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "naive thymus-derived CD4-positive, alpha-beta T cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "naive cd4+ t cells",
+                "l": "naive cd4+ t cells"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "__ToBeUpdated__::uberon:0010393"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cl:0000895"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "naive cd4+ t cells",
+                "l": "naive cd4+ t cells"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "uberon:0010393::uberon:0012168"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cl:0000895::uberon:0012168"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "naive cd4+ t cells",
+                "l": "naive cd4+ t cells"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004725.1",
+                "l": "IHECRE00004725.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "umbilical cord blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "naive cd4+ t cells",
+                "l": "naive cd4+ t cells"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004725.1",
+                "l": "IHECRE00004725.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "origin_sample",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Blood-Cord"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "umbilical cord blood"
+      }
+    ],
+    "description": "Mass edit cells in column origin_sample"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "naive cd4+ t cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "naive thymus-derived CD4-positive, alpha-beta T cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "alternatively activated macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "alternatively activated macrophage",
+                "l": "alternatively activated macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "inflammatory macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "inflammatory macrophage",
+                "l": "inflammatory macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000008.3",
+                "l": "IHECRE00000008.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000016.3",
+                "l": "IHECRE00000016.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000060.3",
+                "l": "IHECRE00000060.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000082.3",
+                "l": "IHECRE00000082.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000084.3",
+                "l": "IHECRE00000084.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000121.3",
+                "l": "IHECRE00000121.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000151.3",
+                "l": "IHECRE00000151.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000177.3",
+                "l": "IHECRE00000177.3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001398.1",
+                "l": "IHECRE00001398.1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "macrophage",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "macrophage",
+                "l": "macrophage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BLUEPRINT",
+                "l": "BLUEPRINT"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000253.2",
+                "l": "IHECRE00000253.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000253",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "early T cell precursor (ETP) phenotype"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cCD3+ CD7+ CD4-/8-/1a-/2- sCD3- CD5- CD117+ CD34+ CD33+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "megakaryocyte-erythroid progenitor cell",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Lin- CD34+ CD38+ IL3Ra- CD45RA-"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "markers",
+          "columnName": "markers",
+          "query": "IL",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lin- CD34+ CD38+ IL-3Ra_low CD45RA-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lin- CD34+ CD38+ IL3Ra_low CD45RA-"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "markers",
+          "columnName": "markers",
+          "query": "IL",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lin- CD34+ CD38+ IL-3Ra+ CD45RA+"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lin- CD34+ CD38+ IL3Ra+ CD45RA+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "markers",
+          "columnName": "markers",
+          "query": "H",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CD11c+ CD80_high CD86_high HLA_DR/DQ/Dphi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD11c+ CD80_high CD86_high HLA_DR HLA_DQ HLA_Dp_high"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "no known disorder::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no known disorder"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "none::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "none::thyroid adenoma-follicular"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "thyroid adenoma-follicular"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "none::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "none::thyroid carcinoma - papillary-classical"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "thyroid carcinoma - papillary-classical"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "none::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "none::thyroid goiter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "thyroid goiter"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "none::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "none::thyroid papillary carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "thyroid papillary carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "::none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "healthy::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "healthy"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "::none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "large intestine adenocarcinoma::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "large intestine adenocarcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "::none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "large intestine adenoma::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "large intestine adenoma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "::none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "large intestine carcinoma::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "large intestine carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "::none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "large intestine diverticulitis::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "large intestine diverticulitis"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "::none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "large intestine-colon cancer::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "large intestine-colon cancer"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "::none",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "non-localized disease-free::none"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "non-localized disease-free"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:2000018",
+                "l": "cl:2000018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "cl:2000018",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of coronary artery::human coronary artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of coronary artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:2000018",
+                "l": "cl:2000018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "cl:2000018",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "coronary artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of coronary artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:2000018",
+                "l": "cl:2000018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "cl:2000018",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "human coronary artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of coronary artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "cl:2000008",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "human cardiac microvascular endothelial cells::microvascular endothelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cardiac microvascular endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:0002618",
+                "l": "cl:0002618"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "cl:0002618",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of umbilical vein::human umbilical vein endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical vein"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:0002544",
+                "l": "cl:0002544"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "aortic endothelial cells::human brachiocephalic endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "aortic endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:0002544",
+                "l": "cl:0002544"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "aortic endothelial cells::human common carotid artery"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "aortic endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:1000413",
+                "l": "cl:1000413"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of artery::human brachiocephalic endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:1000413",
+                "l": "cl:1000413"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "human carotid artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:1000413",
+                "l": "cl:1000413"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "human subclavian artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of artery"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:0002618",
+                "l": "cl:0002618"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "cl:0002618",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "human umbilical vein endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical vein"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cl:0002618",
+                "l": "cl:0002618"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term",
+          "columnName": "sample_ontology_term",
+          "query": "cl:0002618",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "umbilical vein endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical vein"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "markers",
+          "columnName": "markers",
+          "query": "/",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cCD3+ CD7+ CD4-/8-/1a-/2- sCD3- CD5- CD117+ CD34+ CD33+"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cCD3+ CD7+ CD4- CD8- CD1a- CD2- sCD3- CD5- CD117+ CD34+ CD33+"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "markers",
+          "columnName": "markers",
+          "query": "HLA_Dp_high",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "markers",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CD11c+ CD80_high CD86_high HLA_DR HLA_DQ HLA_Dp_high"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD11c+ CD80_high CD86_high HLA_DR HLA_DQ HLA_DP_high"
+      }
+    ],
+    "description": "Mass edit cells in column markers"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column donor_health_status using expression value.toTitlecase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Health::normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Apparently Healthy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Adenocarcinoma_ampulla_of_vater::cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adenocarcinoma ampulla of vater::cancer"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Adenosquamous_carcinoma::cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adenosquamous carcinoma::cancer"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer::clear_cell_renal_cell_carcinoma;nephropathy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer::clear cell renal cell carcinoma;nephropathy"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer::colloid_carcinoma_arising_from_intraductal_papillary_mucinous_neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer::colloid carcinoma arising from intraductal papillary mucinous neoplasm"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer::mucinous_cystic_neoplasm;normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer::mucinous cystic neoplasm;normal"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer::neuroendocrine_tumor_grade_1;normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer::neuroendocrine tumor grade_1;normal"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer::neuroendocrine tumor grade_1;normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer::neuroendocrine tumor grade 1;normal"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer::renal_oncocytoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer::renal oncocytoma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "_",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer::solid_pseudopapillary_neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer::solid pseudopapillary neoplasm"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_health_status",
+          "columnName": "donor_health_status",
+          "query": "Norma",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy::normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy::no Medication"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None::unknown"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None::unknown"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  }
+]
