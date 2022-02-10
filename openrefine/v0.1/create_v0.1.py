@@ -8,6 +8,7 @@ from subprocess import run
 import pandas as pd
 
 # make sure the working directory when running this file is the project root of the git project
+os.chdir('../../')
 mypath = './openrefine/v0.1'  # path to the rule files
 example_filename = 'example.json'  # file containing the example rules in the OpenRefine project
 delimiter = '::'
@@ -102,7 +103,6 @@ print(f'order of rules applied: {order}')
 
 run([openrefine_client, '--export', f'--output={join(mypath, "IHEC_metadata_harmonization.v0.1.csv")}',
      openrefine_name_sorted], check=True)
-run([openrefine_client, '--export', f'--output={join(mypath, "IHEC_metadata_harmonization.v0.1.json")}',
-     openrefine_name_sorted], check=True)
+
 run([openrefine_client, '--export', f'--output={join(mypath, "IHEC_metadata_harmonization.v0.1.xls")}',
      openrefine_name_sorted], check=True)

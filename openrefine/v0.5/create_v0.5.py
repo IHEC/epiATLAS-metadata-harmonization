@@ -52,4 +52,4 @@ for index, row in intermediate_tbl.iterrows():
 
 intermediate_tbl.to_csv(intermediate_csv)
 
-run([openrefine_client, '--create', intermediate_csv], check=True)
+# run([openrefine_client, '--create', intermediate_csv], check=True)
