@@ -52,4 +52,12 @@ for index, row in intermediate_tbl.iterrows():
 
 intermediate_tbl.to_csv(intermediate_csv)
 
-# run([openrefine_client, '--create', intermediate_csv], check=True)
+intermediate_project_name = os.path.splitext(os.path.basename(intermediate_csv))[0]
+run([openrefine_client, '--create', intermediate_csv], check=True)
+
+# apply rules
+run([openrefine_client, '--apply', 'openrefine/v0.5/EpiRR_update.json',
+     intermediate_project_name], check=True)
+v05_csv = './openrefine/v0.5/IHEC_metadata_harmonization.v0.5.csv'
+run([openrefine_client, '--export', f'--output={v05_csv}',
+     intermediate_project_name], check=True)
