@@ -8,5 +8,14 @@
     "op": "core/column-removal",
     "columnName": "phenotype",
     "description": "Remove column phenotype"
+  },{
+    "op": "core/column-removal",
+    "columnName": "Column",
+    "description": "Remove column Column"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Column2",
+    "description": "Remove column Column2"
   }
 ]
