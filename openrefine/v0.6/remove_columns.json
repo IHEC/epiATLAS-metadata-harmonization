@@ -1,0 +1,12 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "origin_sample",
+    "description": "Remove column origin_sample"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "phenotype",
+    "description": "Remove column phenotype"
+  }
+]

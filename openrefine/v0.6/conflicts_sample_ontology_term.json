@@ -1,0 +1,3248 @@
+{
+ "IHECRE00000021.3": {
+  "current": "SU-DHL-5",
+  "term_name": "SUDHL5",
+  "ontology_curie": "EFO:0002356",
+  "similarity": 0.86
+ },
+ "IHECRE00000024.3": {
+  "current": "cytotoxic cd56-dim natural killer cell",
+  "term_name": "CD16-positive, CD56-dim natural killer cell, human",
+  "ontology_curie": "CL:0000939",
+  "similarity": 0.73
+ },
+ "IHECRE00000033.2": {
+  "current": "precursor lymphocyte of b lineage",
+  "term_name": "lymphocyte of B lineage",
+  "ontology_curie": "CL:0000945",
+  "similarity": 0.82
+ },
+ "IHECRE00000045.3": {
+  "current": "endothelial cell of umbilical vein (resting)",
+  "term_name": "endothelial cell of umbilical vein",
+  "ontology_curie": "CL:0002618",
+  "similarity": 0.87
+ },
+ "IHECRE00000049.3": {
+  "current": "cytotoxic cd56-dim natural killer cell",
+  "term_name": "CD16-positive, CD56-dim natural killer cell, human",
+  "ontology_curie": "CL:0000939",
+  "similarity": 0.73
+ },
+ "IHECRE00000052.3": {
+  "current": "KARPAS-422",
+  "term_name": "Karpas 422",
+  "ontology_curie": "EFO:0005719",
+  "similarity": 0.9
+ },
+ "IHECRE00000054.3": {
+  "current": "cytotoxic cd56-dim natural killer cell",
+  "term_name": "CD16-positive, CD56-dim natural killer cell, human",
+  "ontology_curie": "CL:0000939",
+  "similarity": 0.73
+ },
+ "IHECRE00000099.3": {
+  "current": "endothelial cell of umbilical vein (resting)",
+  "term_name": "endothelial cell of umbilical vein",
+  "ontology_curie": "CL:0002618",
+  "similarity": 0.87
+ },
+ "IHECRE00000126.3": {
+  "current": "endothelial cell of umbilical vein (proliferating)",
+  "term_name": "endothelial cell of umbilical vein",
+  "ontology_curie": "CL:0002618",
+  "similarity": 0.81
+ },
+ "IHECRE00000127.3": {
+  "current": "U-266",
+  "term_name": "U266",
+  "ontology_curie": "EFO:0001254",
+  "similarity": 0.89
+ },
+ "IHECRE00000142.3": {
+  "current": "cytotoxic cd56-dim natural killer cell",
+  "term_name": "CD16-positive, CD56-dim natural killer cell, human",
+  "ontology_curie": "CL:0000939",
+  "similarity": 0.73
+ },
+ "IHECRE00000180.3": {
+  "current": "cytotoxic cd56-dim natural killer cell",
+  "term_name": "CD16-positive, CD56-dim natural killer cell, human",
+  "ontology_curie": "CL:0000939",
+  "similarity": 0.73
+ },
+ "IHECRE00000183.3": {
+  "current": "DG-75",
+  "term_name": "DG75",
+  "ontology_curie": "EFO:0002160",
+  "similarity": 0.89
+ },
+ "IHECRE00000184.3": {
+  "current": "endothelial cell of umbilical vein (proliferating)",
+  "term_name": "endothelial cell of umbilical vein",
+  "ontology_curie": "CL:0002618",
+  "similarity": 0.81
+ },
+ "IHECRE00000225.3": {
+  "current": "184-hTert-L9",
+  "term_name": "mammary gland cell line",
+  "ontology_curie": "EFO:0002884",
+  "similarity": 0.11
+ },
+ "IHECRE00000226.3": {
+  "current": "cd19+ cells (b lymphocytes)",
+  "term_name": "B cell",
+  "ontology_curie": "CL:0000236",
+  "similarity": 0.3
+ },
+ "IHECRE00000227.3": {
+  "current": "184-hTert-L2",
+  "term_name": "mammary gland cell line",
+  "ontology_curie": "EFO:0002884",
+  "similarity": 0.11
+ },
+ "IHECRE00000232.3": {
+  "current": "cd19+ cells (b lymphocytes)",
+  "term_name": "B cell",
+  "ontology_curie": "CL:0000236",
+  "similarity": 0.3
+ },
+ "IHECRE00000234.3": {
+  "current": "cd19+ cells (b lymphocytes)",
+  "term_name": "B cell",
+  "ontology_curie": "CL:0000236",
+  "similarity": 0.3
+ },
+ "IHECRE00000238.3": {
+  "current": "left frontal lobe",
+  "term_name": "brain",
+  "ontology_curie": "UBERON:0000955",
+  "similarity": 0.18
+ },
+ "IHECRE00000239.3": {
+  "current": "cd19+ cells (b lymphocytes)",
+  "term_name": "B cell",
+  "ontology_curie": "CL:0000236",
+  "similarity": 0.3
+ },
+ "IHECRE00000240.3": {
+  "current": "left temporal lobe",
+  "term_name": "brain",
+  "ontology_curie": "UBERON:0000955",
+  "similarity": 0.17
+ },
+ "IHECRE00000244.3": {
+  "current": "cd19+ cells (b lymphocytes)",
+  "term_name": "B cell",
+  "ontology_curie": "CL:0000236",
+  "similarity": 0.3
+ },
+ "IHECRE00000247.3": {
+  "current": "cd19+ cells (b lymphocytes)",
+  "term_name": "B cell",
+  "ontology_curie": "CL:0000236",
+  "similarity": 0.3
+ },
+ "IHECRE00000266.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000273.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000281.2": {
+  "current": "cd3-positive, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.46
+ },
+ "IHECRE00000282.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000291.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000299.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000300.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000305.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000320.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000323.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000338.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000344.2": {
+  "current": "cd3-negative, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.48
+ },
+ "IHECRE00000352.2": {
+  "current": "neoplastic plasma cell",
+  "term_name": "plasma cell",
+  "ontology_curie": "CL:0000786",
+  "similarity": 0.67
+ },
+ "IHECRE00000664.3": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000673.1": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000735.1": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000755.1": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000807.3": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000812.1": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000892.1": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000914.1": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00000937.7": {
+  "current": "mammary epithelial cell",
+  "term_name": "mammary gland epithelial cell",
+  "ontology_curie": "CL:0002327",
+  "similarity": 0.88
+ },
+ "IHECRE00000962.7": {
+  "current": "UCSF-4",
+  "term_name": "UCSF4",
+  "ontology_curie": "EFO:0007116",
+  "similarity": 0.91
+ },
+ "IHECRE00000968.6": {
+  "current": "adipocyte",
+  "term_name": "fat cell",
+  "ontology_curie": "CL:0000136",
+  "similarity": 0.35
+ },
+ "IHECRE00000978.6": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00000998.7": {
+  "current": "H7",
+  "term_name": "H7-hESC",
+  "ontology_curie": "EFO:0005904",
+  "similarity": 0.44
+ },
+ "IHECRE00001004.4": {
+  "current": "hematopoietic",
+  "term_name": "CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor",
+  "ontology_curie": "CL:0000995",
+  "similarity": 0.16
+ },
+ "IHECRE00001005.4": {
+  "current": "colon",
+  "term_name": "ascending colon",
+  "ontology_curie": "UBERON:0001156",
+  "similarity": 0.5
+ },
+ "IHECRE00001007.4": {
+  "current": "colon",
+  "term_name": "ascending colon",
+  "ontology_curie": "UBERON:0001156",
+  "similarity": 0.5
+ },
+ "IHECRE00001010.4": {
+  "current": "ascending colon",
+  "term_name": "colonic epithelium",
+  "ontology_curie": "UBERON:0000397",
+  "similarity": 0.3
+ },
+ "IHECRE00001011.4": {
+  "current": "ascending colon",
+  "term_name": "colonic epithelium",
+  "ontology_curie": "UBERON:0000397",
+  "similarity": 0.3
+ },
+ "IHECRE00001013.4": {
+  "current": "colon",
+  "term_name": "ascending colon",
+  "ontology_curie": "UBERON:0001156",
+  "similarity": 0.5
+ },
+ "IHECRE00001017.4": {
+  "current": "colon",
+  "term_name": "ascending colon",
+  "ontology_curie": "UBERON:0001156",
+  "similarity": 0.5
+ },
+ "IHECRE00001018.4": {
+  "current": "colon",
+  "term_name": "ascending colon",
+  "ontology_curie": "UBERON:0001156",
+  "similarity": 0.5
+ },
+ "IHECRE00001019.4": {
+  "current": "colon",
+  "term_name": "ascending colon",
+  "ontology_curie": "UBERON:0001156",
+  "similarity": 0.5
+ },
+ "IHECRE00001020.4": {
+  "current": "colon",
+  "term_name": "ascending colon",
+  "ontology_curie": "UBERON:0001156",
+  "similarity": 0.5
+ },
+ "IHECRE00001023.7": {
+  "current": "mesendoderm",
+  "term_name": "mesodermal cell",
+  "ontology_curie": "CL:0000222",
+  "similarity": 0.62
+ },
+ "IHECRE00001050.8": {
+  "current": "H1",
+  "term_name": "H1-hESC",
+  "ontology_curie": "EFO:0003042",
+  "similarity": 0.44
+ },
+ "IHECRE00001052.6": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00001055.7": {
+  "current": "iPSC",
+  "term_name": "induced pluripotent stem cell",
+  "ontology_curie": "EFO:0004905",
+  "similarity": 0.24
+ },
+ "IHECRE00001290.1": {
+  "current": "germinal center b cell",
+  "term_name": "tonsil germinal center B cell",
+  "ontology_curie": "CL:2000006",
+  "similarity": 0.86
+ },
+ "IHECRE00001317.1": {
+  "current": "cd3-positive, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.46
+ },
+ "IHECRE00001346.1": {
+  "current": "cd3-negative, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.48
+ },
+ "IHECRE00001412.1": {
+  "current": "cd3-positive, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.46
+ },
+ "IHECRE00001440.1": {
+  "current": "late basophilic and polychromatophilic erythroblast",
+  "term_name": "Kit-negative, Ly-76 high polychromatophilic erythroblast",
+  "ontology_curie": "CL:0002015",
+  "similarity": 0.71
+ },
+ "IHECRE00001453.1": {
+  "current": "cytotoxic cd56-dim natural killer cell",
+  "term_name": "CD16-positive, CD56-dim natural killer cell, human",
+  "ontology_curie": "CL:0000939",
+  "similarity": 0.73
+ },
+ "IHECRE00001509.1": {
+  "current": "blast forming unit erythroid",
+  "term_name": "erythroid progenitor cell, mammalian",
+  "ontology_curie": "CL:0001066",
+  "similarity": 0.28
+ },
+ "IHECRE00001524.1": {
+  "current": "cd3-negative, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.48
+ },
+ "IHECRE00001531.1": {
+  "current": "cd3-negative, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.48
+ },
+ "IHECRE00001547.1": {
+  "current": "cd3-positive, cd4-positive, cd8-positive, double positive thymocyte",
+  "term_name": "double-positive, alpha-beta thymocyte",
+  "ontology_curie": "CL:0000809",
+  "similarity": 0.46
+ },
+ "IHECRE00001550.1": {
+  "current": "colony forming unit erythroid",
+  "term_name": "erythroid progenitor cell, mammalian",
+  "ontology_curie": "CL:0001066",
+  "similarity": 0.28
+ },
+ "IHECRE00001781.6": {
+  "current": "MEL",
+  "term_name": "MEL cell line",
+  "ontology_curie": "EFO:0003971",
+  "similarity": 0.38
+ },
+ "IHECRE00001861.7": {
+  "current": "KARPAS-422",
+  "term_name": "Karpas 422",
+  "ontology_curie": "EFO:0005719",
+  "similarity": 0.9
+ },
+ "IHECRE00001888.7": {
+  "current": "mammary epithelial cell",
+  "term_name": "mammary gland epithelial cell",
+  "ontology_curie": "CL:0002327",
+  "similarity": 0.88
+ },
+ "IHECRE00001889.7": {
+  "current": "H1",
+  "term_name": "H1-hESC",
+  "ontology_curie": "EFO:0003042",
+  "similarity": 0.44
+ },
+ "IHECRE00001921.1": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00001931.1": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00001932.1": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00001933.1": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00001934.1": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00001954.2": {
+  "current": "endometrial_stroma_cell",
+  "term_name": "stromal cell of endometrium",
+  "ontology_curie": "CL:0002255",
+  "similarity": 0.4
+ },
+ "IHECRE00001957.2": {
+  "current": "endometrial_stroma_cell",
+  "term_name": "stromal cell of endometrium",
+  "ontology_curie": "CL:0002255",
+  "similarity": 0.4
+ },
+ "IHECRE00002049.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00002737.1": {
+  "current": "cd4+ t cell from peripheral blood",
+  "term_name": "CD4-positive, alpha-beta T cell",
+  "ontology_curie": "CL:0000624",
+  "similarity": 0.31
+ },
+ "IHECRE00002738.1": {
+  "current": "cd4+ t cell from peripheral blood",
+  "term_name": "CD4-positive, alpha-beta T cell",
+  "ontology_curie": "CL:0000624",
+  "similarity": 0.31
+ },
+ "IHECRE00002739.1": {
+  "current": "cd4+ t cell from peripheral blood",
+  "term_name": "CD4-positive, alpha-beta T cell",
+  "ontology_curie": "CL:0000624",
+  "similarity": 0.31
+ },
+ "IHECRE00002740.1": {
+  "current": "cd8+ t cell from peripheral blood",
+  "term_name": "CD8-positive, alpha-beta T cell",
+  "ontology_curie": "CL:0000625",
+  "similarity": 0.31
+ },
+ "IHECRE00002741.1": {
+  "current": "cd8+ t cell from peripheral blood",
+  "term_name": "CD8-positive, alpha-beta T cell",
+  "ontology_curie": "CL:0000625",
+  "similarity": 0.31
+ },
+ "IHECRE00002742.1": {
+  "current": "cd8+ t cell from peripheral blood",
+  "term_name": "CD8-positive, alpha-beta T cell",
+  "ontology_curie": "CL:0000625",
+  "similarity": 0.31
+ },
+ "IHECRE00002743.1": {
+  "current": "common lymphoid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common lymphoid progenitor",
+  "ontology_curie": "CL:0001021",
+  "similarity": 0.5
+ },
+ "IHECRE00002744.1": {
+  "current": "common lymphoid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common lymphoid progenitor",
+  "ontology_curie": "CL:0001021",
+  "similarity": 0.5
+ },
+ "IHECRE00002745.1": {
+  "current": "common lymphoid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common lymphoid progenitor",
+  "ontology_curie": "CL:0001021",
+  "similarity": 0.5
+ },
+ "IHECRE00002746.1": {
+  "current": "common lymphoid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common lymphoid progenitor",
+  "ontology_curie": "CL:0001021",
+  "similarity": 0.5
+ },
+ "IHECRE00002747.1": {
+  "current": "common myeloid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common myeloid progenitor",
+  "ontology_curie": "CL:0001026",
+  "similarity": 0.5
+ },
+ "IHECRE00002748.1": {
+  "current": "common myeloid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common myeloid progenitor",
+  "ontology_curie": "CL:0001026",
+  "similarity": 0.5
+ },
+ "IHECRE00002749.1": {
+  "current": "common myeloid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common myeloid progenitor",
+  "ontology_curie": "CL:0001026",
+  "similarity": 0.5
+ },
+ "IHECRE00002750.1": {
+  "current": "common myeloid progenitor from peripheral blood",
+  "term_name": "CD34-positive, CD38-positive common myeloid progenitor",
+  "ontology_curie": "CL:0001026",
+  "similarity": 0.5
+ },
+ "IHECRE00002751.1": {
+  "current": "granulocyte macrophage progenitor from peripheral blood",
+  "term_name": "granulocyte monocyte progenitor cell",
+  "ontology_curie": "CL:0000557",
+  "similarity": 0.66
+ },
+ "IHECRE00002752.1": {
+  "current": "granulocyte macrophage progenitor from peripheral blood",
+  "term_name": "granulocyte monocyte progenitor cell",
+  "ontology_curie": "CL:0000557",
+  "similarity": 0.66
+ },
+ "IHECRE00002753.1": {
+  "current": "granulocyte macrophage progenitor from peripheral blood",
+  "term_name": "granulocyte monocyte progenitor cell",
+  "ontology_curie": "CL:0000557",
+  "similarity": 0.66
+ },
+ "IHECRE00002754.1": {
+  "current": "granulocyte macrophage progenitor from peripheral blood",
+  "term_name": "granulocyte monocyte progenitor cell",
+  "ontology_curie": "CL:0000557",
+  "similarity": 0.66
+ },
+ "IHECRE00002755.1": {
+  "current": "granulocyte macrophage progenitor from peripheral blood",
+  "term_name": "granulocyte monocyte progenitor cell",
+  "ontology_curie": "CL:0000557",
+  "similarity": 0.66
+ },
+ "IHECRE00002756.1": {
+  "current": "hematopoietic stem cell from bone marrow",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.73
+ },
+ "IHECRE00002757.1": {
+  "current": "hematopoietic stem cell from bone marrow",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.73
+ },
+ "IHECRE00002758.1": {
+  "current": "hematopoietic stem cell from bone marrow",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.73
+ },
+ "IHECRE00002759.1": {
+  "current": "hematopoietic stem cell from cord blood",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.74
+ },
+ "IHECRE00002760.1": {
+  "current": "hematopoietic stem cell from cord blood",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.74
+ },
+ "IHECRE00002761.1": {
+  "current": "hematopoietic stem cell from cord blood",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.74
+ },
+ "IHECRE00002762.1": {
+  "current": "hematopoietic stem cell from fetal liver",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.73
+ },
+ "IHECRE00002763.1": {
+  "current": "hematopoietic stem cell from fetal liver",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.73
+ },
+ "IHECRE00002764.1": {
+  "current": "hematopoietic stem cell from peripheral blood",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.68
+ },
+ "IHECRE00002765.1": {
+  "current": "hematopoietic stem cell from peripheral blood",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.68
+ },
+ "IHECRE00002766.1": {
+  "current": "hematopoietic stem cell from peripheral blood",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.68
+ },
+ "IHECRE00002767.1": {
+  "current": "hematopoietic stem cell from peripheral blood",
+  "term_name": "hematopoietic stem cell",
+  "ontology_curie": "CL:0000037",
+  "similarity": 0.68
+ },
+ "IHECRE00002768.1": {
+  "current": "megakaryocyte erythrocyte progenitor from peripheral blood",
+  "term_name": "megakaryocyte-erythroid progenitor cell",
+  "ontology_curie": "CL:0000050",
+  "similarity": 0.72
+ },
+ "IHECRE00002769.1": {
+  "current": "megakaryocyte erythrocyte progenitor from peripheral blood",
+  "term_name": "megakaryocyte-erythroid progenitor cell",
+  "ontology_curie": "CL:0000050",
+  "similarity": 0.72
+ },
+ "IHECRE00002770.1": {
+  "current": "megakaryocyte erythrocyte progenitor from peripheral blood",
+  "term_name": "megakaryocyte-erythroid progenitor cell",
+  "ontology_curie": "CL:0000050",
+  "similarity": 0.72
+ },
+ "IHECRE00002771.2": {
+  "current": "megakaryocyte from bone marrow",
+  "term_name": "megakaryocyte",
+  "ontology_curie": "CL:0000556",
+  "similarity": 0.6
+ },
+ "IHECRE00002773.1": {
+  "current": "megakaryocyte from bone marrow",
+  "term_name": "megakaryocyte",
+  "ontology_curie": "CL:0000556",
+  "similarity": 0.6
+ },
+ "IHECRE00002774.1": {
+  "current": "megakaryocyte from bone marrow",
+  "term_name": "megakaryocyte",
+  "ontology_curie": "CL:0000556",
+  "similarity": 0.6
+ },
+ "IHECRE00002792.1": {
+  "current": "monocyte from peripheral blood",
+  "term_name": "CD14-positive monocyte",
+  "ontology_curie": "CL:0001054",
+  "similarity": 0.31
+ },
+ "IHECRE00002793.1": {
+  "current": "monocyte from peripheral blood",
+  "term_name": "CD14-positive monocyte",
+  "ontology_curie": "CL:0001054",
+  "similarity": 0.31
+ },
+ "IHECRE00002794.1": {
+  "current": "monocyte from peripheral blood",
+  "term_name": "CD14-positive monocyte",
+  "ontology_curie": "CL:0001054",
+  "similarity": 0.31
+ },
+ "IHECRE00002805.1": {
+  "current": "neutrophil from peripheral blood",
+  "term_name": "neutrophil",
+  "ontology_curie": "CL:0000775",
+  "similarity": 0.48
+ },
+ "IHECRE00002806.1": {
+  "current": "neutrophil from peripheral blood",
+  "term_name": "neutrophil",
+  "ontology_curie": "CL:0000775",
+  "similarity": 0.48
+ },
+ "IHECRE00002807.1": {
+  "current": "neutrophil from peripheral blood",
+  "term_name": "neutrophil",
+  "ontology_curie": "CL:0000775",
+  "similarity": 0.48
+ },
+ "IHECRE00002808.1": {
+  "current": "natural killer cell from peripheral blood",
+  "term_name": "natural killer cell",
+  "ontology_curie": "CL:0000623",
+  "similarity": 0.63
+ },
+ "IHECRE00002809.1": {
+  "current": "natural killer cell from peripheral blood",
+  "term_name": "natural killer cell",
+  "ontology_curie": "CL:0000623",
+  "similarity": 0.63
+ },
+ "IHECRE00002810.1": {
+  "current": "natural killer cell from peripheral blood",
+  "term_name": "natural killer cell",
+  "ontology_curie": "CL:0000623",
+  "similarity": 0.63
+ },
+ "IHECRE00003105.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003106.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003107.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003108.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003109.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003110.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003111.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 44",
+  "ontology_curie": "UBERON:0006481",
+  "similarity": 0.2
+ },
+ "IHECRE00003112.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003113.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003114.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003116.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003117.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003118.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 44",
+  "ontology_curie": "UBERON:0006481",
+  "similarity": 0.2
+ },
+ "IHECRE00003119.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003120.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003122.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003123.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003124.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003125.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003127.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003128.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 45",
+  "ontology_curie": "UBERON:0006482",
+  "similarity": 0.2
+ },
+ "IHECRE00003129.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 22",
+  "ontology_curie": "UBERON:0013553",
+  "similarity": 0.16
+ },
+ "IHECRE00003131.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003133.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003134.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003135.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003136.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003137.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003138.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003139.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003140.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003141.2": {
+  "current": "anterior cingulate cortex",
+  "term_name": "Brodmann (1909) area 24",
+  "ontology_curie": "UBERON:0006101",
+  "similarity": 0.17
+ },
+ "IHECRE00003142.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003143.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003144.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003145.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003146.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003147.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003148.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003150.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003151.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003152.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003154.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003156.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003158.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003160.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003161.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003162.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003163.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003165.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003166.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003167.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003168.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003169.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003171.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003173.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003174.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003175.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003176.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003177.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 20",
+  "ontology_curie": "UBERON:0013551",
+  "similarity": 0.16
+ },
+ "IHECRE00003178.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003180.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003181.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003182.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003183.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003184.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003185.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003186.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003187.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003188.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003189.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003191.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003192.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003193.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003194.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003195.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003196.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003197.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003198.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003199.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003200.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003201.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003202.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003203.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003204.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003205.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003206.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003207.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003208.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003209.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003210.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003211.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003212.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003213.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003214.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003215.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003216.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 44",
+  "ontology_curie": "UBERON:0006481",
+  "similarity": 0.2
+ },
+ "IHECRE00003217.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003218.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003220.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003221.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003222.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003223.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003224.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003225.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003227.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003228.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003229.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003230.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003231.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003233.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003234.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003235.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003236.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003237.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 44",
+  "ontology_curie": "UBERON:0006481",
+  "similarity": 0.2
+ },
+ "IHECRE00003238.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003240.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003241.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003242.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003243.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003244.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003245.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003246.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003247.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003249.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003250.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003251.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003252.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003253.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 20",
+  "ontology_curie": "UBERON:0013551",
+  "similarity": 0.16
+ },
+ "IHECRE00003254.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003255.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003256.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003257.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003258.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003259.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003260.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003263.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003264.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003265.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003266.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003267.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003268.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003269.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003270.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003271.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003273.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003274.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003275.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003276.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003278.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003279.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003281.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003282.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003283.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003284.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003285.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003286.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 38",
+  "ontology_curie": "UBERON:0006479",
+  "similarity": 0.16
+ },
+ "IHECRE00003287.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003288.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003289.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003290.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003291.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003292.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003293.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003294.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003295.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003296.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 20",
+  "ontology_curie": "UBERON:0013551",
+  "similarity": 0.16
+ },
+ "IHECRE00003297.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003298.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003300.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003301.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 38",
+  "ontology_curie": "UBERON:0006479",
+  "similarity": 0.16
+ },
+ "IHECRE00003302.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003303.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003304.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003305.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003306.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003307.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003308.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003309.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 38",
+  "ontology_curie": "UBERON:0006479",
+  "similarity": 0.16
+ },
+ "IHECRE00003310.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003311.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003312.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003316.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003317.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003318.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003320.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003322.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003323.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003324.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003325.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003327.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003329.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003331.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003332.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003333.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003334.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003336.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003337.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 44",
+  "ontology_curie": "UBERON:0006481",
+  "similarity": 0.2
+ },
+ "IHECRE00003338.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003339.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003340.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003341.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003342.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003344.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003345.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003346.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003348.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003349.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003350.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003352.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003353.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003354.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003355.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003356.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003357.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003358.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003359.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003360.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 44",
+  "ontology_curie": "UBERON:0006481",
+  "similarity": 0.2
+ },
+ "IHECRE00003361.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003362.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003363.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003364.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003365.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 45",
+  "ontology_curie": "UBERON:0006482",
+  "similarity": 0.2
+ },
+ "IHECRE00003367.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003368.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003369.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003370.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003371.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003372.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003373.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003374.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 20",
+  "ontology_curie": "UBERON:0013551",
+  "similarity": 0.16
+ },
+ "IHECRE00003375.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003376.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003377.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003378.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003379.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003380.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003381.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003382.2": {
+  "current": "temporal cortex",
+  "term_name": "Brodmann (1909) area 38",
+  "ontology_curie": "UBERON:0006479",
+  "similarity": 0.16
+ },
+ "IHECRE00003383.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003384.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003385.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003386.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003387.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003389.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003390.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003391.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003392.2": {
+  "current": "temporal cortex",
+  "term_name": "anterior transverse temporal area 41",
+  "ontology_curie": "UBERON:0006095",
+  "similarity": 0.43
+ },
+ "IHECRE00003393.2": {
+  "current": "cerebellum",
+  "term_name": "cerebellar vermis",
+  "ontology_curie": "UBERON:0004720",
+  "similarity": 0.67
+ },
+ "IHECRE00003394.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003395.2": {
+  "current": "prefrontal cortex",
+  "term_name": "Brodmann (1909) area 9",
+  "ontology_curie": "UBERON:0013540",
+  "similarity": 0.21
+ },
+ "IHECRE00003396.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003397.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003398.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003399.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003400.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003401.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003402.2": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003403.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003404.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003405.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003406.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003409.2": {
+  "current": "sperm cell",
+  "term_name": "sperm",
+  "ontology_curie": "CL:0000019",
+  "similarity": 0.67
+ },
+ "IHECRE00003410.2": {
+  "current": "sperm cell",
+  "term_name": "sperm",
+  "ontology_curie": "CL:0000019",
+  "similarity": 0.67
+ },
+ "IHECRE00003411.2": {
+  "current": "sperm cell",
+  "term_name": "sperm",
+  "ontology_curie": "CL:0000019",
+  "similarity": 0.67
+ },
+ "IHECRE00003422.2": {
+  "current": "bvsc embryonic stem cell",
+  "term_name": "embryonic stem cell",
+  "ontology_curie": "CL:0002322",
+  "similarity": 0.88
+ },
+ "IHECRE00003423.2": {
+  "current": "bvsc epiblast-like cell",
+  "term_name": "epiblast cell",
+  "ontology_curie": "CL:0000352",
+  "similarity": 0.72
+ },
+ "IHECRE00003424.2": {
+  "current": "bvsc primordial germ cell-like cell",
+  "term_name": "primordial germ cell",
+  "ontology_curie": "CL:0000670",
+  "similarity": 0.73
+ },
+ "IHECRE00003425.2": {
+  "current": "h18 embryonic stem cell",
+  "term_name": "embryonic stem cell",
+  "ontology_curie": "CL:0002322",
+  "similarity": 0.9
+ },
+ "IHECRE00003426.2": {
+  "current": "h18 epiblast-like cell",
+  "term_name": "epiblast cell",
+  "ontology_curie": "CL:0000352",
+  "similarity": 0.74
+ },
+ "IHECRE00003427.2": {
+  "current": "h18 primordial germ cell-like cell",
+  "term_name": "primordial germ cell",
+  "ontology_curie": "CL:0000670",
+  "similarity": 0.74
+ },
+ "IHECRE00003428.2": {
+  "current": "prdm14 wt d2 primordial germ cell-like cell",
+  "term_name": "primordial germ cell",
+  "ontology_curie": "CL:0000670",
+  "similarity": 0.63
+ },
+ "IHECRE00003429.2": {
+  "current": "prdm14 wt d4 primordial germ cell-like cell",
+  "term_name": "primordial germ cell",
+  "ontology_curie": "CL:0000670",
+  "similarity": 0.63
+ },
+ "IHECRE00003430.2": {
+  "current": "prdm14 wt d6 primordial germ cell-like cell",
+  "term_name": "primordial germ cell",
+  "ontology_curie": "CL:0000670",
+  "similarity": 0.63
+ },
+ "IHECRE00003635.2": {
+  "current": "cardiac microvascular endothelial cell",
+  "term_name": "microvascular endothelial cell",
+  "ontology_curie": "CL:2000008",
+  "similarity": 0.88
+ },
+ "IHECRE00003640.3": {
+  "current": "endothelial cell of umbilical artery",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.46
+ },
+ "IHECRE00003647.2": {
+  "current": "endothelial cell of umbilical artery",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.46
+ },
+ "IHECRE00003654.1": {
+  "current": "human umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.9
+ },
+ "IHECRE00003661.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003662.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003663.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003664.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003665.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003666.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003667.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003668.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003669.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003670.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003671.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003672.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003673.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003674.1": {
+  "current": "normal human stomach foveolar epithelial cells (surface mucous cells)",
+  "term_name": "foveolar cell of stomach",
+  "ontology_curie": "CL:0002179",
+  "similarity": 0.34
+ },
+ "IHECRE00003692.4": {
+  "current": "b cell",
+  "term_name": "tonsil germinal center B cell",
+  "ontology_curie": "CL:2000006",
+  "similarity": 0.34
+ },
+ "IHECRE00003730.1": {
+  "current": "normal human colon absorptive epithelial cells",
+  "term_name": "colon epithelial cell",
+  "ontology_curie": "CL:0011108",
+  "similarity": 0.63
+ },
+ "IHECRE00003780.1": {
+  "current": "endothelial cell of umbilical artery",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.46
+ },
+ "IHECRE00003803.1": {
+  "current": "mucosa of large intestine",
+  "term_name": "mucosa",
+  "ontology_curie": "UBERON:0000344",
+  "similarity": 0.39
+ },
+ "IHECRE00003805.1": {
+  "current": "effector memory cd4-positive t cell, terminally differentiated (temra)",
+  "term_name": "effector memory CD4-positive, alpha-beta T cell, terminally differentiated",
+  "ontology_curie": "CL:0001087",
+  "similarity": 0.86
+ },
+ "IHECRE00003812.1": {
+  "current": "mucosa of large intestine",
+  "term_name": "mucosa",
+  "ontology_curie": "UBERON:0000344",
+  "similarity": 0.39
+ },
+ "IHECRE00003815.1": {
+  "current": "cd4-positive regulatory t cell",
+  "term_name": "CD4-positive, CD25-positive, alpha-beta regulatory T cell",
+  "ontology_curie": "CL:0000792",
+  "similarity": 0.69
+ },
+ "IHECRE00003816.1": {
+  "current": "cd4-positive alpha-beta memory t cell",
+  "term_name": "CD4-positive, alpha-beta memory T cell",
+  "ontology_curie": "CL:0000897",
+  "similarity": 0.99
+ },
+ "IHECRE00003818.1": {
+  "current": "mucosa of large intestine",
+  "term_name": "mucosa",
+  "ontology_curie": "UBERON:0000344",
+  "similarity": 0.39
+ },
+ "IHECRE00003820.2": {
+  "current": "sperm cell",
+  "term_name": "sperm",
+  "ontology_curie": "CL:0000019",
+  "similarity": 0.67
+ },
+ "IHECRE00003821.3": {
+  "current": "b cell",
+  "term_name": "tonsil germinal center B cell",
+  "ontology_curie": "CL:2000006",
+  "similarity": 0.34
+ },
+ "IHECRE00003823.2": {
+  "current": "sperm cell",
+  "term_name": "sperm",
+  "ontology_curie": "CL:0000019",
+  "similarity": 0.67
+ },
+ "IHECRE00003824.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003826.4": {
+  "current": "common myeloid progenitor",
+  "term_name": "common myeloid progenitor, CD34-positive",
+  "ontology_curie": "CL:0001059",
+  "similarity": 0.77
+ },
+ "IHECRE00003827.1": {
+  "current": "cd4 naive",
+  "term_name": "naive T cell",
+  "ontology_curie": "CL:0000898",
+  "similarity": 0.48
+ },
+ "IHECRE00003828.3": {
+  "current": "b cell",
+  "term_name": "tonsil germinal center B cell",
+  "ontology_curie": "CL:2000006",
+  "similarity": 0.34
+ },
+ "IHECRE00003829.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003830.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003831.2": {
+  "current": "sperm cell",
+  "term_name": "sperm",
+  "ontology_curie": "CL:0000019",
+  "similarity": 0.67
+ },
+ "IHECRE00003833.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003834.5": {
+  "current": "erythroid progenitor",
+  "term_name": "erythroid progenitor cell",
+  "ontology_curie": "CL:0000038",
+  "similarity": 0.89
+ },
+ "IHECRE00003835.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003836.3": {
+  "current": "b cell",
+  "term_name": "tonsil germinal center B cell",
+  "ontology_curie": "CL:2000006",
+  "similarity": 0.34
+ },
+ "IHECRE00003839.3": {
+  "current": "b cell",
+  "term_name": "tonsil germinal center B cell",
+  "ontology_curie": "CL:2000006",
+  "similarity": 0.34
+ },
+ "IHECRE00003840.2": {
+  "current": "sperm cell",
+  "term_name": "sperm",
+  "ontology_curie": "CL:0000019",
+  "similarity": 0.67
+ },
+ "IHECRE00003841.3": {
+  "current": "b cell",
+  "term_name": "tonsil germinal center B cell",
+  "ontology_curie": "CL:2000006",
+  "similarity": 0.34
+ },
+ "IHECRE00003843.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003844.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003845.2": {
+  "current": "cd4 naive",
+  "term_name": "naive T cell",
+  "ontology_curie": "CL:0000898",
+  "similarity": 0.48
+ },
+ "IHECRE00003846.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00003847.4": {
+  "current": "mononuclear cell of bone marrow",
+  "term_name": "bone marrow",
+  "ontology_curie": "UBERON:0002371",
+  "similarity": 0.52
+ },
+ "IHECRE00004573.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004574.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004575.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004576.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004577.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004578.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004579.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004580.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004581.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004582.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004583.1": {
+  "current": "white adipocyte",
+  "term_name": "beige adipocyte",
+  "ontology_curie": "CL:0001070",
+  "similarity": 0.8
+ },
+ "IHECRE00004611.2": {
+  "current": "basal cell",
+  "term_name": "myoepithelial cell of mammary gland",
+  "ontology_curie": "CL:0002324",
+  "similarity": 0.31
+ },
+ "IHECRE00004612.2": {
+  "current": "luminal cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.46
+ },
+ "IHECRE00004613.1": {
+  "current": "luminal progenitor cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.51
+ },
+ "IHECRE00004614.1": {
+  "current": "luminal cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.46
+ },
+ "IHECRE00004616.1": {
+  "current": "luminal progenitor cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.51
+ },
+ "IHECRE00004617.2": {
+  "current": "luminal cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.46
+ },
+ "IHECRE00004619.2": {
+  "current": "luminal cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.46
+ },
+ "IHECRE00004620.2": {
+  "current": "luminal cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.46
+ },
+ "IHECRE00004621.2": {
+  "current": "luminal cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.46
+ },
+ "IHECRE00004651.5": {
+  "current": "mid-neurogenesis radial glial cells",
+  "term_name": "radial glial cell",
+  "ontology_curie": "CL:0000681",
+  "similarity": 0.65
+ },
+ "IHECRE00004663.5": {
+  "current": "H7",
+  "term_name": "H7-hESC",
+  "ontology_curie": "EFO:0005904",
+  "similarity": 0.44
+ },
+ "IHECRE00004673.6": {
+  "current": "SU-DHL-6",
+  "term_name": "SUDHL6",
+  "ontology_curie": "EFO:0002357",
+  "similarity": 0.86
+ },
+ "IHECRE00004686.5": {
+  "current": "cardiovascular progenitor cell",
+  "term_name": "cardioblast",
+  "ontology_curie": "CL:0002664",
+  "similarity": 0.44
+ },
+ "IHECRE00004726.1": {
+  "current": "basal cell",
+  "term_name": "myoepithelial cell of mammary gland",
+  "ontology_curie": "CL:0002324",
+  "similarity": 0.31
+ },
+ "IHECRE00004727.1": {
+  "current": "luminal progenitor cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.51
+ },
+ "IHECRE00004728.1": {
+  "current": "stromal cell",
+  "term_name": "fibroblast of mammary gland",
+  "ontology_curie": "CL:0002555",
+  "similarity": 0.31
+ },
+ "IHECRE00004729.1": {
+  "current": "basal cell",
+  "term_name": "myoepithelial cell of mammary gland",
+  "ontology_curie": "CL:0002324",
+  "similarity": 0.31
+ },
+ "IHECRE00004730.1": {
+  "current": "luminal progenitor cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.51
+ },
+ "IHECRE00004731.1": {
+  "current": "stromal cell",
+  "term_name": "fibroblast of mammary gland",
+  "ontology_curie": "CL:0002555",
+  "similarity": 0.31
+ },
+ "IHECRE00004732.1": {
+  "current": "basal cell",
+  "term_name": "myoepithelial cell of mammary gland",
+  "ontology_curie": "CL:0002324",
+  "similarity": 0.31
+ },
+ "IHECRE00004733.1": {
+  "current": "luminal progenitor cell",
+  "term_name": "luminal epithelial cell of mammary gland",
+  "ontology_curie": "CL:0002326",
+  "similarity": 0.51
+ },
+ "IHECRE00004734.1": {
+  "current": "stromal cell",
+  "term_name": "fibroblast of mammary gland",
+  "ontology_curie": "CL:0002555",
+  "similarity": 0.31
+ },
+ "IHECRE00004757.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004758.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004759.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004762.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004763.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004764.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004765.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004766.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004767.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004768.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004769.1": {
+  "current": "umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.99
+ },
+ "IHECRE00004770.1": {
+  "current": "umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.99
+ },
+ "IHECRE00004801.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004823.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004824.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004825.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004826.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004827.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004828.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004829.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004830.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004831.1": {
+  "current": "endothelial cell of great saphenous vein",
+  "term_name": "vein endothelial cell",
+  "ontology_curie": "CL:0002543",
+  "similarity": 0.52
+ },
+ "IHECRE00004832.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004833.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004834.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004835.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004836.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004837.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004838.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004839.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004840.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004841.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004842.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004843.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004844.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004845.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004846.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004847.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004848.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004849.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004850.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004851.1": {
+  "current": "arcuate artery endothelial cells",
+  "term_name": "arcuate artery endothelial cell",
+  "ontology_curie": "CL:1001213",
+  "similarity": 0.98
+ },
+ "IHECRE00004861.1": {
+  "current": "umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.99
+ },
+ "IHECRE00004862.1": {
+  "current": "umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.99
+ },
+ "IHECRE00004863.1": {
+  "current": "umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.99
+ },
+ "IHECRE00004864.1": {
+  "current": "umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.99
+ },
+ "IHECRE00004865.1": {
+  "current": "umbilical artery endothelial cells",
+  "term_name": "umbilical artery endothelial cell",
+  "ontology_curie": "CL:2000052",
+  "similarity": 0.99
+ },
+ "IHECRE00004885.1": {
+  "current": "breast fibroblast",
+  "term_name": "fibroblast of breast",
+  "ontology_curie": "CL:4006000",
+  "similarity": 0.54
+ },
+ "IHECRE00004888.1": {
+  "current": "breast fibroblast",
+  "term_name": "fibroblast of breast",
+  "ontology_curie": "CL:4006000",
+  "similarity": 0.54
+ },
+ "IHECRE00004889.1": {
+  "current": "brain astrocyte",
+  "term_name": "astrocyte",
+  "ontology_curie": "CL:0000127",
+  "similarity": 0.75
+ },
+ "IHECRE00004898.1": {
+  "current": "left ventricle",
+  "term_name": "heart left ventricle",
+  "ontology_curie": "UBERON:0002084",
+  "similarity": 0.82
+ },
+ "IHECRE00004907.1": {
+  "current": "skin (nevus) tissue",
+  "term_name": "mole",
+  "ontology_curie": "UBERON:1000010",
+  "similarity": 0.09
+ }
+}

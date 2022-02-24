@@ -1,0 +1,392 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C003JB,C003RW,C003N3,C003QY::S0033CH0"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S0033CH0"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "S0153X,S0153X::S015PQH0"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S015PQH0"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C004VK,S005M3,C003TS,S002ND::S0067TH0"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "S0067TH0"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1712285::C0245C"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1712285"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_215-82::CEMT0171"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_215-82"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_230-55::CEMT0169"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_230-55"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_230-60::CEMT0172"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_230-60"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_231-98::CEMT0168"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_231-98"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_353-21::CEMT0164"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_353-21"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_354-80::CEMT0165"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_354-80"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_357-17::CEMT0166"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_357-17"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_76-51::CEMT0167"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_76-51"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "donor_id",
+          "columnName": "donor_id",
+          "query": "::",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AML_95-81::CEMT0170"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AML_95-81"
+      }
+    ],
+    "description": "Mass edit cells in column donor_id"
+  }
+]

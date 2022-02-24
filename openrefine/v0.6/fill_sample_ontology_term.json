@@ -1,0 +1,3482 @@
+{
+ "IHECRE00000223.3": {
+  "current": "luminal progenitor cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "retinal progenitor cell",
+    "term_name": "CL:0002672"
+   },
+   {
+    "ontology_curie": "neural progenitor cell",
+    "term_name": "CL:0011020"
+   },
+   {
+    "ontology_curie": "progenitor cell",
+    "term_name": "CL:0011026"
+   }
+  ]
+ },
+ "IHECRE00000231.3": {
+  "current": "luminal cells-mature",
+  "similiar_terms": [
+   {
+    "ontology_curie": "luminal cell of prostatic acinus",
+    "term_name": "CL:0002235"
+   },
+   {
+    "ontology_curie": "glial cell",
+    "term_name": "CL:0000125"
+   }
+  ]
+ },
+ "IHECRE00000237.3": {
+  "current": "hematopoietic",
+  "similiar_terms": [
+   {
+    "ontology_curie": "hematopoietic cell",
+    "term_name": "CL:0000988"
+   },
+   {
+    "ontology_curie": "hematopoietic stem cell",
+    "term_name": "CL:0000037"
+   },
+   {
+    "ontology_curie": "AGM hematopoietic stem cell",
+    "term_name": "CL:0002360"
+   }
+  ]
+ },
+ "IHECRE00000644.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000646.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000652.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000655.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000656.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000657.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000658.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000659.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000660.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000661.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000662.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000663.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000666.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000672.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000674.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000675.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000677.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000682.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000686.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000687.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000688.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000690.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000692.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000699.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000702.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000704.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000705.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000708.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000715.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000716.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000719.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000720.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000722.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000723.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000725.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000728.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000729.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000733.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000734.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000736.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000738.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000743.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000745.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000746.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000751.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000754.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000757.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000758.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000760.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000762.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000764.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000766.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000767.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000769.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000770.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000773.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000780.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000782.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000791.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000792.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000793.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000795.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000796.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000797.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000799.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000800.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000801.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000802.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000803.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000804.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000805.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000808.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000810.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000818.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000821.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000823.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000824.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000825.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000829.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000835.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000839.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000842.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000844.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000846.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000850.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000854.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000855.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000865.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000867.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000868.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000870.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000871.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000872.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000873.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000874.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000876.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000877.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000879.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000880.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000882.3": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000883.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000884.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000886.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000890.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000891.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000895.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000899.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000903.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000904.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000907.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000909.1": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000911.3": {
+  "current": "cd4-positive helper t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive helper T cell",
+    "term_name": "CL:0000492"
+   },
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD4-positive type I NK T cell",
+    "term_name": "CL:0000923"
+   }
+  ]
+ },
+ "IHECRE00000913.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00000917.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00000921.1": {
+  "current": "cd4-positive, alpha-beta t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000624"
+   },
+   {
+    "ontology_curie": "CD8-positive, alpha-beta T cell",
+    "term_name": "CL:0000625"
+   },
+   {
+    "ontology_curie": "activated CD4-positive, alpha-beta T cell",
+    "term_name": "CL:0000896"
+   }
+  ]
+ },
+ "IHECRE00001862.2": {
+  "current": "islet_cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "sheath cell",
+    "term_name": "CL:0000618"
+   },
+   {
+    "ontology_curie": "muscle cell",
+    "term_name": "CL:0000187"
+   },
+   {
+    "ontology_curie": "motile cell",
+    "term_name": "CL:0000219"
+   }
+  ]
+ },
+ "IHECRE00001863.2": {
+  "current": "islet_cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "sheath cell",
+    "term_name": "CL:0000618"
+   },
+   {
+    "ontology_curie": "muscle cell",
+    "term_name": "CL:0000187"
+   },
+   {
+    "ontology_curie": "motile cell",
+    "term_name": "CL:0000219"
+   }
+  ]
+ },
+ "IHECRE00001864.2": {
+  "current": "adipocyte",
+  "similiar_terms": [
+   {
+    "ontology_curie": "preadipocyte",
+    "term_name": "CL:0002334"
+   },
+   {
+    "ontology_curie": "cardiocyte",
+    "term_name": "CL:0002494"
+   },
+   {
+    "ontology_curie": "amniocyte",
+    "term_name": "CL:0002323"
+   }
+  ]
+ },
+ "IHECRE00001865.2": {
+  "current": "islet_cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "sheath cell",
+    "term_name": "CL:0000618"
+   },
+   {
+    "ontology_curie": "muscle cell",
+    "term_name": "CL:0000187"
+   },
+   {
+    "ontology_curie": "motile cell",
+    "term_name": "CL:0000219"
+   }
+  ]
+ },
+ "IHECRE00001866.2": {
+  "current": "podocyte",
+  "similiar_terms": [
+   {
+    "ontology_curie": "oocyte",
+    "term_name": "CL:0000023"
+   },
+   {
+    "ontology_curie": "odontocyte",
+    "term_name": "CL:0000140"
+   },
+   {
+    "ontology_curie": "oncocyte",
+    "term_name": "CL:0002198"
+   }
+  ]
+ },
+ "IHECRE00001867.2": {
+  "current": "adipocyte",
+  "similiar_terms": [
+   {
+    "ontology_curie": "preadipocyte",
+    "term_name": "CL:0002334"
+   },
+   {
+    "ontology_curie": "cardiocyte",
+    "term_name": "CL:0002494"
+   },
+   {
+    "ontology_curie": "amniocyte",
+    "term_name": "CL:0002323"
+   }
+  ]
+ },
+ "IHECRE00001868.2": {
+  "current": "beta_cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "goblet cell",
+    "term_name": "CL:0000160"
+   },
+   {
+    "ontology_curie": "basket cell",
+    "term_name": "CL:0000118"
+   },
+   {
+    "ontology_curie": "urethra cell",
+    "term_name": "CL:1001320"
+   }
+  ]
+ },
+ "IHECRE00001869.2": {
+  "current": "podocyte",
+  "similiar_terms": [
+   {
+    "ontology_curie": "oocyte",
+    "term_name": "CL:0000023"
+   },
+   {
+    "ontology_curie": "odontocyte",
+    "term_name": "CL:0000140"
+   },
+   {
+    "ontology_curie": "oncocyte",
+    "term_name": "CL:0002198"
+   }
+  ]
+ },
+ "IHECRE00001870.2": {
+  "current": "islet_cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "sheath cell",
+    "term_name": "CL:0000618"
+   },
+   {
+    "ontology_curie": "muscle cell",
+    "term_name": "CL:0000187"
+   },
+   {
+    "ontology_curie": "motile cell",
+    "term_name": "CL:0000219"
+   }
+  ]
+ },
+ "IHECRE00001871.2": {
+  "current": "islet_cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "sheath cell",
+    "term_name": "CL:0000618"
+   },
+   {
+    "ontology_curie": "muscle cell",
+    "term_name": "CL:0000187"
+   },
+   {
+    "ontology_curie": "motile cell",
+    "term_name": "CL:0000219"
+   }
+  ]
+ },
+ "IHECRE00001953.2": [],
+ "IHECRE00001955.3": [],
+ "IHECRE00001956.2": [],
+ "IHECRE00001958.3": [],
+ "IHECRE00001959.2": [],
+ "IHECRE00001960.2": [],
+ "IHECRE00001961.2": [],
+ "IHECRE00001962.2": [],
+ "IHECRE00001963.2": [],
+ "IHECRE00001964.2": [],
+ "IHECRE00001965.2": [],
+ "IHECRE00001966.2": [],
+ "IHECRE00001974.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00001976.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00001987.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00001999.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002002.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002009.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002023.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002024.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002026.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002030.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002033.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002037.1": [],
+ "IHECRE00002044.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002053.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002055.1": [],
+ "IHECRE00002070.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002087.1": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00002089.2": {
+  "current": "t cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "tip cell",
+    "term_name": "CL:0000423"
+   },
+   {
+    "ontology_curie": "fat cell",
+    "term_name": "CL:0000136"
+   },
+   {
+    "ontology_curie": "T cell",
+    "term_name": "CL:0000084"
+   }
+  ]
+ },
+ "IHECRE00003715.2": [],
+ "IHECRE00003717.1": {
+  "current": "alpha_cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "hyphal cell",
+    "term_name": "CL:0000286"
+   },
+   {
+    "ontology_curie": "cap cell",
+    "term_name": "CL:0000676"
+   },
+   {
+    "ontology_curie": "alpha-beta T cell",
+    "term_name": "CL:0000789"
+   }
+  ]
+ },
+ "IHECRE00003720.1": {
+  "current": "mesangial",
+  "similiar_terms": [
+   {
+    "ontology_curie": "mesangial cell",
+    "term_name": "CL:0000650"
+   },
+   {
+    "ontology_curie": "mesangial phagocyte",
+    "term_name": "CL:0000777"
+   }
+  ]
+ },
+ "IHECRE00003721.1": {
+  "current": "podocyte",
+  "similiar_terms": [
+   {
+    "ontology_curie": "oocyte",
+    "term_name": "CL:0000023"
+   },
+   {
+    "ontology_curie": "odontocyte",
+    "term_name": "CL:0000140"
+   },
+   {
+    "ontology_curie": "oncocyte",
+    "term_name": "CL:0002198"
+   }
+  ]
+ },
+ "IHECRE00003722.1": {
+  "current": "podocyte",
+  "similiar_terms": [
+   {
+    "ontology_curie": "oocyte",
+    "term_name": "CL:0000023"
+   },
+   {
+    "ontology_curie": "odontocyte",
+    "term_name": "CL:0000140"
+   },
+   {
+    "ontology_curie": "oncocyte",
+    "term_name": "CL:0002198"
+   }
+  ]
+ },
+ "IHECRE00003723.1": {
+  "current": "mesangial",
+  "similiar_terms": [
+   {
+    "ontology_curie": "mesangial cell",
+    "term_name": "CL:0000650"
+   },
+   {
+    "ontology_curie": "mesangial phagocyte",
+    "term_name": "CL:0000777"
+   }
+  ]
+ },
+ "IHECRE00003724.1": {
+  "current": "ipsc",
+  "similiar_terms": []
+ },
+ "IHECRE00003726.1": {
+  "current": "early neuron",
+  "similiar_terms": [
+   {
+    "ontology_curie": "secondary neuron",
+    "term_name": "CL:0000535"
+   },
+   {
+    "ontology_curie": "sensory neuron",
+    "term_name": "CL:0000101"
+   },
+   {
+    "ontology_curie": "primary neuron",
+    "term_name": "CL:0000530"
+   }
+  ]
+ },
+ "IHECRE00003727.1": {
+  "current": "ipsc",
+  "similiar_terms": []
+ },
+ "IHECRE00003729.1": {
+  "current": "early neuron",
+  "similiar_terms": [
+   {
+    "ontology_curie": "secondary neuron",
+    "term_name": "CL:0000535"
+   },
+   {
+    "ontology_curie": "sensory neuron",
+    "term_name": "CL:0000101"
+   },
+   {
+    "ontology_curie": "primary neuron",
+    "term_name": "CL:0000530"
+   }
+  ]
+ },
+ "IHECRE00003740.1": {
+  "current": "adipose-derived mesenchymal stroaml cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "amnion mesenchymal stem cell",
+    "term_name": "CL:0002537"
+   },
+   {
+    "ontology_curie": "hepatic mesenchymal stem cell",
+    "term_name": "CL:0002571"
+   },
+   {
+    "ontology_curie": "mesenchymal stem cell",
+    "term_name": "CL:0000134"
+   }
+  ]
+ },
+ "IHECRE00003741.1": {
+  "current": "adipose-derived mesenchymal stroaml cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "amnion mesenchymal stem cell",
+    "term_name": "CL:0002537"
+   },
+   {
+    "ontology_curie": "hepatic mesenchymal stem cell",
+    "term_name": "CL:0002571"
+   },
+   {
+    "ontology_curie": "mesenchymal stem cell",
+    "term_name": "CL:0000134"
+   }
+  ]
+ },
+ "IHECRE00003742.1": {
+  "current": "adipose-derived mesenchymal stroaml cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "amnion mesenchymal stem cell",
+    "term_name": "CL:0002537"
+   },
+   {
+    "ontology_curie": "hepatic mesenchymal stem cell",
+    "term_name": "CL:0002571"
+   },
+   {
+    "ontology_curie": "mesenchymal stem cell",
+    "term_name": "CL:0000134"
+   }
+  ]
+ },
+ "IHECRE00003743.1": {
+  "current": "adipose-derived mesenchymal stroaml cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "amnion mesenchymal stem cell",
+    "term_name": "CL:0002537"
+   },
+   {
+    "ontology_curie": "hepatic mesenchymal stem cell",
+    "term_name": "CL:0002571"
+   },
+   {
+    "ontology_curie": "mesenchymal stem cell",
+    "term_name": "CL:0000134"
+   }
+  ]
+ },
+ "IHECRE00003832.2": {
+  "current": "cd4 naive",
+  "similiar_terms": []
+ },
+ "IHECRE00003842.2": {
+  "current": "cd4 naive",
+  "similiar_terms": []
+ },
+ "IHECRE00004494.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004496.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004498.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004500.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004502.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004504.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004506.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004508.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004509.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004510.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004511.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004512.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004513.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004514.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004515.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004516.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004518.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004520.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004522.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004524.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004525.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004526.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004527.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004528.1": {
+  "current": "liver",
+  "similiar_terms": []
+ },
+ "IHECRE00004530.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004532.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004534.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004536.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004538.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004540.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004542.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004544.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004554.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004556.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004558.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004560.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004562.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004564.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004566.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004568.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004570.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004572.1": {
+  "current": "non parenchymal",
+  "similiar_terms": [
+   {
+    "ontology_curie": "obsolete parenchymal cell",
+    "term_name": "CL:0000668"
+   }
+  ]
+ },
+ "IHECRE00004592.1": [],
+ "IHECRE00004594.1": [],
+ "IHECRE00004596.1": {
+  "current": "bTS11",
+  "similiar_terms": [
+   {
+    "ontology_curie": "HT115",
+    "term_name": "EFO:0006442"
+   }
+  ]
+ },
+ "IHECRE00004597.1": {
+  "current": "bTS11",
+  "similiar_terms": [
+   {
+    "ontology_curie": "HT115",
+    "term_name": "EFO:0006442"
+   }
+  ]
+ },
+ "IHECRE00004598.1": {
+  "current": "bTS11",
+  "similiar_terms": [
+   {
+    "ontology_curie": "HT115",
+    "term_name": "EFO:0006442"
+   }
+  ]
+ },
+ "IHECRE00004599.1": {
+  "current": "CT27",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CFT-2",
+    "term_name": "EFO:0001102"
+   },
+   {
+    "ontology_curie": "HGC-27",
+    "term_name": "EFO:0006581"
+   },
+   {
+    "ontology_curie": "HCC827",
+    "term_name": "EFO:0003137"
+   }
+  ]
+ },
+ "IHECRE00004600.1": {
+  "current": "CT27",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CFT-2",
+    "term_name": "EFO:0001102"
+   },
+   {
+    "ontology_curie": "HGC-27",
+    "term_name": "EFO:0006581"
+   },
+   {
+    "ontology_curie": "HCC827",
+    "term_name": "EFO:0003137"
+   }
+  ]
+ },
+ "IHECRE00004601.1": {
+  "current": "CT27",
+  "similiar_terms": [
+   {
+    "ontology_curie": "CFT-2",
+    "term_name": "EFO:0001102"
+   },
+   {
+    "ontology_curie": "HGC-27",
+    "term_name": "EFO:0006581"
+   },
+   {
+    "ontology_curie": "HCC827",
+    "term_name": "EFO:0003137"
+   }
+  ]
+ },
+ "IHECRE00004603.3": {
+  "current": "luminal progenitor cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "retinal progenitor cell",
+    "term_name": "CL:0002672"
+   },
+   {
+    "ontology_curie": "neural progenitor cell",
+    "term_name": "CL:0011020"
+   },
+   {
+    "ontology_curie": "progenitor cell",
+    "term_name": "CL:0011026"
+   }
+  ]
+ },
+ "IHECRE00004606.2": {
+  "current": "luminal progenitor cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "retinal progenitor cell",
+    "term_name": "CL:0002672"
+   },
+   {
+    "ontology_curie": "neural progenitor cell",
+    "term_name": "CL:0011020"
+   },
+   {
+    "ontology_curie": "progenitor cell",
+    "term_name": "CL:0011026"
+   }
+  ]
+ },
+ "IHECRE00004607.2": {
+  "current": "luminal cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "glial cell",
+    "term_name": "CL:0000125"
+   },
+   {
+    "ontology_curie": "mitral cell",
+    "term_name": "CL:1001502"
+   },
+   {
+    "ontology_curie": "luteal cell",
+    "term_name": "CL:0000175"
+   }
+  ]
+ },
+ "IHECRE00004875.1": {
+  "current": "breast variant human mammary epithelial cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "respiratory epithelial cell",
+    "term_name": "CL:0002368"
+   },
+   {
+    "ontology_curie": "ovarian surface epithelial cell",
+    "term_name": "CL:2000064"
+   },
+   {
+    "ontology_curie": "simple columnar epithelial cell",
+    "term_name": "CL:0000146"
+   }
+  ]
+ },
+ "IHECRE00004876.1": {
+  "current": "placenta (trophoblast) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "aorta elastic tissue",
+    "term_name": "UBERON:0003609"
+   },
+   {
+    "ontology_curie": "placenta blood vessel",
+    "term_name": "UBERON:0022358"
+   }
+  ]
+ },
+ "IHECRE00004877.1": {
+  "current": "placenta (amniotic membrane) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "placental membrane",
+    "term_name": "UBERON:0009002"
+   }
+  ]
+ },
+ "IHECRE00004878.1": {
+  "current": "brain (brodmann 11) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "brain commissure",
+    "term_name": "UBERON:0005970"
+   }
+  ]
+ },
+ "IHECRE00004879.1": {
+  "current": "placenta (smooth chorionic membrane) tissue",
+  "similiar_terms": []
+ },
+ "IHECRE00004880.1": {
+  "current": "placenta (basal plate and villi) tissue",
+  "similiar_terms": []
+ },
+ "IHECRE00004881.1": {
+  "current": "brain (cerebellum) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "cerebellum fissure",
+    "term_name": "UBERON:0003980"
+   },
+   {
+    "ontology_curie": "brain commissure",
+    "term_name": "UBERON:0005970"
+   },
+   {
+    "ontology_curie": "cerebellum lobule",
+    "term_name": "UBERON:0004004"
+   }
+  ]
+ },
+ "IHECRE00004882.1": {
+  "current": "brain (brodmann 11) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "brain commissure",
+    "term_name": "UBERON:0005970"
+   }
+  ]
+ },
+ "IHECRE00004883.1": {
+  "current": "placenta (villi) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "adrenal tissue",
+    "term_name": "UBERON:0018303"
+   },
+   {
+    "ontology_curie": "placenta blood vessel",
+    "term_name": "UBERON:0022358"
+   },
+   {
+    "ontology_curie": "trachea elastic tissue",
+    "term_name": "UBERON:0003617"
+   }
+  ]
+ },
+ "IHECRE00004884.1": {
+  "current": "placenta (basal plate and villi) tissue",
+  "similiar_terms": []
+ },
+ "IHECRE00004886.1": {
+  "current": "placenta (smooth chorionic membrane) tissue",
+  "similiar_terms": []
+ },
+ "IHECRE00004887.1": {
+  "current": "ganglionic eminence neural stem and progenitor cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "hematopoietic lineage restricted progenitor cell",
+    "term_name": "CL:0002031"
+   }
+  ]
+ },
+ "IHECRE00004890.1": {
+  "current": "placenta (trophoblast) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "aorta elastic tissue",
+    "term_name": "UBERON:0003609"
+   },
+   {
+    "ontology_curie": "placenta blood vessel",
+    "term_name": "UBERON:0022358"
+   }
+  ]
+ },
+ "IHECRE00004891.1": {
+  "current": "placenta (smooth chorionic membrane) tissue",
+  "similiar_terms": []
+ },
+ "IHECRE00004892.1": {
+  "current": "brain (hippocampus) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "brown adipose tissue",
+    "term_name": "UBERON:0001348"
+   },
+   {
+    "ontology_curie": "hippocampal commissure",
+    "term_name": "UBERON:0000908"
+   },
+   {
+    "ontology_curie": "brain commissure",
+    "term_name": "UBERON:0005970"
+   }
+  ]
+ },
+ "IHECRE00004893.1": {
+  "current": "breast luminal epithelial cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "intestinal epithelial cell",
+    "term_name": "CL:0002563"
+   },
+   {
+    "ontology_curie": "bronchial epithelial cell",
+    "term_name": "CL:0002328"
+   },
+   {
+    "ontology_curie": "corneal epithelial cell",
+    "term_name": "CL:0000575"
+   }
+  ]
+ },
+ "IHECRE00004894.1": {
+  "current": "ganglionic eminence neural stem and progenitor cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "hematopoietic lineage restricted progenitor cell",
+    "term_name": "CL:0002031"
+   }
+  ]
+ },
+ "IHECRE00004895.1": {
+  "current": "cortex neural stem and progenitor cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "neural progenitor cell",
+    "term_name": "CL:0011020"
+   },
+   {
+    "ontology_curie": "retinal progenitor cell",
+    "term_name": "CL:0002672"
+   },
+   {
+    "ontology_curie": "obsolete osteoprogenitor cell",
+    "term_name": "CL:0000375"
+   }
+  ]
+ },
+ "IHECRE00004896.1": {
+  "current": "breast myoepithelial cell",
+  "similiar_terms": [
+   {
+    "ontology_curie": "myoepithelial cell",
+    "term_name": "CL:0000185"
+   },
+   {
+    "ontology_curie": "lens epithelial cell",
+    "term_name": "CL:0002224"
+   },
+   {
+    "ontology_curie": "ecto-epithelial cell",
+    "term_name": "CL:0002077"
+   }
+  ]
+ },
+ "IHECRE00004897.1": {
+  "current": "placenta (villi) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "adrenal tissue",
+    "term_name": "UBERON:0018303"
+   },
+   {
+    "ontology_curie": "placenta blood vessel",
+    "term_name": "UBERON:0022358"
+   },
+   {
+    "ontology_curie": "trachea elastic tissue",
+    "term_name": "UBERON:0003617"
+   }
+  ]
+ },
+ "IHECRE00004899.1": {
+  "current": "brain (insular) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "reticular tissue",
+    "term_name": "UBERON:0006804"
+   },
+   {
+    "ontology_curie": "granulation tissue",
+    "term_name": "UBERON:0010211"
+   },
+   {
+    "ontology_curie": "inner fin tissue",
+    "term_name": "UBERON:3010379"
+   }
+  ]
+ },
+ "IHECRE00004900.1": {
+  "current": "placenta (villi) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "adrenal tissue",
+    "term_name": "UBERON:0018303"
+   },
+   {
+    "ontology_curie": "placenta blood vessel",
+    "term_name": "UBERON:0022358"
+   },
+   {
+    "ontology_curie": "trachea elastic tissue",
+    "term_name": "UBERON:0003617"
+   }
+  ]
+ },
+ "IHECRE00004902.1": {
+  "current": "cortex neural stem and progenitor cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "neural progenitor cell",
+    "term_name": "CL:0011020"
+   },
+   {
+    "ontology_curie": "retinal progenitor cell",
+    "term_name": "CL:0002672"
+   },
+   {
+    "ontology_curie": "obsolete osteoprogenitor cell",
+    "term_name": "CL:0000375"
+   }
+  ]
+ },
+ "IHECRE00004903.1": {
+  "current": "placenta (trophoblast) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "aorta elastic tissue",
+    "term_name": "UBERON:0003609"
+   },
+   {
+    "ontology_curie": "placenta blood vessel",
+    "term_name": "UBERON:0022358"
+   }
+  ]
+ },
+ "IHECRE00004904.1": {
+  "current": "cortex neural stem and progenitor cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "neural progenitor cell",
+    "term_name": "CL:0011020"
+   },
+   {
+    "ontology_curie": "retinal progenitor cell",
+    "term_name": "CL:0002672"
+   },
+   {
+    "ontology_curie": "obsolete osteoprogenitor cell",
+    "term_name": "CL:0000375"
+   }
+  ]
+ },
+ "IHECRE00004906.1": {
+  "current": "brain (cerebellum) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "cerebellum fissure",
+    "term_name": "UBERON:0003980"
+   },
+   {
+    "ontology_curie": "brain commissure",
+    "term_name": "UBERON:0005970"
+   },
+   {
+    "ontology_curie": "cerebellum lobule",
+    "term_name": "UBERON:0004004"
+   }
+  ]
+ },
+ "IHECRE00004908.1": {
+  "current": "placenta (basal plate and villi) tissue",
+  "similiar_terms": []
+ },
+ "IHECRE00004909.1": {
+  "current": "brain (germinal matrix) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "brain gray matter",
+    "term_name": "UBERON:0003528"
+   },
+   {
+    "ontology_curie": "bronchus elastic tissue",
+    "term_name": "UBERON:0003616"
+   }
+  ]
+ },
+ "IHECRE00004910.1": {
+  "current": "ganglionic eminence neural stem and progenitor cells",
+  "similiar_terms": [
+   {
+    "ontology_curie": "hematopoietic lineage restricted progenitor cell",
+    "term_name": "CL:0002031"
+   }
+  ]
+ },
+ "IHECRE00004911.1": {
+  "current": "brain (cerebellum) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "cerebellum fissure",
+    "term_name": "UBERON:0003980"
+   },
+   {
+    "ontology_curie": "brain commissure",
+    "term_name": "UBERON:0005970"
+   },
+   {
+    "ontology_curie": "cerebellum lobule",
+    "term_name": "UBERON:0004004"
+   }
+  ]
+ },
+ "IHECRE00004912.1": {
+  "current": "placenta (amniotic membrane) tissue",
+  "similiar_terms": [
+   {
+    "ontology_curie": "placental membrane",
+    "term_name": "UBERON:0009002"
+   }
+  ]
+ }
+}
