@@ -1,0 +1,3152 @@
+{
+ "IHECRE00000924":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000924.6",
+   "('EpiRR', 'other')":"IHECRE00000924.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000925":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000925.6",
+   "('EpiRR', 'other')":"IHECRE00000925.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000926":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000926.5",
+   "('EpiRR', 'other')":"IHECRE00000926.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD34+",
+   "('origin_sample', 'self')":"common myeloid progenitor, CD34-positive"
+  }
+ ],
+ "IHECRE00000927":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000927.5",
+   "('EpiRR', 'other')":"IHECRE00000927.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000928":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000928.6",
+   "('EpiRR', 'other')":"IHECRE00000928.7",
+   "('disease_ontology_term', 'self')":"ncim:C0005586::ncim:C2749754",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000929":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000929.6",
+   "('EpiRR', 'other')":"IHECRE00000929.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000930":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000930.5",
+   "('EpiRR', 'other')":"IHECRE00000930.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"T-cell"
+  }
+ ],
+ "IHECRE00000931":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000931.6",
+   "('EpiRR', 'other')":"IHECRE00000931.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000932":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000932.5",
+   "('EpiRR', 'other')":"IHECRE00000932.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD34+",
+   "('origin_sample', 'self')":"common myeloid progenitor, CD34-positive"
+  }
+ ],
+ "IHECRE00000933":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000933.6",
+   "('EpiRR', 'other')":"IHECRE00000933.7",
+   "('cell_type', 'self')":"neuronal stem cell",
+   "('cell_type', 'other')":"neurosphere",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000934":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000934.6",
+   "('EpiRR', 'other')":"IHECRE00000934.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000935":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000935.5",
+   "('EpiRR', 'other')":"IHECRE00000935.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD14+",
+   "('origin_sample', 'self')":"CD14-positive monocyte"
+  }
+ ],
+ "IHECRE00000936":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000936.6",
+   "('EpiRR', 'other')":"IHECRE00000936.7",
+   "('disease_ontology_term', 'self')":"ncim:C0747752",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000937":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000937.6",
+   "('EpiRR', 'other')":"IHECRE00000937.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"mammary epithelial cell"
+  }
+ ],
+ "IHECRE00000938":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000938.6",
+   "('EpiRR', 'other')":"IHECRE00000938.7",
+   "('disease_ontology_term', 'self')":"ncim:C0747752",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000939":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000939.5",
+   "('EpiRR', 'other')":"IHECRE00000939.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000940":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000940.5",
+   "('EpiRR', 'other')":"IHECRE00000940.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000941":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000941.5",
+   "('EpiRR', 'other')":"IHECRE00000941.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000942":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000942.5",
+   "('EpiRR', 'other')":"IHECRE00000942.6",
+   "('disease_ontology_term', 'self')":"ncim:C0747752",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000943":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000943.6",
+   "('EpiRR', 'other')":"IHECRE00000943.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"mesenchymal stem cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo000aaw",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"mesenchymal stem cell",
+   "('sample_ontology_term', 'other')":"cl:0000134"
+  }
+ ],
+ "IHECRE00000944":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000944.5",
+   "('EpiRR', 'other')":"IHECRE00000944.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000945":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000945.6",
+   "('EpiRR', 'other')":"IHECRE00000945.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000946":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000946.6",
+   "('EpiRR', 'other')":"IHECRE00000946.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"foreskin keratinocyte"
+  }
+ ],
+ "IHECRE00000947":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000947.6",
+   "('EpiRR', 'other')":"IHECRE00000947.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000948":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000948.5",
+   "('EpiRR', 'other')":"IHECRE00000948.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000949":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000949.5",
+   "('EpiRR', 'other')":"IHECRE00000949.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000950":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000950.6",
+   "('EpiRR', 'other')":"IHECRE00000950.7",
+   "('disease_ontology_term', 'self')":"ncim:C0029443",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000951":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000951.6",
+   "('EpiRR', 'other')":"IHECRE00000951.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"neutrophil"
+  }
+ ],
+ "IHECRE00000952":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000952.5",
+   "('EpiRR', 'other')":"IHECRE00000952.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000953":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000953.6",
+   "('EpiRR', 'other')":"IHECRE00000953.7",
+   "('disease_ontology_term', 'self')":"ncim:C0747752",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000954":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000954.5",
+   "('EpiRR', 'other')":"IHECRE00000954.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+"
+  }
+ ],
+ "IHECRE00000955":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000955.5",
+   "('EpiRR', 'other')":"IHECRE00000955.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000956":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000956.6",
+   "('EpiRR', 'other')":"IHECRE00000956.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"foreskin fibroblast"
+  }
+ ],
+ "IHECRE00000957":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000957.6",
+   "('EpiRR', 'other')":"IHECRE00000957.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000958":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000958.5",
+   "('EpiRR', 'other')":"IHECRE00000958.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"T-helper 17 cell"
+  }
+ ],
+ "IHECRE00000959":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000959.5",
+   "('EpiRR', 'other')":"IHECRE00000959.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"myoepithelial cell of mammary gland"
+  }
+ ],
+ "IHECRE00000960":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000960.5",
+   "('EpiRR', 'other')":"IHECRE00000960.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000961":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000961.5",
+   "('EpiRR', 'other')":"IHECRE00000961.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000962":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000962.6",
+   "('EpiRR', 'other')":"IHECRE00000962.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000963":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000963.5",
+   "('EpiRR', 'other')":"IHECRE00000963.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000964":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000964.6",
+   "('EpiRR', 'other')":"IHECRE00000964.7",
+   "('disease_ontology_term', 'self')":"ncim:C0005586::ncim:C2749754",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000965":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000965.6",
+   "('EpiRR', 'other')":"IHECRE00000965.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000966":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000966.6",
+   "('EpiRR', 'other')":"IHECRE00000966.7",
+   "('disease_ontology_term', 'self')":"ncim:C1510475",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000967":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000967.5",
+   "('EpiRR', 'other')":"IHECRE00000967.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD8+",
+   "('origin_sample', 'self')":"CD8-positive, alpha-beta memory T cell"
+  }
+ ],
+ "IHECRE00000968":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000968.5",
+   "('EpiRR', 'other')":"IHECRE00000968.6",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"59",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"adipocyte",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"year",
+   "('donor_id', 'other')":"encdo477hwz",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"adult",
+   "('line', 'self')":"adipocyte",
+   "('sample_ontology_term', 'other')":"cl:0000136"
+  }
+ ],
+ "IHECRE00000969":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000969.6",
+   "('EpiRR', 'other')":"IHECRE00000969.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000970":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000970.6",
+   "('EpiRR', 'other')":"IHECRE00000970.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"ectodermal cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo424ftp",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"ectodermal cell",
+   "('sample_ontology_term', 'other')":"cl:0000221"
+  }
+ ],
+ "IHECRE00000971":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000971.5",
+   "('EpiRR', 'other')":"IHECRE00000971.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+ CD25+",
+   "('origin_sample', 'self')":"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+  }
+ ],
+ "IHECRE00000972":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000972.5",
+   "('EpiRR', 'other')":"IHECRE00000972.6",
+   "('disease_ontology_term', 'self')":"ncim:C0747752",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000973":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000973.5",
+   "('EpiRR', 'other')":"IHECRE00000973.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+",
+   "('origin_sample', 'self')":"CD4-positive, alpha-beta T cell"
+  }
+ ],
+ "IHECRE00000974":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000974.6",
+   "('EpiRR', 'other')":"IHECRE00000974.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"trophoblast cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo000aaw",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"trophoblast cell",
+   "('sample_ontology_term', 'other')":"cl:0000351"
+  }
+ ],
+ "IHECRE00000975":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000975.6",
+   "('EpiRR', 'other')":"IHECRE00000975.8",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"foreskin melanocyte"
+  }
+ ],
+ "IHECRE00000976":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000976.5",
+   "('EpiRR', 'other')":"IHECRE00000976.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"B cell"
+  }
+ ],
+ "IHECRE00000977":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000977.5",
+   "('EpiRR', 'other')":"IHECRE00000977.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"mesodermal cell",
+   "('sample_ontology_term', 'self')":"cl:0000222::cl:0000594",
+   "('sample_ontology_term', 'other')":"cl:0000594"
+  }
+ ],
+ "IHECRE00000978":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000978.5",
+   "('EpiRR', 'other')":"IHECRE00000978.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+"
+  }
+ ],
+ "IHECRE00000979":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000979.5",
+   "('EpiRR', 'other')":"IHECRE00000979.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"natural killer cell"
+  }
+ ],
+ "IHECRE00000980":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000980.7",
+   "('EpiRR', 'other')":"IHECRE00000980.8",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000981":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000981.5",
+   "('EpiRR', 'other')":"IHECRE00000981.6",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"mesodermal cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo424ftp",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"mesodermal cell",
+   "('sample_ontology_term', 'other')":"cl:0000222"
+  }
+ ],
+ "IHECRE00000982":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000982.5",
+   "('EpiRR', 'other')":"IHECRE00000982.6",
+   "('disease_ontology_term', 'self')":"ncim:C0235974",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000983":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000983.6",
+   "('EpiRR', 'other')":"IHECRE00000983.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000984":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000984.5",
+   "('EpiRR', 'other')":"IHECRE00000984.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+",
+   "('origin_sample', 'self')":"naive thymus-derived CD4-positive, alpha-beta T cell"
+  }
+ ],
+ "IHECRE00000985":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000985.6",
+   "('EpiRR', 'other')":"IHECRE00000985.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000986":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000986.5",
+   "('EpiRR', 'other')":"IHECRE00000986.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000987":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000987.5",
+   "('EpiRR', 'other')":"IHECRE00000987.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000988":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000988.5",
+   "('EpiRR', 'other')":"IHECRE00000988.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000989":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000989.6",
+   "('EpiRR', 'other')":"IHECRE00000989.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD34+",
+   "('origin_sample', 'self')":"common myeloid progenitor, CD34-positive"
+  }
+ ],
+ "IHECRE00000990":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000990.5",
+   "('EpiRR', 'other')":"IHECRE00000990.6",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"neuronal stem cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"neuronal stem cell",
+   "('sample_ontology_term', 'other')":"cl:0000047"
+  }
+ ],
+ "IHECRE00000991":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000991.5",
+   "('EpiRR', 'other')":"IHECRE00000991.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000992":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000992.6",
+   "('EpiRR', 'other')":"IHECRE00000992.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"neuronal stem cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo000aaw",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"neuronal stem cell",
+   "('sample_ontology_term', 'other')":"cl:0000047"
+  }
+ ],
+ "IHECRE00000993":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000993.5",
+   "('EpiRR', 'other')":"IHECRE00000993.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000994":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000994.6",
+   "('EpiRR', 'other')":"IHECRE00000994.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"foreskin keratinocyte"
+  }
+ ],
+ "IHECRE00000995":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000995.5",
+   "('EpiRR', 'other')":"IHECRE00000995.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000996":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000996.5",
+   "('EpiRR', 'other')":"IHECRE00000996.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000997":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000997.6",
+   "('EpiRR', 'other')":"IHECRE00000997.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000998":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000998.6",
+   "('EpiRR', 'other')":"IHECRE00000998.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00000999":[
+  {
+   "('EpiRR', 'self')":"IHECRE00000999.6",
+   "('EpiRR', 'other')":"IHECRE00000999.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001000":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001000.6",
+   "('EpiRR', 'other')":"IHECRE00001000.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001001":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001001.5",
+   "('EpiRR', 'other')":"IHECRE00001001.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+",
+   "('origin_sample', 'self')":"CD4-positive, alpha-beta T cell"
+  }
+ ],
+ "IHECRE00001023":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001023.6",
+   "('EpiRR', 'other')":"IHECRE00001023.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"mesendoderm",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo000aaw",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"mesendoderm",
+   "('sample_ontology_term', 'other')":"cl:0000222"
+  }
+ ],
+ "IHECRE00001024":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001024.6",
+   "('EpiRR', 'other')":"IHECRE00001024.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"peripheral blood mononuclear cell"
+  }
+ ],
+ "IHECRE00001025":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001025.6",
+   "('EpiRR', 'other')":"IHECRE00001025.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001026":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001026.6",
+   "('EpiRR', 'other')":"IHECRE00001026.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"foreskin melanocyte"
+  }
+ ],
+ "IHECRE00001027":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001027.6",
+   "('EpiRR', 'other')":"IHECRE00001027.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001029":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001029.6",
+   "('EpiRR', 'other')":"IHECRE00001029.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001030":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001030.6",
+   "('EpiRR', 'other')":"IHECRE00001030.7",
+   "('disease_ontology_term', 'self')":"ncim:C0747752",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001031":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001031.5",
+   "('EpiRR', 'other')":"IHECRE00001031.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001032":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001032.5",
+   "('EpiRR', 'other')":"IHECRE00001032.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001033":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001033.6",
+   "('EpiRR', 'other')":"IHECRE00001033.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"foreskin fibroblast"
+  }
+ ],
+ "IHECRE00001034":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001034.6",
+   "('EpiRR', 'other')":"IHECRE00001034.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD8+",
+   "('origin_sample', 'self')":"CD8-positive, alpha-beta T cell"
+  }
+ ],
+ "IHECRE00001035":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001035.5",
+   "('EpiRR', 'other')":"IHECRE00001035.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001036":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001036.5",
+   "('EpiRR', 'other')":"IHECRE00001036.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+",
+   "('origin_sample', 'self')":"naive thymus-derived CD4-positive, alpha-beta T cell"
+  }
+ ],
+ "IHECRE00001037":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001037.5",
+   "('EpiRR', 'other')":"IHECRE00001037.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001038":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001038.5",
+   "('EpiRR', 'other')":"IHECRE00001038.6",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"neuron",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"neuron",
+   "('sample_ontology_term', 'other')":"cl:0000540"
+  }
+ ],
+ "IHECRE00001039":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001039.5",
+   "('EpiRR', 'other')":"IHECRE00001039.6",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"endodermal cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo424ftp",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"endodermal cell",
+   "('sample_ontology_term', 'other')":"cl:0000223"
+  }
+ ],
+ "IHECRE00001040":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001040.5",
+   "('EpiRR', 'other')":"IHECRE00001040.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001041":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001041.6",
+   "('EpiRR', 'other')":"IHECRE00001041.8",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001043":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001043.6",
+   "('EpiRR', 'other')":"IHECRE00001043.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001044":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001044.6",
+   "('EpiRR', 'other')":"IHECRE00001044.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD34+",
+   "('origin_sample', 'self')":"common myeloid progenitor, CD34-positive"
+  }
+ ],
+ "IHECRE00001045":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001045.6",
+   "('EpiRR', 'other')":"IHECRE00001045.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001046":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001046.6",
+   "('EpiRR', 'other')":"IHECRE00001046.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"T-cell"
+  }
+ ],
+ "IHECRE00001047":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001047.6",
+   "('EpiRR', 'other')":"IHECRE00001047.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001048":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001048.5",
+   "('EpiRR', 'other')":"IHECRE00001048.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001049":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001049.6",
+   "('EpiRR', 'other')":"IHECRE00001049.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001050":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001050.6",
+   "('EpiRR', 'other')":"IHECRE00001050.8",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001051":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001051.6",
+   "('EpiRR', 'other')":"IHECRE00001051.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"B cell"
+  }
+ ],
+ "IHECRE00001052":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001052.5",
+   "('EpiRR', 'other')":"IHECRE00001052.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD4+"
+  }
+ ],
+ "IHECRE00001053":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001053.6",
+   "('EpiRR', 'other')":"IHECRE00001053.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001054":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001054.6",
+   "('EpiRR', 'other')":"IHECRE00001054.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001055":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001055.6",
+   "('EpiRR', 'other')":"IHECRE00001055.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001772":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001772.5",
+   "('EpiRR', 'other')":"IHECRE00001772.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001773":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001773.5",
+   "('EpiRR', 'other')":"IHECRE00001773.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001774":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001774.5",
+   "('EpiRR', 'other')":"IHECRE00001774.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001775":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001775.5",
+   "('EpiRR', 'other')":"IHECRE00001775.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001776":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001776.5",
+   "('EpiRR', 'other')":"IHECRE00001776.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001777":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001777.5",
+   "('EpiRR', 'other')":"IHECRE00001777.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001778":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001778.5",
+   "('EpiRR', 'other')":"IHECRE00001778.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001779":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001779.5",
+   "('EpiRR', 'other')":"IHECRE00001779.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001780":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001780.5",
+   "('EpiRR', 'other')":"IHECRE00001780.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001781":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001781.5",
+   "('EpiRR', 'other')":"IHECRE00001781.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001782":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001782.5",
+   "('EpiRR', 'other')":"IHECRE00001782.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001783":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001783.5",
+   "('EpiRR', 'other')":"IHECRE00001783.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001784":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001784.5",
+   "('EpiRR', 'other')":"IHECRE00001784.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001785":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001785.5",
+   "('EpiRR', 'other')":"IHECRE00001785.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001786":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001786.5",
+   "('EpiRR', 'other')":"IHECRE00001786.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001787":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001787.5",
+   "('EpiRR', 'other')":"IHECRE00001787.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001788":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001788.5",
+   "('EpiRR', 'other')":"IHECRE00001788.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001789":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001789.5",
+   "('EpiRR', 'other')":"IHECRE00001789.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001790":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001790.5",
+   "('EpiRR', 'other')":"IHECRE00001790.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001791":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001791.5",
+   "('EpiRR', 'other')":"IHECRE00001791.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001792":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001792.5",
+   "('EpiRR', 'other')":"IHECRE00001792.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001793":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001793.5",
+   "('EpiRR', 'other')":"IHECRE00001793.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001794":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001794.5",
+   "('EpiRR', 'other')":"IHECRE00001794.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001795":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001795.5",
+   "('EpiRR', 'other')":"IHECRE00001795.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001796":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001796.5",
+   "('EpiRR', 'other')":"IHECRE00001796.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001797":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001797.5",
+   "('EpiRR', 'other')":"IHECRE00001797.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001798":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001798.5",
+   "('EpiRR', 'other')":"IHECRE00001798.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001799":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001799.5",
+   "('EpiRR', 'other')":"IHECRE00001799.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001800":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001800.5",
+   "('EpiRR', 'other')":"IHECRE00001800.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001801":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001801.5",
+   "('EpiRR', 'other')":"IHECRE00001801.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001802":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001802.5",
+   "('EpiRR', 'other')":"IHECRE00001802.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001803":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001803.5",
+   "('EpiRR', 'other')":"IHECRE00001803.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001804":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001804.5",
+   "('EpiRR', 'other')":"IHECRE00001804.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001805":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001805.5",
+   "('EpiRR', 'other')":"IHECRE00001805.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001806":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001806.5",
+   "('EpiRR', 'other')":"IHECRE00001806.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001807":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001807.5",
+   "('EpiRR', 'other')":"IHECRE00001807.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001808":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001808.5",
+   "('EpiRR', 'other')":"IHECRE00001808.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001809":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001809.5",
+   "('EpiRR', 'other')":"IHECRE00001809.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001810":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001810.5",
+   "('EpiRR', 'other')":"IHECRE00001810.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001811":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001811.5",
+   "('EpiRR', 'other')":"IHECRE00001811.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001812":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001812.5",
+   "('EpiRR', 'other')":"IHECRE00001812.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001813":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001813.5",
+   "('EpiRR', 'other')":"IHECRE00001813.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001814":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001814.5",
+   "('EpiRR', 'other')":"IHECRE00001814.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001815":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001815.5",
+   "('EpiRR', 'other')":"IHECRE00001815.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001816":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001816.5",
+   "('EpiRR', 'other')":"IHECRE00001816.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001817":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001817.5",
+   "('EpiRR', 'other')":"IHECRE00001817.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001818":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001818.5",
+   "('EpiRR', 'other')":"IHECRE00001818.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001819":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001819.5",
+   "('EpiRR', 'other')":"IHECRE00001819.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001820":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001820.5",
+   "('EpiRR', 'other')":"IHECRE00001820.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001821":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001821.5",
+   "('EpiRR', 'other')":"IHECRE00001821.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001822":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001822.5",
+   "('EpiRR', 'other')":"IHECRE00001822.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001823":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001823.5",
+   "('EpiRR', 'other')":"IHECRE00001823.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001824":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001824.5",
+   "('EpiRR', 'other')":"IHECRE00001824.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001825":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001825.5",
+   "('EpiRR', 'other')":"IHECRE00001825.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001826":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001826.5",
+   "('EpiRR', 'other')":"IHECRE00001826.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001827":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001827.5",
+   "('EpiRR', 'other')":"IHECRE00001827.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001828":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001828.5",
+   "('EpiRR', 'other')":"IHECRE00001828.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001829":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001829.5",
+   "('EpiRR', 'other')":"IHECRE00001829.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001830":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001830.5",
+   "('EpiRR', 'other')":"IHECRE00001830.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001831":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001831.5",
+   "('EpiRR', 'other')":"IHECRE00001831.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001832":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001832.5",
+   "('EpiRR', 'other')":"IHECRE00001832.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001833":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001833.5",
+   "('EpiRR', 'other')":"IHECRE00001833.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001834":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001834.5",
+   "('EpiRR', 'other')":"IHECRE00001834.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001835":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001835.5",
+   "('EpiRR', 'other')":"IHECRE00001835.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001836":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001836.5",
+   "('EpiRR', 'other')":"IHECRE00001836.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001837":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001837.5",
+   "('EpiRR', 'other')":"IHECRE00001837.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001838":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001838.5",
+   "('EpiRR', 'other')":"IHECRE00001838.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001839":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001839.5",
+   "('EpiRR', 'other')":"IHECRE00001839.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001840":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001840.5",
+   "('EpiRR', 'other')":"IHECRE00001840.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001841":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001841.5",
+   "('EpiRR', 'other')":"IHECRE00001841.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001842":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001842.5",
+   "('EpiRR', 'other')":"IHECRE00001842.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001843":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001843.5",
+   "('EpiRR', 'other')":"IHECRE00001843.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001844":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001844.5",
+   "('EpiRR', 'other')":"IHECRE00001844.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001845":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001845.5",
+   "('EpiRR', 'other')":"IHECRE00001845.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001846":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001846.5",
+   "('EpiRR', 'other')":"IHECRE00001846.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001847":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001847.5",
+   "('EpiRR', 'other')":"IHECRE00001847.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001848":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001848.5",
+   "('EpiRR', 'other')":"IHECRE00001848.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001849":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001849.5",
+   "('EpiRR', 'other')":"IHECRE00001849.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001850":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001850.5",
+   "('EpiRR', 'other')":"IHECRE00001850.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001851":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001851.5",
+   "('EpiRR', 'other')":"IHECRE00001851.6",
+   "('disease_ontology_term', 'self')":"ncim:C1334053",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001852":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001852.5",
+   "('EpiRR', 'other')":"IHECRE00001852.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"hepatocyte",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"hepatocyte",
+   "('sample_ontology_term', 'other')":"cl:0000182"
+  }
+ ],
+ "IHECRE00001853":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001853.5",
+   "('EpiRR', 'other')":"IHECRE00001853.6",
+   "('disease_ontology_term', 'self')":"ncim:C1134719",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001854":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001854.5",
+   "('EpiRR', 'other')":"IHECRE00001854.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001856":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001856.5",
+   "('EpiRR', 'other')":"IHECRE00001856.6",
+   "('disease_ontology_term', 'self')":"ncim:C1333295",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001857":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001857.5",
+   "('EpiRR', 'other')":"IHECRE00001857.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('markers', 'self')":"CD14+",
+   "('origin_sample', 'self')":"CD14-positive monocyte"
+  }
+ ],
+ "IHECRE00001858":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001858.5",
+   "('EpiRR', 'other')":"IHECRE00001858.6",
+   "('disease_ontology_term', 'self')":"ncim:C1335302",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001859":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001859.5",
+   "('EpiRR', 'other')":"IHECRE00001859.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001860":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001860.5",
+   "('EpiRR', 'other')":"IHECRE00001860.6",
+   "('disease_ontology_term', 'self')":"ncim:C0279583",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001861":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001861.5",
+   "('EpiRR', 'other')":"IHECRE00001861.7",
+   "('disease_ontology_term', 'self')":"ncim:C1333295",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001881":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001881.5",
+   "('EpiRR', 'other')":"IHECRE00001881.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"endothelial cell of umbilical vein"
+  }
+ ],
+ "IHECRE00001882":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001882.5",
+   "('EpiRR', 'other')":"IHECRE00001882.6",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"myotube",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('line', 'self')":"myotube",
+   "('sample_ontology_term', 'other')":"cl:0002372"
+  }
+ ],
+ "IHECRE00001883":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001883.5",
+   "('EpiRR', 'other')":"IHECRE00001883.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"fibroblast of lung"
+  }
+ ],
+ "IHECRE00001884":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001884.5",
+   "('EpiRR', 'other')":"IHECRE00001884.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"fibroblast of dermis"
+  }
+ ],
+ "IHECRE00001885":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001885.5",
+   "('EpiRR', 'other')":"IHECRE00001885.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"osteoblast"
+  }
+ ],
+ "IHECRE00001886":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001886.5",
+   "('EpiRR', 'other')":"IHECRE00001886.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"keratinocyte"
+  }
+ ],
+ "IHECRE00001887":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001887.5",
+   "('EpiRR', 'other')":"IHECRE00001887.6",
+   "('disease_ontology_term', 'self')":"ncim:C0005699",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001888":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001888.5",
+   "('EpiRR', 'other')":"IHECRE00001888.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"mammary epithelial cell"
+  }
+ ],
+ "IHECRE00001889":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001889.5",
+   "('EpiRR', 'other')":"IHECRE00001889.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001890":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001890.5",
+   "('EpiRR', 'other')":"IHECRE00001890.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"astrocyte"
+  }
+ ],
+ "IHECRE00001891":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001891.5",
+   "('EpiRR', 'other')":"IHECRE00001891.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"skeletal muscle myoblast"
+  }
+ ],
+ "IHECRE00001892":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001892.5",
+   "('EpiRR', 'other')":"IHECRE00001892.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00001893":[
+  {
+   "('EpiRR', 'self')":"IHECRE00001893.5",
+   "('EpiRR', 'other')":"IHECRE00001893.6",
+   "('disease_ontology_term', 'self')":"ncim:C0206624",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003625":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003626":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003627":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003628":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003629":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003630":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003631":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003632":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003633":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003634":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003635":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003636":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003637":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003638":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003639":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003640":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003641":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003642":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003643":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003644":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003645":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003646":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003647":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003648":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003649":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003650":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003651":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003652":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003653":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003654":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003655":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003656":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003657":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003658":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003659":[
+  {
+   "('tissue_type', 'self')":"blood vessel endothelium",
+   "('tissue_type', 'other')":"blood vessel endothelium "
+  }
+ ],
+ "IHECRE00003697":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003697.5",
+   "('EpiRR', 'other')":"IHECRE00003697.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003698":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003698.5",
+   "('EpiRR', 'other')":"IHECRE00003698.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003700":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003700.5",
+   "('EpiRR', 'other')":"IHECRE00003700.7",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003701":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003701.5",
+   "('EpiRR', 'other')":"IHECRE00003701.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003702":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003702.5",
+   "('EpiRR', 'other')":"IHECRE00003702.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"neural progenitor cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"neural progenitor cell",
+   "('sample_ontology_term', 'other')":"cl:0011020"
+  }
+ ],
+ "IHECRE00003703":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003703.5",
+   "('EpiRR', 'other')":"IHECRE00003703.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003704":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003704.5",
+   "('EpiRR', 'other')":"IHECRE00003704.6",
+   "('disease_ontology_term', 'self')":"ncim:C0877849",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003705":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003705.5",
+   "('EpiRR', 'other')":"IHECRE00003705.6",
+   "('disease_ontology_term', 'self')":"ncim:C0026764",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003706":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003706.5",
+   "('EpiRR', 'other')":"IHECRE00003706.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003707":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003707.5",
+   "('EpiRR', 'other')":"IHECRE00003707.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"B cell"
+  }
+ ],
+ "IHECRE00003708":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003708.5",
+   "('EpiRR', 'other')":"IHECRE00003708.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003709":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003709.5",
+   "('EpiRR', 'other')":"IHECRE00003709.7",
+   "('disease_ontology_term', 'self')":"ncim:C0600139",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003710":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003710.5",
+   "('EpiRR', 'other')":"IHECRE00003710.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003711":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003711.5",
+   "('EpiRR', 'other')":"IHECRE00003711.6",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"cardiac muscle cell",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo924hbj",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"cardiac muscle cell",
+   "('sample_ontology_term', 'other')":"cl:0000746"
+  }
+ ],
+ "IHECRE00003712":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003712.5",
+   "('EpiRR', 'other')":"IHECRE00003712.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00003713":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003713.5",
+   "('EpiRR', 'other')":"IHECRE00003713.7",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"53",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"bipolar neuron",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"year",
+   "('donor_id', 'other')":"encdo336aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"adult",
+   "('line', 'self')":"bipolar neuron",
+   "('sample_ontology_term', 'other')":"cl:0000103"
+  }
+ ],
+ "IHECRE00003714":[
+  {
+   "('EpiRR', 'self')":"IHECRE00003714.5",
+   "('EpiRR', 'other')":"IHECRE00003714.7",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004622":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004622.4",
+   "('EpiRR', 'other')":"IHECRE00004622.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004623":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004623.4",
+   "('EpiRR', 'other')":"IHECRE00004623.5",
+   "('disease_ontology_term', 'self')":"ncim:C0279592",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004624":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004624.4",
+   "('EpiRR', 'other')":"IHECRE00004624.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004625":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004625.4",
+   "('EpiRR', 'other')":"IHECRE00004625.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"embryonic fibroblast"
+  }
+ ],
+ "IHECRE00004626":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004626.4",
+   "('EpiRR', 'other')":"IHECRE00004626.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"radial glial cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"radial glial cell",
+   "('sample_ontology_term', 'other')":"cl:0000681"
+  }
+ ],
+ "IHECRE00004627":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004627.4",
+   "('EpiRR', 'other')":"IHECRE00004627.6",
+   "('disease_ontology_term', 'self')":"ncim:C0079744",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004628":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004628.4",
+   "('EpiRR', 'other')":"IHECRE00004628.5",
+   "('disease_ontology_term', 'self')":"ncim:C2751421",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004629":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004629.4",
+   "('EpiRR', 'other')":"IHECRE00004629.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004630":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004630.4",
+   "('EpiRR', 'other')":"IHECRE00004630.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"bone marrow macrophage"
+  }
+ ],
+ "IHECRE00004631":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004631.4",
+   "('EpiRR', 'other')":"IHECRE00004631.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004632":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004632.4",
+   "('EpiRR', 'other')":"IHECRE00004632.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004633":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004633.4",
+   "('EpiRR', 'other')":"IHECRE00004633.5",
+   "('disease_ontology_term', 'self')":"ncim:C0279751",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004634":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004634.4",
+   "('EpiRR', 'other')":"IHECRE00004634.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004635":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004635.4",
+   "('EpiRR', 'other')":"IHECRE00004635.6",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"smooth muscle cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"smooth muscle cell",
+   "('sample_ontology_term', 'other')":"cl:0000192"
+  }
+ ],
+ "IHECRE00004636":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004636.4",
+   "('EpiRR', 'other')":"IHECRE00004636.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004637":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004637.4",
+   "('EpiRR', 'other')":"IHECRE00004637.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004638":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004638.4",
+   "('EpiRR', 'other')":"IHECRE00004638.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"bronchial epithelial cell"
+  }
+ ],
+ "IHECRE00004639":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004639.4",
+   "('EpiRR', 'other')":"IHECRE00004639.5",
+   "('disease_ontology_term', 'self')":"ncim:C0026764",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004640":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004640.4",
+   "('EpiRR', 'other')":"IHECRE00004640.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004641":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004641.4",
+   "('EpiRR', 'other')":"IHECRE00004641.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004642":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004642.4",
+   "('EpiRR', 'other')":"IHECRE00004642.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004643":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004643.4",
+   "('EpiRR', 'other')":"IHECRE00004643.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004644":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004644.4",
+   "('EpiRR', 'other')":"IHECRE00004644.5",
+   "('disease_ontology_term', 'self')":"ncim:C2751421",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004645":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004645.4",
+   "('EpiRR', 'other')":"IHECRE00004645.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"fibroblast of mammary gland"
+  }
+ ],
+ "IHECRE00004646":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004646.4",
+   "('EpiRR', 'other')":"IHECRE00004646.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004647":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004647.4",
+   "('EpiRR', 'other')":"IHECRE00004647.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004648":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004648.4",
+   "('EpiRR', 'other')":"IHECRE00004648.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004649":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004649.4",
+   "('EpiRR', 'other')":"IHECRE00004649.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004650":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004650.4",
+   "('EpiRR', 'other')":"IHECRE00004650.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004651":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004651.4",
+   "('EpiRR', 'other')":"IHECRE00004651.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"mid-neurogenesis radial glial cells",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"mid-neurogenesis radial glial cells",
+   "('sample_ontology_term', 'other')":"cl:0000681"
+  }
+ ],
+ "IHECRE00004652":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004652.4",
+   "('EpiRR', 'other')":"IHECRE00004652.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004653":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004653.4",
+   "('EpiRR', 'other')":"IHECRE00004653.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004654":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004654.4",
+   "('EpiRR', 'other')":"IHECRE00004654.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004655":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004655.4",
+   "('EpiRR', 'other')":"IHECRE00004655.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004656":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004656.4",
+   "('EpiRR', 'other')":"IHECRE00004656.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004657":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004657.4",
+   "('EpiRR', 'other')":"IHECRE00004657.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004658":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004658.4",
+   "('EpiRR', 'other')":"IHECRE00004658.5",
+   "('disease_ontology_term', 'self')":"ncim:C0699790",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004659":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004659.4",
+   "('EpiRR', 'other')":"IHECRE00004659.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004660":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004660.4",
+   "('EpiRR', 'other')":"IHECRE00004660.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004661":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004661.4",
+   "('EpiRR', 'other')":"IHECRE00004661.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004662":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004662.4",
+   "('EpiRR', 'other')":"IHECRE00004662.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"neutrophil"
+  }
+ ],
+ "IHECRE00004663":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004663.4",
+   "('EpiRR', 'other')":"IHECRE00004663.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004664":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004664.4",
+   "('EpiRR', 'other')":"IHECRE00004664.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004665":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004665.4",
+   "('EpiRR', 'other')":"IHECRE00004665.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004666":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004666.4",
+   "('EpiRR', 'other')":"IHECRE00004666.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"cardiac myoblast",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo221aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"cardiac myoblast",
+   "('sample_ontology_term', 'other')":"cl:0010021"
+  }
+ ],
+ "IHECRE00004667":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004667.4",
+   "('EpiRR', 'other')":"IHECRE00004667.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"neural cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo000aaw",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"neural cell",
+   "('sample_ontology_term', 'other')":"cl:0002319"
+  }
+ ],
+ "IHECRE00004668":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004668.4",
+   "('EpiRR', 'other')":"IHECRE00004668.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004669":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004669.4",
+   "('EpiRR', 'other')":"IHECRE00004669.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004670":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004670.4",
+   "('EpiRR', 'other')":"IHECRE00004670.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004671":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004671.4",
+   "('EpiRR', 'other')":"IHECRE00004671.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004672":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004672.4",
+   "('EpiRR', 'other')":"IHECRE00004672.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004673":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004673.4",
+   "('EpiRR', 'other')":"IHECRE00004673.6",
+   "('disease_ontology_term', 'self')":"ncim:C1333295",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004674":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004674.4",
+   "('EpiRR', 'other')":"IHECRE00004674.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004675":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004675.4",
+   "('EpiRR', 'other')":"IHECRE00004675.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004676":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004676.4",
+   "('EpiRR', 'other')":"IHECRE00004676.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004677":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004677.4",
+   "('EpiRR', 'other')":"IHECRE00004677.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"foreskin fibroblast"
+  }
+ ],
+ "IHECRE00004678":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004678.4",
+   "('EpiRR', 'other')":"IHECRE00004678.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"cardiac muscle cell",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo221aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"cardiac muscle cell",
+   "('sample_ontology_term', 'other')":"cl:0000746"
+  }
+ ],
+ "IHECRE00004679":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004679.4",
+   "('EpiRR', 'other')":"IHECRE00004679.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004680":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004680.4",
+   "('EpiRR', 'other')":"IHECRE00004680.6",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004681":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004681.4",
+   "('EpiRR', 'other')":"IHECRE00004681.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004682":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004682.4",
+   "('EpiRR', 'other')":"IHECRE00004682.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004683":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004683.4",
+   "('EpiRR', 'other')":"IHECRE00004683.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004684":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004684.4",
+   "('EpiRR', 'other')":"IHECRE00004684.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004685":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004685.4",
+   "('EpiRR', 'other')":"IHECRE00004685.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"mesodermal cell",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo221aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"mesodermal cell",
+   "('sample_ontology_term', 'other')":"cl:0000222"
+  }
+ ],
+ "IHECRE00004686":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004686.4",
+   "('EpiRR', 'other')":"IHECRE00004686.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"0-10",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"cardiovascular progenitor cell",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"week",
+   "('donor_id', 'other')":"encdo221aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"cardiovascular progenitor cell",
+   "('sample_ontology_term', 'other')":"cl:0002664"
+  }
+ ],
+ "IHECRE00004687":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004687.4",
+   "('EpiRR', 'other')":"IHECRE00004687.5",
+   "('disease_ontology_term', 'self')":"ncim:C0206659",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004688":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004688.4",
+   "('EpiRR', 'other')":"IHECRE00004688.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004689":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004689.4",
+   "('EpiRR', 'other')":"IHECRE00004689.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004690":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004690.4",
+   "('EpiRR', 'other')":"IHECRE00004690.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"mononuclear cell"
+  }
+ ],
+ "IHECRE00004691":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004691.4",
+   "('EpiRR', 'other')":"IHECRE00004691.5",
+   "('disease_ontology_term', 'self')":"ncim:C1333296",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004692":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004692.4",
+   "('EpiRR', 'other')":"IHECRE00004692.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004693":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004693.4",
+   "('EpiRR', 'other')":"IHECRE00004693.6",
+   "('disease_ontology_term', 'self')":"ncim:C1333295",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004694":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004694.4",
+   "('EpiRR', 'other')":"IHECRE00004694.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004695":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004695.4",
+   "('EpiRR', 'other')":"IHECRE00004695.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004696":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004696.4",
+   "('EpiRR', 'other')":"IHECRE00004696.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004697":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004697.4",
+   "('EpiRR', 'other')":"IHECRE00004697.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004698":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004698.4",
+   "('EpiRR', 'other')":"IHECRE00004698.5",
+   "('disease_ontology_term', 'self')":"ncim:C0338106",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004699":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004699.4",
+   "('EpiRR', 'other')":"IHECRE00004699.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004700":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004700.4",
+   "('EpiRR', 'other')":"IHECRE00004700.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004701":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004701.4",
+   "('EpiRR', 'other')":"IHECRE00004701.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004702":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004702.4",
+   "('EpiRR', 'other')":"IHECRE00004702.5",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004703":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004703.4",
+   "('EpiRR', 'other')":"IHECRE00004703.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004704":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004704.4",
+   "('EpiRR', 'other')":"IHECRE00004704.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004705":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004705.4",
+   "('EpiRR', 'other')":"IHECRE00004705.6",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004706":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004706.4",
+   "('EpiRR', 'other')":"IHECRE00004706.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004707":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004707.4",
+   "('EpiRR', 'other')":"IHECRE00004707.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('origin_sample', 'self')":"kidney epithelial cell"
+  }
+ ],
+ "IHECRE00004708":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004708.4",
+   "('EpiRR', 'other')":"IHECRE00004708.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004709":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004709.4",
+   "('EpiRR', 'other')":"IHECRE00004709.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004711":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004711.4",
+   "('EpiRR', 'other')":"IHECRE00004711.5",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004712":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004712.4",
+   "('EpiRR', 'other')":"IHECRE00004712.5",
+   "('age', 'self')":"unknown",
+   "('age', 'other')":"5",
+   "('biomaterial_type', 'self')":"cell line",
+   "('biomaterial_type', 'other')":"primary cell culture",
+   "('cell_type', 'other')":"neuroepithelial stem cell",
+   "('disease_ontology_term', 'self')":"ncim:C0549184",
+   "('disease_ontology_term', 'other')":"ncim:C115222",
+   "('donor_age_unit', 'self')":"unknown",
+   "('donor_age_unit', 'other')":"day",
+   "('donor_id', 'other')":"encdo222aaa",
+   "('donor_life_stage', 'self')":"unknown",
+   "('donor_life_stage', 'other')":"embryonic",
+   "('line', 'self')":"neuroepithelial stem cell",
+   "('sample_ontology_term', 'other')":"cl:0002259"
+  }
+ ],
+ "IHECRE00004714":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004714.1",
+   "('EpiRR', 'other')":"IHECRE00004714.2",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004715":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004715.1",
+   "('EpiRR', 'other')":"IHECRE00004715.2",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004716":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004716.1",
+   "('EpiRR', 'other')":"IHECRE00004716.2",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004717":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004717.1",
+   "('EpiRR', 'other')":"IHECRE00004717.2",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004718":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004718.1",
+   "('EpiRR', 'other')":"IHECRE00004718.2",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ],
+ "IHECRE00004719":[
+  {
+   "('EpiRR', 'self')":"IHECRE00004719.1",
+   "('EpiRR', 'other')":"IHECRE00004719.2",
+   "('disease_ontology_term', 'self')":"ncim:C0277545",
+   "('disease_ontology_term', 'other')":"ncim:C115222"
+  }
+ ]
+}
