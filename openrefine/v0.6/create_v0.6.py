@@ -66,14 +66,17 @@ while line is not None:
 
 cl = Ontology('ontologies/cl-basic.obo')
 cl_term2id, cl_terms = get_term2id(cl)
-cl_dict = {'ontology': cl, 'terms': cl_terms, 'term2id': cl_term2id, 'column': 'cell_type'}
+cl_dict = {'ontology': cl, 'terms': cl_terms, 'terms_lower': [t.lower() for t in cl_terms], 'term2id': cl_term2id,
+           'column': 'cell_type'}
 uberon = Ontology('ontologies/uberon-basic.obo')
 uberon_term2id, uberon_terms = get_term2id(uberon)
 biomaterial2onto = {'primary cell': cl_dict,
                     'primary cell culture': cl_dict,
-                    'primary tissue': {'ontology': uberon, 'terms': uberon_terms, 'term2id': uberon_term2id,
+                    'primary tissue': {'ontology': uberon, 'terms': uberon_terms,
+                                       'terms_lower': [t.lower() for t in uberon_terms], 'term2id': uberon_term2id,
                                        'column': 'tissue_type'},
-                    'cell line': {'ontology': efo, 'terms': efo_terms, 'term2id': efo_term2id, 'column': 'line'}
+                    'cell line': {'ontology': efo, 'terms': efo_terms, 'terms_lower': [t.lower() for t in efo_terms],
+                                  'term2id': efo_term2id, 'column': 'line'}
                     }
 
 unmatched: typing.Dict[str, dict] = {}
@@ -85,7 +88,7 @@ for index, row in intermediate_tbl.iterrows():
         # this entry was processed seperately because there are multiple tissues it came from
         continue
     is_efo = row.biomaterial_type == 'cell line'
-    onto_dict: typing.Dict[str, dict] = biomaterial2onto[row.biomaterial_type]
+    onto_dict: dict = biomaterial2onto[row.biomaterial_type]
     name_column = onto_dict['column']
     onto_id: str = row.sample_ontology_term
     current_name = row[name_column]
@@ -112,17 +115,33 @@ for index, row in intermediate_tbl.iterrows():
             try:
                 intermediate_tbl.loc[index, 'sample_ontology_term'] = onto_dict['term2id'][current_name]
             except KeyError:
-                # no ontology curie -> check if the current term name has similar entries in the ontology
-                fill_sample_ontology_term[row.EpiRR] = {'current': current_name,
-                                                        'similiar_terms': [
-                                                            {'ontology_curie': x, 'term_name': onto_dict['term2id'][x]}
-                                                            for x in
-                                                            difflib.get_close_matches(current_name,
-                                                                                      onto_dict['terms'])]}
+                try:
+                    # lowercase instead of correct capitalization
+                    index_lower = onto_dict['terms_lower'].index(current_name)
+                    correct_name = onto_dict['terms'][index_lower]
+                    intermediate_tbl.loc[index, name_column] = correct_name
+                    intermediate_tbl.loc[index, 'sample_ontology_term'] = onto_dict['term2id'][correct_name]
+                except ValueError:
+                    # no ontology curie -> check if the current term name has similar entries in the ontology
+                    fill_sample_ontology_term[row.EpiRR] = {'current': current_name,
+                                                            'similiar_terms': [
+                                                                {'ontology_curie': x,
+                                                                 'term_name': onto_dict['term2id'][x]}
+                                                                for x in
+                                                                difflib.get_close_matches(current_name,
+                                                                                          onto_dict['terms'])]}
+
 
 # we can fix overall 745 falsy entries using this
-# there are still 258 na's in sample_ontology_term, 39 of these also do not have a name (e.g. cell_type)
+print(f'we can fix overall {len(pd.read_csv(intermediate_csv).compare(intermediate_tbl))} falsy entries using this')
+
+# there are still 127 na's in sample_ontology_term, 17 of these also do not have a name (e.g. cell_type)
+print(
+    f'overall {len(fill_sample_ontology_term)} nas in sample_ontology_term, {len([(k, v) for k, v in fill_sample_ontology_term.items() if v == []])} of these also do not have a name (e.g. cell_type)')
+
 # 541 entries have conflicting information in the columns
+print(f'{len(unmatched)} entries have conflicting information in the columns')
+
 with open('openrefine/v0.6/fill_sample_ontology_term.json', 'w') as f:
     json.dump(fill_sample_ontology_term, f, indent=True)
 

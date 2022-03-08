@@ -304,145 +304,145 @@
 302,302,IHECRE00000640.1,Partial,unknown,primary cell,fat cell,,unknown,Healthy,McGill0341,unknown,,,,,Healthy,CEEHRC,CL:0000136,unknown,9606,fat pad
 303,303,IHECRE00000641.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 304,304,IHECRE00000642.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0036,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-305,305,IHECRE00000644.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0278,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+305,305,IHECRE00000644.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0278,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 306,306,IHECRE00000645.3,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
-307,307,IHECRE00000646.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0273,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+307,307,IHECRE00000646.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0273,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 308,308,IHECRE00000647.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0338,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
 309,309,IHECRE00000648.3,Complete,unknown,primary tissue,,,unknown,Leigh Disease,McGill0012,unknown,,,,,Leigh Disease,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 310,310,IHECRE00000649.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0254,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 311,311,IHECRE00000650.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0072,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 312,312,IHECRE00000651.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0151,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
-313,313,IHECRE00000652.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0295,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+313,313,IHECRE00000652.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0295,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 314,314,IHECRE00000653.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0181,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
 315,315,IHECRE00000654.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0053,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-316,316,IHECRE00000655.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0230,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-317,317,IHECRE00000656.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0197,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
-318,318,IHECRE00000657.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0276,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-319,319,IHECRE00000658.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0064,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-320,320,IHECRE00000659.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0143,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
-321,321,IHECRE00000660.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0271,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-322,322,IHECRE00000661.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0154,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
-323,323,IHECRE00000662.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0184,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
-324,324,IHECRE00000663.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0027,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+316,316,IHECRE00000655.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0230,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+317,317,IHECRE00000656.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0197,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
+318,318,IHECRE00000657.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0276,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+319,319,IHECRE00000658.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0064,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
+320,320,IHECRE00000659.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0143,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
+321,321,IHECRE00000660.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0271,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+322,322,IHECRE00000661.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0154,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
+323,323,IHECRE00000662.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0184,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
+324,324,IHECRE00000663.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0027,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,male,9606,venous blood
 325,325,IHECRE00000664.3,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0330,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9606,
 326,326,IHECRE00000665.1,Complete,unknown,primary tissue,,,unknown,Renal Carcinoma,McGill0022,unknown,,,,,Renal Carcinoma,CEEHRC,UBERON:0002113,unknown,9606,kidney
-327,327,IHECRE00000666.1,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0008,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+327,327,IHECRE00000666.1,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0008,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 328,328,IHECRE00000667.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0158,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 329,329,IHECRE00000668.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0049,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 330,330,IHECRE00000669.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0112,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
 331,331,IHECRE00000670.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0079,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 332,332,IHECRE00000671.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0044,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-333,333,IHECRE00000672.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0286,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+333,333,IHECRE00000672.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0286,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 334,334,IHECRE00000673.1,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0335,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9598,
-335,335,IHECRE00000674.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0139,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
-336,336,IHECRE00000675.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0025,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+335,335,IHECRE00000674.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0139,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
+336,336,IHECRE00000675.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0025,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 337,337,IHECRE00000676.1,Partial,unknown,primary cell,B cell,,unknown,B Acute Lymphoblastic Leukemia With T(12;21)(p13;q22); Tel-aml1 (etv6-runx1),McGill0267,unknown,,,,,B Acute Lymphoblastic Leukemia with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1),CEEHRC,CL:0000236,unknown,9606,venous blood
-338,338,IHECRE00000677.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0055,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+338,338,IHECRE00000677.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0055,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 339,339,IHECRE00000678.1,Partial,unknown,primary tissue,,,unknown,Healthy,McGill0020,unknown,,,,,Healthy,CEEHRC,UBERON:0013528,male,9606,Brodmann (1909) area 11
 340,340,IHECRE00000679.1,Partial,unknown,primary tissue,,,unknown,Healthy,McGill0020,unknown,,,,,Healthy,CEEHRC,UBERON:0006481,male,9606,Brodmann (1909) area 44
 341,341,IHECRE00000680.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0199,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 342,342,IHECRE00000681.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
-343,343,IHECRE00000682.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+343,343,IHECRE00000682.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 344,344,IHECRE00000683.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 345,345,IHECRE00000684.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
 346,346,IHECRE00000685.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0175,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-347,347,IHECRE00000686.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0289,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-348,348,IHECRE00000687.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0072,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-349,349,IHECRE00000688.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0284,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+347,347,IHECRE00000686.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0289,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
+348,348,IHECRE00000687.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0072,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
+349,349,IHECRE00000688.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0284,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 350,350,IHECRE00000689.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0072,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-351,351,IHECRE00000690.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0151,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
+351,351,IHECRE00000690.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0151,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
 352,352,IHECRE00000691.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0181,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-353,353,IHECRE00000692.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0192,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+353,353,IHECRE00000692.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0192,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
 354,354,IHECRE00000693.3,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0108,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
 355,355,IHECRE00000694.3,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
 356,356,IHECRE00000695.1,Partial,unknown,primary cell,B cell,,unknown,Myositis,McGill0217,unknown,,,,,Myositis,CEEHRC,CL:0000236,unknown,9606,venous blood
 357,357,IHECRE00000696.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0005,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 358,358,IHECRE00000697.1,Partial,unknown,primary cell,eosinophil,,unknown,Healthy,McGill0326,unknown,,,,,Healthy,CEEHRC,CL:0000771,male,9606,venous blood
 359,359,IHECRE00000698.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0149,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
-360,360,IHECRE00000699.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0027,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+360,360,IHECRE00000699.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0027,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,male,9606,venous blood
 361,361,IHECRE00000700.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0337,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
 362,362,IHECRE00000701.3,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0016,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-363,363,IHECRE00000702.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0321,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+363,363,IHECRE00000702.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0321,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
 364,364,IHECRE00000703.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0223,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
-365,365,IHECRE00000704.1,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0011,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-366,366,IHECRE00000705.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0239,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+365,365,IHECRE00000704.1,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0011,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
+366,366,IHECRE00000705.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0239,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 367,367,IHECRE00000706.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0027,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 368,368,IHECRE00000707.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0057,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
-369,369,IHECRE00000708.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0234,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+369,369,IHECRE00000708.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0234,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 370,370,IHECRE00000709.3,Complete,unknown,primary tissue,,,unknown,Renal Carcinoma,McGill0022,unknown,,,,,Renal Carcinoma,CEEHRC,UBERON:0002113,unknown,9606,kidney
 371,371,IHECRE00000710.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0136,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 372,372,IHECRE00000711.3,Partial,unknown,primary tissue,,,unknown,Leigh Disease,McGill0052,unknown,,,,,Leigh Disease,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 373,373,IHECRE00000712.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0038,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 374,374,IHECRE00000713.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0142,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 375,375,IHECRE00000714.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0033,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-376,376,IHECRE00000715.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0275,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-377,377,IHECRE00000716.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0079,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+376,376,IHECRE00000715.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0275,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+377,377,IHECRE00000716.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0079,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,male,9606,venous blood
 378,378,IHECRE00000717.1,Partial,unknown,primary cell,B cell,,unknown,B Acute Lymphoblastic Leukemia With T(12;21)(p13;q22); Tel-aml1 (etv6-runx1),McGill0270,unknown,,,,,B Acute Lymphoblastic Leukemia with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1),CEEHRC,CL:0000236,female,9606,venous blood
 379,379,IHECRE00000718.3,Complete,unknown,primary cell,monocyte,,unknown,Healthy,McGill0079,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
-380,380,IHECRE00000719.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0158,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
-381,381,IHECRE00000720.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0297,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+380,380,IHECRE00000719.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0158,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
+381,381,IHECRE00000720.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0297,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 382,382,IHECRE00000721.3,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0050,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-383,383,IHECRE00000722.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0292,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-384,384,IHECRE00000723.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+383,383,IHECRE00000722.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0292,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
+384,384,IHECRE00000723.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 385,385,IHECRE00000724.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-386,386,IHECRE00000725.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+386,386,IHECRE00000725.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 387,387,IHECRE00000726.3,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
 388,388,IHECRE00000727.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
-389,389,IHECRE00000728.1,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0007,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-390,390,IHECRE00000729.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0072,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+389,389,IHECRE00000728.1,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0007,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,male,9606,venous blood
+390,390,IHECRE00000729.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0072,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 391,391,IHECRE00000730.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0337,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
 392,392,IHECRE00000731.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0339,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
 393,393,IHECRE00000732.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
-394,394,IHECRE00000733.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0133,unknown,,,,,Healthy,CEEHRC,,unknown,9606,venous blood
-395,395,IHECRE00000734.3,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0029,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+394,394,IHECRE00000733.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0133,unknown,,,,,Healthy,CEEHRC,CL:0000084,unknown,9606,venous blood
+395,395,IHECRE00000734.3,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0029,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 396,396,IHECRE00000735.1,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0334,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9597,
-397,397,IHECRE00000736.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0108,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
+397,397,IHECRE00000736.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0108,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
 398,398,IHECRE00000737.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0108,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
-399,399,IHECRE00000738.3,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0024,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+399,399,IHECRE00000738.3,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0024,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 400,400,IHECRE00000739.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0201,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 401,401,IHECRE00000740.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
 402,402,IHECRE00000741.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 403,403,IHECRE00000742.1,Partial,unknown,primary cell,monocyte,,unknown,Myositis,McGill0217,unknown,,,,,Myositis,CEEHRC,CL:0000576,unknown,9606,venous blood
-404,404,IHECRE00000743.1,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0005,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+404,404,IHECRE00000743.1,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0005,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 405,405,IHECRE00000744.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0337,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
-406,406,IHECRE00000745.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0288,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-407,407,IHECRE00000746.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0337,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
+406,406,IHECRE00000745.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0288,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
+407,407,IHECRE00000746.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0337,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
 408,408,IHECRE00000747.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0030,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 409,409,IHECRE00000748.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0223,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
 410,410,IHECRE00000749.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0027,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 411,411,IHECRE00000750.3,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0046,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-412,412,IHECRE00000751.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0223,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
+412,412,IHECRE00000751.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0223,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
 413,413,IHECRE00000752.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0011,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 414,414,IHECRE00000753.3,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0041,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-415,415,IHECRE00000754.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0283,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+415,415,IHECRE00000754.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0283,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 416,416,IHECRE00000755.1,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0332,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9592,
 417,417,IHECRE00000756.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0057,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-418,418,IHECRE00000757.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0136,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
-419,419,IHECRE00000758.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0240,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+418,418,IHECRE00000757.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0136,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
+419,419,IHECRE00000758.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0240,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
 420,420,IHECRE00000759.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0339,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
-421,421,IHECRE00000760.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0079,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+421,421,IHECRE00000760.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0079,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,male,9606,venous blood
 422,422,IHECRE00000761.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0172,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-423,423,IHECRE00000762.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0281,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+423,423,IHECRE00000762.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0281,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 424,424,IHECRE00000763.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0146,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
-425,425,IHECRE00000764.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Myositis,McGill0214,unknown,,,CD4+,,Myositis,CEEHRC,,unknown,9606,venous blood
+425,425,IHECRE00000764.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Myositis,McGill0214,unknown,,,CD4+,,Myositis,CEEHRC,CL:0000492,unknown,9606,venous blood
 426,426,IHECRE00000765.1,Partial,unknown,primary cell,eosinophil,,unknown,Asthma,McGill0328,unknown,,,,,Asthma,CEEHRC,CL:0000771,unknown,9606,venous blood
-427,427,IHECRE00000766.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0339,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
-428,428,IHECRE00000767.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+427,427,IHECRE00000766.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0339,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
+428,428,IHECRE00000767.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 429,429,IHECRE00000768.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0208,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
-430,430,IHECRE00000769.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0238,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-431,431,IHECRE00000770.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+430,430,IHECRE00000769.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0238,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+431,431,IHECRE00000770.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 432,432,IHECRE00000771.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0203,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 433,433,IHECRE00000772.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
-434,434,IHECRE00000773.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
+434,434,IHECRE00000773.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
 435,435,IHECRE00000774.3,Complete,unknown,primary cell,monocyte,,unknown,Healthy,McGill0007,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 436,436,IHECRE00000775.1,Complete,unknown,primary tissue,,,unknown,Unknown,McGill0037,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 437,437,IHECRE00000776.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0100,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
 438,438,IHECRE00000777.1,Partial,unknown,primary cell,B cell,,unknown,Myositis,McGill0214,unknown,,,,,Myositis,CEEHRC,CL:0000236,unknown,9606,venous blood
 439,439,IHECRE00000778.3,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
 440,440,IHECRE00000779.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0340,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
-441,441,IHECRE00000780.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0296,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+441,441,IHECRE00000780.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0296,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
 442,442,IHECRE00000781.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0018,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-443,443,IHECRE00000782.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0089,unknown,,,,,Healthy,CEEHRC,,unknown,9606,venous blood
+443,443,IHECRE00000782.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0089,unknown,,,,,Healthy,CEEHRC,CL:0000084,unknown,9606,venous blood
 444,444,IHECRE00000783.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 445,445,IHECRE00000784.3,Complete,unknown,primary tissue,,,unknown,Leigh Disease,McGill0013,unknown,,,,,Leigh Disease,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 446,446,IHECRE00000785.3,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,CL:0000236,male,9606,venous blood
@@ -451,26 +451,26 @@
 449,449,IHECRE00000788.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0029,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 450,450,IHECRE00000789.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0024,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 451,451,IHECRE00000790.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0108,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
-452,452,IHECRE00000791.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0236,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-453,453,IHECRE00000792.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0231,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-454,454,IHECRE00000793.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0201,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
+452,452,IHECRE00000791.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0236,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+453,453,IHECRE00000792.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0231,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
+454,454,IHECRE00000793.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0201,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
 455,455,IHECRE00000794.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
-456,456,IHECRE00000795.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
-457,457,IHECRE00000796.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Myositis,McGill0217,unknown,,,CD4+,,Myositis,CEEHRC,,unknown,9606,venous blood
-458,458,IHECRE00000797.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0340,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
+456,456,IHECRE00000795.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
+457,457,IHECRE00000796.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Myositis,McGill0217,unknown,,,CD4+,,Myositis,CEEHRC,CL:0000492,unknown,9606,venous blood
+458,458,IHECRE00000797.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0340,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
 459,459,IHECRE00000798.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0035,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-460,460,IHECRE00000799.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0277,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-461,461,IHECRE00000800.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0030,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-462,462,IHECRE00000801.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0272,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-463,463,IHECRE00000802.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0337,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
-464,464,IHECRE00000803.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0057,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
-465,465,IHECRE00000804.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0299,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-466,466,IHECRE00000805.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0294,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+460,460,IHECRE00000799.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0277,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+461,461,IHECRE00000800.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0030,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
+462,462,IHECRE00000801.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0272,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+463,463,IHECRE00000802.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0337,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
+464,464,IHECRE00000803.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0057,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
+465,465,IHECRE00000804.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0299,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+466,466,IHECRE00000805.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0294,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 467,467,IHECRE00000806.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0165,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 468,468,IHECRE00000807.3,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0331,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9606,
-469,469,IHECRE00000808.1,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0009,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+469,469,IHECRE00000808.1,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0009,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 470,470,IHECRE00000809.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0154,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
-471,471,IHECRE00000810.3,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0004,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+471,471,IHECRE00000810.3,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0004,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 472,472,IHECRE00000811.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0026,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 473,473,IHECRE00000812.1,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0336,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9544,
 474,474,IHECRE00000813.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0100,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
@@ -478,44 +478,44 @@
 476,476,IHECRE00000815.1,Partial,unknown,primary cell,B cell,,unknown,Systemic Lupus Erythematosus,McGill0208,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000236,unknown,9606,venous blood
 477,477,IHECRE00000816.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0045,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 478,478,IHECRE00000817.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0010,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-479,479,IHECRE00000818.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0208,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
+479,479,IHECRE00000818.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0208,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
 480,480,IHECRE00000819.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
 481,481,IHECRE00000820.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
-482,482,IHECRE00000821.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0026,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+482,482,IHECRE00000821.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0026,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 483,483,IHECRE00000822.1,Partial,unknown,primary cell,B cell,,unknown,Systemic Lupus Erythematosus,McGill0203,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000236,unknown,9606,venous blood
-484,484,IHECRE00000823.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
-485,485,IHECRE00000824.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Myositis,McGill0220,unknown,,,CD4+,,Myositis,CEEHRC,,unknown,9606,venous blood
-486,486,IHECRE00000825.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0007,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+484,484,IHECRE00000823.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0091,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
+485,485,IHECRE00000824.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Myositis,McGill0220,unknown,,,CD4+,,Myositis,CEEHRC,CL:0000492,unknown,9606,venous blood
+486,486,IHECRE00000825.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0007,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,male,9606,venous blood
 487,487,IHECRE00000826.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0067,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 488,488,IHECRE00000827.1,Partial,unknown,primary cell,monocyte,,unknown,Myositis,McGill0214,unknown,,,,,Myositis,CEEHRC,CL:0000576,unknown,9606,venous blood
 489,489,IHECRE00000828.1,Complete,unknown,primary cell,monocyte,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-490,490,IHECRE00000829.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+490,490,IHECRE00000829.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 491,491,IHECRE00000830.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0339,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
 492,492,IHECRE00000831.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 493,493,IHECRE00000832.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0146,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
 494,494,IHECRE00000833.3,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0176,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 495,495,IHECRE00000834.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0176,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
-496,496,IHECRE00000835.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0339,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
+496,496,IHECRE00000835.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0339,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
 497,497,IHECRE00000836.1,Partial,unknown,primary cell,B cell,,unknown,Myositis,McGill0220,unknown,,,,,Myositis,CEEHRC,CL:0000236,unknown,9606,venous blood
 498,498,IHECRE00000837.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 499,499,IHECRE00000838.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0043,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-500,500,IHECRE00000839.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0285,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+500,500,IHECRE00000839.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0285,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 501,501,IHECRE00000840.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0187,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 502,502,IHECRE00000841.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0089,unknown,,,,,Healthy,CEEHRC,CL:0000236,unknown,9606,venous blood
-503,503,IHECRE00000842.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0280,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+503,503,IHECRE00000842.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0280,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 504,504,IHECRE00000843.1,Partial,unknown,primary cell,B cell,,unknown,B Acute Lymphoblastic Leukemia With T(12;21)(p13;q22); Tel-aml1 (etv6-runx1),McGill0266,unknown,,,,,B Acute Lymphoblastic Leukemia with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1),CEEHRC,CL:0000236,female,9606,venous blood
-505,505,IHECRE00000844.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
+505,505,IHECRE00000844.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0103,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
 506,506,IHECRE00000845.3,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0261,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-507,507,IHECRE00000846.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0340,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
+507,507,IHECRE00000846.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0340,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
 508,508,IHECRE00000847.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0193,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 509,509,IHECRE00000848.3,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0017,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 510,510,IHECRE00000849.3,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0180,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-511,511,IHECRE00000850.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0298,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+511,511,IHECRE00000850.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0298,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
 512,512,IHECRE00000851.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0028,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 513,513,IHECRE00000852.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0205,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 514,514,IHECRE00000853.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0165,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
-515,515,IHECRE00000854.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0235,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-516,516,IHECRE00000855.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0067,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+515,515,IHECRE00000854.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0235,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
+516,516,IHECRE00000855.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0067,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 517,517,IHECRE00000856.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0009,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 518,518,IHECRE00000857.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0039,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 519,519,IHECRE00000858.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0004,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
@@ -525,63 +525,63 @@
 523,523,IHECRE00000862.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0154,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 524,524,IHECRE00000863.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0143,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
 525,525,IHECRE00000864.3,Complete,unknown,primary tissue,,,unknown,Leigh Disease,McGill0015,unknown,,,,,Leigh Disease,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-526,526,IHECRE00000865.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0320,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+526,526,IHECRE00000865.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0320,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
 527,527,IHECRE00000866.3,Complete,unknown,primary cell,monocyte,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-528,528,IHECRE00000867.3,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0010,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-529,529,IHECRE00000868.3,Complete,unknown,primary cell,t cell,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+528,528,IHECRE00000867.3,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0010,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
+529,529,IHECRE00000868.3,Complete,unknown,primary cell,T cell,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 530,530,IHECRE00000869.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0026,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-531,531,IHECRE00000870.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0026,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-532,532,IHECRE00000871.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0100,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
-533,533,IHECRE00000872.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0233,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-534,534,IHECRE00000873.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
-535,535,IHECRE00000874.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0293,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+531,531,IHECRE00000870.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0026,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
+532,532,IHECRE00000871.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0100,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
+533,533,IHECRE00000872.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0233,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
+534,534,IHECRE00000873.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
+535,535,IHECRE00000874.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0293,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 536,536,IHECRE00000875.3,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0051,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-537,537,IHECRE00000876.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0279,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-538,538,IHECRE00000877.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0195,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
+537,537,IHECRE00000876.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0279,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+538,538,IHECRE00000877.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0195,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
 539,539,IHECRE00000878.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0002,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-540,540,IHECRE00000879.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0146,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
-541,541,IHECRE00000880.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0274,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+540,540,IHECRE00000879.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0146,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
+541,541,IHECRE00000880.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0274,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
 542,542,IHECRE00000881.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0176,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-543,543,IHECRE00000882.3,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
-544,544,IHECRE00000883.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0291,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
-545,545,IHECRE00000884.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0193,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
+543,543,IHECRE00000882.3,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
+544,544,IHECRE00000883.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0291,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
+545,545,IHECRE00000884.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0193,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
 546,546,IHECRE00000885.1,Partial,unknown,primary cell,B cell,,unknown,Systemic Lupus Erythematosus,McGill0139,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000236,unknown,9606,venous blood
-547,547,IHECRE00000886.3,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0006,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+547,547,IHECRE00000886.3,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0006,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,male,9606,venous blood
 548,548,IHECRE00000887.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0001,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 549,549,IHECRE00000888.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0338,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
 550,550,IHECRE00000889.3,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0047,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-551,551,IHECRE00000890.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Rheumatoid Arthritis,McGill0338,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
-552,552,IHECRE00000891.3,Complete,unknown,primary cell,cd4-positive helper t cell,,unknown,Healthy,McGill0028,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+551,551,IHECRE00000890.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Rheumatoid Arthritis,McGill0338,unknown,,,CD4+,,Rheumatoid Arthritis,CEEHRC,CL:0000492,unknown,9606,venous blood
+552,552,IHECRE00000891.3,Complete,unknown,primary cell,CD4-positive helper T cell,,unknown,Healthy,McGill0028,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000492,female,9606,venous blood
 553,553,IHECRE00000892.1,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0333,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9592,
 554,554,IHECRE00000893.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0042,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
 555,555,IHECRE00000894.1,Partial,unknown,primary cell,B cell,,unknown,Systemic Lupus Erythematosus,McGill0205,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000236,unknown,9606,venous blood
-556,556,IHECRE00000895.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Systemic Lupus Erythematosus,McGill0205,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
+556,556,IHECRE00000895.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Systemic Lupus Erythematosus,McGill0205,unknown,,,CD4+,,Systemic Lupus Erythematosus,CEEHRC,CL:0000492,unknown,9606,venous blood
 557,557,IHECRE00000896.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0151,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
 558,558,IHECRE00000897.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0197,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 559,559,IHECRE00000898.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0064,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-560,560,IHECRE00000899.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0241,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+560,560,IHECRE00000899.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0241,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 561,561,IHECRE00000900.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0143,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
 562,562,IHECRE00000901.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0154,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 563,563,IHECRE00000902.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0173,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-564,564,IHECRE00000903.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0287,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
-565,565,IHECRE00000904.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,,female,9606,venous blood
+564,564,IHECRE00000903.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0287,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
+565,565,IHECRE00000904.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,CL:0000084,female,9606,venous blood
 566,566,IHECRE00000905.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 567,567,IHECRE00000906.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0040,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-568,568,IHECRE00000907.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0282,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+568,568,IHECRE00000907.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0282,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 569,569,IHECRE00000908.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0184,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-570,570,IHECRE00000909.1,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0165,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+570,570,IHECRE00000909.1,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0165,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
 571,571,IHECRE00000910.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0195,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
-572,572,IHECRE00000911.3,Partial,unknown,primary cell,cd4-positive helper t cell,,unknown,Scleroderma,McGill0176,unknown,,,CD4+,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+572,572,IHECRE00000911.3,Partial,unknown,primary cell,CD4-positive helper T cell,,unknown,Scleroderma,McGill0176,unknown,,,CD4+,,Scleroderma,CEEHRC,CL:0000492,unknown,9606,venous blood
 573,573,IHECRE00000912.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0008,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-574,574,IHECRE00000913.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
+574,574,IHECRE00000913.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0127,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
 575,575,IHECRE00000914.1,Partial,unknown,cell line,induced pluripotent stem cell,,unknown,Healthy,McGill0329,unknown,,iPSC,,,Healthy,CEEHRC,EFO:0004905,unknown,9606,
 576,576,IHECRE00000915.1,Partial,unknown,primary tissue,,,unknown,Unknown,McGill0019,unknown,,,,,Unknown,CEEHRC,UBERON:0001134,female,9606,skeletal muscle tissue
 577,577,IHECRE00000916.3,Partial,unknown,primary tissue,,,unknown,Leigh Disease,McGill0014,unknown,,,,,Leigh Disease,CEEHRC,UBERON:0001134,unknown,9606,skeletal muscle tissue
-578,578,IHECRE00000917.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0237,unknown,,,CD4+,,Healthy,CEEHRC,,male,9606,venous blood
+578,578,IHECRE00000917.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0237,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,male,9606,venous blood
 579,579,IHECRE00000918.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0025,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
 580,580,IHECRE00000919.1,Partial,unknown,primary cell,monocyte,,unknown,Systemic Lupus Erythematosus,McGill0139,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000576,unknown,9606,venous blood
 581,581,IHECRE00000920.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0055,unknown,,,,,Healthy,CEEHRC,CL:0000576,female,9606,venous blood
-582,582,IHECRE00000921.1,Partial,unknown,primary cell,"cd4-positive, alpha-beta t cell",,unknown,Healthy,McGill0232,unknown,,,CD4+,,Healthy,CEEHRC,,female,9606,venous blood
+582,582,IHECRE00000921.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",,unknown,Healthy,McGill0232,unknown,,,CD4+,,Healthy,CEEHRC,CL:0000624,female,9606,venous blood
 583,583,IHECRE00000922.1,Partial,unknown,primary tissue,,,unknown,Healthy,McGill0020,unknown,,,,,Healthy,CEEHRC,UBERON:0013539::UBERON:0013540,male,9606,Brodmann (1909) area 8::Brodmann (1909) area 9
 584,584,IHECRE00000923.3,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0006,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
 585,585,IHECRE00000924.7,Partial,16,primary tissue,,ncim:C115222,week,Healthy,ENCDO150YZC,embryonic,,,,,,NIH Roadmap Epigenomics,UBERON:0000305,male,9606,amnion
@@ -1223,43 +1223,43 @@
 1221,1221,IHECRE00001966.2,Partial,unknown,primary cell,,ncim:C3898900,unknown,Healthy,,unknown,,,,,,AMED-CREST,,unknown,9606,
 1222,1222,IHECRE00001967.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0488,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
 1223,1223,IHECRE00001973.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0479,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
-1224,1224,IHECRE00001974.1,Partial,unknown,primary cell,t cell,,unknown,Healthy,McGill0112,unknown,,,,,Healthy,CEEHRC,,male,9606,venous blood
+1224,1224,IHECRE00001974.1,Partial,unknown,primary cell,T cell,,unknown,Healthy,McGill0112,unknown,,,,,Healthy,CEEHRC,CL:0000084,male,9606,venous blood
 1225,1225,IHECRE00001975.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0189,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
-1226,1226,IHECRE00001976.1,Partial,unknown,primary cell,t cell,,unknown,Systemic Lupus Erythematosus,McGill0199,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,,unknown,9606,venous blood
+1226,1226,IHECRE00001976.1,Partial,unknown,primary cell,T cell,,unknown,Systemic Lupus Erythematosus,McGill0199,unknown,,,,,Systemic Lupus Erythematosus,CEEHRC,CL:0000084,unknown,9606,venous blood
 1227,1227,IHECRE00001977.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0134,unknown,,,,,Healthy,CEEHRC,CL:0000236,unknown,9606,venous blood
 1228,1228,IHECRE00001978.1,Partial,unknown,primary tissue,,,unknown,,McGill0483,unknown,,,,,unknown,CEEHRC,UBERON:0002113,unknown,9606,kidney
 1229,1229,IHECRE00001984.1,Partial,unknown,primary tissue,,,unknown,Healthy,McGill0481,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
-1230,1230,IHECRE00001987.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0179,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1230,1230,IHECRE00001987.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0179,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1231,1231,IHECRE00001990.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0473,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
 1232,1232,IHECRE00001991.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0189,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 1233,1233,IHECRE00001992.1,Partial,unknown,primary tissue,,,unknown,Renal Cancer,McGill0403,unknown,,,,,Renal cancer,CEEHRC,UBERON:0002113,unknown,9606,kidney
 1234,1234,IHECRE00001997.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0475,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
-1235,1235,IHECRE00001999.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0189,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
-1236,1236,IHECRE00002002.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0181,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1235,1235,IHECRE00001999.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0189,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
+1236,1236,IHECRE00002002.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0181,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1237,1237,IHECRE00002005.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0472,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
-1238,1238,IHECRE00002009.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0170,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1238,1238,IHECRE00002009.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0170,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1239,1239,IHECRE00002017.1,Partial,unknown,primary cell,monocyte,,unknown,Myositis,McGill0220,unknown,,,,,Myositis,CEEHRC,CL:0000576,unknown,9606,venous blood
 1240,1240,IHECRE00002019.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0184,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
 1241,1241,IHECRE00002022.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0170,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
-1242,1242,IHECRE00002023.1,Partial,unknown,primary cell,t cell,,unknown,Rheumatoid Arthritis,McGill0149,unknown,,,,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
-1243,1243,IHECRE00002024.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0160,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1242,1242,IHECRE00002023.1,Partial,unknown,primary cell,T cell,,unknown,Rheumatoid Arthritis,McGill0149,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000084,unknown,9606,venous blood
+1243,1243,IHECRE00002024.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0160,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1244,1244,IHECRE00002025.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0179,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
-1245,1245,IHECRE00002026.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0173,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1245,1245,IHECRE00002026.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0173,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1246,1246,IHECRE00002027.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0179,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 1247,1247,IHECRE00002029.1,Partial,unknown,primary tissue,,,unknown,Renal Cancer,McGill0401,unknown,,,,,Renal Cancer,CEEHRC,UBERON:0002113,unknown,9606,kidney
-1248,1248,IHECRE00002030.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0175,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
-1249,1249,IHECRE00002033.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0261,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1248,1248,IHECRE00002030.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0175,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
+1249,1249,IHECRE00002033.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0261,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1250,1250,IHECRE00002035.1,Partial,unknown,primary cell,monocyte,,unknown,Rheumatoid Arthritis,McGill0149,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000576,unknown,9606,venous blood
 1251,1251,IHECRE00002036.1,Partial,unknown,primary cell,monocyte,,unknown,Myositis,McGill0211,unknown,,,,,Myositis,CEEHRC,CL:0000576,unknown,9606,venous blood
 1252,1252,IHECRE00002037.1,Partial,unknown,primary cell,,,unknown,,McGill0487,unknown,,,,,unknown,CEEHRC,,unknown,9606,mesenchyme
 1253,1253,IHECRE00002042.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0255,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 1254,1254,IHECRE00002043.1,Partial,unknown,primary cell,monocyte,,unknown,Healthy,McGill0112,unknown,,,,,Healthy,CEEHRC,CL:0000576,male,9606,venous blood
-1255,1255,IHECRE00002044.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0172,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1255,1255,IHECRE00002044.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0172,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1256,1256,IHECRE00002046.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0096,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
 1257,1257,IHECRE00002048.1,Partial,unknown,primary tissue,,,unknown,Renal Cancer,McGill0403,unknown,,,,,Renal cancer,CEEHRC,UBERON:0002113,unknown,9606,kidney
 1258,1258,IHECRE00002049.2,Partial,unknown,primary tissue,,,unknown,Healthy,McGill0020,unknown,,,,,Healthy,CEEHRC,UBERON:0004720,male,9606,cerebellum
 1259,1259,IHECRE00002052.1,Partial,unknown,primary tissue,,,unknown,,McGill0483,unknown,,,,,unknown,CEEHRC,UBERON:0002113,unknown,9606,kidney
-1260,1260,IHECRE00002053.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0187,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
+1260,1260,IHECRE00002053.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0187,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
 1261,1261,IHECRE00002054.1,Partial,unknown,primary cell,monocyte,,unknown,Scleroderma,McGill0160,unknown,,,,,Scleroderma,CEEHRC,CL:0000576,unknown,9606,venous blood
 1262,1262,IHECRE00002055.1,Partial,unknown,primary cell,,,unknown,,McGill0484,unknown,,,,,unknown,CEEHRC,,unknown,9606,mesenchyme
 1263,1263,IHECRE00002058.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0474,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
@@ -1269,7 +1269,7 @@
 1267,1267,IHECRE00002065.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0477,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
 1268,1268,IHECRE00002066.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0160,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
 1269,1269,IHECRE00002067.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0478,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
-1270,1270,IHECRE00002070.1,Partial,unknown,primary cell,t cell,,unknown,Myositis,McGill0211,unknown,,,,,Myositis,CEEHRC,,unknown,9606,venous blood
+1270,1270,IHECRE00002070.1,Partial,unknown,primary cell,T cell,,unknown,Myositis,McGill0211,unknown,,,,,Myositis,CEEHRC,CL:0000084,unknown,9606,venous blood
 1271,1271,IHECRE00002071.1,Partial,unknown,primary tissue,,,unknown,Renal Cancer,McGill0402,unknown,,,,,Renal Cancer,CEEHRC,UBERON:0002113,unknown,9606,kidney
 1272,1272,IHECRE00002073.1,Partial,unknown,primary cell,B cell,,unknown,Rheumatoid Arthritis,McGill0340,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000236,unknown,9606,venous blood
 1273,1273,IHECRE00002074.1,Partial,unknown,primary cell,B cell,,unknown,Healthy,McGill0124,unknown,,,,,Healthy,CEEHRC,CL:0000236,female,9606,venous blood
@@ -1278,8 +1278,8 @@
 1276,1276,IHECRE00002081.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0180,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
 1277,1277,IHECRE00002083.1,Partial,unknown,primary cell,B cell,,unknown,Scleroderma,McGill0175,unknown,,,,,Scleroderma,CEEHRC,CL:0000236,unknown,9606,venous blood
 1278,1278,IHECRE00002086.1,Complete,unknown,primary tissue,,,unknown,Healthy,McGill0480,unknown,,,,,Healthy,CEEHRC,UBERON:0001876,unknown,9606,amygdala
-1279,1279,IHECRE00002087.1,Partial,unknown,primary cell,t cell,,unknown,Scleroderma,McGill0180,unknown,,,,,Scleroderma,CEEHRC,,unknown,9606,venous blood
-1280,1280,IHECRE00002089.2,Partial,unknown,primary cell,t cell,,unknown,Rheumatoid Arthritis,McGill0488,unknown,,,,,Rheumatoid Arthritis,CEEHRC,,unknown,9606,venous blood
+1279,1279,IHECRE00002087.1,Partial,unknown,primary cell,T cell,,unknown,Scleroderma,McGill0180,unknown,,,,,Scleroderma,CEEHRC,CL:0000084,unknown,9606,venous blood
+1280,1280,IHECRE00002089.2,Partial,unknown,primary cell,T cell,,unknown,Rheumatoid Arthritis,McGill0488,unknown,,,,,Rheumatoid Arthritis,CEEHRC,CL:0000084,unknown,9606,venous blood
 1281,1281,IHECRE00002158.1,Partial,50-55,primary cell,"CD4-positive, alpha-beta T cell",,year,None,S00294,adult,,,CD45RA+ CD4+ CD45RO-,,CL:0000624;UBERON_0013756,BLUEPRINT,CL:0000624,male,9606,venous blood
 1282,1282,IHECRE00002159.1,Partial,65-70,primary cell,"CD4-positive, alpha-beta T cell",,year,None,S007F9,adult,,,CD4+,,,BLUEPRINT,CL:0000624,female,9606,venous blood
 1283,1283,IHECRE00002160.1,Partial,70-75,primary cell,"CD14-positive, CD16-negative classical monocyte",,year,None,S00JT7,adult,,,CD14+ CD16-,,CL:0002057;PATO:0000461;UBERON:0013756,BLUEPRINT,CL:0002057,male,9606,venous blood
