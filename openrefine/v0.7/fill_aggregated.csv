@@ -1,0 +1,35 @@
+current,ontology_curie1,ontology_curie2,ontology_curie3,term_name1,term_name2,term_name3,index
+luminal progenitor cell,retinal progenitor cell,neural progenitor cell,progenitor cell,CL:0002672,CL:0011020,CL:0011026,"IHECRE00000223.3 ,IHECRE00004603.3 ,IHECRE00004606.2"
+luminal cells-mature,luminal cell of prostatic acinus,glial cell,,CL:0002235,CL:0000125,,IHECRE00000231.3
+hematopoietic,hematopoietic cell,hematopoietic stem cell,AGM hematopoietic stem cell,CL:0000988,CL:0000037,CL:0002360,IHECRE00000237.3
+islet_cell,sheath cell,muscle cell,motile cell,CL:0000618,CL:0000187,CL:0000219,"IHECRE00001862.2 ,IHECRE00001863.2 ,IHECRE00001865.2 ,IHECRE00001870.2 ,IHECRE00001871.2"
+adipocyte,preadipocyte,cardiocyte,amniocyte,CL:0002334,CL:0002494,CL:0002323,"IHECRE00001864.2 ,IHECRE00001867.2"
+podocyte,oocyte,odontocyte,oncocyte,CL:0000023,CL:0000140,CL:0002198,"IHECRE00001866.2 ,IHECRE00001869.2 ,IHECRE00003721.1 ,IHECRE00003722.1"
+beta_cell,goblet cell,basket cell,urethra cell,CL:0000160,CL:0000118,CL:1001320,IHECRE00001868.2
+,,,,,,,"IHECRE00001953.2 ,IHECRE00001955.3 ,IHECRE00001956.2 ,IHECRE00001958.3 ,IHECRE00001959.2 ,IHECRE00001960.2 ,IHECRE00001961.2 ,IHECRE00001962.2 ,IHECRE00001963.2 ,IHECRE00001964.2 ,IHECRE00001965.2 ,IHECRE00001966.2 ,IHECRE00002037.1 ,IHECRE00002055.1 ,IHECRE00003715.2 ,IHECRE00004592.1 ,IHECRE00004594.1"
+alpha_cell,hyphal cell,cap cell,alpha-beta T cell,CL:0000286,CL:0000676,CL:0000789,IHECRE00003717.1
+mesangial,mesangial cell,mesangial phagocyte,,CL:0000650,CL:0000777,,"IHECRE00003720.1 ,IHECRE00003723.1"
+ipsc,,,,,,,"IHECRE00003724.1 ,IHECRE00003727.1"
+early neuron,secondary neuron,sensory neuron,primary neuron,CL:0000535,CL:0000101,CL:0000530,"IHECRE00003726.1 ,IHECRE00003729.1"
+adipose-derived mesenchymal stroaml cells,amnion mesenchymal stem cell,hepatic mesenchymal stem cell,mesenchymal stem cell,CL:0002537,CL:0002571,CL:0000134,"IHECRE00003740.1 ,IHECRE00003741.1 ,IHECRE00003742.1 ,IHECRE00003743.1"
+cd4 naive,,,,,,,"IHECRE00003832.2 ,IHECRE00003842.2"
+non parenchymal,obsolete parenchymal cell,,,CL:0000668,,,"IHECRE00004494.1 ,IHECRE00004496.1 ,IHECRE00004498.1 ,IHECRE00004500.1 ,IHECRE00004502.1 ,IHECRE00004504.1 ,IHECRE00004506.1 ,IHECRE00004508.1 ,IHECRE00004518.1 ,IHECRE00004520.1 ,IHECRE00004522.1 ,IHECRE00004524.1 ,IHECRE00004530.1 ,IHECRE00004532.1 ,IHECRE00004534.1 ,IHECRE00004536.1 ,IHECRE00004538.1 ,IHECRE00004540.1 ,IHECRE00004542.1 ,IHECRE00004544.1 ,IHECRE00004554.1 ,IHECRE00004556.1 ,IHECRE00004558.1 ,IHECRE00004560.1 ,IHECRE00004562.1 ,IHECRE00004564.1 ,IHECRE00004566.1 ,IHECRE00004568.1 ,IHECRE00004570.1 ,IHECRE00004572.1"
+liver,,,,,,,"IHECRE00004509.1 ,IHECRE00004510.1 ,IHECRE00004511.1 ,IHECRE00004512.1 ,IHECRE00004513.1 ,IHECRE00004514.1 ,IHECRE00004515.1 ,IHECRE00004516.1 ,IHECRE00004525.1 ,IHECRE00004526.1 ,IHECRE00004527.1 ,IHECRE00004528.1"
+bTS11,HT115,,,EFO:0006442,,,"IHECRE00004596.1 ,IHECRE00004597.1 ,IHECRE00004598.1"
+CT27,CFT-2,HGC-27,HCC827,EFO:0001102,EFO:0006581,EFO:0003137,"IHECRE00004599.1 ,IHECRE00004600.1 ,IHECRE00004601.1"
+luminal cell,glial cell,mitral cell,luteal cell,CL:0000125,CL:1001502,CL:0000175,IHECRE00004607.2
+breast variant human mammary epithelial cell,respiratory epithelial cell,ovarian surface epithelial cell,simple columnar epithelial cell,CL:0002368,CL:2000064,CL:0000146,IHECRE00004875.1
+placenta (trophoblast) tissue,aorta elastic tissue,placenta blood vessel,,UBERON:0003609,UBERON:0022358,,"IHECRE00004876.1 ,IHECRE00004890.1 ,IHECRE00004903.1"
+placenta (amniotic membrane) tissue,placental membrane,,,UBERON:0009002,,,"IHECRE00004877.1 ,IHECRE00004912.1"
+brain (brodmann 11) tissue,brain commissure,,,UBERON:0005970,,,"IHECRE00004878.1 ,IHECRE00004882.1"
+placenta (smooth chorionic membrane) tissue,,,,,,,"IHECRE00004879.1 ,IHECRE00004886.1 ,IHECRE00004891.1"
+placenta (basal plate and villi) tissue,,,,,,,"IHECRE00004880.1 ,IHECRE00004884.1 ,IHECRE00004908.1"
+brain (cerebellum) tissue,cerebellum fissure,brain commissure,cerebellum lobule,UBERON:0003980,UBERON:0005970,UBERON:0004004,"IHECRE00004881.1 ,IHECRE00004906.1 ,IHECRE00004911.1"
+placenta (villi) tissue,adrenal tissue,placenta blood vessel,trachea elastic tissue,UBERON:0018303,UBERON:0022358,UBERON:0003617,"IHECRE00004883.1 ,IHECRE00004897.1 ,IHECRE00004900.1"
+ganglionic eminence neural stem and progenitor cells,hematopoietic lineage restricted progenitor cell,,,CL:0002031,,,"IHECRE00004887.1 ,IHECRE00004894.1 ,IHECRE00004910.1"
+brain (hippocampus) tissue,brown adipose tissue,hippocampal commissure,brain commissure,UBERON:0001348,UBERON:0000908,UBERON:0005970,IHECRE00004892.1
+breast luminal epithelial cell,intestinal epithelial cell,bronchial epithelial cell,corneal epithelial cell,CL:0002563,CL:0002328,CL:0000575,IHECRE00004893.1
+cortex neural stem and progenitor cells,neural progenitor cell,retinal progenitor cell,obsolete osteoprogenitor cell,CL:0011020,CL:0002672,CL:0000375,"IHECRE00004895.1 ,IHECRE00004902.1 ,IHECRE00004904.1"
+breast myoepithelial cell,myoepithelial cell,lens epithelial cell,ecto-epithelial cell,CL:0000185,CL:0002224,CL:0002077,IHECRE00004896.1
+brain (insular) tissue,reticular tissue,granulation tissue,inner fin tissue,UBERON:0006804,UBERON:0010211,UBERON:3010379,IHECRE00004899.1
+brain (germinal matrix) tissue,brain gray matter,bronchus elastic tissue,,UBERON:0003528,UBERON:0003616,,IHECRE00004909.1

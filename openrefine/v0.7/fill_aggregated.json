@@ -1,0 +1,342 @@
+[
+ {
+  "current":"luminal progenitor cell",
+  "ontology_curie1":"retinal progenitor cell",
+  "ontology_curie2":"neural progenitor cell",
+  "ontology_curie3":"progenitor cell",
+  "term_name1":"CL:0002672",
+  "term_name2":"CL:0011020",
+  "term_name3":"CL:0011026",
+  "index":"IHECRE00000223.3 ,IHECRE00004603.3 ,IHECRE00004606.2"
+ },
+ {
+  "current":"luminal cells-mature",
+  "ontology_curie1":"luminal cell of prostatic acinus",
+  "ontology_curie2":"glial cell",
+  "ontology_curie3":null,
+  "term_name1":"CL:0002235",
+  "term_name2":"CL:0000125",
+  "term_name3":null,
+  "index":"IHECRE00000231.3"
+ },
+ {
+  "current":"hematopoietic",
+  "ontology_curie1":"hematopoietic cell",
+  "ontology_curie2":"hematopoietic stem cell",
+  "ontology_curie3":"AGM hematopoietic stem cell",
+  "term_name1":"CL:0000988",
+  "term_name2":"CL:0000037",
+  "term_name3":"CL:0002360",
+  "index":"IHECRE00000237.3"
+ },
+ {
+  "current":"islet_cell",
+  "ontology_curie1":"sheath cell",
+  "ontology_curie2":"muscle cell",
+  "ontology_curie3":"motile cell",
+  "term_name1":"CL:0000618",
+  "term_name2":"CL:0000187",
+  "term_name3":"CL:0000219",
+  "index":"IHECRE00001862.2 ,IHECRE00001863.2 ,IHECRE00001865.2 ,IHECRE00001870.2 ,IHECRE00001871.2"
+ },
+ {
+  "current":"adipocyte",
+  "ontology_curie1":"preadipocyte",
+  "ontology_curie2":"cardiocyte",
+  "ontology_curie3":"amniocyte",
+  "term_name1":"CL:0002334",
+  "term_name2":"CL:0002494",
+  "term_name3":"CL:0002323",
+  "index":"IHECRE00001864.2 ,IHECRE00001867.2"
+ },
+ {
+  "current":"podocyte",
+  "ontology_curie1":"oocyte",
+  "ontology_curie2":"odontocyte",
+  "ontology_curie3":"oncocyte",
+  "term_name1":"CL:0000023",
+  "term_name2":"CL:0000140",
+  "term_name3":"CL:0002198",
+  "index":"IHECRE00001866.2 ,IHECRE00001869.2 ,IHECRE00003721.1 ,IHECRE00003722.1"
+ },
+ {
+  "current":"beta_cell",
+  "ontology_curie1":"goblet cell",
+  "ontology_curie2":"basket cell",
+  "ontology_curie3":"urethra cell",
+  "term_name1":"CL:0000160",
+  "term_name2":"CL:0000118",
+  "term_name3":"CL:1001320",
+  "index":"IHECRE00001868.2"
+ },
+ {
+  "current":null,
+  "ontology_curie1":null,
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":null,
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00001953.2 ,IHECRE00001955.3 ,IHECRE00001956.2 ,IHECRE00001958.3 ,IHECRE00001959.2 ,IHECRE00001960.2 ,IHECRE00001961.2 ,IHECRE00001962.2 ,IHECRE00001963.2 ,IHECRE00001964.2 ,IHECRE00001965.2 ,IHECRE00001966.2 ,IHECRE00002037.1 ,IHECRE00002055.1 ,IHECRE00003715.2 ,IHECRE00004592.1 ,IHECRE00004594.1"
+ },
+ {
+  "current":"alpha_cell",
+  "ontology_curie1":"hyphal cell",
+  "ontology_curie2":"cap cell",
+  "ontology_curie3":"alpha-beta T cell",
+  "term_name1":"CL:0000286",
+  "term_name2":"CL:0000676",
+  "term_name3":"CL:0000789",
+  "index":"IHECRE00003717.1"
+ },
+ {
+  "current":"mesangial",
+  "ontology_curie1":"mesangial cell",
+  "ontology_curie2":"mesangial phagocyte",
+  "ontology_curie3":null,
+  "term_name1":"CL:0000650",
+  "term_name2":"CL:0000777",
+  "term_name3":null,
+  "index":"IHECRE00003720.1 ,IHECRE00003723.1"
+ },
+ {
+  "current":"ipsc",
+  "ontology_curie1":null,
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":null,
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00003724.1 ,IHECRE00003727.1"
+ },
+ {
+  "current":"early neuron",
+  "ontology_curie1":"secondary neuron",
+  "ontology_curie2":"sensory neuron",
+  "ontology_curie3":"primary neuron",
+  "term_name1":"CL:0000535",
+  "term_name2":"CL:0000101",
+  "term_name3":"CL:0000530",
+  "index":"IHECRE00003726.1 ,IHECRE00003729.1"
+ },
+ {
+  "current":"adipose-derived mesenchymal stroaml cells",
+  "ontology_curie1":"amnion mesenchymal stem cell",
+  "ontology_curie2":"hepatic mesenchymal stem cell",
+  "ontology_curie3":"mesenchymal stem cell",
+  "term_name1":"CL:0002537",
+  "term_name2":"CL:0002571",
+  "term_name3":"CL:0000134",
+  "index":"IHECRE00003740.1 ,IHECRE00003741.1 ,IHECRE00003742.1 ,IHECRE00003743.1"
+ },
+ {
+  "current":"cd4 naive",
+  "ontology_curie1":null,
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":null,
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00003832.2 ,IHECRE00003842.2"
+ },
+ {
+  "current":"non parenchymal",
+  "ontology_curie1":"obsolete parenchymal cell",
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":"CL:0000668",
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004494.1 ,IHECRE00004496.1 ,IHECRE00004498.1 ,IHECRE00004500.1 ,IHECRE00004502.1 ,IHECRE00004504.1 ,IHECRE00004506.1 ,IHECRE00004508.1 ,IHECRE00004518.1 ,IHECRE00004520.1 ,IHECRE00004522.1 ,IHECRE00004524.1 ,IHECRE00004530.1 ,IHECRE00004532.1 ,IHECRE00004534.1 ,IHECRE00004536.1 ,IHECRE00004538.1 ,IHECRE00004540.1 ,IHECRE00004542.1 ,IHECRE00004544.1 ,IHECRE00004554.1 ,IHECRE00004556.1 ,IHECRE00004558.1 ,IHECRE00004560.1 ,IHECRE00004562.1 ,IHECRE00004564.1 ,IHECRE00004566.1 ,IHECRE00004568.1 ,IHECRE00004570.1 ,IHECRE00004572.1"
+ },
+ {
+  "current":"liver",
+  "ontology_curie1":null,
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":null,
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004509.1 ,IHECRE00004510.1 ,IHECRE00004511.1 ,IHECRE00004512.1 ,IHECRE00004513.1 ,IHECRE00004514.1 ,IHECRE00004515.1 ,IHECRE00004516.1 ,IHECRE00004525.1 ,IHECRE00004526.1 ,IHECRE00004527.1 ,IHECRE00004528.1"
+ },
+ {
+  "current":"bTS11",
+  "ontology_curie1":"HT115",
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":"EFO:0006442",
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004596.1 ,IHECRE00004597.1 ,IHECRE00004598.1"
+ },
+ {
+  "current":"CT27",
+  "ontology_curie1":"CFT-2",
+  "ontology_curie2":"HGC-27",
+  "ontology_curie3":"HCC827",
+  "term_name1":"EFO:0001102",
+  "term_name2":"EFO:0006581",
+  "term_name3":"EFO:0003137",
+  "index":"IHECRE00004599.1 ,IHECRE00004600.1 ,IHECRE00004601.1"
+ },
+ {
+  "current":"luminal cell",
+  "ontology_curie1":"glial cell",
+  "ontology_curie2":"mitral cell",
+  "ontology_curie3":"luteal cell",
+  "term_name1":"CL:0000125",
+  "term_name2":"CL:1001502",
+  "term_name3":"CL:0000175",
+  "index":"IHECRE00004607.2"
+ },
+ {
+  "current":"breast variant human mammary epithelial cell",
+  "ontology_curie1":"respiratory epithelial cell",
+  "ontology_curie2":"ovarian surface epithelial cell",
+  "ontology_curie3":"simple columnar epithelial cell",
+  "term_name1":"CL:0002368",
+  "term_name2":"CL:2000064",
+  "term_name3":"CL:0000146",
+  "index":"IHECRE00004875.1"
+ },
+ {
+  "current":"placenta (trophoblast) tissue",
+  "ontology_curie1":"aorta elastic tissue",
+  "ontology_curie2":"placenta blood vessel",
+  "ontology_curie3":null,
+  "term_name1":"UBERON:0003609",
+  "term_name2":"UBERON:0022358",
+  "term_name3":null,
+  "index":"IHECRE00004876.1 ,IHECRE00004890.1 ,IHECRE00004903.1"
+ },
+ {
+  "current":"placenta (amniotic membrane) tissue",
+  "ontology_curie1":"placental membrane",
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":"UBERON:0009002",
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004877.1 ,IHECRE00004912.1"
+ },
+ {
+  "current":"brain (brodmann 11) tissue",
+  "ontology_curie1":"brain commissure",
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":"UBERON:0005970",
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004878.1 ,IHECRE00004882.1"
+ },
+ {
+  "current":"placenta (smooth chorionic membrane) tissue",
+  "ontology_curie1":null,
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":null,
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004879.1 ,IHECRE00004886.1 ,IHECRE00004891.1"
+ },
+ {
+  "current":"placenta (basal plate and villi) tissue",
+  "ontology_curie1":null,
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":null,
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004880.1 ,IHECRE00004884.1 ,IHECRE00004908.1"
+ },
+ {
+  "current":"brain (cerebellum) tissue",
+  "ontology_curie1":"cerebellum fissure",
+  "ontology_curie2":"brain commissure",
+  "ontology_curie3":"cerebellum lobule",
+  "term_name1":"UBERON:0003980",
+  "term_name2":"UBERON:0005970",
+  "term_name3":"UBERON:0004004",
+  "index":"IHECRE00004881.1 ,IHECRE00004906.1 ,IHECRE00004911.1"
+ },
+ {
+  "current":"placenta (villi) tissue",
+  "ontology_curie1":"adrenal tissue",
+  "ontology_curie2":"placenta blood vessel",
+  "ontology_curie3":"trachea elastic tissue",
+  "term_name1":"UBERON:0018303",
+  "term_name2":"UBERON:0022358",
+  "term_name3":"UBERON:0003617",
+  "index":"IHECRE00004883.1 ,IHECRE00004897.1 ,IHECRE00004900.1"
+ },
+ {
+  "current":"ganglionic eminence neural stem and progenitor cells",
+  "ontology_curie1":"hematopoietic lineage restricted progenitor cell",
+  "ontology_curie2":null,
+  "ontology_curie3":null,
+  "term_name1":"CL:0002031",
+  "term_name2":null,
+  "term_name3":null,
+  "index":"IHECRE00004887.1 ,IHECRE00004894.1 ,IHECRE00004910.1"
+ },
+ {
+  "current":"brain (hippocampus) tissue",
+  "ontology_curie1":"brown adipose tissue",
+  "ontology_curie2":"hippocampal commissure",
+  "ontology_curie3":"brain commissure",
+  "term_name1":"UBERON:0001348",
+  "term_name2":"UBERON:0000908",
+  "term_name3":"UBERON:0005970",
+  "index":"IHECRE00004892.1"
+ },
+ {
+  "current":"breast luminal epithelial cell",
+  "ontology_curie1":"intestinal epithelial cell",
+  "ontology_curie2":"bronchial epithelial cell",
+  "ontology_curie3":"corneal epithelial cell",
+  "term_name1":"CL:0002563",
+  "term_name2":"CL:0002328",
+  "term_name3":"CL:0000575",
+  "index":"IHECRE00004893.1"
+ },
+ {
+  "current":"cortex neural stem and progenitor cells",
+  "ontology_curie1":"neural progenitor cell",
+  "ontology_curie2":"retinal progenitor cell",
+  "ontology_curie3":"obsolete osteoprogenitor cell",
+  "term_name1":"CL:0011020",
+  "term_name2":"CL:0002672",
+  "term_name3":"CL:0000375",
+  "index":"IHECRE00004895.1 ,IHECRE00004902.1 ,IHECRE00004904.1"
+ },
+ {
+  "current":"breast myoepithelial cell",
+  "ontology_curie1":"myoepithelial cell",
+  "ontology_curie2":"lens epithelial cell",
+  "ontology_curie3":"ecto-epithelial cell",
+  "term_name1":"CL:0000185",
+  "term_name2":"CL:0002224",
+  "term_name3":"CL:0002077",
+  "index":"IHECRE00004896.1"
+ },
+ {
+  "current":"brain (insular) tissue",
+  "ontology_curie1":"reticular tissue",
+  "ontology_curie2":"granulation tissue",
+  "ontology_curie3":"inner fin tissue",
+  "term_name1":"UBERON:0006804",
+  "term_name2":"UBERON:0010211",
+  "term_name3":"UBERON:3010379",
+  "index":"IHECRE00004899.1"
+ },
+ {
+  "current":"brain (germinal matrix) tissue",
+  "ontology_curie1":"brain gray matter",
+  "ontology_curie2":"bronchus elastic tissue",
+  "ontology_curie3":null,
+  "term_name1":"UBERON:0003528",
+  "term_name2":"UBERON:0003616",
+  "term_name3":null,
+  "index":"IHECRE00004909.1"
+ }
+]
