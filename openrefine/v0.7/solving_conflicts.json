@@ -1,0 +1,3227 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SU-DHL-5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUDHL5"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SU-DHL-6"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUDHL6"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "KARPAS-422"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Karpas 422"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "U-266"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U266"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DG-75"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DG75"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cd19+ cells (b lymphocytes)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "B cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "184-hTert-L9",
+                "l": "184-hTert-L9"
+              }
+            },
+            {
+              "v": {
+                "v": "184-hTert-L2",
+                "l": "184-hTert-L2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "EFO:0002884"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EFO:0009375"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "184-hTert-L2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "184-hTERT"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "184-hTert-L9"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "184-hTERT"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "iPSC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "induced pluripotent stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mammary epithelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mammary gland epithelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UCSF-4"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UCSF4"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "adipocyte",
+                "l": "adipocyte"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CL:0000136"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "adipocyte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "fat cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cd4-positive alpha-beta memory t cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD4-positive, alpha-beta memory T cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "H7"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "H7-hESC"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CL:0000995",
+                "l": "CL:0000995"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hematopoietic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "H1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "H1-hESC"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "germinal center b cell",
+                "l": "germinal center b cell"
+              }
+            },
+            {
+              "v": {
+                "v": "germinal center B cell",
+                "l": "germinal center B cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CL:0000844"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL:2000006"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "germinal center b cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "tonsil germinal center B cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "germinal center B cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "tonsil germinal center B cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MEL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MEL cell line"
+      }
+    ],
+    "description": "Mass edit cells in column line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endometrial_stroma_cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stromal cell of endometrium"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00002049.2",
+                "l": "IHECRE00002049.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cerebellum",
+                "l": "cerebellum"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0004720"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0002037"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "UBERON:0004720",
+                "l": "UBERON:0004720"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cerebellum"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cerebellar vermis"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cytotoxic cd56-dim natural killer cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD16-positive, CD56-dim natural killer cell, human"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "precursor lymphocyte of b lineage"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lymphocyte of b lineage"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of umbilical vein (proliferating)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical vein"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of umbilical vein (resting)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "endothelial cell of umbilical vein"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "left frontal lobe",
+                "l": "left frontal lobe"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0000955"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0002811"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "left temporal lobe",
+                "l": "left temporal lobe"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0000955"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0002808"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "neoplastic plasma cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "plasma cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "common lymphoid progenitor from peripheral blood",
+                "l": "common lymphoid progenitor from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "common lymphoid progenitor from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD34-positive, CD38-positive common lymphoid progenitor"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "common myeloid progenitor from peripheral blood",
+                "l": "common myeloid progenitor from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "common myeloid progenitor from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD34-positive, CD38-positive common myeloid progenitor"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CD34-positive, CD38-positive common lymphoid progenitor",
+                "l": "CD34-positive, CD38-positive common lymphoid progenitor"
+              }
+            },
+            {
+              "v": {
+                "v": "CD34-positive, CD38-positive common myeloid progenitor",
+                "l": "CD34-positive, CD38-positive common myeloid progenitor"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "granulocyte macrophage progenitor from peripheral blood",
+                "l": "granulocyte macrophage progenitor from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "granulocyte macrophage progenitor from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "granulocyte monocyte progenitor cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "hematopoietic stem cell from bone marrow",
+                "l": "hematopoietic stem cell from bone marrow"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "bone marrow"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "hematopoietic stem cell from cord blood",
+                "l": "hematopoietic stem cell from cord blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "umbilical cord blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "hematopoietic stem cell from fetal liver",
+                "l": "hematopoietic stem cell from fetal liver"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "liver"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "hematopoietic stem cell from peripheral blood",
+                "l": "hematopoietic stem cell from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CL:0000037",
+                "l": "CL:0000037"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hematopoietic stem cell from bone marrow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hematopoietic stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CL:0000037",
+                "l": "CL:0000037"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hematopoietic stem cell from cord blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hematopoietic stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CL:0000037",
+                "l": "CL:0000037"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hematopoietic stem cell from fetal liver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hematopoietic stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term",
+          "expression": "value",
+          "columnName": "sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CL:0000037",
+                "l": "CL:0000037"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hematopoietic stem cell from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hematopoietic stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "megakaryocyte erythrocyte progenitor from peripheral blood",
+                "l": "megakaryocyte erythrocyte progenitor from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "megakaryocyte erythrocyte progenitor from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "megakaryocyte-erythroid progenitor cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "megakaryocyte from bone marrow",
+                "l": "megakaryocyte from bone marrow"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "bone marrow"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "megakaryocyte from bone marrow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "megakaryocyte"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "monocyte from peripheral blood",
+                "l": "monocyte from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "monocyte from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD14-positive monocyte"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "neutrophil from peripheral blood",
+                "l": "neutrophil from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "neutrophil from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "neutrophil"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "natural killer cell from peripheral blood",
+                "l": "natural killer cell from peripheral blood"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "venous blood"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "natural killer cell from peripheral blood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "natural killer cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003374.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "temporal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 20"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003296.2|IHECRE00003253.2|IHECRE00003177.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "temporal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 20::Brodmann (1909) area 37\n"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003296.2|IHECRE00003253.2|IHECRE00003177.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0013551"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0013551::UBERON:0006478"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003129.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "temporal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 22"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003141.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "anterior cingulate cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 24"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003286.2|IHECRE00003301.2|IHECRE00003382.2|IHECRE00003309.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "temporal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 38"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003361.2|IHECRE00003298.2|IHECRE00003276.2|IHECRE00003124.2|IHECRE00003123.2|IHECRE00003377.2|IHECRE00003264.2|IHECRE00003151.2|IHECRE00003392.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "temporal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anterior transverse temporal area 41::posterior transverse temporal area 42"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003361.2|IHECRE00003298.2|IHECRE00003276.2|IHECRE00003124.2|IHECRE00003123.2|IHECRE00003377.2|IHECRE00003264.2|IHECRE00003151.2|IHECRE00003392.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0006095"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0006095::UBERON:0006096"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003105.2|IHECRE00003106.2|IHECRE00003107.2|IHECRE00003137.2|IHECRE00003138.2|IHECRE00003139.2|IHECRE00003140.2|IHECRE00003142.2|IHECRE00003143.2|IHECRE00003145.2|IHECRE00003148.2|IHECRE00003152.2|IHECRE00003156.2|IHECRE00003158.2|IHECRE00003163.2|IHECRE00003165.2|IHECRE00003166.2|IHECRE00003173.2|IHECRE00003175.2|IHECRE00003176.2|IHECRE00003182.2|IHECRE00003189.2|IHECRE00003191.2|IHECRE00003195.2|IHECRE00003196.2|IHECRE00003199.2|IHECRE00003200.2|IHECRE00003204.2|IHECRE00003205.2|IHECRE00003206.2|IHECRE00003207.2|IHECRE00003211.2|IHECRE00003214.2|IHECRE00003215.2|IHECRE00003227.2|IHECRE00003231.2|IHECRE00003236.2|IHECRE00003246.2|IHECRE00003249.2|IHECRE00003251.2|IHECRE00003254.2|IHECRE00003256.2|IHECRE00003257.2|IHECRE00003263.2|IHECRE00003265.2|IHECRE00003267.2|IHECRE00003274.2|IHECRE00003275.2|IHECRE00003283.2|IHECRE00003284.2|IHECRE00003307.2|IHECRE00003318.2|IHECRE00003320.2|IHECRE00003322.2|IHECRE00003325.2|IHECRE00003329.2|IHECRE00003333.2|IHECRE00003336.2|IHECRE00003340.2|IHECRE00003341.2|IHECRE00003342.2|IHECRE00003356.2|IHECRE00003357.2|IHECRE00003368.2|IHECRE00003370.2|IHECRE00003372.2|IHECRE00003373.2|IHECRE00003381.2|IHECRE00003387.2|IHECRE00003390.2|IHECRE00003391.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "temporal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anterior transverse temporal area 41::posterior transverse temporal area 42::Brodmann (1909) area 22"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003105.2|IHECRE00003106.2|IHECRE00003107.2|IHECRE00003137.2|IHECRE00003138.2|IHECRE00003139.2|IHECRE00003140.2|IHECRE00003142.2|IHECRE00003143.2|IHECRE00003145.2|IHECRE00003148.2|IHECRE00003152.2|IHECRE00003156.2|IHECRE00003158.2|IHECRE00003163.2|IHECRE00003165.2|IHECRE00003166.2|IHECRE00003173.2|IHECRE00003175.2|IHECRE00003176.2|IHECRE00003182.2|IHECRE00003189.2|IHECRE00003191.2|IHECRE00003195.2|IHECRE00003196.2|IHECRE00003199.2|IHECRE00003200.2|IHECRE00003204.2|IHECRE00003205.2|IHECRE00003206.2|IHECRE00003207.2|IHECRE00003211.2|IHECRE00003214.2|IHECRE00003215.2|IHECRE00003227.2|IHECRE00003231.2|IHECRE00003236.2|IHECRE00003246.2|IHECRE00003249.2|IHECRE00003251.2|IHECRE00003254.2|IHECRE00003256.2|IHECRE00003257.2|IHECRE00003263.2|IHECRE00003265.2|IHECRE00003267.2|IHECRE00003274.2|IHECRE00003275.2|IHECRE00003283.2|IHECRE00003284.2|IHECRE00003307.2|IHECRE00003318.2|IHECRE00003320.2|IHECRE00003322.2|IHECRE00003325.2|IHECRE00003329.2|IHECRE00003333.2|IHECRE00003336.2|IHECRE00003340.2|IHECRE00003341.2|IHECRE00003342.2|IHECRE00003356.2|IHECRE00003357.2|IHECRE00003368.2|IHECRE00003370.2|IHECRE00003372.2|IHECRE00003373.2|IHECRE00003381.2|IHECRE00003387.2|IHECRE00003390.2|IHECRE00003391.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0006095"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0006095::UBERON:0006096::UBERON:0013553"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003105.2|IHECRE00003106.2|IHECRE00003107.2|IHECRE00003137.2|IHECRE00003138.2|IHECRE00003139.2|IHECRE00003140.2|IHECRE00003142.2|IHECRE00003143.2|IHECRE00003145.2|IHECRE00003148.2|IHECRE00003152.2|IHECRE00003156.2|IHECRE00003158.2|IHECRE00003163.2|IHECRE00003165.2|IHECRE00003166.2|IHECRE00003173.2|IHECRE00003175.2|IHECRE00003176.2|IHECRE00003182.2|IHECRE00003189.2|IHECRE00003191.2|IHECRE00003195.2|IHECRE00003196.2|IHECRE00003199.2|IHECRE00003200.2|IHECRE00003204.2|IHECRE00003205.2|IHECRE00003206.2|IHECRE00003207.2|IHECRE00003211.2|IHECRE00003214.2|IHECRE00003215.2|IHECRE00003227.2|IHECRE00003231.2|IHECRE00003236.2|IHECRE00003246.2|IHECRE00003249.2|IHECRE00003251.2|IHECRE00003254.2|IHECRE00003256.2|IHECRE00003257.2|IHECRE00003263.2|IHECRE00003265.2|IHECRE00003267.2|IHECRE00003274.2|IHECRE00003275.2|IHECRE00003283.2|IHECRE00003284.2|IHECRE00003307.2|IHECRE00003318.2|IHECRE00003320.2|IHECRE00003322.2|IHECRE00003325.2|IHECRE00003329.2|IHECRE00003333.2|IHECRE00003336.2|IHECRE00003340.2|IHECRE00003341.2|IHECRE00003342.2|IHECRE00003356.2|IHECRE00003357.2|IHECRE00003368.2|IHECRE00003370.2|IHECRE00003372.2|IHECRE00003373.2|IHECRE00003381.2|IHECRE00003387.2|IHECRE00003390.2|IHECRE00003391.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "anterior transverse temporal area 41::posterior transverse temporal area 42::Brodmann (1909) area 22"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 22::anterior transverse temporal area 41::posterior transverse temporal area 42"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003105.2|IHECRE00003106.2|IHECRE00003107.2|IHECRE00003137.2|IHECRE00003138.2|IHECRE00003139.2|IHECRE00003140.2|IHECRE00003142.2|IHECRE00003143.2|IHECRE00003145.2|IHECRE00003148.2|IHECRE00003152.2|IHECRE00003156.2|IHECRE00003158.2|IHECRE00003163.2|IHECRE00003165.2|IHECRE00003166.2|IHECRE00003173.2|IHECRE00003175.2|IHECRE00003176.2|IHECRE00003182.2|IHECRE00003189.2|IHECRE00003191.2|IHECRE00003195.2|IHECRE00003196.2|IHECRE00003199.2|IHECRE00003200.2|IHECRE00003204.2|IHECRE00003205.2|IHECRE00003206.2|IHECRE00003207.2|IHECRE00003211.2|IHECRE00003214.2|IHECRE00003215.2|IHECRE00003227.2|IHECRE00003231.2|IHECRE00003236.2|IHECRE00003246.2|IHECRE00003249.2|IHECRE00003251.2|IHECRE00003254.2|IHECRE00003256.2|IHECRE00003257.2|IHECRE00003263.2|IHECRE00003265.2|IHECRE00003267.2|IHECRE00003274.2|IHECRE00003275.2|IHECRE00003283.2|IHECRE00003284.2|IHECRE00003307.2|IHECRE00003318.2|IHECRE00003320.2|IHECRE00003322.2|IHECRE00003325.2|IHECRE00003329.2|IHECRE00003333.2|IHECRE00003336.2|IHECRE00003340.2|IHECRE00003341.2|IHECRE00003342.2|IHECRE00003356.2|IHECRE00003357.2|IHECRE00003368.2|IHECRE00003370.2|IHECRE00003372.2|IHECRE00003373.2|IHECRE00003381.2|IHECRE00003387.2|IHECRE00003390.2|IHECRE00003391.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0006095::UBERON:0006096::UBERON:0013553"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0006095::UBERON:0006096::UBERON:0013553"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003111.2|IHECRE00003118.2|IHECRE00003216.2|IHECRE00003237.2|IHECRE00003337.2|IHECRE00003360.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "prefrontal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 44::Brodmann (1909) area 45"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003111.2|IHECRE00003118.2|IHECRE00003216.2|IHECRE00003237.2|IHECRE00003337.2|IHECRE00003360.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0006481"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0006481::UBERON:0006482"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003128.2|IHECRE00003365.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "prefrontal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 45"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003108.2|IHECRE00003109.2|IHECRE00003113.2|IHECRE00003114.2|IHECRE00003116.2|IHECRE00003117.2|IHECRE00003119.2|IHECRE00003120.2|IHECRE00003122.2|IHECRE00003125.2|IHECRE00003131.2|IHECRE00003147.2|IHECRE00003160.2|IHECRE00003161.2|IHECRE00003162.2|IHECRE00003167.2|IHECRE00003168.2|IHECRE00003169.2|IHECRE00003171.2|IHECRE00003174.2|IHECRE00003178.2|IHECRE00003181.2|IHECRE00003184.2|IHECRE00003186.2|IHECRE00003187.2|IHECRE00003197.2|IHECRE00003198.2|IHECRE00003203.2|IHECRE00003208.2|IHECRE00003209.2|IHECRE00003210.2|IHECRE00003212.2|IHECRE00003217.2|IHECRE00003218.2|IHECRE00003220.2|IHECRE00003221.2|IHECRE00003223.2|IHECRE00003224.2|IHECRE00003225.2|IHECRE00003229.2|IHECRE00003233.2|IHECRE00003234.2|IHECRE00003238.2|IHECRE00003240.2|IHECRE00003241.2|IHECRE00003242.2|IHECRE00003244.2|IHECRE00003247.2|IHECRE00003252.2|IHECRE00003255.2|IHECRE00003259.2|IHECRE00003266.2|IHECRE00003270.2|IHECRE00003273.2|IHECRE00003278.2|IHECRE00003279.2|IHECRE00003281.2|IHECRE00003288.2|IHECRE00003289.2|IHECRE00003290.2|IHECRE00003291.2|IHECRE00003292.2|IHECRE00003294.2|IHECRE00003295.2|IHECRE00003300.2|IHECRE00003302.2|IHECRE00003303.2|IHECRE00003306.2|IHECRE00003308.2|IHECRE00003310.2|IHECRE00003311.2|IHECRE00003323.2|IHECRE00003327.2|IHECRE00003331.2|IHECRE00003339.2|IHECRE00003345.2|IHECRE00003346.2|IHECRE00003349.2|IHECRE00003354.2|IHECRE00003358.2|IHECRE00003362.2|IHECRE00003363.2|IHECRE00003375.2|IHECRE00003376.2|IHECRE00003379.2|IHECRE00003380.2|IHECRE00003384.2|IHECRE00003385.2|IHECRE00003389.2|IHECRE00003394.2|IHECRE00003395.2",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "GIS",
+                "l": "GIS"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "prefrontal cortex"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 9"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "normal human colon absorptive epithelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "colon epithelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sperm cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "sperm"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "bvsc",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "bvsc embryonic stem cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "embryonic stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "bvsc",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "bvsc epiblast-like cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "epiblast cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "bvsc",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "bvsc primordial germ cell-like cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primordial germ cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "h18",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "h18 embryonic stem cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "embryonic stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "h18",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "h18 epiblast-like cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "epiblast cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "h18",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "h18 primordial germ cell-like cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primordial germ cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "prdm14 wt",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "prdm14 wt d2 primordial germ cell-like cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primordial germ cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "prdm14 wt",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "prdm14 wt d4 primordial germ cell-like cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primordial germ cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "cell_type",
+          "columnName": "cell_type",
+          "query": "prdm14 wt",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "prdm14 wt d6 primordial germ cell-like cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primordial germ cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cardiac microvascular endothelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "microvascular endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endothelial cell of umbilical artery"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "umbilical artery endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "human umbilical artery endothelial cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "umbilical artery endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "b cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "tonsil germinal center B cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mucosa of large intestine",
+                "l": "mucosa of large intestine"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0000344"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0001207"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003815.1",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cd4-positive regulatory t cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mononuclear cell of bone marrow",
+                "l": "mononuclear cell of bone marrow"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "mononuclear cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mononuclear cell of bone marrow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "bone marrow"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  }
+]
