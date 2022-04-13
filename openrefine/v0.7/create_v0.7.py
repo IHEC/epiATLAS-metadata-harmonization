@@ -1,11 +1,5 @@
-import difflib
-import json
 import os.path
-import typing
 from subprocess import run
-
-import pandas as pd
-from pronto import Ontology
 
 # make sure the working directory when running this file is the project root of the git project
 os.chdir('../../')
