@@ -1,0 +1,381 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rheumatoid Arthritis",
+                "l": "Rheumatoid Arthritis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C4015937"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ascending colon",
+                "l": "ascending colon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CEEHRC",
+                "l": "CEEHRC"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0000397"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0001156"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "colon",
+                "l": "colon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CEEHRC",
+                "l": "CEEHRC"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0001156"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UBERON:0001155"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001023",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mesendoderm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mesodermal cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "normal human stomach foveolar epithelial cells (surface mucous cells)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "foveolar cell of stomach"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "islet_cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pancreatic endocrine cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "pancreatic endocrine cell",
+                "l": "pancreatic endocrine cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CL:0008024"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001959|IHECRE00001961|IHECRE00003715",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "biomaterial_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "primary cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primary tissue"
+      }
+    ],
+    "description": "Mass edit cells in column biomaterial_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001959|IHECRE00001961|IHECRE00003715",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "endometrium epithelium"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001959|IHECRE00001961|IHECRE00003715",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "UBERON:0004811"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term"
+  }
+]

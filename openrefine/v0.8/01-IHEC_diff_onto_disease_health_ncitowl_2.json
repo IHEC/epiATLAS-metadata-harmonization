@@ -1,0 +1,4597 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_health_status",
+          "expression": "value",
+          "columnName": "Descrip_onto_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "None",
+                "l": "None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_health",
+          "expression": "value",
+          "columnName": "Diff_health",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Missing"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_health_status",
+          "expression": "value",
+          "columnName": "Descrip_onto_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "None",
+                "l": "None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_health",
+          "expression": "value",
+          "columnName": "Diff_health",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Missing"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_health_status",
+          "expression": "value",
+          "columnName": "Descrip_onto_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "No description available",
+                "l": "No description available"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status_ontology_uri",
+          "expression": "value",
+          "columnName": "donor_health_status_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C0205647",
+                "l": "C0205647"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No description available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Follicular adenoma"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_health_status",
+          "expression": "value",
+          "columnName": "Descrip_onto_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "No description available",
+                "l": "No description available"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status_ontology_uri",
+          "expression": "value",
+          "columnName": "donor_health_status_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C0861884",
+                "l": "C0861884"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No description available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic lymphocytic leukaemia stage A(II)"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_health_status",
+          "expression": "value",
+          "columnName": "Descrip_onto_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "No description available",
+                "l": "No description available"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status_ontology_uri",
+          "expression": "value",
+          "columnName": "donor_health_status_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C2315449",
+                "l": "C2315449"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No description available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diverticulitis of rectosigmoid"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_health_status",
+          "expression": "value",
+          "columnName": "Descrip_onto_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "No description available",
+                "l": "No description available"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status_ontology_uri",
+          "expression": "value",
+          "columnName": "donor_health_status_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C2854093",
+                "l": "C2854093"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No description available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic lymphocytic leukemia of B-cell type in relapse"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No description available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Activated B-Cell-Like Diffuse Large B-Cell Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diffuse Large B-Cell Lymphoma Activated B-Cell Type"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acute Lymphocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Acute Lymphoblastic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000252.2",
+                "l": "IHECRE00000252.2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000252.2",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acute Myeloid Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Myeloid Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "disease_ontology_uri",
+          "expression": "value",
+          "columnName": "disease_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C0023487",
+                "l": "C0023487"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acute Promyelocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Acute Promyelocytic Leukemia with PML-RARA"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acute Promyelocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Typical Acute Promyelocytic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ADENOCARCINOMA_AMPULLA_OF_VATER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ampulla of Vater Adenocarcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ADENOSQUAMOUS_CARCINOMA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adenosquamous Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_disease",
+          "expression": "value",
+          "columnName": "Descrip_onto_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Lymphoblastic Leukemia",
+                "l": "Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "T-cell Acute Lymphocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Acute Lymphoblastic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_disease",
+          "expression": "value",
+          "columnName": "Descrip_onto_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Adult Anaplastic Oligodendroglioma",
+                "l": "Adult Anaplastic Oligodendroglioma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brain Oligodendroglioma-Anaplastic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adult Anaplastic Oligodendroglioma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "apparently healthy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Health Status Unknown"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column disease using expression value.toTitlecase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Autism Spectrum Disorder;chromosome 15q Duplication Syndrome"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Autism Spectrum Disorder"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Blood Leukemia - Chronic Myeloid"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia Chromosome Positive, BCR-ABL1 Positive Chronic Myelogenous Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Blood Leukemia-chronic Lymphocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic lymphocytic leukemia of B-cell type in relapse"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "disease_ontology_uri",
+          "expression": "value",
+          "columnName": "disease_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C2854093",
+                "l": "C2854093"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Blood-peripheral Leukemia-chronic Lymphocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic lymphocytic leukemia of B-cell type in relapse"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_disease",
+          "expression": "value",
+          "columnName": "Descrip_onto_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "No description available",
+                "l": "No description available"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Blood-peripheral Leukemia-chronic Lymphocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic lymphocytic leukaemia stage A(II)"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brain Glioblastoma Multiforme"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glioblastoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brain Oligodendroglioma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oligodendroglioma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brain Oligodendroglioma-anaplastic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anaplastic Oligodendroglioma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brain-frontal Lobe-left Glioblastoma Multiforme-oligodendroglial Component"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glioblastoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Clear_cell_renal_cell_carcinoma;nephropathy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hypertensive Nephropathy"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Colloid_carcinoma_arising_from_intraductal_papillary_mucinous_neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Diffuse Large B-cell Lymphoma Activated B-cell Type"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diffuse Large B-Cell Lymphoma Activated B-Cell Type"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fatty Liver Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fatty Liver"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Germinal Center B-cell-like Diffuse Large B-cell Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diffuse Large B-Cell Lymphoma Germinal Center B-Cell Type"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Large Intestine Adenoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Colon Adenoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Large Intestine Diverticulitis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diverticulitis of rectosigmoid"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Large Intestine-colon Adenocarcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Grade 1 Colon Adenocarcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Large Intestine-colon Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Colon Undifferentiated Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lymphoma_follicular"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Follicular Lymphoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mammary Gland-breast Fibrocystic Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Breast Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Missing"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mucinous_cystic_neoplasm;normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pancreatic Mucinous-Cystic Neoplasm"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Multiple Myeloma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plasma Cell Myeloma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Nephropathy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hypertensive Nephropathy"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Neuroendocrine_tumor_grade_1;normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pancreatic Neuroendocrine Tumor G1"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No Known Disorder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_disease",
+          "expression": "value",
+          "columnName": "Descrip_onto_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Health Status Unknown",
+                "l": "Health Status Unknown"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Health Status Unknown"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_disease",
+          "expression": "value",
+          "columnName": "Descrip_onto_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy",
+                "l": "Healthy"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Normal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Mucinous-Cystic Neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pancreatic Mucinous-Cystic Neoplasm"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Renal_oncocytoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kidney Oncocytoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Solid_pseudopapillary_neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Solid Pseudopapillary Neoplasm of the Pancreas"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "T-cell Prolymphocytic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "T-Cell Prolymphocytic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Thyroid Carcinoma - Papillary-classical"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thyroid Gland Follicular Adenoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Thyroid Goiter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Goiter"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_disease",
+          "expression": "value",
+          "columnName": "Descrip_onto_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Thyroid Gland Follicular Adenoma",
+                "l": "Thyroid Gland Follicular Adenoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Thyroid Papillary Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thyroid Gland Follicular Adenoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Thyroid Papillary Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thyroid Gland Papillary Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Descrip_onto_health_status",
+          "expression": "value",
+          "columnName": "Descrip_onto_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "No description available",
+                "l": "No description available"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "__ToBeUpdated__"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0005586::C2749754"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Diff_disease",
+          "expression": "value",
+          "columnName": "Diff_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "disagree",
+                "l": "disagree"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bipolar Disorder And Iron Deficiency"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bipolar Disorder::Iron Deficiency"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Head Trauma",
+                "l": "Head Trauma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C0018674"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Head Trauma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Head Injury"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001853",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C2750272"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001853",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Breast Cancer (adenocarcinoma)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adenocarcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001851",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0279672"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001887",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chronic Myelogenous Leukemia (cml)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic Myelogenous Leukemia, BCR-ABL1 Positive"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001887",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0023473"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004698",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C1319315"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004658",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0009402"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003704",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0684337"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003704",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ewing's Sarcoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ewing Sarcoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy With Polysubstance Abuse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Polysubstance Abuse"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Polysubstance Abuse",
+                "l": "Polysubstance Abuse"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0747752"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001893",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0019204"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001861",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL448793"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001861",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Human B Cell Non-hodgkin's Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "B-Cell Non-Hodgkin Lymphoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004673.6",
+                "l": "IHECRE00004673.6"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004673",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0024304"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004673.6",
+                "l": "IHECRE00004673.6"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004673",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease_ontology_uri",
+          "expression": "value",
+          "columnName": "disease_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C0024304",
+                "l": "C0024304"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Large Cell Lymphoma; Diffuse Mixed Histiocytic And Lymphocytic Lymphoma; Follicular B Cell Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Large Cell Lymphoma; Mixed Lymphocytic-Histiocytic Lymphoma; Follicular B Cell Lymphoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004687.5",
+                "l": "IHECRE00004687.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004687.5",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Malignant Pluripotent Embryonal Carcinoma",
+                "l": "Malignant Pluripotent Embryonal Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0206659"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004687.5",
+                "l": "IHECRE00004687.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004687.5",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease_ontology_uri",
+          "expression": "value",
+          "columnName": "disease_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C0206659",
+                "l": "C0206659"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Malignant Pluripotent Embryonal Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Embryonal Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000966.7",
+                "l": "IHECRE00000966.7"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966.7",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Normal Muscosa, But Diverticular Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diverticulitis"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000966.7",
+                "l": "IHECRE00000966.7"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966.7",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Diverticulitis",
+                "l": "Diverticulitis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0012813"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000950.7",
+                "l": "IHECRE00000950.7"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000950",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease_ontology_uri",
+          "expression": "value",
+          "columnName": "disease_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C115222",
+                "l": "C115222"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Osteomylitis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Osteomyelitis"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000950.7",
+                "l": "IHECRE00000950.7"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000950",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Osteomyelitis",
+                "l": "Osteomyelitis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0029443"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000982.6|IHECRE00001858.6",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Carcinoma",
+                "l": "Pancreatic Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C0235974"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001860.6",
+                "l": "IHECRE00001860.6"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001860.6",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease_ontology_uri",
+          "expression": "value",
+          "columnName": "disease_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C115222",
+                "l": "C115222"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "T-acute Lymphoblastic Leukemia (t-all; Type Iii Cortical)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "T Acute Lymphoblastic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001860.6",
+                "l": "IHECRE00001860.6"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001860.6",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "T Acute Lymphoblastic Leukemia",
+                "l": "T Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C1961099"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004623.5",
+                "l": "IHECRE00004623.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004623.5",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease_ontology_uri",
+          "expression": "value",
+          "columnName": "disease_ontology_uri",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "C115222",
+                "l": "C115222"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "T-cell Acute Lymphoblastic Leukemia Cell Line Atcc Crl-2629"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "T Acute Lymphoblastic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EpiRR",
+          "expression": "value",
+          "columnName": "EpiRR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004623.5",
+                "l": "IHECRE00004623.5"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004623.5",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "T Acute Lymphoblastic Leukemia",
+                "l": "T Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C1961099"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+    {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Xald"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Childhood cerebral X-linked adrenoleukodystrophy"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "T Acute Lymphoblastic Leukemia",
+                "l": "T Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acute Lymphoblastic Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "T Acute Lymphoblastic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "T Acute Lymphoblastic Leukemia",
+                "l": "T Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "T Acute Lymphoblastic Leukemia",
+                "l": "T Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C0023449"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C1961099"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "T Acute Lymphoblastic Leukemia",
+                "l": "T Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "T Acute Lymphoblastic Leukemia",
+                "l": "T Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C1961099"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Lymphoblastic Leukemia",
+                "l": "Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C0023449"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C3550748"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Lymphoblastic Leukemia",
+                "l": "Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C3550748"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Lymphoblastic Leukemia",
+                "l": "Acute Lymphoblastic Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C3550748"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Myeloid Leukemia",
+                "l": "Acute Myeloid Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C0023467"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C4015937"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Myeloid Leukemia",
+                "l": "Acute Myeloid Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C4015937"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Myeloid Leukemia",
+                "l": "Acute Myeloid Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C0023467"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C4015937"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Myeloid Leukemia",
+                "l": "Acute Myeloid Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C4015937"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Myeloid Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Acute Myeloid Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acute Myeloid Leukemia",
+                "l": "Acute Myeloid Leukemia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "C0023470"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C4015937"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rheumatic Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rheumatoid Arthritis"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  }
+]

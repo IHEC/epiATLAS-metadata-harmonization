@@ -1,0 +1,205 @@
+[
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "taxon_id",
+          "expression": "value",
+          "columnName": "taxon_id",
+          "invert": true,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "9606",
+                "l": "9606"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "disease_ontology_term",
+    "description": "Remove column disease_ontology_term"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "sample_ontology_term",
+    "newColumnName": "sample_ontology_curie",
+    "description": "Rename column sample_ontology_term to sample_ontology_curie"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "taxon_id",
+    "description": "Remove column taxon_id"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "donor_health_status_merge",
+    "description": "Remove column donor_health_status_merge"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Descrip_onto_health_status",
+    "description": "Remove column Descrip_onto_health_status"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Diff_health",
+    "description": "Remove column Diff_health"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Diff_health_merge",
+    "description": "Remove column Diff_health_merge"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "donor_health_status_ontology_curie",
+    "description": "Remove column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "donor_health_status_ontology_uri",
+    "newColumnName": "donor_health_status_ontology_curie",
+    "description": "Rename column donor_health_status_ontology_uri to donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value.replace(/C/i,\"NCIM:C\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column donor_health_status_ontology_curie using expression value.replace(/C/i,\"NCIM:C\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Descrip_onto_disease",
+    "description": "Remove column Descrip_onto_disease"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Diff_disease",
+    "description": "Remove column Diff_disease"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Descrip_all_terms",
+    "description": "Remove column Descrip_all_terms"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease_ontology_curie",
+          "expression": "value",
+          "columnName": "disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0678213",
+                "l": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0678213"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_uri",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "C0678213"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_uri"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease_ontology_curie",
+          "expression": "value",
+          "columnName": "disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0678213",
+                "l": "https://ncim.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0678213"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NCIM:C0678213"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "disease_ontology_curie",
+    "description": "Remove column disease_ontology_curie"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "disease_ontology_uri",
+    "newColumnName": "disease_ontology_curie",
+    "description": "Rename column disease_ontology_uri to disease_ontology_curie"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value.replace(/C/i,\"NCIM:C\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column disease_ontology_curie using expression value.replace(/C/i,\"NCIM:C\")"
+  }
+]
