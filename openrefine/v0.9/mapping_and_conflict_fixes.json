@@ -1,0 +1,780 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Autism Spectrum Disorder",
+                "l": "Autism Spectrum Disorder"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C1510586"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C4229368"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Autism Spectrum Disorder",
+                "l": "Autism Spectrum Disorder"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C1510586"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C4229368"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Childhood cerebral X-linked adrenoleukodystrophy",
+                "l": "Childhood cerebral X-linked adrenoleukodystrophy"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C2874249"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C2874249"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Colon Undifferentiated Carcinoma",
+                "l": "Colon Undifferentiated Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0279643"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C2355642"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Colon Undifferentiated Carcinoma",
+                "l": "Colon Undifferentiated Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0279643"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C2355642"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Goiter",
+                "l": "Goiter"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0018021"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C4231190"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Goiter",
+                "l": "Goiter"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0018021"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C4231190"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease_ontology_curie",
+          "expression": "value",
+          "columnName": "disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C2853894",
+                "l": "NCIM:C2853894"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mantle Cell Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mantle cell lymphoma, unspecified site"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "None",
+                "l": "None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C2315449"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease_ontology_curie",
+          "expression": "value",
+          "columnName": "disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0747752",
+                "l": "NCIM:C0747752"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Polysubstance Abuse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Polysubstance abuse"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Thyroid Gland Papillary Carcinoma",
+                "l": "Thyroid Gland Papillary Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0238463"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C3149311"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Thyroid Gland Papillary Carcinoma",
+                "l": "Thyroid Gland Papillary Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0238463"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C3149311"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "B Cell Lymphoma",
+                "l": "B Cell Lymphoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0079731"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "B Cell Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "B-Cell Lymphomas"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease_ontology_curie",
+          "expression": "value",
+          "columnName": "disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0684337",
+                "l": "NCIM:C0684337"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ewing Sarcoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor"
+      }
+    ],
+    "description": "Mass edit cells in column disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "disease",
+          "expression": "value",
+          "columnName": "disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rheumatoid Arthritis",
+                "l": "Rheumatoid Arthritis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "disease_ontology_curie",
+          "columnName": "disease_ontology_curie",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C4015937"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0003873"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "disease_ontology_curie",
+          "columnName": "disease_ontology_curie",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Anoxia",
+                "l": "Anoxia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0003130"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carotid Stenosis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carotid Artery Stenosis"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Carotid Artery Stenosis",
+                "l": "Carotid Artery Stenosis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0007282"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "donor_health_status",
+          "expression": "value",
+          "columnName": "donor_health_status",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pneumonia",
+                "l": "Pneumonia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0032285"
+      }
+    ],
+    "description": "Mass edit cells in column donor_health_status_ontology_curie"
+  }
+]
