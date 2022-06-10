@@ -128,7 +128,11 @@ intermediate_project_name = os.path.splitext(os.path.basename(intermediate_csv))
 
 # here we manually solve some mapping issues and conflicts and the resulting json is then used in this script
 
-run([openrefine_client, '--apply', 'openrefine/v0.9/mapping_and_conflict_fixes.json', intermediate_project_name], check=True)
+run([openrefine_client, '--apply', 'openrefine/v0.9/mapping_and_conflict_fixes.json', intermediate_project_name],
+    check=True)
+run([openrefine_client, '--apply', 'openrefine/v0.9/DEEP_disease_donor_health_status.json', intermediate_project_name],
+    check=True)
+
 v09_csv = './openrefine/v0.9/IHEC_metadata_harmonization.v0.9.csv'
 
 run([openrefine_client, '--export', f'--output={v09_csv}', intermediate_project_name], check=True)
