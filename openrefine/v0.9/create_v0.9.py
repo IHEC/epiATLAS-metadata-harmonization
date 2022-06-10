@@ -105,13 +105,13 @@ for index, row in working_tbl.iterrows():
 
 disagree_df = pd.DataFrame.from_dict(disagree, orient='index')
 disagree_df.index.names = ['EpiRR', 'field']
-agg_disagree = disagree_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'ontology_term'])[
+agg_disagree = disagree_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'ontology_term'], dropna=False)[
     'EpiRR'].apply('|'.join).reset_index()
 agg_disagree.to_csv('./openrefine/v0.9/disagree.csv', index=False)
 
 mapping_problems_df = pd.DataFrame.from_dict(mapping_problems, orient='index')
 mapping_problems_df.index.names = ['EpiRR', 'field']
-agg_problems = mapping_problems_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'description'])[
+agg_problems = mapping_problems_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'description'], dropna=False)[
     'EpiRR'].apply('|'.join).reset_index()
 agg_problems.to_csv('./openrefine/v0.9/mapping_problems.csv', index=False)
 
@@ -132,6 +132,9 @@ run([openrefine_client, '--apply', 'openrefine/v0.9/mapping_and_conflict_fixes.j
     check=True)
 run([openrefine_client, '--apply', 'openrefine/v0.9/DEEP_disease_donor_health_status.json', intermediate_project_name],
     check=True)
+run([openrefine_client, '--apply', 'openrefine/v0.9/mapping_fill_nan.json', intermediate_project_name],
+    check=True)
+
 
 v09_csv = './openrefine/v0.9/IHEC_metadata_harmonization.v0.9.csv'
 

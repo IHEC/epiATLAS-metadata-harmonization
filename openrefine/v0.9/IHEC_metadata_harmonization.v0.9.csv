@@ -180,9 +180,9 @@ IHECRE00000194.3,Complete,45-50,primary cell,"CD4-positive, alpha-beta T cell",y
 IHECRE00000195.3,Complete,0-5,primary cell culture,inflammatory macrophage,year,S007SK,child,,,CCR7+ CD25+ CD14+ CD40+ CD206+ CD36+ CD45+,BLUEPRINT,CL:0000863,male,umbilical cord blood,,,None,NCIM:C0549184
 IHECRE00000196.3,Partial,0-5,primary cell culture,"CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",year,S00198,child,,,CD41+ CD42+,BLUEPRINT,CL:0002026,male,umbilical cord blood,,,None,NCIM:C0549184
 IHECRE00000221.3,Complete,unknown,primary tissue,,unknown,SM2582,adult,,,,CEEHRC,UBERON:0000955,female,brain,Glioblastoma,NCIM:C0017636,Glioblastoma,NCIM:C0017636
-IHECRE00000222.3,Complete,67,primary tissue,,year,SW-TTP-156,adult,,,,CEEHRC,UBERON:0002046,female,thyroid gland,Follicular adenoma,NCIM:C0205647,Thyroid Adenoma-follicular,
+IHECRE00000222.3,Complete,67,primary tissue,,year,SW-TTP-156,adult,,,,CEEHRC,UBERON:0002046,female,thyroid gland,Follicular adenoma,NCIM:C0205647,Thyroid Gland Follicular Adenoma,NCIM:C0151468
 IHECRE00000223.3,Complete,unknown,primary cell,luminal epithelial cell of mammary gland,unknown,CEMT_35-38_pool,adult,,,DAPI- CD45- CD31- CD49f+ EpCAM+,CEEHRC,CL:0002326,female,,Disease type AND/OR category unknown,NCIM:C0277545,None,NCIM:C0549184
-IHECRE00000224.3,Complete,46,primary tissue,,year,SW-TTP-170,adult,,,,CEEHRC,UBERON:0002046,female,thyroid gland,Follicular adenoma,NCIM:C0205647,Thyroid Adenoma-follicular,
+IHECRE00000224.3,Complete,46,primary tissue,,year,SW-TTP-170,adult,,,,CEEHRC,UBERON:0002046,female,thyroid gland,Follicular adenoma,NCIM:C0205647,Thyroid Gland Follicular Adenoma,NCIM:C0151468
 IHECRE00000225.3,Complete,unknown,cell line,,unknown,CEMT0008,unknown,,184-hTERT,,CEEHRC,EFO:0009375,female,,None,NCIM:C0549184,None,NCIM:C0549184
 IHECRE00000226.3,Complete,56,primary cell,B cell,year,237-26,adult,,,CD19+,CEEHRC,CL:0000236,female,,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093
 IHECRE00000227.3,Complete,unknown,cell line,,unknown,CEMT0009,unknown,,184-hTERT,,CEEHRC,EFO:0009375,female,,None,NCIM:C0549184,None,NCIM:C0549184
@@ -192,19 +192,19 @@ IHECRE00000230.3,Complete,67,primary tissue,,year,SW-TTP-156,adult,,,,CEEHRC,UBE
 IHECRE00000231.3,Complete,unknown,primary cell,luminal epithelial cell of mammary gland,unknown,CEMT_35-38_pool,adult,,,DAPI- CD45- CD31- CD49f- EpCAM+,CEEHRC,CL:0002326,female,,Disease type AND/OR category unknown,NCIM:C0277545,None,NCIM:C0549184
 IHECRE00000232.3,Complete,79,primary cell,B cell,year,237-06,adult,,,CD19+,CEEHRC,CL:0000236,female,,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093
 IHECRE00000233.3,Complete,55,primary tissue,,year,SW-TTP-177,adult,,,,CEEHRC,UBERON:0002046,male,thyroid gland,Goiter,NCIM:C4231190,None,NCIM:C0549184
-IHECRE00000234.3,Complete,71,primary cell,B cell,year,236-11,adult,,,CD19+,CEEHRC,CL:0000236,male,,Chronic Lymphocytic Leukemia,NCIM:C0023434,Blood-peripheral Leukemia-chronic Lymphocytic Leukemia,
+IHECRE00000234.3,Complete,71,primary cell,B cell,year,236-11,adult,,,CD19+,CEEHRC,CL:0000236,male,,Chronic Lymphocytic Leukemia,NCIM:C0023434,Chronic Lymphocytic Leukemia,NCIM:C0023434
 IHECRE00000235.3,Complete,55,primary tissue,,year,SW-TTP-177,adult,,,,CEEHRC,UBERON:0002046,male,thyroid gland,Goiter,NCIM:C4231190,Goiter,NCIM:C4231190
 IHECRE00000236.3,Complete,46,primary tissue,,year,SW-TTP-170,adult,,,,CEEHRC,UBERON:0002046,female,thyroid gland,Follicular adenoma,NCIM:C0205647,None,NCIM:C0549184
 IHECRE00000237.3,Complete,0-1,primary cell,hematopoietic cell,week,CEMT_32_pool,newborn,,,CD34+,CEEHRC,CL:0000988,unknown,,None,NCIM:C0549184,None,NCIM:C0549184
 IHECRE00000238.3,Complete,35,primary tissue,,year,VNA73,adult,,,,CEEHRC,UBERON:0002811,male,left frontal lobe,Glioblastoma,NCIM:C0017636,Glioblastoma,NCIM:C0017636
-IHECRE00000239.3,Complete,79,primary cell,B cell,year,235-68,adult,,,CD19+,CEEHRC,CL:0000236,male,,Chronic lymphocytic leukaemia stage A(II),NCIM:C0861884,Blood-peripheral Leukemia-chronic Lymphocytic Leukemia,
-IHECRE00000240.3,Complete,46,primary tissue,,year,VNA42,adult,,,,CEEHRC,UBERON:0002808,female,left temporal lobe,Brain Oligodendroglioma,NCIM:C0346286,Brain-temporal Lobe-left Oligodendroglioma,
+IHECRE00000239.3,Complete,79,primary cell,B cell,year,235-68,adult,,,CD19+,CEEHRC,CL:0000236,male,,Chronic lymphocytic leukaemia stage A(II),NCIM:C0861884,Chronic Lymphocytic Leukemia,NCIM:C0023434
+IHECRE00000240.3,Complete,46,primary tissue,,year,VNA42,adult,,,,CEEHRC,UBERON:0002808,female,left temporal lobe,Brain Oligodendroglioma,NCIM:C0346286,Brain Oligodendroglioma,NCIM:C0346286
 IHECRE00000241.3,Complete,74,primary cell,B cell,year,231-73,adult,,,CD19+,CEEHRC,CL:0000236,male,,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093
 IHECRE00000242.3,Complete,unknown,primary cell,myoepithelial cell of mammary gland,unknown,CEMT_35-38_pool,adult,,,DAPI- CD45- CD31- CD49f+ EpCAM-_low,CEEHRC,CL:0002324,female,,Disease type AND/OR category unknown,NCIM:C0277545,None,NCIM:C0549184
 IHECRE00000243.3,Complete,unknown,primary tissue,,unknown,SM2515,adult,,,,CEEHRC,UBERON:0000955,male,brain,Anaplastic Oligodendroglioma,NCIM:C0334590,Anaplastic Oligodendroglioma,NCIM:C0334590
 IHECRE00000244.3,Complete,47,primary cell,B cell,year,237-07,adult,,,CD19+,CEEHRC,CL:0000236,male,,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093
 IHECRE00000246.3,Complete,68,primary cell,B cell,year,231-74,adult,,,CD19+,CEEHRC,CL:0000236,female,,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093,Chronic lymphocytic leukemia of B-cell type in relapse,NCIM:C2854093
-IHECRE00000247.3,Complete,62,primary cell,B cell,year,234-99,adult,,,CD19+,CEEHRC,CL:0000236,female,,Chronic lymphocytic leukaemia stage A(II),NCIM:C0861884,Blood-peripheral Leukemia-chronic Lymphocytic Leukemia,
+IHECRE00000247.3,Complete,62,primary cell,B cell,year,234-99,adult,,,CD19+,CEEHRC,CL:0000236,female,,Chronic lymphocytic leukaemia stage A(II),NCIM:C0861884,Chronic Lymphocytic Leukemia,NCIM:C0023434
 IHECRE00000248.2,Complete,80-85,primary cell,neutrophilic metamyelocyte,year,BM060814,adult,,,CD11b+ CD16-,BLUEPRINT,CL:0000582,female,bone marrow,,,None,NCIM:C0549184
 IHECRE00000249.2,Partial,65-70,primary cell,myeloid cell,year,UMCG00024,adult,,,CD34+,BLUEPRINT,CL:0000763,male,venous blood,Acute Myeloid Leukemia,NCIM:C4015937,Acute Myeloid Leukemia,NCIM:C4015937
 IHECRE00000250.2,Complete,0-5,primary cell,mesenchymal stem cell of the bone marrow,year,S00YAM,child,,,,BLUEPRINT,CL:0002540,unknown,venous blood,,,None,NCIM:C0549184
@@ -325,7 +325,7 @@ IHECRE00000661.1,Partial,unknown,primary cell,CD4-positive helper T cell,unknown
 IHECRE00000662.1,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0184,unknown,,,CD4+,CEEHRC,CL:0000492,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00000663.3,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0027,unknown,,,CD4+,CEEHRC,CL:0000492,male,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000664.3,Partial,unknown,cell line,induced pluripotent stem cell,unknown,McGill0330,unknown,,induced pluripotent stem cell,,CEEHRC,EFO:0004905,unknown,,,,Healthy,NCIM:C3898900
-IHECRE00000665.1,Complete,unknown,primary tissue,,unknown,McGill0022,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Carcinoma,
+IHECRE00000665.1,Complete,unknown,primary tissue,,unknown,McGill0022,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00000666.1,Complete,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0008,unknown,,,CD4+,CEEHRC,CL:0000492,female,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000667.1,Partial,unknown,primary cell,monocyte,unknown,McGill0158,unknown,,,,CEEHRC,CL:0000576,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00000668.1,Partial,unknown,primary tissue,,unknown,McGill0049,unknown,,,,CEEHRC,UBERON:0001134,unknown,skeletal muscle tissue,,,Unknown,NCIM:C0439673
@@ -335,7 +335,7 @@ IHECRE00000671.1,Partial,unknown,primary tissue,,unknown,McGill0044,unknown,,,,C
 IHECRE00000672.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",unknown,McGill0286,unknown,,,CD4+,CEEHRC,CL:0000624,male,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000674.1,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0139,unknown,,,CD4+,CEEHRC,CL:0000492,unknown,venous blood,,,Systemic Lupus Erythematosus,NCIM:C4229824
 IHECRE00000675.3,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0025,unknown,,,CD4+,CEEHRC,CL:0000492,female,venous blood,,,Healthy,NCIM:C3898900
-IHECRE00000676.1,Partial,unknown,primary cell,B cell,unknown,McGill0267,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,B Acute Lymphoblastic Leukemia With T(12;21)(p13;q22); Tel-aml1 (etv6-runx1),
+IHECRE00000676.1,Partial,unknown,primary cell,B cell,unknown,McGill0267,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,B Acute Lymphoblastic Leukemia with t(12;21)(p13.2;q22.1); ETV6-RUNX1,NCIM:C2698305
 IHECRE00000677.1,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0055,unknown,,,CD4+,CEEHRC,CL:0000492,female,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000678.1,Partial,unknown,primary tissue,,unknown,McGill0020,unknown,,,,CEEHRC,UBERON:0013528,male,Brodmann (1909) area 11,,,Healthy,NCIM:C3898900
 IHECRE00000679.1,Partial,unknown,primary tissue,,unknown,McGill0020,unknown,,,,CEEHRC,UBERON:0006481,male,Brodmann (1909) area 44,,,Healthy,NCIM:C3898900
@@ -368,7 +368,7 @@ IHECRE00000705.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",
 IHECRE00000706.3,Partial,unknown,primary cell,monocyte,unknown,McGill0027,unknown,,,,CEEHRC,CL:0000576,male,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000707.1,Partial,unknown,primary cell,B cell,unknown,McGill0057,unknown,,,,CEEHRC,CL:0000236,female,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000708.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",unknown,McGill0234,unknown,,,CD4+,CEEHRC,CL:0000624,male,venous blood,,,Healthy,NCIM:C3898900
-IHECRE00000709.3,Complete,unknown,primary tissue,,unknown,McGill0022,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Carcinoma,
+IHECRE00000709.3,Complete,unknown,primary tissue,,unknown,McGill0022,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00000710.1,Partial,unknown,primary cell,monocyte,unknown,McGill0136,unknown,,,,CEEHRC,CL:0000576,unknown,venous blood,,,Systemic Lupus Erythematosus,NCIM:C4229824
 IHECRE00000711.3,Partial,unknown,primary tissue,,unknown,McGill0052,unknown,,,,CEEHRC,UBERON:0001134,unknown,skeletal muscle tissue,,,Leigh Disease,NCIM:C4229116
 IHECRE00000712.1,Partial,unknown,primary tissue,,unknown,McGill0038,unknown,,,,CEEHRC,UBERON:0001134,unknown,skeletal muscle tissue,,,Unknown,NCIM:C0439673
@@ -376,7 +376,7 @@ IHECRE00000713.1,Partial,unknown,primary cell,monocyte,unknown,McGill0142,unknow
 IHECRE00000714.1,Partial,unknown,primary tissue,,unknown,McGill0033,unknown,,,,CEEHRC,UBERON:0001134,unknown,skeletal muscle tissue,,,Unknown,NCIM:C0439673
 IHECRE00000715.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",unknown,McGill0275,unknown,,,CD4+,CEEHRC,CL:0000624,male,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000716.3,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0079,unknown,,,CD4+,CEEHRC,CL:0000492,male,venous blood,,,Healthy,NCIM:C3898900
-IHECRE00000717.1,Partial,unknown,primary cell,B cell,unknown,McGill0270,unknown,,,,CEEHRC,CL:0000236,female,venous blood,,,B Acute Lymphoblastic Leukemia With T(12;21)(p13;q22); Tel-aml1 (etv6-runx1),
+IHECRE00000717.1,Partial,unknown,primary cell,B cell,unknown,McGill0270,unknown,,,,CEEHRC,CL:0000236,female,venous blood,,,B Acute Lymphoblastic Leukemia with t(12;21)(p13.2;q22.1); ETV6-RUNX1,NCIM:C2698305
 IHECRE00000718.3,Complete,unknown,primary cell,monocyte,unknown,McGill0079,unknown,,,,CEEHRC,CL:0000576,male,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000719.1,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0158,unknown,,,CD4+,CEEHRC,CL:0000492,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00000720.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",unknown,McGill0297,unknown,,,CD4+,CEEHRC,CL:0000624,male,venous blood,,,Healthy,NCIM:C3898900
@@ -499,7 +499,7 @@ IHECRE00000839.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",
 IHECRE00000840.1,Partial,unknown,primary cell,monocyte,unknown,McGill0187,unknown,,,,CEEHRC,CL:0000576,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00000841.1,Partial,unknown,primary cell,B cell,unknown,McGill0089,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000842.1,Partial,unknown,primary cell,"CD4-positive, alpha-beta T cell",unknown,McGill0280,unknown,,,CD4+,CEEHRC,CL:0000624,male,venous blood,,,Healthy,NCIM:C3898900
-IHECRE00000843.1,Partial,unknown,primary cell,B cell,unknown,McGill0266,unknown,,,,CEEHRC,CL:0000236,female,venous blood,,,B Acute Lymphoblastic Leukemia With T(12;21)(p13;q22); Tel-aml1 (etv6-runx1),
+IHECRE00000843.1,Partial,unknown,primary cell,B cell,unknown,McGill0266,unknown,,,,CEEHRC,CL:0000236,female,venous blood,,,B Acute Lymphoblastic Leukemia with t(12;21)(p13.2;q22.1); ETV6-RUNX1,NCIM:C2698305
 IHECRE00000844.1,Partial,unknown,primary cell,T cell,unknown,McGill0103,unknown,,,,CEEHRC,CL:0000084,male,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00000845.3,Partial,unknown,primary cell,monocyte,unknown,McGill0261,unknown,,,,CEEHRC,CL:0000576,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00000846.1,Partial,unknown,primary cell,CD4-positive helper T cell,unknown,McGill0340,unknown,,,CD4+,CEEHRC,CL:0000492,unknown,venous blood,,,Rheumatoid Arthritis,NCIM:C0003873
@@ -1058,14 +1058,14 @@ IHECRE00001869.2,Partial,61-65,primary cell,glomerular visceral epithelial cell,
 IHECRE00001870.2,Partial,76-80,primary cell,pancreatic endocrine cell,year,KEP20140003,adult,,,,Korea Epigenome Project (KNIH),CL:0008024,female,,Pancreatic Intraductal Papillary-Mucinous Carcinoma,NCIM:C1335304,Pancreatic Intraductal Papillary-Mucinous Carcinoma,NCIM:C5725
 IHECRE00001871.2,Partial,26-30,primary cell,pancreatic endocrine cell,year,KEP20140001,adult,,,,Korea Epigenome Project (KNIH),CL:0008024,female,,Pancreatic Mucinous-Cystic Neoplasm,NCIM:C1518872,Pancreatic Mucinous-Cystic Neoplasm,NCIM:C41247
 IHECRE00001872.2,Partial,61-65,primary cell,preadipocyte,year,KEP20140007,adult,,,,Korea Epigenome Project (KNIH),CL:0002334,female,,Adenosquamous Carcinoma,NCIM:C0206623,Adenosquamous Carcinoma,NCIM:C3727
-IHECRE00001873.2,Complete,70-79,primary cell,hepatocyte,year,HPC20,adult,,,,AMED-CREST,CL:0000182,female,liver,Liver Carcinoma,,,
-IHECRE00001874.2,Complete,50-59,primary cell,hepatocyte,year,HPC28,adult,,,,AMED-CREST,CL:0000182,female,liver,Liver Carcinoma,,,
-IHECRE00001875.2,Complete,50-59,primary cell,hepatocyte,year,HPC27,adult,,,,AMED-CREST,CL:0000182,female,liver,Liver Carcinoma,,,
-IHECRE00001876.2,Complete,50-59,primary cell,hepatocyte,year,HPC17,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver Carcinoma,,,
-IHECRE00001877.2,Complete,60-69,primary cell,hepatocyte,year,HPC35,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver Carcinoma,,,
-IHECRE00001878.2,Complete,50-59,primary cell,hepatocyte,year,HPC25,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver Carcinoma,,,
-IHECRE00001879.2,Complete,50-59,primary cell,hepatocyte,year,HPC6,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver Carcinoma,,,
-IHECRE00001880.2,Complete,70-79,primary cell,hepatocyte,year,HPC8,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver Carcinoma,,,
+IHECRE00001873.2,Complete,70-79,primary cell,hepatocyte,year,HPC20,adult,,,,AMED-CREST,CL:0000182,female,liver,Liver carcinoma,NCIM:C2239176,,
+IHECRE00001874.2,Complete,50-59,primary cell,hepatocyte,year,HPC28,adult,,,,AMED-CREST,CL:0000182,female,liver,Liver carcinoma,NCIM:C2239176,,
+IHECRE00001875.2,Complete,50-59,primary cell,hepatocyte,year,HPC27,adult,,,,AMED-CREST,CL:0000182,female,liver,Liver carcinoma,NCIM:C2239176,,
+IHECRE00001876.2,Complete,50-59,primary cell,hepatocyte,year,HPC17,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver carcinoma,NCIM:C2239176,,
+IHECRE00001877.2,Complete,60-69,primary cell,hepatocyte,year,HPC35,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver carcinoma,NCIM:C2239176,,
+IHECRE00001878.2,Complete,50-59,primary cell,hepatocyte,year,HPC25,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver carcinoma,NCIM:C2239176,,
+IHECRE00001879.2,Complete,50-59,primary cell,hepatocyte,year,HPC6,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver carcinoma,NCIM:C2239176,,
+IHECRE00001880.2,Complete,70-79,primary cell,hepatocyte,year,HPC8,adult,,,,AMED-CREST,CL:0000182,male,liver,Liver carcinoma,NCIM:C2239176,,
 IHECRE00001881.7,Partial,0-1,primary cell culture,endothelial cell of umbilical vein,week,,newborn,,,,ENCODE,CL:0002618,unknown,,Health Status Unknown,NCIM:C115222,Health Status Unknown,NCIM:C115222
 IHECRE00001882.6,Partial,unknown,primary cell culture,myotube,unknown,,unknown,,,,ENCODE,CL:0002372,unknown,,Health Status Unknown,NCIM:C115222,Health Status Unknown,NCIM:C115222
 IHECRE00001883.6,Partial,unknown,primary cell culture,fibroblast of lung,unknown,,unknown,,,,ENCODE,CL:0002553,unknown,,Health Status Unknown,NCIM:C115222,Health Status Unknown,NCIM:C115222
@@ -1148,7 +1148,7 @@ IHECRE00001984.1,Partial,unknown,primary tissue,,unknown,McGill0481,unknown,,,,C
 IHECRE00001987.1,Partial,unknown,primary cell,T cell,unknown,McGill0179,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00001990.1,Complete,unknown,primary tissue,,unknown,McGill0473,unknown,,,,CEEHRC,UBERON:0001876,unknown,amygdala,,,Healthy,NCIM:C3898900
 IHECRE00001991.1,Partial,unknown,primary cell,monocyte,unknown,McGill0189,unknown,,,,CEEHRC,CL:0000576,unknown,venous blood,,,Scleroderma,NCIM:C0011644
-IHECRE00001992.1,Partial,unknown,primary tissue,,unknown,McGill0403,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cancer,
+IHECRE00001992.1,Partial,unknown,primary tissue,,unknown,McGill0403,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00001997.1,Complete,unknown,primary tissue,,unknown,McGill0475,unknown,,,,CEEHRC,UBERON:0001876,unknown,amygdala,,,Healthy,NCIM:C3898900
 IHECRE00001999.1,Partial,unknown,primary cell,T cell,unknown,McGill0189,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002002.1,Partial,unknown,primary cell,T cell,unknown,McGill0181,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
@@ -1162,7 +1162,7 @@ IHECRE00002024.1,Partial,unknown,primary cell,T cell,unknown,McGill0160,unknown,
 IHECRE00002025.1,Partial,unknown,primary cell,B cell,unknown,McGill0179,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002026.1,Partial,unknown,primary cell,T cell,unknown,McGill0173,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002027.1,Partial,unknown,primary cell,monocyte,unknown,McGill0179,unknown,,,,CEEHRC,CL:0000576,unknown,venous blood,,,Scleroderma,NCIM:C0011644
-IHECRE00002029.1,Partial,unknown,primary tissue,,unknown,McGill0401,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cancer,
+IHECRE00002029.1,Partial,unknown,primary tissue,,unknown,McGill0401,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00002030.1,Partial,unknown,primary cell,T cell,unknown,McGill0175,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002033.1,Partial,unknown,primary cell,T cell,unknown,McGill0261,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002035.1,Partial,unknown,primary cell,monocyte,unknown,McGill0149,unknown,,,,CEEHRC,CL:0000576,unknown,venous blood,,,Rheumatoid Arthritis,NCIM:C0003873
@@ -1172,7 +1172,7 @@ IHECRE00002042.1,Partial,unknown,primary cell,monocyte,unknown,McGill0255,unknow
 IHECRE00002043.1,Partial,unknown,primary cell,monocyte,unknown,McGill0112,unknown,,,,CEEHRC,CL:0000576,male,venous blood,,,Healthy,NCIM:C3898900
 IHECRE00002044.1,Partial,unknown,primary cell,T cell,unknown,McGill0172,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002046.1,Partial,unknown,primary cell,B cell,unknown,McGill0096,unknown,,,,CEEHRC,CL:0000236,female,venous blood,,,Healthy,NCIM:C3898900
-IHECRE00002048.1,Partial,unknown,primary tissue,,unknown,McGill0403,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cancer,
+IHECRE00002048.1,Partial,unknown,primary tissue,,unknown,McGill0403,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00002049.2,Partial,unknown,primary tissue,,unknown,McGill0020,unknown,,,,CEEHRC,UBERON:0002037,male,cerebellum,,,Healthy,NCIM:C3898900
 IHECRE00002052.1,Partial,unknown,primary tissue,,unknown,McGill0483,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,,
 IHECRE00002053.1,Partial,unknown,primary cell,T cell,unknown,McGill0187,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Scleroderma,NCIM:C0011644
@@ -1180,16 +1180,16 @@ IHECRE00002054.1,Partial,unknown,primary cell,monocyte,unknown,McGill0160,unknow
 IHECRE00002055.1,Partial,unknown,primary cell,,unknown,McGill0484,unknown,,,,CEEHRC,,unknown,mesenchyme,,,,
 IHECRE00002058.1,Complete,unknown,primary tissue,,unknown,McGill0474,unknown,,,,CEEHRC,UBERON:0001876,unknown,amygdala,,,Healthy,NCIM:C3898900
 IHECRE00002060.1,Partial,unknown,primary cell,B cell,unknown,McGill0135,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,Healthy,NCIM:C3898900
-IHECRE00002061.1,Partial,unknown,primary tissue,,unknown,McGill0401,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cancer,
+IHECRE00002061.1,Partial,unknown,primary tissue,,unknown,McGill0401,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00002063.1,Complete,unknown,primary tissue,,unknown,McGill0482,unknown,,,,CEEHRC,UBERON:0001876,unknown,amygdala,,,Healthy,NCIM:C3898900
 IHECRE00002065.1,Complete,unknown,primary tissue,,unknown,McGill0477,unknown,,,,CEEHRC,UBERON:0001876,unknown,amygdala,,,Healthy,NCIM:C3898900
 IHECRE00002066.1,Partial,unknown,primary cell,B cell,unknown,McGill0160,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002067.1,Complete,unknown,primary tissue,,unknown,McGill0478,unknown,,,,CEEHRC,UBERON:0001876,unknown,amygdala,,,Healthy,NCIM:C3898900
 IHECRE00002070.1,Partial,unknown,primary cell,T cell,unknown,McGill0211,unknown,,,,CEEHRC,CL:0000084,unknown,venous blood,,,Myositis,NCIM:C4014723
-IHECRE00002071.1,Partial,unknown,primary tissue,,unknown,McGill0402,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cancer,
+IHECRE00002071.1,Partial,unknown,primary tissue,,unknown,McGill0402,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00002073.1,Partial,unknown,primary cell,B cell,unknown,McGill0340,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,Rheumatoid Arthritis,NCIM:C0003873
 IHECRE00002074.1,Partial,unknown,primary cell,B cell,unknown,McGill0124,unknown,,,,CEEHRC,CL:0000236,female,venous blood,,,Healthy,NCIM:C3898900
-IHECRE00002075.1,Partial,unknown,primary tissue,,unknown,McGill0402,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cancer,
+IHECRE00002075.1,Partial,unknown,primary tissue,,unknown,McGill0402,unknown,,,,CEEHRC,UBERON:0002113,unknown,kidney,,,Renal Cell Carcinoma,NCIM:C1861854
 IHECRE00002076.1,Complete,unknown,primary tissue,,unknown,McGill0476,unknown,,,,CEEHRC,UBERON:0001876,unknown,amygdala,,,Healthy,NCIM:C3898900
 IHECRE00002081.1,Partial,unknown,primary cell,B cell,unknown,McGill0180,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,Scleroderma,NCIM:C0011644
 IHECRE00002083.1,Partial,unknown,primary cell,B cell,unknown,McGill0175,unknown,,,,CEEHRC,CL:0000236,unknown,venous blood,,,Scleroderma,NCIM:C0011644
@@ -2190,7 +2190,7 @@ IHECRE00003646.2,Partial,14,primary cell,endothelial cell of coronary artery,yea
 IHECRE00003647.2,Partial,0-1,primary cell,umbilical artery endothelial cell,week,JTK023,newborn,alive,,,AMED-CREST,CL:2000052,female,blood vessel endothelium ,,,,
 IHECRE00003648.2,Partial,28,primary cell,pulmonary artery endothelial cell,year,JTK024,adult,dead,,,AMED-CREST,CL:1001568,male,blood vessel endothelium ,,,,
 IHECRE00003649.2,Partial,28,primary cell,aortic endothelial cell,year,JTK025,adult,dead,,,AMED-CREST,CL:0002544,male,blood vessel endothelium ,,,,
-IHECRE00003650.2,Partial,68,primary cell,aortic endothelial cell,year,JTK026,adult,alive,,,AMED-CREST,CL:0002544,female,blood vessel endothelium ,None,NCIM:C0549184,Carotid Stenosis,
+IHECRE00003650.2,Partial,68,primary cell,aortic endothelial cell,year,JTK026,adult,alive,,,AMED-CREST,CL:0002544,female,blood vessel endothelium ,None,NCIM:C0549184,Carotid Artery Stenosis,NCIM:C0007282
 IHECRE00003651.1,Partial,23,primary cell,endocardial cell,year,JTK027,adult,dead,,,AMED-CREST,CL:0002350,male,blood vessel endothelium ,,,,
 IHECRE00003652.1,Partial,40,primary cell,endothelial cell of artery,year,JTK035,adult,dead,,,AMED-CREST,CL:1000413,female,blood vessel endothelium ,,,,
 IHECRE00003653.1,Partial,40,primary cell,endothelial cell of artery,year,JTK036,adult,dead,,,AMED-CREST,CL:1000413,female,blood vessel endothelium ,,,,
