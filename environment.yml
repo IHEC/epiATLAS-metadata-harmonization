@@ -13,3 +13,6 @@ dependencies:
   - xlrd=2.0.1
   - openpyxl=3.0.7
   - pronto=2.4.4-0
+  - r-base==4.2.1
+  - r-renv==0.15.5
+  - r-curl==4.3.2

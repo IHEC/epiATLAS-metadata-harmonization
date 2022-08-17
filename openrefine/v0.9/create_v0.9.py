@@ -3,6 +3,7 @@ import os.path
 import warnings
 from subprocess import run
 import pandas as pd
+from collections import defaultdict
 
 # make sure the working directory when running this file is the project root of the git project
 os.chdir('../../')
@@ -15,10 +16,11 @@ tree = et.parse('ontologies/Thesaurus.owl')
 root = tree.getroot()
 classes: List[et.Element] = root.findall('{http://www.w3.org/2002/07/owl#}Class')
 names: List[str] = []
-name2ncim: Dict[str, List[str]] = dict()
-name2ncit: Dict[str, List[str]] = dict()
+name2ncim: Dict[str, List[str]] = defaultdict(list)
+name2ncit: Dict[str, List[str]] = defaultdict(list)
 ncit2name: Dict[str, str] = dict()
 ncit2ncim: Dict[str, str] = dict()
+ncim2ncit: Dict[str, List[str]] = defaultdict(list)
 ncim2name: Dict[str, str] = dict()
 
 for currClass in classes:
@@ -30,22 +32,22 @@ for currClass in classes:
         name = nameElement.text
         names.append(name)
         ncit2name[ncit] = name
-        if name in name2ncit:
-            name2ncit[name].append(ncit)
-        else:
-            name2ncit[name] = [ncit]
+        name2ncit[name].append(ncit)
+
     ncimElement = currClass.find('{http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#}P207')
     if ncimElement is None:
         ncimElement = currClass.find('{http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#}P208')
     if ncimElement is not None:
         ncim = ncimElement.text
         ncit2ncim[ncit] = ncim
+        ncim2ncit[ncim].append(ncit)
         if nameElement is not None:
             ncim2name[ncim] = name
-            if name in name2ncim:
-                name2ncim[name].append(ncim)
-            else:
-                name2ncim[name] = [ncim]
+            name2ncim[name].append(ncim)
+
+del tree
+del root
+del classes
 
 # create openrefine project and apply rules - OPENREFINE SERVER HAS TO BE RUNNING
 # creating openrefine projects via the openrefine-client needs a csv as input in order to work properly
@@ -105,14 +107,16 @@ for index, row in working_tbl.iterrows():
 
 disagree_df = pd.DataFrame.from_dict(disagree, orient='index')
 disagree_df.index.names = ['EpiRR', 'field']
-agg_disagree = disagree_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'ontology_term'], dropna=False)[
-    'EpiRR'].apply('|'.join).reset_index()
+agg_disagree = \
+    disagree_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'ontology_term'], dropna=False)[
+        'EpiRR'].apply('|'.join).reset_index()
 agg_disagree.to_csv('./openrefine/v0.9/disagree.csv', index=False)
 
 mapping_problems_df = pd.DataFrame.from_dict(mapping_problems, orient='index')
 mapping_problems_df.index.names = ['EpiRR', 'field']
-agg_problems = mapping_problems_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'description'], dropna=False)[
-    'EpiRR'].apply('|'.join).reset_index()
+agg_problems = \
+    mapping_problems_df.reset_index().groupby(['field', 'free_text', 'ontology_curie', 'description'], dropna=False)[
+        'EpiRR'].apply('|'.join).reset_index()
 agg_problems.to_csv('./openrefine/v0.9/mapping_problems.csv', index=False)
 
 initial_tbl = pd.read_csv(initial_csv)
@@ -134,8 +138,25 @@ run([openrefine_client, '--apply', 'openrefine/v0.9/DEEP_disease_donor_health_st
     check=True)
 run([openrefine_client, '--apply', 'openrefine/v0.9/mapping_fill_nan.json', intermediate_project_name],
     check=True)
-
+run([openrefine_client, '--apply', 'openrefine/v0.9/resolve_github_issues.json', intermediate_project_name],
+    check=True)
 
 v09_csv = './openrefine/v0.9/IHEC_metadata_harmonization.v0.9.csv'
 
 run([openrefine_client, '--export', f'--output={v09_csv}', intermediate_project_name], check=True)
+
+v09_tbl = pd.read_csv(v09_csv)
+
+# map ncim to ncit
+ncit_cols: Dict[str, pd.Series] = {onto_col: v09_tbl[onto_col].str.split(separator).map(
+    lambda l: separator.join(
+        list(filter(None, [separator.join(['NCIT:' + ncit for ncit in ncim2ncit[ncim.split(':')[1]]]) for ncim in l]))),
+    na_action='ignore') for onto_col in onto_cols}
+# check if there is a ncim id that wasn't mapped
+for onto_col in onto_cols:
+    assert all(v09_tbl[onto_col].isna() == ncit_cols[onto_col].isna())
+
+v09_tbl = v09_tbl.join(pd.DataFrame.from_dict(ncit_cols).add_suffix('_ncit'))
+v09_tbl.to_csv('./openrefine/v0.9/IHEC_metadata_harmonization.v0.9.ncit.csv', index=False)
+
+run(['Rscript', 'higher_order_ontology.R'], check=True, cwd='./openrefine/v0.9/ontology_cutoff/')

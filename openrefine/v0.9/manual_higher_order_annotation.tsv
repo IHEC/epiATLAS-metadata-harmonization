@@ -1,0 +1,302 @@
+sample_ontology_term	prelim_classification_v0.9
+184-hTERT	other
+A549	other
+A673	other
+ACC112	other
+adrenal gland	Kidney
+adult endothelial progenitor cell	connective tissue cell
+AG04450	fibroblast derived cell line
+alternatively activated macrophage	Macrophage
+amnion	mesoderm-derived structure
+amygdala	Brain
+angular gyrus	Brain
+anterior transverse temporal area 41::Brodmann (1909) area 22::posterior transverse temporal area 42	Brain
+anterior transverse temporal area 41::posterior transverse temporal area 42	Brain
+aorta	mesoderm-derived structure
+aortic endothelial cell	meso-epithelial cell
+arcuate artery endothelial cell	meso-epithelial cell
+ascending aorta	mesoderm-derived structure
+ascending colon	Colon
+astrocyte	neural cell
+B cell	lymphocyte of B lineage
+band form neutrophil	Neutrophil
+bipolar neuron	other
+BJ	other
+BL-2	other
+body of pancreas	other
+bone marrow	mesoderm-derived structure
+brain	Brain
+breast epithelium	Specialized epithelium
+Brodmann (1909) area 11	Brain
+Brodmann (1909) area 20	Brain
+Brodmann (1909) area 20::Brodmann (1909) area 37	Brain
+Brodmann (1909) area 22	Brain
+Brodmann (1909) area 24	Brain
+Brodmann (1909) area 38	Brain
+Brodmann (1909) area 44	Brain
+Brodmann (1909) area 44::Brodmann (1909) area 45	Brain
+Brodmann (1909) area 45	Brain
+Brodmann (1909) area 46	Brain
+Brodmann (1909) area 8::Brodmann (1909) area 9	Brain
+Brodmann (1909) area 9	Brain
+bronchial epithelial cell	endo-epithelial cell
+Caco-2	other
+capillary blood	capillary blood
+cardiac muscle cell	Muscle
+cardiac myoblast	other
+cardioblast	stem cell
+caudate nucleus	Brain
+CD14-positive monocyte	monocyte
+CD14-positive, CD16-negative classical monocyte	monocyte
+CD16-positive, CD56-dim natural killer cell, human	NK
+CD34-negative, CD41-positive, CD42-positive megakaryocyte cell	other
+CD34-positive, CD38-negative hematopoietic stem cell	hematopoietic precursor cell
+CD34-positive, CD38-negative multipotent progenitor cell	hematopoietic precursor cell
+CD34-positive, CD38-positive common lymphoid progenitor	hematopoietic precursor cell
+CD34-positive, CD38-positive common myeloid progenitor	hematopoietic precursor cell
+CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor	hematopoietic precursor cell
+CD38-negative naive B cell	lymphocyte of B lineage
+CD4-positive helper T cell	T cell
+CD4-positive, alpha-beta memory T cell	T cell
+CD4-positive, alpha-beta T cell	T cell
+CD4-positive, alpha-beta thymocyte	T cell
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	T cell
+CD8-positive, alpha-beta memory T cell	T cell
+CD8-positive, alpha-beta T cell	T cell
+CD8-positive, alpha-beta thymocyte	T cell
+central memory CD4-positive, alpha-beta T cell	T cell
+central memory CD8-positive, alpha-beta T cell	T cell
+cerebellar vermis	Brain
+cerebellum	Brain
+chorion membrane	mesoderm-derived structure
+cingulate gyrus	Brain
+class switched memory B cell	lymphocyte of B lineage
+colon	Colon
+colon epithelial cell	endo-epithelial cell
+colonic mucosa	Mucosa
+common lymphoid progenitor	hematopoietic precursor cell
+common myeloid progenitor, CD34-positive	hematopoietic precursor cell
+conventional dendritic cell	Dendritic
+DG75	other
+DND-41	other
+DOHH2	other
+double-positive, alpha-beta thymocyte	T cell
+duodenal mucosa	Mucosa
+ectodermal cell	embryonic cell (metazoa)
+effector memory CD4-positive, alpha-beta T cell	T cell
+effector memory CD4-positive, alpha-beta T cell, terminally differentiated	T cell
+effector memory CD8-positive, alpha-beta T cell	T cell
+effector memory CD8-positive, alpha-beta T cell, terminally differentiated	T cell
+embryonic cell (metazoa)	embryonic cell (metazoa)
+endocardial cell	meso-epithelial cell
+endocrine pancreas	endoderm-derived structure
+endodermal cell	embryonic cell (metazoa)
+endometrium epithelium	mesoderm-derived structure
+endothelial cell of artery	meso-epithelial cell
+endothelial cell of coronary artery	meso-epithelial cell
+endothelial cell of umbilical vein	meso-epithelial cell
+eosinophil	Eosinophil
+epithelial cell of endometrial gland	other
+erythroblast	erythroid lineage cell
+erythroid progenitor cell	hematopoietic precursor cell
+erythroid progenitor cell, mammalian	hematopoietic precursor cell
+ES-I3	ESC derived cell line
+esophagus	Gastrointestinal
+esophagus muscularis mucosa	Gastrointestinal
+esophagus squamous epithelium	Specialized epithelium
+extravillous trophoblast	extraembryonic cell
+fat cell	connective tissue cell
+fibroblast of breast	connective tissue cell
+fibroblast of dermis	connective tissue cell
+fibroblast of lung	connective tissue cell
+fibroblast of mammary gland	connective tissue cell
+foreskin fibroblast	connective tissue cell
+foreskin keratinocyte	Foreskin
+foreskin melanocyte	Foreskin
+foveolar cell of stomach	endo-epithelial cell
+gastrocnemius medialis	other
+gastroesophageal sphincter	other
+germinal neuroepithelium	Specialized epithelium
+GM06990	other
+GM12878	other
+GM23248	fibroblast derived cell line
+GM23338	iPSC derived cell line
+granulocyte monocyte progenitor cell	hematopoietic precursor cell
+H1-hESC	ESC derived cell line
+H7-hESC	stem cell derived cell line
+H9	ESC derived cell line
+HCT116	other
+heart	mesoderm-derived structure
+heart left ventricle	mesoderm-derived structure
+heart right ventricle	mesoderm-derived structure
+HEK293	other
+HeLa-S3	epithelial cell derived cell line
+hematopoietic cell	other
+hematopoietic multipotent progenitor cell	hematopoietic precursor cell
+hematopoietic stem cell	hematopoietic precursor cell
+HepaRG	other
+hepatocyte	hepatocyte
+HepG2	epithelial cell derived cell line
+hippocampal formation	Brain
+HUES48	ESC derived cell line
+HUES6	ESC derived cell line
+HUES64	ESC derived cell line
+immature conventional dendritic cell	Dendritic
+IMR-90	fibroblast derived cell line
+induced pluripotent stem cell	other
+inflammatory macrophage	Macrophage
+insular cortex	Brain
+iPS DF 19.11	iPSC derived cell line
+iPS DF 6.9	iPSC derived cell line
+iPS-15b	iPSC derived cell line
+iPS-20b	iPSC derived cell line
+JVM-2	other
+K562	lymphoma or leukaemia cell line
+Karpas 422	other
+keratinocyte	Skin
+kidney	Kidney
+kidney epithelial cell	other
+Kit-negative, Ly-76 high polychromatophilic erythroblast	erythroid lineage cell
+KMS-11	other
+KOPT-K1	other
+large intestine	Gastrointestinal
+layer of hippocampus	Brain
+left frontal lobe	Brain
+left temporal lobe	Brain
+liver	Liver
+Loucy	other
+luminal epithelial cell of mammary gland	mammary gland epithelial cell
+lung	Lung
+lymph node	other
+lymphocyte of B lineage	lymphocyte of B lineage
+lymphoid lineage restricted progenitor cell	hematopoietic precursor cell
+macrophage	Macrophage
+mammary gland epithelial cell	mammary gland epithelial cell
+mature conventional dendritic cell	Dendritic
+mature eosinophil	Eosinophil
+mature neutrophil	Neutrophil
+MCF 10A	other
+MCF-7	epithelial cell derived cell line
+megakaryocyte	other
+megakaryocyte-erythroid progenitor cell	hematopoietic precursor cell
+melanocyte	Skin
+memory B cell	lymphocyte of B lineage
+mesangial cell	connective tissue cell
+mesenchymal stem cell	connective tissue cell
+mesenchymal stem cell of adipose tissue	connective tissue cell
+mesenchymal stem cell of the bone marrow	connective tissue cell
+mesodermal cell	embryonic cell (metazoa)
+microvascular endothelial cell	meso-epithelial cell
+MM.1S	lymphoma or leukaemia cell line
+mole	other
+monocyte	monocyte
+mononuclear cell	PBMC
+mononuclear cell of bone marrow	mononuclear cell
+mononuclear cytotrophoblast cell	extraembryonic cell
+mucosa of large intestine	Mucosa
+mucosa of rectum	Mucosa
+mucosa of stomach	Mucosa
+muscle cell	Muscle
+muscle layer of colon	Muscle
+muscle layer of duodenum	Muscle
+muscle of leg	Muscle
+myeloid cell	myeloid cell
+myoepithelial cell	meso-epithelial cell
+myoepithelial cell of mammary gland	meso-epithelial cell
+myotube	Muscle
+naive B cell	lymphocyte of B lineage
+naive T cell	T cell
+naive thymus-derived CD4-positive, alpha-beta T cell	T cell
+natural killer cell	NK
+NCI-H929	lymphoma or leukaemia cell line
+neural cell	neural cell
+neural progenitor cell	other
+neuroepithelial stem cell	stem cell
+neuron	other
+neuronal stem cell	stem cell
+neutrophil	Neutrophil
+neutrophilic metamyelocyte	Neutrophil
+neutrophilic myelocyte	Neutrophil
+NT2/D1	other
+OCI-LY1	other
+OCI-LY3	lymphoma or leukaemia cell line
+OCI-LY7	lymphoma or leukaemia cell line
+oocyte	germ line cell
+osteoblast	Bone
+osteoclast	Bone
+ovary	other
+Panc1	epithelial cell derived cell line
+pancreas	Gastrointestinal
+pancreatic A cell	secretory cell
+pancreatic endocrine cell	secretory cell
+PC-3	other
+PC-9	other
+peripheral blood mononuclear cell	PBMC
+Peyer's patch	other
+placenta	Placenta
+plasma cell	lymphocyte of B lineage
+podocyte	secretory cell
+preadipocyte	connective tissue cell
+precursor B cell	lymphocyte of B lineage
+prefrontal cortex	Brain
+prostate gland	endoderm-derived structure
+psoas muscle	Muscle
+pulmonary artery endothelial cell	meso-epithelial cell
+radial glial cell	neural cell
+rectum smooth muscle tissue	Muscle
+regulatory T cell	T cell
+right atrium auricular region	mesoderm-derived structure
+right cardiac atrium	mesoderm-derived structure
+right frontal lobe	Brain
+right lobe of liver	endoderm-derived structure
+right occipital lobe	Brain
+right temporal lobe	Brain
+segmented neutrophil of bone marrow	Neutrophil
+sigmoid colon	Colon
+SK-N-MC	other
+SK-N-SH	other
+skeletal muscle myoblast	Muscle
+skeletal muscle of trunk	Muscle
+skeletal muscle satellite cell	Muscle
+skeletal muscle tissue	Muscle
+small intestine	Gastrointestinal
+smooth muscle cell	Muscle
+sperm	germ line cell
+spleen	mesoderm-derived structure
+stomach	Gastrointestinal
+stomach smooth muscle	Muscle
+stromal cell	connective tissue cell
+stromal cell of endometrium	connective tissue cell
+subcutaneous abdominal adipose tissue	mesoderm-derived structure
+substantia nigra	Brain
+SUDHL5	other
+SUDHL6	other
+suprapubic skin	other
+syncytiotrophoblast cell	extraembryonic cell
+T cell	T cell
+T-helper 17 cell	T cell
+temporal cortex	Brain
+temporal lobe	Brain
+testis	other
+thoracic aorta	mesoderm-derived structure
+thymocyte	T cell
+thymus	endoderm-derived structure
+thyroid gland	endoderm-derived structure
+tibial artery	mesoderm-derived structure
+tibial nerve	Nervous system
+tonsil germinal center B cell	lymphocyte of B lineage
+transverse colon	Colon
+trophoblast	extraembryonic cell
+trophoblast cell	extraembryonic cell
+type B pancreatic cell	secretory cell
+U266	other
+UCSF4	ESC derived cell line
+umbilical artery endothelial cell	meso-epithelial cell
+umbilical cord blood	arterial blood
+unswitched memory B cell	lymphocyte of B lineage
+upper lobe of left lung	endoderm-derived structure
+uterus	other
+vagina	mesoderm-derived structure
+vein endothelial cell	meso-epithelial cell
+venous blood	venous blood
+Z-138	other
