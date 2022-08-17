@@ -1,16 +1,16 @@
-import json
 import os.path
 import warnings
-from subprocess import run
-import pandas as pd
+import xml.etree.ElementTree as et
 from collections import defaultdict
+from subprocess import run
+from typing import Dict, List, Tuple
+
+import pandas as pd
 
 # make sure the working directory when running this file is the project root of the git project
 os.chdir('../../')
 
 # first get the ncit thesaurus
-from typing import Dict, List, Tuple
-import xml.etree.ElementTree as et
 
 tree = et.parse('ontologies/Thesaurus.owl')
 root = tree.getroot()
