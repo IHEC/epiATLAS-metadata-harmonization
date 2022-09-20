@@ -1,0 +1,48 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIH Roadmap Epigenomics",
+                "l": "NIH Roadmap Epigenomics"
+              }
+            },
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "biomaterial_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "primary cell culture"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primary cell"
+      }
+    ],
+    "description": "Mass edit cells in column biomaterial_type"
+  }
+]
