@@ -1,0 +1,1698 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "bipolar neuron",
+                "l": "bipolar neuron"
+              }
+            },
+            {
+              "v": {
+                "v": "neuron",
+                "l": "neuron"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "neural cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "megakaryocyte",
+                "l": "megakaryocyte"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myeloid cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "gastrocnemius medialis",
+                "l": "gastrocnemius medialis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "muscle organ"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Peyer's patch",
+                "l": "Peyer's patch"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mucosa"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "gastroesophageal sphincter",
+                "l": "gastroesophageal sphincter"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "digestive system"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "KOPT-K1",
+                "l": "KOPT-K1"
+              }
+            },
+            {
+              "v": {
+                "v": "SUDHL6",
+                "l": "SUDHL6"
+              }
+            },
+            {
+              "v": {
+                "v": "DOHH2",
+                "l": "DOHH2"
+              }
+            },
+            {
+              "v": {
+                "v": "DG75",
+                "l": "DG75"
+              }
+            },
+            {
+              "v": {
+                "v": "DND-41",
+                "l": "DND-41"
+              }
+            },
+            {
+              "v": {
+                "v": "Loucy",
+                "l": "Loucy"
+              }
+            },
+            {
+              "v": {
+                "v": "U266",
+                "l": "U266"
+              }
+            },
+            {
+              "v": {
+                "v": "JVM-2",
+                "l": "JVM-2"
+              }
+            },
+            {
+              "v": {
+                "v": "Karpas 422",
+                "l": "Karpas 422"
+              }
+            },
+            {
+              "v": {
+                "v": "Z-138",
+                "l": "Z-138"
+              }
+            },
+            {
+              "v": {
+                "v": "BL-2",
+                "l": "BL-2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lymphoma or leukaemia cell line"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BJ",
+                "l": "BJ"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "fibroblast derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NT2/D1",
+                "l": "NT2/D1"
+              }
+            },
+            {
+              "v": {
+                "v": "HepaRG",
+                "l": "HepaRG"
+              }
+            },
+            {
+              "v": {
+                "v": "HCT116",
+                "l": "HCT116"
+              }
+            },
+            {
+              "v": {
+                "v": "ACC112",
+                "l": "ACC112"
+              }
+            },
+            {
+              "v": {
+                "v": "MCF 10A",
+                "l": "MCF 10A"
+              }
+            },
+            {
+              "v": {
+                "v": "184-hTERT",
+                "l": "184-hTERT"
+              }
+            },
+            {
+              "v": {
+                "v": "HEK293",
+                "l": "HEK293"
+              }
+            },
+            {
+              "v": {
+                "v": "SK-N-MC",
+                "l": "SK-N-MC"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "epithelial cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "neuronal stem cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "neural stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "neural stem cell",
+                "l": "neural stem cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "neural cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hematopoietic precursor cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hematopoietic cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "hematopoietic cell",
+                "l": "hematopoietic cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hematopoietic cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "skeletal muscle satellite cell",
+                "l": "skeletal muscle satellite cell"
+              }
+            },
+            {
+              "v": {
+                "v": "skeletal muscle myoblast",
+                "l": "skeletal muscle myoblast"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "muscle precursor cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary cell",
+                "l": "primary cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "neural progenitor cell",
+                "l": "neural progenitor cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "neural progenitor cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary cell",
+                "l": "primary cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cardiac myoblast",
+                "l": "cardiac myoblast"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "muscle precursor cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary cell",
+                "l": "primary cell"
+              }
+            },
+            {
+              "v": {
+                "v": "primary cell culture",
+                "l": "primary cell culture"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term_high_order_manual",
+          "expression": "value",
+          "columnName": "sample_ontology_term_high_order_manual",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "secretory cell",
+                "l": "secretory cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "glomerular visceral epithelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "podocyte"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sample_ontology_term_high_order_manual",
+          "expression": "value",
+          "columnName": "sample_ontology_term_high_order_manual",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "other",
+                "l": "other"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "sample_ontology_term_high_order_manual",
+          "columnName": "sample_ontology_term_high_order_manual",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary cell",
+                "l": "primary cell"
+              }
+            },
+            {
+              "v": {
+                "v": "primary cell culture",
+                "l": "primary cell culture"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "grel:cells.cell_type.value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column sample_ontology_term_high_order_manual using expression grel:cells.cell_type.value"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Caco-2",
+                "l": "Caco-2"
+              }
+            },
+            {
+              "v": {
+                "v": "A549",
+                "l": "A549"
+              }
+            },
+            {
+              "v": {
+                "v": "OCI-LY1",
+                "l": "OCI-LY1"
+              }
+            },
+            {
+              "v": {
+                "v": "SK-N-SH",
+                "l": "SK-N-SH"
+              }
+            },
+            {
+              "v": {
+                "v": "PC-9",
+                "l": "PC-9"
+              }
+            },
+            {
+              "v": {
+                "v": "PC-3",
+                "l": "PC-3"
+              }
+            },
+            {
+              "v": {
+                "v": "A673",
+                "l": "A673"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cancer cell line"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "induced pluripotent stem cell",
+                "l": "induced pluripotent stem cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "induced pluripotent stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term_high_order_manual",
+          "expression": "value",
+          "columnName": "sample_ontology_term_high_order_manual",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "other",
+                "l": "other"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "grel:cells.line.value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column sample_ontology_term_high_order_manual using expression grel:cells.line.value"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary tissue",
+                "l": "primary tissue"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "body of pancreas",
+                "l": "body of pancreas"
+              }
+            },
+            {
+              "v": {
+                "v": "pancreas",
+                "l": "pancreas"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pancreas"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary tissue",
+                "l": "primary tissue"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "sample_ontology_term_high_order_manual",
+          "expression": "value",
+          "columnName": "sample_ontology_term_high_order_manual",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "other",
+                "l": "other"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "grel:cells.tissue_type.value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column sample_ontology_term_high_order_manual using expression grel:cells.tissue_type.value"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+                "l": "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myeloid cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+    },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00002037|IHECRE00002055",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "mesenchymal stem cell"
+      }
+    ],
+    "description": "Mass edit cells in column cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00002037|IHECRE00002055",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mesenchymal stem cell",
+                "l": "mesenchymal stem cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CL:0000134"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mesenchymal stem cell",
+                "l": "mesenchymal stem cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "connective tissue cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "placenta (amniotic membrane) tissue"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "placenta"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "placenta (basal plate and villi) tissue"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "placenta"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "placenta (villi) tissue"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "placenta"
+      }
+    ],
+    "description": "Mass edit cells in column tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "placenta",
+                "l": "placenta"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary tissue",
+                "l": "primary tissue"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "placenta"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "tissue_type",
+          "expression": "value",
+          "columnName": "tissue_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "placenta",
+                "l": "placenta"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary tissue",
+                "l": "primary tissue"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "UBERON:0001987"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "bTS11",
+                "l": "bTS11"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "line",
+          "expression": "value",
+          "columnName": "line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "bTS11",
+                "l": "bTS11"
+              }
+            },
+            {
+              "v": {
+                "v": "CT27",
+                "l": "CT27"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "biomaterial_type",
+          "expression": "value",
+          "columnName": "biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "primary cell",
+                "l": "primary cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "cell_type",
+          "expression": "value",
+          "columnName": "cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cortex neural stem and progenitor cells",
+                "l": "cortex neural stem and progenitor cells"
+              }
+            },
+            {
+              "v": {
+                "v": "ganglionic eminence neural stem and progenitor cells",
+                "l": "ganglionic eminence neural stem and progenitor cells"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sample_ontology_term_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "neural progenitor cell"
+      }
+    ],
+    "description": "Mass edit cells in column sample_ontology_term_high_order_manual"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disease_high_order_manual",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disease "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disease"
+      }
+    ],
+    "description": "Mass edit cells in column disease_high_order_manual"
+  }
+]
