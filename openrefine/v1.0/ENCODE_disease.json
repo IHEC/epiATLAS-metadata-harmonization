@@ -1,0 +1,792 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004693",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0024305"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004693",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Refractory Immunoblastic B Cell Lymphoma Progressed From Follicular Centroblastic/centrocytic Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non-Hodgkin Lymphoma"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004693",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NCIT:C3211"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie_ncit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SK-N-SH",
+                "l": "SK-N-SH"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Metastatic Neuroblastoma From Bone Marrow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Neuroblastoma"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SK-N-SH",
+                "l": "SK-N-SH"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C2751421"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SK-N-SH",
+                "l": "SK-N-SH"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NCIT:C3270"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie_ncit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SUDHL6",
+                "l": "SUDHL6"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Large Cell Lymphoma; Mixed Lymphocytic-Histiocytic Lymphoma; Follicular B Cell Lymphoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diffuse Large B-Cell Lymphoma Germinal Center B-Cell Type"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SUDHL6",
+                "l": "SUDHL6"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0024304"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C1333295"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SUDHL6",
+                "l": "SUDHL6"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIT:C3210"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIT:C36080"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie_ncit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCI-H929",
+                "l": "NCI-H929"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Igak Myeloma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plasmacytoma"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCI-H929",
+                "l": "NCI-H929"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0032131"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCI-H929",
+                "l": "NCI-H929"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NCIT:C9349"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie_ncit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "PC-3",
+                "l": "PC-3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Grade Iv, Adenocarcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adenocarcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "PC-3",
+                "l": "PC-3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C2750272"
+      }
+    ],
+    "description": "Mass edit cells in column harm_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project",
+          "expression": "value",
+          "columnName": "project",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ENCODE",
+                "l": "ENCODE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harm_line",
+          "expression": "value",
+          "columnName": "harm_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "PC-3",
+                "l": "PC-3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NCIT:C2852"
+      }
+    ],
+    "description": "Mass edit cells in column disease_ontology_curie_ncit"
+  }
+]

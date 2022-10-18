@@ -1,0 +1,102 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harm_tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brodmann (1909) area 22::anterior transverse temporal area 41::posterior transverse temporal area 42"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "anterior transverse temporal area 41::Brodmann (1909) area 22::posterior transverse temporal area 42"
+      }
+    ],
+    "description": "Mass edit cells in column harm_tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harm_tissue_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Brodmann (1909) area 20::Brodmann (1909) area 37\n"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brodmann (1909) area 20::Brodmann (1909) area 37"
+      }
+    ],
+    "description": "Mass edit cells in column harm_tissue_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harm_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "lymphocyte of b lineage"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lymphocyte of B lineage"
+      }
+    ],
+    "description": "Mass edit cells in column harm_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harm_sample_ontology_curie",
+          "expression": "value",
+          "columnName": "harm_sample_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CL:0002555",
+                "l": "CL:0002555"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harm_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "stromal cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "fibroblast of mammary gland"
+      }
+    ],
+    "description": "Mass edit cells in column harm_cell_type"
+  }
+]
