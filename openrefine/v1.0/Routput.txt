@@ -1,1 +1,297 @@
 * The library is already synchronized with the lockfile.
+[1] "harm_sample_ontology_curie"
+   automated_sample_ontology unique_terms_higher_order
+1:                       EFO                        11
+2:                        CL                        15
+3:                    UBERON                        15
+   unique_terms_intermediate_order
+1:                              29
+2:                              28
+3:                              24
+[1] "Some harm_sample_ontology_intermediate are not in the list of ancestors:"
+    harm_biomaterial_type harm_sample_ontology_curie
+ 1:          primary cell                           
+ 2:          primary cell                           
+ 3:             cell line                           
+ 4:             cell line                           
+ 5:             cell line                           
+ 6:             cell line                           
+ 7:             cell line                           
+ 8:             cell line                           
+ 9:             cell line                           
+10:          primary cell                           
+11:          primary cell                           
+                                          harm_cell_type harm_tissue_type
+ 1:                                                 ipsc                 
+ 2:                                         early neuron                 
+ 3:                                                              placenta
+ 4:                                                              placenta
+ 5:                                                              placenta
+ 6:                                                              placenta
+ 7:                                                              placenta
+ 8:                                                              placenta
+ 9:                                                              placenta
+10: ganglionic eminence neural stem and progenitor cells                 
+11:              cortex neural stem and progenitor cells                 
+                                                                        harm_line
+ 1:                                                                              
+ 2:                                                                              
+ 3:                       EVT-like cells were derived from trophoblast stem cells
+ 4:                   Trophoblast stem cells were derived from a human blastocyst
+ 5:                        ST-like cells were derived from trophoblast stem cells
+ 6: Syncytiotrophoblast-like cells were induced from human trophoblast stem cells
+ 7:          Trophoblast stem cells were derived from human cytotrophoblast cells
+ 8:                                                                          CT27
+ 9:                                                         trophoblast stem cell
+10:                                                                              
+11:                                                                              
+    harm_sample_ontology_intermediate n_EpiRR n_project
+ 1:                                         2         1
+ 2:                                         2         1
+ 3:       stem cell derived cell line       1         1
+ 4:       stem cell derived cell line       1         1
+ 5:       stem cell derived cell line       1         1
+ 6:       stem cell derived cell line       1         1
+ 7:       stem cell derived cell line       1         1
+ 8:       stem cell derived cell line       1         1
+ 9:       stem cell derived cell line       3         1
+10:            neural progenitor cell       3         1
+11:            neural progenitor cell       3         1
+   automated_sample_ontology unique_terms_higher_order
+1:                       EFO                        11
+2:                        CL                        14
+3:                    UBERON                        14
+4:                      <NA>                         1
+   unique_terms_intermediate_order
+1:                              29
+2:                              30
+3:                              30
+4:                               1
+[1] "automated_harm_disease_ontology_curie_ncit"
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        15                              28
+[1] "Some automatically extracted sample ontology terms are not in line with the manual free text:"
+     harm_disease_ontology_curie automated_harm_disease_ontology_curie_ncit
+ 1:                NCIM:C2853894                                           
+ 2:                NCIM:C2854093                                           
+ 3:                NCIM:C0861884                                           
+ 4: NCIM:C0005586::NCIM:C2749754                  NCIT:C34423::NCIT:C158814
+ 5:                NCIM:C0747752                                           
+ 6:                NCIM:C2315449                                           
+ 7:                NCIM:C0079731                                           
+ 8:                  NCIM:C37212                                           
+ 9:                   NCIM:C3727                                           
+10:                  NCIM:C95584                                           
+11:                   NCIM:C4526                                           
+12:                   NCIM:C6650                                           
+13:                   NCIM:C4757                                           
+14:                   NCIM:C5725                                           
+15:                  NCIM:C41247                                           
+16:                 NCIM:C115222                                           
+17:                  NCIM:C26747                                           
+18:                NCIM:C2874249                                           
+19:                NCIM:C0043253                                           
+20:                 NCIM:C115222                                           
+                                              harm_disease
+ 1:                 Mantle cell lymphoma, unspecified site
+ 2: Chronic lymphocytic leukemia of B-cell type in relapse
+ 3:              Chronic lymphocytic leukaemia stage A(II)
+ 4:                      Bipolar Disorder::Iron Deficiency
+ 5:                                    Polysubstance abuse
+ 6:                         Diverticulitis of rectosigmoid
+ 7:                                       B-Cell Lymphomas
+ 8:         Solid Pseudopapillary Neoplasm of the Pancreas
+ 9:                                Adenosquamous Carcinoma
+10:                     Pancreatic Neuroendocrine Tumor G1
+11:                                      Kidney Oncocytoma
+12:                        Ampulla of Vater Adenocarcinoma
+13:                               Hypertensive Nephropathy
+14:    Pancreatic Intraductal Papillary-Mucinous Carcinoma
+15:                    Pancreatic Mucinous-Cystic Neoplasm
+16:                        Immunoglobulin A Lambda Myeloma
+17:                               Type 2 Diabetes Mellitus
+18:       Childhood cerebral X-linked adrenoleukodystrophy
+19:                                  Nonpenetrating Wounds
+20:                                      Submaxillar Tumor
+    automated_disease_ontology_term n_EpiRR n_project
+ 1:                                       1         1
+ 2:                                       9         1
+ 3:                                       1         1
+ 4:    Disease, Disorder or Finding       2         1
+ 5:                                       6         1
+ 6:                                       1         1
+ 7:                                       3         1
+ 8:                                       3         1
+ 9:                                       2         1
+10:                                       1         1
+11:                                       1         1
+12:                                       1         1
+13:                                       5         1
+14:                                       1         1
+15:                                       1         1
+16:                                       1         1
+17:                                       1         1
+18:                                       3         1
+19:                                      11         1
+20:                                       1         1
+[1] "Some harm_disease_intermediate are not in the list of ancestors:"
+     harm_disease_ontology_curie automated_harm_disease_ontology_curie_ncit
+ 1:                NCIM:C0026764                                 NCIT:C3242
+ 2:                NCIM:C2853894                                           
+ 3:                NCIM:C2854093                                           
+ 4:                NCIM:C0861884                                           
+ 5: NCIM:C0005586::NCIM:C2749754                  NCIT:C34423::NCIT:C158814
+ 6:                NCIM:C0747752                                           
+ 7:                NCIM:C2315449                                           
+ 8:                NCIM:C0079731                                           
+ 9:                  NCIM:C37212                                           
+10:                   NCIM:C3727                                           
+11:                  NCIM:C95584                                           
+12:                   NCIM:C4526                                           
+13:                   NCIM:C6650                                           
+14:                   NCIM:C4757                                           
+15:                   NCIM:C5725                                           
+16:                  NCIM:C41247                                           
+17:                                                                        
+18:                NCIM:C0684337                                NCIT:C27291
+19:                 NCIM:C115222                                           
+20:                  NCIM:C26747                                           
+21:                NCIM:C2874249                                           
+22:                NCIM:C0043253                                           
+23:                NCIM:C0152096                               NCIT:C101362
+24:                 NCIM:C115222                                           
+25:                NCIM:C0032131                                 NCIT:C9349
+26:                NCIM:C0206659                                 NCIT:C3752
+     harm_disease_ontology_curie automated_harm_disease_ontology_curie_ncit
+                                                harm_disease
+ 1:                                      Plasma Cell Myeloma
+ 2:                   Mantle cell lymphoma, unspecified site
+ 3:   Chronic lymphocytic leukemia of B-cell type in relapse
+ 4:                Chronic lymphocytic leukaemia stage A(II)
+ 5:                        Bipolar Disorder::Iron Deficiency
+ 6:                                      Polysubstance abuse
+ 7:                           Diverticulitis of rectosigmoid
+ 8:                                         B-Cell Lymphomas
+ 9:           Solid Pseudopapillary Neoplasm of the Pancreas
+10:                                  Adenosquamous Carcinoma
+11:                       Pancreatic Neuroendocrine Tumor G1
+12:                                        Kidney Oncocytoma
+13:                          Ampulla of Vater Adenocarcinoma
+14:                                 Hypertensive Nephropathy
+15:      Pancreatic Intraductal Papillary-Mucinous Carcinoma
+16:                      Pancreatic Mucinous-Cystic Neoplasm
+17:                                                         
+18: Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor
+19:                          Immunoglobulin A Lambda Myeloma
+20:                                 Type 2 Diabetes Mellitus
+21:         Childhood cerebral X-linked adrenoleukodystrophy
+22:                                    Nonpenetrating Wounds
+23:                             Complete Trisomy 18 Syndrome
+24:                                        Submaxillar Tumor
+25:                                             Plasmacytoma
+26:                                      Embryonal Carcinoma
+                                                harm_disease
+                           harm_disease_intermediate harm_disease_high n_EpiRR
+ 1:                                          Myeloma            Cancer      18
+ 2:                                         Lymphoma            Cancer       1
+ 3:                                         Leukemia            Cancer       9
+ 4:                                         Leukemia            Cancer       1
+ 5:                             Psychiatric Disorder           Disease       2
+ 6:                                             None      Healthy/None       6
+ 7:                        Digestive System Disorder           Disease       1
+ 8:                                         Lymphoma            Cancer       3
+ 9:                              Pancreatic Neoplasm            Cancer       3
+10:                                        Carcinoma            Cancer       2
+11:                              Pancreatic Neoplasm           Disease       1
+12:                    Genitourinary System Disorder           Disease       1
+13:                                        Carcinoma            Cancer       1
+14:                    Genitourinary System Disorder           Disease       5
+15:                                        Carcinoma            Cancer       1
+16:                              Pancreatic Neoplasm           Disease       1
+17:                                             None      Healthy/None     186
+18:                                          Sarcoma            Cancer       1
+19:                                          Myeloma            Cancer       1
+20:                        Endocrine System Disorder           Disease       1
+21: Childhood cerebral X-linked adrenoleukodystrophy           Disease       3
+22:                                          Finding      Healthy/None      11
+23:                                       Trisomy 18           Disease       1
+24:                                Submaxillar Tumor           Disease       1
+25:                                          Myeloma            Cancer       1
+26:                                        Carcinoma            Cancer       1
+                           harm_disease_intermediate harm_disease_high n_EpiRR
+    n_project
+ 1:         1
+ 2:         1
+ 3:         1
+ 4:         1
+ 5:         1
+ 6:         1
+ 7:         1
+ 8:         1
+ 9:         1
+10:         1
+11:         1
+12:         1
+13:         1
+14:         1
+15:         1
+16:         1
+17:         6
+18:         1
+19:         1
+20:         1
+21:         1
+22:         1
+23:         1
+24:         1
+25:         1
+26:         1
+    n_project
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        15                              29
+[1] "automated_harm_donor_health_status_ontology_curie_ncit"
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        13                              26
+[1] "Some automatically extracted sample ontology terms are not in line with the manual free text:"
+   harm_donor_health_status_ontology_curie
+1:                           NCIM:C0205647
+2:                           NCIM:C0277545
+3:                           NCIM:C2854093
+4:                           NCIM:C0861884
+5:                           NCIM:C2315449
+6:                           NCIM:C2239176
+7:                           NCIM:C0948680
+8:            NCIM:C0018674::NCIM:C0868439
+9:                           NCIM:C0043253
+   automated_harm_donor_health_status_ontology_curie_ncit
+1:                                                       
+2:                                                       
+3:                                                       
+4:                                                       
+5:                                                       
+6:                                                       
+7:                                                       
+8:                                            NCIT:C34660
+9:                                                       
+                                        harm_donor_health_status
+1:                                            Follicular adenoma
+2:                          Disease type AND/OR category unknown
+3:        Chronic lymphocytic leukemia of B-cell type in relapse
+4:                     Chronic lymphocytic leukaemia stage A(II)
+5:                                Diverticulitis of rectosigmoid
+6:                                               Liver carcinoma
+7:                                       Adenocarcinoma of liver
+8: Head Injury::Suicide and self-inflicted injury by gunshot NOS
+9:                                         Nonpenetrating Wounds
+   automated_donor_health_status_ontology_term n_EpiRR n_project
+1:                                                   4         1
+2:                                                   5         1
+3:                                                   9         1
+4:                                                   3         1
+5:                                                   4         1
+6:                                                   8         1
+7:                                                   1         1
+8:                                 Head Injury       4         1
+9:                                                  16         1
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        15                              30
