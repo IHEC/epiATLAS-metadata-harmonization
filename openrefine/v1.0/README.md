@@ -1,9 +1,5 @@
-News
-For all columns that were changed, i.e., “harmonized” in this effort, we added the prefix harm_ to clearly mark that this column has been changed in comparison to the original EpiRR data.
-For the columns describing manual annotations, we removed the suffix _order_manual. They can still be distinguished from the automatically extracted higher order annotations in the extended version, because these later columns still have the suffix _order or _order_unique.
-
 # Version 1.0
-The CSV for the metadata can be found at openrefine/v0.11/IHEC_metadata_harmonization.v0.11.csv
+The CSV for the metadata can be found at [IHEC_metadata_harmonization.v1.0.csv](IHEC_metadata_harmonization.v1.0.csv).
 
 ## News
 - The prefix `harm` has been renamed to `harmonized` for all columns where at least one cell was changed compared to the original data from EpiRR.
@@ -16,7 +12,7 @@ The CSV for the metadata can be found at openrefine/v0.11/IHEC_metadata_harmoniz
 The overall diff between v0.10 and v0.11 can be found at [diff_v0.11_v1.0.json](diff_v0.11_v1.0.json)
 
 ## Extended Version:
-For more information on the columns from the **extended version**, please also see [version 0.9](https://github.com/IHEC/epimap-metadata-harmonization/releases/tag/v0.9).
+For more information on the columns from the **extended version** at [IHEC_metadata_harmonization.v1.0.extended.csv](IHEC_metadata_harmonization.v1.0.extended.csv), please also see [version 0.9](https://github.com/IHEC/epimap-metadata-harmonization/releases/tag/v0.9).
 
 ## Metadata Standard
 Please keep in mind that we try to stay as close to
