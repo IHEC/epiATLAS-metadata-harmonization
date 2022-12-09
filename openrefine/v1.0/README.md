@@ -1,4 +1,5 @@
 # Version 1.0
+At this time, this repository is only for **sample metadata**, _not experiment metadata_.
 The CSV for the metadata can be found at [IHEC_metadata_harmonization.v1.0.csv](IHEC_metadata_harmonization.v1.0.csv).
 
 ## News
