@@ -1,0 +1,275 @@
+* The library is already synchronized with the lockfile.
+[1] "automated_harmonized_sample_disease_ontology_curie_ncit"
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        15                              28
+[1] "Some automatically extracted sample disease terms are not in line with the manual free text:"
+    harmonized_sample_disease_ontology_curie
+ 1:                            NCIM:C2854093
+ 2:                            NCIM:C0861884
+ 3:                            NCIM:C0747752
+ 4:                            NCIM:C2315449
+ 5:                            NCIM:C0079731
+ 6:                               NCIM:C3512
+ 7:                              NCIM:C37212
+ 8:                               NCIM:C3727
+ 9:                              NCIM:C95584
+10:                               NCIM:C4526
+11:                               NCIM:C6650
+12:                               NCIM:C4757
+13:                               NCIM:C5725
+14:                              NCIM:C41247
+15:                             NCIM:C115222
+16:                              NCIM:C26747
+17:                            NCIM:C2874249
+18:                             NCIM:C115222
+    automated_harmonized_sample_disease_ontology_curie_ncit
+ 1:                                                        
+ 2:                                                        
+ 3:                                                        
+ 4:                                                        
+ 5:                                                        
+ 6:                                                        
+ 7:                                                        
+ 8:                                                        
+ 9:                                                        
+10:                                                        
+11:                                                        
+12:                                                        
+13:                                                        
+14:                                                        
+15:                                                        
+16:                                                        
+17:                                                        
+18:                                                        
+                                 harmonized_sample_disease
+ 1: Chronic lymphocytic leukemia of B-cell type in relapse
+ 2:              Chronic lymphocytic leukaemia stage A(II)
+ 3:                                    Polysubstance abuse
+ 4:                         Diverticulitis of rectosigmoid
+ 5:                                       B-Cell Lymphomas
+ 6:                                    Lung Adenocarcinoma
+ 7:         Solid Pseudopapillary Neoplasm of the Pancreas
+ 8:                                Adenosquamous Carcinoma
+ 9:                     Pancreatic Neuroendocrine Tumor G1
+10:                                      Kidney Oncocytoma
+11:                        Ampulla of Vater Adenocarcinoma
+12:                               Hypertensive Nephropathy
+13:    Pancreatic Intraductal Papillary-Mucinous Carcinoma
+14:                    Pancreatic Mucinous-Cystic Neoplasm
+15:                        Immunoglobulin A Lambda Myeloma
+16:                               Type 2 Diabetes Mellitus
+17:       Childhood cerebral X-linked adrenoleukodystrophy
+18:                                      Submaxillar Tumor
+    automated_harmonized_sample_ontology_term n_EpiRR n_project
+ 1:                                                 9         1
+ 2:                                                 1         1
+ 3:                                                 6         1
+ 4:                                                 1         1
+ 5:                                                 3         1
+ 6:                                                 3         1
+ 7:                                                 3         1
+ 8:                                                 2         1
+ 9:                                                 1         1
+10:                                                 1         1
+11:                                                 1         1
+12:                                                 5         1
+13:                                                 1         1
+14:                                                 1         1
+15:                                                 1         1
+16:                                                 1         1
+17:                                                 3         1
+18:                                                 1         1
+[1] "Some harmonized_sample_disease_intermediate are not in the list of ancestors:"
+    harmonized_sample_disease_ontology_curie
+ 1:                            NCIM:C0026764
+ 2:                            NCIM:C2854093
+ 3:                            NCIM:C0861884
+ 4:             NCIM:C0005586::NCIM:C2749754
+ 5:                            NCIM:C0747752
+ 6:                            NCIM:C2315449
+ 7:                            NCIM:C0079731
+ 8:                               NCIM:C3512
+ 9:                              NCIM:C37212
+10:                               NCIM:C3727
+11:                              NCIM:C95584
+12:                               NCIM:C4526
+13:                               NCIM:C6650
+14:                               NCIM:C4757
+15:                               NCIM:C5725
+16:                              NCIM:C41247
+17:             NCIM:C0019196::NCIM:C0019204
+18:                                         
+19:                            NCIM:C0684337
+20:                             NCIM:C115222
+21:                              NCIM:C26747
+22:                            NCIM:C2874249
+23:                            NCIM:C0152096
+24:                             NCIM:C115222
+25:                            NCIM:C0032131
+26:                            NCIM:C0206659
+    harmonized_sample_disease_ontology_curie
+    automated_harmonized_sample_disease_ontology_curie_ncit
+ 1:                                              NCIT:C3242
+ 2:                                                        
+ 3:                                                        
+ 4:                               NCIT:C34423::NCIT:C158814
+ 5:                                                        
+ 6:                                                        
+ 7:                                                        
+ 8:                                                        
+ 9:                                                        
+10:                                                        
+11:                                                        
+12:                                                        
+13:                                                        
+14:                                                        
+15:                                                        
+16:                                                        
+17:                                  NCIT:C3098::NCIT:C3099
+18:                                                        
+19:                                             NCIT:C27291
+20:                                                        
+21:                                                        
+22:                                                        
+23:                                            NCIT:C101362
+24:                                                        
+25:                                              NCIT:C9349
+26:                                              NCIT:C3752
+    automated_harmonized_sample_disease_ontology_curie_ncit
+                                   harmonized_sample_disease
+ 1:                                      Plasma Cell Myeloma
+ 2:   Chronic lymphocytic leukemia of B-cell type in relapse
+ 3:                Chronic lymphocytic leukaemia stage A(II)
+ 4:                        Bipolar Disorder::Iron Deficiency
+ 5:                                      Polysubstance abuse
+ 6:                           Diverticulitis of rectosigmoid
+ 7:                                         B-Cell Lymphomas
+ 8:                                      Lung Adenocarcinoma
+ 9:           Solid Pseudopapillary Neoplasm of the Pancreas
+10:                                  Adenosquamous Carcinoma
+11:                       Pancreatic Neuroendocrine Tumor G1
+12:                                        Kidney Oncocytoma
+13:                          Ampulla of Vater Adenocarcinoma
+14:                                 Hypertensive Nephropathy
+15:      Pancreatic Intraductal Papillary-Mucinous Carcinoma
+16:                      Pancreatic Mucinous-Cystic Neoplasm
+17:          Hepatitis C Infection::Hepatocellular Carcinoma
+18:                                                         
+19: Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor
+20:                          Immunoglobulin A Lambda Myeloma
+21:                                 Type 2 Diabetes Mellitus
+22:         Childhood cerebral X-linked adrenoleukodystrophy
+23:                             Complete Trisomy 18 Syndrome
+24:                                        Submaxillar Tumor
+25:                                             Plasmacytoma
+26:                                      Embryonal Carcinoma
+                                   harmonized_sample_disease
+              harmonized_sample_disease_intermediate
+ 1:                                          Myeloma
+ 2:                                         Leukemia
+ 3:                                         Leukemia
+ 4:                             Psychiatric Disorder
+ 5:                                             None
+ 6:                        Digestive System Disorder
+ 7:                                         Lymphoma
+ 8:                                        Carcinoma
+ 9:                              Pancreatic Neoplasm
+10:                                        Carcinoma
+11:                              Pancreatic Neoplasm
+12:                    Genitourinary System Disorder
+13:                                        Carcinoma
+14:                    Genitourinary System Disorder
+15:                                        Carcinoma
+16:                              Pancreatic Neoplasm
+17:                                        Carcinoma
+18:                                             None
+19:                                          Sarcoma
+20:                                          Myeloma
+21:                        Endocrine System Disorder
+22: Childhood cerebral X-linked adrenoleukodystrophy
+23:                                       Trisomy 18
+24:                                Submaxillar Tumor
+25:                                          Myeloma
+26:                                        Carcinoma
+              harmonized_sample_disease_intermediate
+    harmonized_sample_disease_high n_EpiRR n_project
+ 1:                         Cancer      18         2
+ 2:                         Cancer       9         1
+ 3:                         Cancer       1         1
+ 4:                        Disease       2         1
+ 5:                   Healthy/None       6         1
+ 6:                        Disease       1         1
+ 7:                         Cancer       3         1
+ 8:                         Cancer       3         1
+ 9:                         Cancer       3         1
+10:                         Cancer       2         1
+11:                        Disease       1         1
+12:                        Disease       1         1
+13:                         Cancer       1         1
+14:                        Disease       5         1
+15:                         Cancer       1         1
+16:                        Disease       1         1
+17:                         Cancer       3         1
+18:                   Healthy/None      76         5
+19:                         Cancer       1         1
+20:                         Cancer       1         1
+21:                        Disease       1         1
+22:                        Disease       3         1
+23:                        Disease       1         1
+24:                        Disease       1         1
+25:                         Cancer       1         1
+26:                         Cancer       1         1
+    harmonized_sample_disease_high n_EpiRR n_project
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        15                              30
+[1] "automated_harmonized_donor_health_status_ontology_curie_ncit"
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        12                              27
+[1] "Some automatically extracted donor disease ontology terms are not in line with the manual free text:"
+   harmonized_donor_health_status_ontology_curie
+1:                                 NCIM:C0205647
+2:                                 NCIM:C0277545
+3:                                 NCIM:C2854093
+4:                                 NCIM:C0861884
+5:                                 NCIM:C2315449
+6:                                 NCIM:C2239176
+   automated_harmonized_donor_health_status_ontology_curie_ncit
+1:                                                             
+2:                                                             
+3:                                                             
+4:                                                             
+5:                                                             
+6:                                                             
+                           harmonized_donor_health_status
+1:                                     Follicular adenoma
+2:                   Disease type AND/OR category unknown
+3: Chronic lymphocytic leukemia of B-cell type in relapse
+4:              Chronic lymphocytic leukaemia stage A(II)
+5:                         Diverticulitis of rectosigmoid
+6:                                        Liver carcinoma
+   automated_donor_health_status_ontology_term n_EpiRR n_project
+1:                                                   4         1
+2:                                                   5         1
+3:                                                   9         1
+4:                                                   3         1
+5:                                                   4         1
+6:                                                   8         1
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        14                              30
+[1] "harmonized_sample_ontology_curie"
+   automated_harmonized_sample_ontology unique_terms_higher_order
+1:                                  EFO                        12
+2:                                   CL                        15
+3:                               UBERON                        15
+   unique_terms_intermediate_order
+1:                              28
+2:                              28
+3:                              25
+   automated_harmonized_sample_ontology unique_terms_higher_order
+1:                                  EFO                        12
+2:                                   CL                        15
+3:                               UBERON                        14
+   unique_terms_intermediate_order
+1:                              22
+2:                              30
+3:                              30

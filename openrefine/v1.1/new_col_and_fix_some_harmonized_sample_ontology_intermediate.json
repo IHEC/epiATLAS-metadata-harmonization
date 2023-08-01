@@ -1,0 +1,3206 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myeloid cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "GM06990"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "B cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "GM12878"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "B cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_type",
+          "expression": "value",
+          "columnName": "harmonized_cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "early neuron",
+                "l": "early neuron"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "neural cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_type",
+          "expression": "value",
+          "columnName": "harmonized_cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ipsc",
+                "l": "ipsc"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "iPSC derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A549",
+                "l": "A549"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cancer",
+                "l": "Cancer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A549",
+                "l": "A549"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0152013"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cancer",
+                "l": "Cancer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A549",
+                "l": "A549"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0152013"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C3512"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A673",
+                "l": "A673"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0553580"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A673",
+                "l": "A673"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "automated_harmonized_sample_disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIT:C41132"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIT:C4817"
+      }
+    ],
+    "description": "Mass edit cells in column automated_harmonized_sample_disease_ontology_curie_ncit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A673",
+                "l": "A673"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ewing Sarcoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cancer",
+                "l": "Cancer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A549",
+                "l": "A549"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lung Adenocarcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "A673",
+                "l": "A673"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0152013"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "automated_harmonized_sample_disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIT:C41132"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIT:C3512"
+      }
+    ],
+    "description": "Mass edit cells in column automated_harmonized_sample_disease_ontology_curie_ncit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lung Adenocarcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "iPSC derived cell line"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ESC derived cell line"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "lymphoma or leukaemia cell line",
+                "l": "lymphoma or leukaemia cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0279583"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "lymphoma or leukaemia cell line",
+                "l": "lymphoma or leukaemia cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "automated_harmonized_sample_disease_ontology_curie_ncit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIT:C41132"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIT:C7953"
+      }
+    ],
+    "description": "Mass edit cells in column automated_harmonized_sample_disease_ontology_curie_ncit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "lymphoma or leukaemia cell line",
+                "l": "lymphoma or leukaemia cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Childhood T Acute Lymphoblastic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "lymphoma or leukaemia cell line",
+                "l": "lymphoma or leukaemia cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "lymphoma or leukaemia cell line",
+                "l": "lymphoma or leukaemia cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cancer",
+                "l": "Cancer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cancer cell line",
+                "l": "cancer cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Lung Adenocarcinoma",
+                "l": "Lung Adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Ewing Sarcoma",
+                "l": "Ewing Sarcoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sarcoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "H9",
+                "l": "H9"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0036920"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "H9",
+                "l": "H9"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sezary Syndrome"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "H9",
+                "l": "H9"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cancer",
+                "l": "Cancer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "H9",
+                "l": "H9"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepaRG",
+                "l": "HepaRG"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Hepatitis C Infection::Hepatocellular Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepaRG",
+                "l": "HepaRG"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NCIM:C0019196::NCIM:C0019204"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepaRG",
+                "l": "HepaRG"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepaRG",
+                "l": "HepaRG"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0019204"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0206624"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0206624"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0206624"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NCIM:C0206624"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hepatocellular Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hepatoblastoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Hepatoblastoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hepatoblastoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "HepG2",
+                "l": "HepG2"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hepatoblastoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "KMS-11",
+                "l": "KMS-11"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0026764"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "KMS-11",
+                "l": "KMS-11"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plasma Cell Myeloma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "KMS-11",
+                "l": "KMS-11"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Healthy/None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_biomaterial_type",
+          "expression": "value",
+          "columnName": "harmonized_biomaterial_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "cell line",
+                "l": "cell line"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cancer",
+                "l": "Cancer"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "KMS-11",
+                "l": "KMS-11"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Myeloma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004596|IHECRE00004597|IHECRE00004598|IHECRE00004599|IHECRE00004600|IHECRE00004601|IHECRE00004720|IHECRE00004721|IHECRE00004722 ",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CT27"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004596|IHECRE00004597|IHECRE00004598|IHECRE00004599|IHECRE00004600|IHECRE00004601|IHECRE00004720|IHECRE00004721|IHECRE00004722 ",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Syncytiotrophoblast-like cells were induced from human trophoblast stem cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004596|IHECRE00004597|IHECRE00004598|IHECRE00004599|IHECRE00004600|IHECRE00004601|IHECRE00004720|IHECRE00004721|IHECRE00004722 ",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Trophoblast stem cells were derived from human cytotrophoblast cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_line"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004596|IHECRE00004597|IHECRE00004598|IHECRE00004599|IHECRE00004600|IHECRE00004601|IHECRE00004720|IHECRE00004721|IHECRE00004722 ",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "EFO:0002886"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004887|IHECRE00004894|IHECRE00004895|IHECRE00004902|IHECRE00004904|IHECRE00004910",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "CL:0011020"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004887|IHECRE00004894|IHECRE00004895|IHECRE00004902|IHECRE00004904|IHECRE00004910",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cortex neural stem and progenitor cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "neural progenitor cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004887|IHECRE00004894|IHECRE00004895|IHECRE00004902|IHECRE00004904|IHECRE00004910",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ganglionic eminence neural stem and progenitor cells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "neural progenitor cel"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004887|IHECRE00004894|IHECRE00004895|IHECRE00004902|IHECRE00004904|IHECRE00004910",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "neural progenitor cel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "neural progenitor cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_biomaterial_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "primary cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_biomaterial_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "neural cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "neural progenitor cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "stem cell derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CL:0011020"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EFO:0005740"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "EFO:0005740"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "early neuron"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "neural progenitor cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ipsc"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003724|IHECRE00003725|IHECRE00003727|IHECRE00003726|IHECRE00003728|IHECRE00003729",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_line",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "iPSC derived cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_line"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "harmonized_donor_life_status",
+    "description": "Remove column harmonized_donor_life_status"
+  }
+]
