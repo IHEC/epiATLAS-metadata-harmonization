@@ -44,15 +44,18 @@ def makeSamplesJson(sampleCsvFile):
     with open(sampleCsvFile, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
          
-        # Convert each row into a dictionary and add it to data
+        # Convert each row into a dictionary and add it to data{}
         for row in csvReader:
             # Remove "harmonized_" from key names
-            newRow = {} # The data row, without "harmonized_" in all the field names.
+            newRow = {}
             for key, value in row.items():
-                if key.startswith("harmonized_"):
-                    newRow[key.replace('harmonized_', '')] = value
-                else:
-                    newRow[key] = value
+                newRow[key] = value
+            # # The data row, without "harmonized_" in all the field names.
+            #     if key.startswith("harmonized_"):
+            #         newRow[key.replace('harmonized_', '')] = value
+            #     else:
+            #         newRow[key] = value
+
             # Column 'EpiRR' is used as the primary key
             key = newRow['EpiRR']
             data[key] = newRow
@@ -95,8 +98,8 @@ def makeDatasetJson(datasetCsvFile):
 def main():
     # Define in and out file paths, relative to this script.
     sampleCsvFile = r'../openrefine/v1.1/IHEC_metadata_harmonization.v1.1.csv'
-    datasetCsvFile = r'epiatlas_metadata.csv'
-    hubOutFilePath = r'hub.json'
+    datasetCsvFile = r'../openrefine/v1.1/epiatlas_metadata.csv'
+    hubOutFilePath = r'IA_hub.json'
     
     # Put the pieces together
     h = Hub()
