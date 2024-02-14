@@ -1,0 +1,248 @@
+{
+ "IHECRE00000001.4":[
+  {
+   "('harmonized_donor_health_status', 'v1.1')":"Breast Carcinoma",
+   "('harmonized_donor_health_status', 'v1.2')":"Breast Fibrocystic Change",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.1')":"NCIM:C0678222",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.2')":"NCIM:C1527375",
+   "('harmonized_sample_disease', 'v1.1')":"Breast Carcinoma",
+   "('harmonized_sample_disease', 'v1.2')":"Breast Fibrocystic Change",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Disease",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Carcinoma",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"Non-Neoplastic Disorder",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C0678222",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C1527375"
+  }
+ ],
+ "IHECRE00000928.7":[
+  {
+   "('harmonized_donor_health_status', 'v1.1')":"None",
+   "('harmonized_donor_health_status', 'v1.2')":"Bipolar Disorder::Iron Deficiency",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.1')":"NCIM:C0549184",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.2')":"NCIM:C0005586::NCIM:C2749754",
+   "('harmonized_sample_disease', 'v1.1')":"Bipolar Disorder::Iron Deficiency",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Disease",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Psychiatric Disorder",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C0005586::NCIM:C2749754",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00000964.7":[
+  {
+   "('harmonized_donor_health_status', 'v1.1')":"None",
+   "('harmonized_donor_health_status', 'v1.2')":"Bipolar Disorder::Iron Deficiency",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.1')":"NCIM:C0549184",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.2')":"NCIM:C0005586::NCIM:C2749754",
+   "('harmonized_sample_disease', 'v1.1')":"Bipolar Disorder::Iron Deficiency",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Disease",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Psychiatric Disorder",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C0005586::NCIM:C2749754",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00000966.7":[
+  {
+   "('harmonized_donor_health_status', 'v1.1')":"None",
+   "('harmonized_donor_health_status', 'v1.2')":"Diverticulitis",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.1')":"NCIM:C0549184",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.2')":"NCIM:C0012813",
+   "('harmonized_sample_disease', 'v1.1')":"Diverticulitis",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Disease",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Digestive System Disorder",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C0012813",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00000982.6":[
+  {
+   "('harmonized_donor_health_status', 'v1.1')":"None",
+   "('harmonized_donor_health_status', 'v1.2')":"Pancreatic Carcinoma",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.1')":"NCIM:C0549184",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.2')":"NCIM:C0235974",
+   "('harmonized_sample_disease', 'v1.1')":"Pancreatic Carcinoma",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Carcinoma",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C0235974",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00000985.7":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Sezary Syndrome",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Leukemia",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C0036920",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001010.4":[
+  {
+   "('harmonized_donor_health_status', 'v1.1')":"Colon Adenoma",
+   "('harmonized_donor_health_status', 'v1.2')":"Colon Carcinoma",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.1')":"NCIM:C0850572",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.2')":"NCIM:C0699790"
+  }
+ ],
+ "IHECRE00001862.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Solid Pseudopapillary Neoplasm of the Pancreas",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Pancreatic Neoplasm",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C37212",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001863.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Solid Pseudopapillary Neoplasm of the Pancreas",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Pancreatic Neoplasm",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C37212",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001864.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Adenosquamous Carcinoma",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Carcinoma",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C3727",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001865.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Pancreatic Neuroendocrine Tumor G1",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Disease",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Pancreatic Neoplasm",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C95584",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001866.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Kidney Oncocytoma",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Disease",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Genitourinary System Disorder",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C4526",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001867.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Ampulla of Vater Adenocarcinoma",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Carcinoma",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C6650",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001868.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Solid Pseudopapillary Neoplasm of the Pancreas",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Pancreatic Neoplasm",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C37212",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001870.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Pancreatic Intraductal Papillary-Mucinous Carcinoma",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Carcinoma",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C5725",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001871.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Pancreatic Mucinous-Cystic Neoplasm",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Disease",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Pancreatic Neoplasm",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C41247",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00001872.2":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Adenosquamous Carcinoma",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Carcinoma",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C3727",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00003700.7":[
+  {
+   "('harmonized_sample_disease', 'v1.1')":"Sezary Syndrome",
+   "('harmonized_sample_disease', 'v1.2')":"None",
+   "('harmonized_sample_disease_high', 'v1.1')":"Cancer",
+   "('harmonized_sample_disease_high', 'v1.2')":"Healthy\/None",
+   "('harmonized_sample_disease_intermediate', 'v1.1')":"Leukemia",
+   "('harmonized_sample_disease_intermediate', 'v1.2')":"None",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C0036920",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0549184"
+  }
+ ],
+ "IHECRE00004633.5":[
+  {
+   "('harmonized_donor_health_status', 'v1.1')":"None",
+   "('harmonized_donor_health_status', 'v1.2')":"Salivary Gland Adenoid Cystic Carcinoma",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.1')":"NCIM:C0549184",
+   "('harmonized_donor_health_status_ontology_curie', 'v1.2')":"NCIM:C0279751",
+   "('harmonized_sample_disease', 'v1.1')":"Submaxillar Tumor",
+   "('harmonized_sample_disease', 'v1.2')":"Salivary Gland Adenoid Cystic Carcinoma",
+   "('harmonized_sample_disease_high', 'v1.1')":"Disease",
+   "('harmonized_sample_disease_high', 'v1.2')":"Cancer",
+   "('harmonized_sample_disease_ontology_curie', 'v1.1')":"NCIM:C115222",
+   "('harmonized_sample_disease_ontology_curie', 'v1.2')":"NCIM:C0279751"
+  }
+ ]
+}

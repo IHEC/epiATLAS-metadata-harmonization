@@ -1,0 +1,2419 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000001",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disease"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000001",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0678222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C1527375"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000001",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0678222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C1527375"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000001",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Breast Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Breast Fibrocystic Change"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000001",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Breast Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Breast Fibrocystic Change"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004633",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0279751"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004633",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C115222"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0279751"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004633",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Submaxillar Tumor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Salivary Gland Adenoid Cystic Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004633",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Salivary Gland Adenoid Cystic Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004633",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cancer"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Disease",
+                "l": "Disease"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Breast Disorder"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Disease",
+                "l": "Disease"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Breast Disorder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non-Neoplastic Disorder"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "H9",
+                "l": "H9"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0036920"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "H9",
+                "l": "H9"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sezary Syndrome"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_line",
+          "expression": "value",
+          "columnName": "harmonized_cell_line",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "H9",
+                "l": "H9"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_high",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_high",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Healthy/None",
+                "l": "Healthy/None"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Solid Pseudopapillary Neoplasm of the Pancreas",
+                "l": "Solid Pseudopapillary Neoplasm of the Pancreas"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C37212"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Solid Pseudopapillary Neoplasm of the Pancreas",
+                "l": "Solid Pseudopapillary Neoplasm of the Pancreas"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Solid Pseudopapillary Neoplasm of the Pancreas",
+                "l": "Solid Pseudopapillary Neoplasm of the Pancreas"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Solid Pseudopapillary Neoplasm of the Pancreas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Adenosquamous Carcinoma",
+                "l": "Adenosquamous Carcinoma"
+              }
+            },
+            {
+              "v": {
+                "v": "Ampulla of Vater Adenocarcinoma",
+                "l": "Ampulla of Vater Adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C3727"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Adenosquamous Carcinoma",
+                "l": "Adenosquamous Carcinoma"
+              }
+            },
+            {
+              "v": {
+                "v": "Ampulla of Vater Adenocarcinoma",
+                "l": "Ampulla of Vater Adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C6650"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Adenosquamous Carcinoma",
+                "l": "Adenosquamous Carcinoma"
+              }
+            },
+            {
+              "v": {
+                "v": "Ampulla of Vater Adenocarcinoma",
+                "l": "Ampulla of Vater Adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Adenosquamous Carcinoma",
+                "l": "Adenosquamous Carcinoma"
+              }
+            },
+            {
+              "v": {
+                "v": "Ampulla of Vater Adenocarcinoma",
+                "l": "Ampulla of Vater Adenocarcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Adenosquamous Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ampulla of Vater Adenocarcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Neuroendocrine Tumor G1",
+                "l": "Pancreatic Neuroendocrine Tumor G1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C95584"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Neuroendocrine Tumor G1",
+                "l": "Pancreatic Neuroendocrine Tumor G1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Neuroendocrine Tumor G1",
+                "l": "Pancreatic Neuroendocrine Tumor G1"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Neuroendocrine Tumor G1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Kidney Oncocytoma",
+                "l": "Kidney Oncocytoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C4526"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Kidney Oncocytoma",
+                "l": "Kidney Oncocytoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Kidney Oncocytoma",
+                "l": "Kidney Oncocytoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Genitourinary System Disorder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kidney Oncocytoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Mucinous-Cystic Neoplasm",
+                "l": "Pancreatic Mucinous-Cystic Neoplasm"
+              }
+            },
+            {
+              "v": {
+                "v": "Pancreatic Intraductal Papillary-Mucinous Carcinoma",
+                "l": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C41247"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Mucinous-Cystic Neoplasm",
+                "l": "Pancreatic Mucinous-Cystic Neoplasm"
+              }
+            },
+            {
+              "v": {
+                "v": "Pancreatic Intraductal Papillary-Mucinous Carcinoma",
+                "l": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C5725"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Mucinous-Cystic Neoplasm",
+                "l": "Pancreatic Mucinous-Cystic Neoplasm"
+              }
+            },
+            {
+              "v": {
+                "v": "Pancreatic Intraductal Papillary-Mucinous Carcinoma",
+                "l": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Mucinous-Cystic Neoplasm",
+                "l": "Pancreatic Mucinous-Cystic Neoplasm"
+              }
+            },
+            {
+              "v": {
+                "v": "Pancreatic Intraductal Papillary-Mucinous Carcinoma",
+                "l": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Mucinous-Cystic Neoplasm",
+                "l": "Pancreatic Mucinous-Cystic Neoplasm"
+              }
+            },
+            {
+              "v": {
+                "v": "Pancreatic Intraductal Papillary-Mucinous Carcinoma",
+                "l": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Mucinous-Cystic Neoplasm",
+                "l": "Pancreatic Mucinous-Cystic Neoplasm"
+              }
+            },
+            {
+              "v": {
+                "v": "Pancreatic Intraductal Papillary-Mucinous Carcinoma",
+                "l": "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Intraductal Papillary-Mucinous Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001862|IHECRE00001863|IHECRE00001864|IHECRE00001865|IHECRE00001866|IHECRE00001867|IHECRE00001868|IHECRE00001870|IHECRE00001871|IHECRE00001872",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Mucinous-Cystic Neoplasm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bipolar Disorder::Iron Deficiency"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0005586::NCIM:C2749754"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0005586::NCIM:C2749754"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Psychiatric Disorder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000928|IHECRE00000964",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bipolar Disorder::Iron Deficiency"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Diverticulitis",
+                "l": "Diverticulitis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0012813"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Diverticulitis",
+                "l": "Diverticulitis"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diverticulitis"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Carcinoma",
+                "l": "Pancreatic Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0549184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0235974"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Pancreatic Carcinoma",
+                "l": "Pancreatic Carcinoma"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "None"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pancreatic Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0012813"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0235974"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0549184"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cancer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_high",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disease"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Healthy/None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_high"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Digestive System Disorder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Diverticulitis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000966|IHECRE00000982",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pancreatic Carcinoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "None"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001010",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0850572"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0699790"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001010",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Colon Adenoma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Colon Carcinoma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  }
+]
