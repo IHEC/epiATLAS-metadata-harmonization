@@ -16,3 +16,4 @@ dependencies:
   - r-base==4.2.1
   - r-renv==0.15.5
   - r-curl==4.3.2
+  - tabulate==0.9.0

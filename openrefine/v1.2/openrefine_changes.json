@@ -3095,5 +3095,35 @@
       }
     ],
     "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000683|IHECRE00000831",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_EpiRR_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partial"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Complete"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_EpiRR_status"
   }
 ]

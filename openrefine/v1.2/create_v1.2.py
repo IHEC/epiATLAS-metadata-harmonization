@@ -71,7 +71,7 @@ run([openrefine_client, '--create', v1_2_intermediate_csv], check=True)
 
 # here we manually solve some mapping issues and conflicts and the resulting json is then used in this script
 
-run([openrefine_client, '--apply', './openrefine/v1.2/aneta_comments.json', intermediate_project_name],
+run([openrefine_client, '--apply', './openrefine/v1.2/openrefine_changes.json', intermediate_project_name],
     check=True)
 run([openrefine_client, '--export', f'--output={v1_2_intermediate_csv}', intermediate_project_name],
     check=True)
@@ -90,8 +90,34 @@ v1_2_df_intermediate.drop(columns=deselect_columns, inplace=True)
 
 ### add Aneta Mikulasova's assignments
 aneta_assignments_new = pd.read_csv('./openrefine/v1.2/IHEC_metadata_harmonization.v1.2.preliminary_AM_231218.csv')
-aneta_columns = ['EpiRR', 'ORGAN_SYSTEM', 'ORGAN_PART_OR_LINEAGE', 'ORGAN', 'CELL', 'CELL_2', 'CELL_3', 'CANCER_TYPE',
+aneta_columns = ['EpiRR', 'ORGAN_SYSTEM', 'ORGAN', 'ORGAN_PART_OR_LINEAGE', 'CELL', 'CELL_2', 'CELL_3', 'CANCER_TYPE',
                  'CANCER_SUBTYPE']
+systems_dict = {
+    "CARD": "Cardiovascular System (Circulatory System)",
+    "DIGE": "Digestive",
+    "ENDO": "Endocrine",
+    "HAEM": "Haematopoietic cells (technically, sub-category of LYMP)",
+    "IMMU": "Immune System",
+    "INTG": "Integumentary",
+    "LYMP": "Lymphatic System",
+    "MUSC": "Muscular",
+    "NERV": "Nervous",
+    "REPR": "Reproductive",
+    "RESP": "Respiratory",
+    "SKEL": "Skeletal",
+    "STEM": "Stem Cells and Derived Cell Lines",
+    "URIN": "Urinary (Renal) System (or Excretory System)"
+}
+aneta_assignments_new['ORGAN_SYSTEM'] = aneta_assignments_new['ORGAN_SYSTEM'].map(systems_dict)
+
+lineage_abbreviations = {
+    "HSC": "hematopoietic stem cells",
+    "L": "lymphoid",
+    "M": "myeloid",
+    "MNC": "mononuclear cells"
+}
+aneta_assignments_new['ORGAN_PART_OR_LINEAGE'] = aneta_assignments_new['ORGAN_PART_OR_LINEAGE'].map(
+    lineage_abbreviations, na_action='ignore').fillna(aneta_assignments_new['ORGAN_PART_OR_LINEAGE'])
 
 # merge aneta_assignments_new with only aneta_columns with v1_2_df_intermediate, validate one_to_one
 v1_2_df_intermediate = v1_2_df_intermediate.merge(aneta_assignments_new[aneta_columns], 'left', validate='one_to_one')
@@ -102,17 +128,18 @@ v1_2_df_intermediate.rename(columns={col: f'sample_{col.lower()}_order_AnetaMiku
                             inplace=True)
 
 ### add EpiClass predictions
-epiclass_predictions = pd.read_csv('./openrefine/v1.2/EpiAtlas_sex+life_stage_analyses - v1.2_metadata_integration.csv')
+epiclass_predictions = pd.read_csv(
+    './openrefine/v1.2/EpiAtlas_sex+life_stage_EpiClass_analyses - v1.2_metadata_integration.csv')
 # merge EpiClass predictions with v1_2_df_intermediate, validate one_to_one
 v1_2_df_intermediate = v1_2_df_intermediate.merge(
     epiclass_predictions[['epirr_noV', 'EpiClass_pred_Sex', 'EpiClass_pred_Life_stage']], 'left',
     left_on='epirr_id_without_version',
     right_on='epirr_noV', validate='one_to_one')
 # drop column epirr_noV
-v1_2_df_intermediate.drop(columns='epirr_noV', inplace=True)
+v1_2_df_intermediate.drop(columns=['epirr_noV', 'harmonized_donor_sex', 'harmonized_donor_life_stage'], inplace=True)
 # rename EpiClass predictions columns
 v1_2_df_intermediate.rename(
-    columns={'EpiClass_pred_Sex': 'EpiClass_donor_sex', 'EpiClass_pred_Life_stage': 'EpiClass_donor_life_stage'},
+    columns={'EpiClass_pred_Sex': 'harmonized_donor_sex', 'EpiClass_pred_Life_stage': 'harmonized_donor_life_stage'},
     inplace=True)
 
 ### add manual groupings
@@ -126,7 +153,6 @@ v1_2_df_intermediate = v1_2_df_intermediate.merge(
     validate='one_to_one')
 # rename Final_Manual_Group_Label column
 v1_2_df_intermediate.rename(columns={'Final_Manual_Group_Label': 'harmonized_sample_group_label'}, inplace=True)
-
 
 ### Add automated experiments from experiment metadata
 # make reprocessed_metadata a wide table with epirr_id_without_version as index and experiment_type as columns
@@ -149,13 +175,13 @@ all_assays = histone_assays + ['WGBS', 'RNA-Seq']
 # count number of NaN values in each row
 reprocessed_metadata_wide['n_histones'] = reprocessed_metadata_wide[histone_assays].notnull().sum(axis=1)
 # first, all of the epigenomes are set to partial
-reprocessed_metadata_wide['epiATLAS_status'] = 'partial'
+reprocessed_metadata_wide['epiATLAS_status'] = 'Partial'
 # now, if there is ar least one histone mark AND RNA-Seq, this means there is imputed data for the other marks (also for WGBS)
 # i.e., the status is set to full_imputed
 reprocessed_metadata_wide.loc[(reprocessed_metadata_wide['n_histones'] >= 1) & (
-    ~reprocessed_metadata_wide['RNA-Seq'].isnull()), 'epiATLAS_status'] = 'full_imputed'
+    ~reprocessed_metadata_wide['RNA-Seq'].isnull()), 'epiATLAS_status'] = 'Complete_imputed'
 reprocessed_metadata_wide.loc[
-    reprocessed_metadata_wide[all_assays].isnull().sum(axis=1) == 0, 'epiATLAS_status'] = 'full'
+    reprocessed_metadata_wide[all_assays].isnull().sum(axis=1) == 0, 'epiATLAS_status'] = 'Complete'
 
 # load imputed metadata file
 imputed_metadata = pd.read_csv('./openrefine/v1.2/epiatlas_imputed_metadata.csv')
@@ -192,11 +218,12 @@ reprocessed_metadata_wide.reset_index(inplace=True)
 reprocessed_metadata_wide['fully_imputed'] = reprocessed_metadata_wide[all_assays].notnull().sum(axis=1) == 8
 
 assert reprocessed_metadata_wide.loc[
-    reprocessed_metadata_wide['epiATLAS_status'].isin(['full', 'full_imputed']), 'epirr_id_without_version'].equals(
+    reprocessed_metadata_wide['epiATLAS_status'].isin(
+        ['Complete', 'Complete_imputed']), 'epirr_id_without_version'].equals(
     reprocessed_metadata_wide.loc[reprocessed_metadata_wide['fully_imputed'], 'epirr_id_without_version'])
 
 assert reprocessed_metadata_wide.loc[
-    reprocessed_metadata_wide['epiATLAS_status'] == 'partial', 'epirr_id_without_version'].equals(
+    reprocessed_metadata_wide['epiATLAS_status'] == 'Partial', 'epirr_id_without_version'].equals(
     reprocessed_metadata_wide.loc[~reprocessed_metadata_wide['fully_imputed'], 'epirr_id_without_version'])
 
 # merge reprocessed_metadata_wide with v1_2_df_intermediate, validate one_to_one
@@ -231,70 +258,69 @@ v1_2_df_intermediate.to_csv(v1_2_extended_csv, index=False)
 
 # for this step,
 with open('./openrefine/v1.2/Routput.txt', 'w') as f:
-    run(['conda', 'run', '-n', 'v1_2_r_env', 'Rscript', 'add_higher_order_v1.2.R'], check=True, cwd='./openrefine/v1.2', stdout=f)
+    run(['conda', 'run', '-n', 'v1_2_r_env', 'Rscript', 'add_higher_order_v1.2.R'], check=True, cwd='./openrefine/v1.2',
+        stdout=f)
 
 v1_2_extended_df = pd.read_csv(v1_2_extended_csv)
 
 v1_2_extended_df = v1_2_extended_df[["EpiRR",
-                                         "project",
-                                         "harmonized_biomaterial_type",
-                                         "harmonized_sample_ontology_intermediate",
-                                         "harmonized_sample_disease_high",
-                                         "harmonized_sample_disease_intermediate",
-                                         "harmonized_EpiRR_status",
-                                         "epiATLAS_status",
-                                         "harmonized_cell_type",
-                                         "harmonized_cell_line",
-                                         "harmonized_tissue_type",
-                                         "harmonized_sample_ontology_curie",
-                                         "harmonized_cell_markers",
-                                         "automated_harmonized_sample_ontology",
-                                         "automated_harmonized_sample_ontology_term",
-                                         "harmonized_sample_ontology_term_high_order_fig1",
-                                         "sample_ontology_term_high_order_JeffreyHyacinthe",
-                                         "sample_ontology_term_high_order_JonathanSteif",
-                                         "sample_organ_system_order_AnetaMikulasova",
-                                         "sample_organ_part_or_lineage_order_AnetaMikulasova",
-                                         "sample_organ_order_AnetaMikulasova",
-                                         "sample_cell_order_AnetaMikulasova",
-                                         "sample_cell_2_order_AnetaMikulasova",
-                                         "sample_cell_3_order_AnetaMikulasova",
-                                         "sample_cancer_type_order_AnetaMikulasova",
-                                         "sample_cancer_subtype_order_AnetaMikulasova",
-                                         "automated_harmonized_sample_ontology_term_intermediate_order_unique",
-                                         "automated_harmonized_sample_ontology_term_high_order_unique",
-                                         "automated_harmonized_sample_ontology_term_intermediate_order",
-                                         "automated_harmonized_sample_ontology_term_high_order",
-                                         "harmonized_sample_disease",
-                                         "harmonized_sample_disease_ontology_curie",
-                                         "automated_harmonized_sample_disease_ontology_curie_ncit",
-                                         "automated_harmonized_sample_disease_ontology_term_intermediate_order_unique",
-                                         "automated_harmonized_sample_disease_ontology_term_high_order_unique",
-                                         "automated_harmonized_sample_disease_ontology_term_intermediate_order",
-                                         "automated_harmonized_sample_disease_ontology_term_high_order",
-                                         "harmonized_donor_type",
-                                         "harmonized_donor_id",
-                                         "harmonized_donor_age",
-                                         "harmonized_donor_age_unit",
-                                         "automated_harmonized_donor_age_in_years",
-                                         "harmonized_donor_life_stage",
-                                         "harmonized_donor_sex",
-                                         "harmonized_donor_health_status",
-                                         "harmonized_donor_health_status_ontology_curie",
-                                         "automated_harmonized_donor_health_status_ontology_curie_ncit",
-                                         "automated_harmonized_donor_health_status_ontology_term_intermediate_order_unique",
-                                         "automated_harmonized_donor_health_status_ontology_term_high_order_unique",
-                                         "automated_harmonized_donor_health_status_ontology_term_intermediate_order",
-                                         "automated_harmonized_donor_health_status_ontology_term_high_order",
-                                         "automated_experiments_H3K27ac",
-                                         "automated_experiments_H3K27me3",
-                                         "automated_experiments_H3K36me3",
-                                         "automated_experiments_H3K4me1",
-                                         "automated_experiments_H3K4me3",
-                                         "automated_experiments_H3K9me3",
-                                         "automated_experiments_WGBS",
-                                         "automated_experiments_RNA-Seq",
-                                         "epirr_id_without_version"]]
+                                     "project",
+                                     "harmonized_biomaterial_type",
+                                     "harmonized_sample_ontology_intermediate",
+                                     "harmonized_sample_disease_high",
+                                     "harmonized_sample_disease_intermediate",
+                                     "harmonized_EpiRR_status",
+                                     "epiATLAS_status",
+                                     "harmonized_cell_type",
+                                     "harmonized_cell_line",
+                                     "harmonized_tissue_type",
+                                     "harmonized_sample_ontology_curie",
+                                     "harmonized_cell_markers",
+                                     "automated_harmonized_sample_ontology",
+                                     "automated_harmonized_sample_ontology_term",
+                                     "harmonized_sample_ontology_term_high_order_fig1",
+                                     "sample_organ_system_order_AnetaMikulasova",
+                                     "sample_organ_order_AnetaMikulasova",
+                                     "sample_organ_part_or_lineage_order_AnetaMikulasova",
+                                     "sample_cell_order_AnetaMikulasova",
+                                     "sample_cell_2_order_AnetaMikulasova",
+                                     "sample_cell_3_order_AnetaMikulasova",
+                                     "sample_cancer_type_order_AnetaMikulasova",
+                                     "sample_cancer_subtype_order_AnetaMikulasova",
+                                     "automated_harmonized_sample_ontology_term_intermediate_order_unique",
+                                     "automated_harmonized_sample_ontology_term_high_order_unique",
+                                     "automated_harmonized_sample_ontology_term_intermediate_order",
+                                     "automated_harmonized_sample_ontology_term_high_order",
+                                     "harmonized_sample_disease",
+                                     "harmonized_sample_disease_ontology_curie",
+                                     "automated_harmonized_sample_disease_ontology_curie_ncit",
+                                     "automated_harmonized_sample_disease_ontology_term_intermediate_order_unique",
+                                     "automated_harmonized_sample_disease_ontology_term_high_order_unique",
+                                     "automated_harmonized_sample_disease_ontology_term_intermediate_order",
+                                     "automated_harmonized_sample_disease_ontology_term_high_order",
+                                     "harmonized_donor_type",
+                                     "harmonized_donor_id",
+                                     "harmonized_donor_age",
+                                     "harmonized_donor_age_unit",
+                                     "automated_harmonized_donor_age_in_years",
+                                     "harmonized_donor_life_stage",
+                                     "harmonized_donor_sex",
+                                     "harmonized_donor_health_status",
+                                     "harmonized_donor_health_status_ontology_curie",
+                                     "automated_harmonized_donor_health_status_ontology_curie_ncit",
+                                     "automated_harmonized_donor_health_status_ontology_term_intermediate_order_unique",
+                                     "automated_harmonized_donor_health_status_ontology_term_high_order_unique",
+                                     "automated_harmonized_donor_health_status_ontology_term_intermediate_order",
+                                     "automated_harmonized_donor_health_status_ontology_term_high_order",
+                                     "automated_experiments_H3K27ac",
+                                     "automated_experiments_H3K27me3",
+                                     "automated_experiments_H3K36me3",
+                                     "automated_experiments_H3K4me1",
+                                     "automated_experiments_H3K4me3",
+                                     "automated_experiments_H3K9me3",
+                                     "automated_experiments_WGBS",
+                                     "automated_experiments_RNA-Seq",
+                                     "epirr_id_without_version"]]
 
 v1_2_extended_df.to_csv(v1_2_extended_csv, index=False)
 v1_2_csv = './openrefine/v1.2/IHEC_metadata_harmonization.v1.2.csv'
@@ -314,7 +340,8 @@ new.sort_index(0, inplace=True)
 new.sort_index(1, inplace=True)
 assert old.index.isin(new.index).all()
 new = new[new.index.isin(old.index)]
-assert old.columns.difference(new.columns).empty
+assert (old.columns.difference(new.columns) == ['sample_ontology_term_high_order_JeffreyHyacinthe',
+                                                'sample_ontology_term_high_order_JonathanSteif']).all()
 assert (new.columns.difference(old.columns) == ['automated_experiments_H3K27ac', 'automated_experiments_H3K27me3',
                                                 'automated_experiments_H3K36me3', 'automated_experiments_H3K4me1',
                                                 'automated_experiments_H3K4me3', 'automated_experiments_H3K9me3',
@@ -329,8 +356,14 @@ assert (new.columns.difference(old.columns) == ['automated_experiments_H3K27ac',
                                                 'sample_organ_part_or_lineage_order_AnetaMikulasova',
                                                 'sample_organ_system_order_AnetaMikulasova']).all()
 shared_cols = old.columns.intersection(new.columns)
-assert shared_cols.size == 42
+assert shared_cols.size == 40
 
 diff_tbl = old[shared_cols].compare(new[shared_cols])
 diff_tbl.rename(columns={'self': 'v1.1', 'other': 'v1.2'}, inplace=True)
 diff_tbl.apply(lambda x: [x.dropna()], axis=1).to_json('openrefine/v1.2/diff_v1.1_v1.2.json', indent=True)
+# print column in markdown format
+
+na_props = pd.DataFrame.from_dict({col: {'Column': col, 'Examples': '', 'Explanation': '',
+                                         '# Not Null (%)': f'{v1_2_extended_df[col].notnull().sum()} ({v1_2_extended_df[col].notnull().mean() * 100:.1f}%)'}
+                                   for col in v1_2_extended_df.columns}, orient='index')
+na_props.to_markdown('openrefine/v1.2/README', index=False, tablefmt='github', mode='a')
