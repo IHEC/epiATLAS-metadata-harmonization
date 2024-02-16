@@ -227,14 +227,15 @@ v1_2_df_intermediate = v1_2_df_intermediate.merge(
 v1_2_extended_csv = './openrefine/v1.2/IHEC_metadata_harmonization.v1.2.extended.csv'
 
 ### Skip automated checks for now
-# v1_2_df_intermediate.to_csv(v1_2_extended_csv, index=False)
-#
-# f = open('./openrefine/v1.2/Routput.txt', 'w')
-# run(['Rscript', 'add_higher_order_v1.2.R'], check=True, cwd='./openrefine/v1.2', stdout=f)
-#
-# v1_2_extended_df = pd.read_csv(v1_2_extended_csv)
+v1_2_df_intermediate.to_csv(v1_2_extended_csv, index=False)
 
-v1_2_extended_df = v1_2_df_intermediate[["EpiRR",
+# for this step,
+with open('./openrefine/v1.2/Routput.txt', 'w') as f:
+    run(['conda', 'run', '-n', 'v1_2_r_env', 'Rscript', 'add_higher_order_v1.2.R'], check=True, cwd='./openrefine/v1.2', stdout=f)
+
+v1_2_extended_df = pd.read_csv(v1_2_extended_csv)
+
+v1_2_extended_df = v1_2_extended_df[["EpiRR",
                                          "project",
                                          "harmonized_biomaterial_type",
                                          "harmonized_sample_ontology_intermediate",
@@ -247,8 +248,8 @@ v1_2_extended_df = v1_2_df_intermediate[["EpiRR",
                                          "harmonized_tissue_type",
                                          "harmonized_sample_ontology_curie",
                                          "harmonized_cell_markers",
-                                         # "automated_harmonized_sample_ontology",
-                                         # "automated_harmonized_sample_ontology_term",
+                                         "automated_harmonized_sample_ontology",
+                                         "automated_harmonized_sample_ontology_term",
                                          "harmonized_sample_ontology_term_high_order_fig1",
                                          "sample_ontology_term_high_order_JeffreyHyacinthe",
                                          "sample_ontology_term_high_order_JonathanSteif",
@@ -260,17 +261,17 @@ v1_2_extended_df = v1_2_df_intermediate[["EpiRR",
                                          "sample_cell_3_order_AnetaMikulasova",
                                          "sample_cancer_type_order_AnetaMikulasova",
                                          "sample_cancer_subtype_order_AnetaMikulasova",
-                                         # "automated_harmonized_sample_ontology_term_intermediate_order_unique",
-                                         # "automated_harmonized_sample_ontology_term_high_order_unique",
-                                         # "automated_harmonized_sample_ontology_term_intermediate_order",
-                                         # "automated_harmonized_sample_ontology_term_high_order",
+                                         "automated_harmonized_sample_ontology_term_intermediate_order_unique",
+                                         "automated_harmonized_sample_ontology_term_high_order_unique",
+                                         "automated_harmonized_sample_ontology_term_intermediate_order",
+                                         "automated_harmonized_sample_ontology_term_high_order",
                                          "harmonized_sample_disease",
                                          "harmonized_sample_disease_ontology_curie",
-                                         # "automated_harmonized_sample_disease_ontology_curie_ncit",
-                                         # "automated_harmonized_sample_disease_ontology_term_intermediate_order_unique",
-                                         # "automated_harmonized_sample_disease_ontology_term_high_order_unique",
-                                         # "automated_harmonized_sample_disease_ontology_term_intermediate_order",
-                                         # "automated_harmonized_sample_disease_ontology_term_high_order",
+                                         "automated_harmonized_sample_disease_ontology_curie_ncit",
+                                         "automated_harmonized_sample_disease_ontology_term_intermediate_order_unique",
+                                         "automated_harmonized_sample_disease_ontology_term_high_order_unique",
+                                         "automated_harmonized_sample_disease_ontology_term_intermediate_order",
+                                         "automated_harmonized_sample_disease_ontology_term_high_order",
                                          "harmonized_donor_type",
                                          "harmonized_donor_id",
                                          "harmonized_donor_age",
@@ -280,11 +281,11 @@ v1_2_extended_df = v1_2_df_intermediate[["EpiRR",
                                          "harmonized_donor_sex",
                                          "harmonized_donor_health_status",
                                          "harmonized_donor_health_status_ontology_curie",
-                                         # "automated_harmonized_donor_health_status_ontology_curie_ncit",
-                                         # "automated_harmonized_donor_health_status_ontology_term_intermediate_order_unique",
-                                         # "automated_harmonized_donor_health_status_ontology_term_high_order_unique",
-                                         # "automated_harmonized_donor_health_status_ontology_term_intermediate_order",
-                                         # "automated_harmonized_donor_health_status_ontology_term_high_order",
+                                         "automated_harmonized_donor_health_status_ontology_curie_ncit",
+                                         "automated_harmonized_donor_health_status_ontology_term_intermediate_order_unique",
+                                         "automated_harmonized_donor_health_status_ontology_term_high_order_unique",
+                                         "automated_harmonized_donor_health_status_ontology_term_intermediate_order",
+                                         "automated_harmonized_donor_health_status_ontology_term_high_order",
                                          "automated_experiments_H3K27ac",
                                          "automated_experiments_H3K27me3",
                                          "automated_experiments_H3K36me3",
@@ -313,7 +314,7 @@ new.sort_index(0, inplace=True)
 new.sort_index(1, inplace=True)
 assert old.index.isin(new.index).all()
 new = new[new.index.isin(old.index)]
-assert old.columns.difference(new.columns).to_series().str.startswith('automated').all()
+assert old.columns.difference(new.columns).empty
 assert (new.columns.difference(old.columns) == ['automated_experiments_H3K27ac', 'automated_experiments_H3K27me3',
                                                 'automated_experiments_H3K36me3', 'automated_experiments_H3K4me1',
                                                 'automated_experiments_H3K4me3', 'automated_experiments_H3K9me3',
@@ -328,7 +329,7 @@ assert (new.columns.difference(old.columns) == ['automated_experiments_H3K27ac',
                                                 'sample_organ_part_or_lineage_order_AnetaMikulasova',
                                                 'sample_organ_system_order_AnetaMikulasova']).all()
 shared_cols = old.columns.intersection(new.columns)
-assert shared_cols.size == 26
+assert shared_cols.size == 42
 
 diff_tbl = old[shared_cols].compare(new[shared_cols])
 diff_tbl.rename(columns={'self': 'v1.1', 'other': 'v1.2'}, inplace=True)

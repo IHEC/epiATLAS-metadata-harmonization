@@ -1,0 +1,8 @@
+name: v1_2_r_env
+channels:
+  - defaults
+dependencies:
+  - r-curl==5.1.0
+  - conda-forge::r-renv==0.17.3
+  - ca-certificates
+  - openssl

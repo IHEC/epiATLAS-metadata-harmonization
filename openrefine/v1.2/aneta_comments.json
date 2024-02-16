@@ -2415,5 +2415,685 @@
       }
     ],
     "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0023487",
+                "l": "NCIM:C0023487"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acute Promyelocytic Leukemia with PML-RARA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Acute Promyelocytic Leukemia with t(15;17)(q24.1;q21.2); PML-RARA"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_donor_health_status_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_donor_health_status_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0023487",
+                "l": "NCIM:C0023487"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acute Promyelocytic Leukemia with PML-RARA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Acute Promyelocytic Leukemia with t(15;17)(q24.1;q21.2); PML-RARA"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0026764",
+                "l": "NCIM:C0026764"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plasma Cell Myeloma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Multiple Myeloma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_donor_health_status_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_donor_health_status_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0026764",
+                "l": "NCIM:C0026764"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plasma Cell Myeloma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Multiple Myeloma"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C2854093"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0854802"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0854802",
+                "l": "NCIM:C0854802"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chronic lymphocytic leukemia of B-cell type in relapse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Recurrent Chronic Lymphocytic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C2854093"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0854802"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_donor_health_status_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_donor_health_status_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0854802",
+                "l": "NCIM:C0854802"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chronic lymphocytic leukemia of B-cell type in relapse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Recurrent Chronic Lymphocytic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0861884"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0854803"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0854803",
+                "l": "NCIM:C0854803"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chronic lymphocytic leukaemia stage A(II)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stage II Chronic Lymphocytic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0861884"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0854803"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_donor_health_status_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_donor_health_status_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0854803",
+                "l": "NCIM:C0854803"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chronic lymphocytic leukaemia stage A(II)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stage II Chronic Lymphocytic Leukemia"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C0747752"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0740858"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0740858",
+                "l": "NCIM:C0740858"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Polysubstance abuse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Substance Abuse"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C1292771",
+                "l": "NCIM:C1292771"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Philadelphia Chromosome Positive, BCR-ABL1 Positive Chronic Myelogenous Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic Myeloid Leukemia, Philadelphia Chromosome Positive, BCR-ABL1 Positive"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_donor_health_status_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_donor_health_status_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C1292771",
+                "l": "NCIM:C1292771"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_health_status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Philadelphia Chromosome Positive, BCR-ABL1 Positive Chronic Myelogenous Leukemia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic Myeloid Leukemia, Philadelphia Chromosome Positive, BCR-ABL1 Positive"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_health_status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C3512"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0152013"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C4757"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0848548"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_disease_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_disease_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NCIM:C0023473",
+                "l": "NCIM:C0023473"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chronic Myelogenous Leukemia, BCR-ABL1 Positive"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chronic Myeloid Leukemia, BCR-ABL1 Positive"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_disease_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NCIM:C26747"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NCIM:C0011860"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_disease_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "CL:0000136",
+                "l": "CL:0000136"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "fat cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "adipocyte"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
   }
 ]
