@@ -1,0 +1,145 @@
+* The library is already synchronized with the lockfile.
+          used (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells 1600526 85.5   30091476 1607.1  37614344 2008.9
+Vcells 5545331 42.4  153075149 1167.9 160327313 1223.3
+[1] "automated_harmonized_sample_disease_ontology_curie_ncit"
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        13                              29
+[1] "Some automatically extracted sample disease terms are not in line with the manual free text:"
+   harmonized_sample_disease_ontology_curie
+1:                            NCIM:C2315449
+2:                            NCIM:C0079731
+3:                             NCIM:C115222
+4:                            NCIM:C2874249
+   automated_harmonized_sample_disease_ontology_curie_ncit
+1:                                                        
+2:                                                        
+3:                                                        
+4:                                                        
+                          harmonized_sample_disease
+1:                   Diverticulitis of rectosigmoid
+2:                                 B-Cell Lymphomas
+3:                  Immunoglobulin A Lambda Myeloma
+4: Childhood cerebral X-linked adrenoleukodystrophy
+   automated_harmonized_sample_ontology_term n_EpiRR n_project
+1:                                                 1         1
+2:                                                 3         1
+3:                                                 1         1
+4:                                                 3         1
+[1] "Some harmonized_sample_disease_intermediate are not in the list of ancestors:"
+    harmonized_sample_disease_ontology_curie
+ 1:                            NCIM:C0026764
+ 2:                            NCIM:C0740858
+ 3:                            NCIM:C2315449
+ 4:                            NCIM:C0079731
+ 5:             NCIM:C0019196::NCIM:C0019204
+ 6:                                         
+ 7:                            NCIM:C0684337
+ 8:                             NCIM:C115222
+ 9:                            NCIM:C2874249
+10:                            NCIM:C0152096
+11:                            NCIM:C0279751
+12:                            NCIM:C0032131
+13:                            NCIM:C0206659
+    automated_harmonized_sample_disease_ontology_curie_ncit
+ 1:                                              NCIT:C3242
+ 2:                                             NCIT:C18272
+ 3:                                                        
+ 4:                                                        
+ 5:                                  NCIT:C3098::NCIT:C3099
+ 6:                                                        
+ 7:                                             NCIT:C27291
+ 8:                                                        
+ 9:                                                        
+10:                                            NCIT:C101362
+11:                                              NCIT:C8026
+12:                                              NCIT:C9349
+13:                                              NCIT:C3752
+                                   harmonized_sample_disease
+ 1:                                         Multiple Myeloma
+ 2:                                          Substance Abuse
+ 3:                           Diverticulitis of rectosigmoid
+ 4:                                         B-Cell Lymphomas
+ 5:          Hepatitis C Infection::Hepatocellular Carcinoma
+ 6:                                                         
+ 7: Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor
+ 8:                          Immunoglobulin A Lambda Myeloma
+ 9:         Childhood cerebral X-linked adrenoleukodystrophy
+10:                             Complete Trisomy 18 Syndrome
+11:                  Salivary Gland Adenoid Cystic Carcinoma
+12:                                             Plasmacytoma
+13:                                      Embryonal Carcinoma
+              harmonized_sample_disease_intermediate
+ 1:                                          Myeloma
+ 2:                                             None
+ 3:                        Digestive System Disorder
+ 4:                                         Lymphoma
+ 5:                                        Carcinoma
+ 6:                                             None
+ 7:                                          Sarcoma
+ 8:                                          Myeloma
+ 9: Childhood cerebral X-linked adrenoleukodystrophy
+10:                                       Trisomy 18
+11:                                Submaxillar Tumor
+12:                                          Myeloma
+13:                                        Carcinoma
+    harmonized_sample_disease_high n_EpiRR n_project
+ 1:                         Cancer      18         2
+ 2:                   Healthy/None       6         1
+ 3:                        Disease       1         1
+ 4:                         Cancer       3         1
+ 5:                         Cancer       3         1
+ 6:                   Healthy/None     137         5
+ 7:                         Cancer       1         1
+ 8:                         Cancer       1         1
+ 9:                        Disease       3         1
+10:                        Disease       1         1
+11:                         Cancer       1         1
+12:                         Cancer       1         1
+13:                         Cancer       1         1
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        15                              29
+[1] "automated_harmonized_donor_health_status_ontology_curie_ncit"
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        14                              27
+[1] "Some automatically extracted donor disease ontology terms are not in line with the manual free text:"
+   harmonized_donor_health_status_ontology_curie
+1:                                 NCIM:C0205647
+2:                                 NCIM:C0277545
+3:                                 NCIM:C2315449
+4:                                 NCIM:C2239176
+   automated_harmonized_donor_health_status_ontology_curie_ncit
+1:                                                             
+2:                                                             
+3:                                                             
+4:                                                             
+         harmonized_donor_health_status
+1:                   Follicular adenoma
+2: Disease type AND/OR category unknown
+3:       Diverticulitis of rectosigmoid
+4:                      Liver carcinoma
+   automated_donor_health_status_ontology_term n_EpiRR n_project
+1:                                                   4         1
+2:                                                   5         1
+3:                                                   4         1
+4:                                                   8         1
+   unique_terms_higher_order unique_terms_intermediate_order
+1:                        14                              30
+[1] "harmonized_sample_ontology_curie"
+   automated_harmonized_sample_ontology unique_terms_higher_order
+1:                                  EFO                        12
+2:                                   CL                        15
+3:                               UBERON                        15
+   unique_terms_intermediate_order
+1:                              28
+2:                              25
+3:                              26
+   automated_harmonized_sample_ontology unique_terms_higher_order
+1:                                  EFO                        12
+2:                                   CL                        14
+3:                               UBERON                        15
+   unique_terms_intermediate_order
+1:                              22
+2:                              30
+3:                              29
+

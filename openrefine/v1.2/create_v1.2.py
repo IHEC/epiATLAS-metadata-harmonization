@@ -124,8 +124,9 @@ v1_2_df_intermediate = v1_2_df_intermediate.merge(aneta_assignments_new[aneta_co
 # remove Epirr column from aneta_columns
 aneta_columns.remove('EpiRR')
 # add suffix to column names aneta_columns in v1_2_df_intermediate and make column to lower case
-v1_2_df_intermediate.rename(columns={col: f'harmonized_sample_{col.lower()}_order_AnetaMikulasova' for col in aneta_columns},
-                            inplace=True)
+v1_2_df_intermediate.rename(
+    columns={col: f'harmonized_sample_{col.lower()}_order_AnetaMikulasova' for col in aneta_columns},
+    inplace=True)
 
 ### add EpiClass predictions
 epiclass_predictions = pd.read_csv(
@@ -253,7 +254,6 @@ v1_2_df_intermediate = v1_2_df_intermediate.merge(
 
 v1_2_extended_csv = './openrefine/v1.2/IHEC_metadata_harmonization.v1.2.extended.csv'
 
-### Skip automated checks for now
 v1_2_df_intermediate.to_csv(v1_2_extended_csv, index=False)
 
 # for this step,
@@ -358,15 +358,16 @@ assert (new.columns.difference(old.columns) == ['automated_experiments_H3K27ac',
                                                 'automated_experiments_H3K36me3', 'automated_experiments_H3K4me1',
                                                 'automated_experiments_H3K4me3', 'automated_experiments_H3K9me3',
                                                 'automated_experiments_RNA-Seq', 'automated_experiments_WGBS',
-                                                'epiATLAS_status', 'harmonized_sample_ontology_term_high_order_fig1',
-                                                'sample_cancer_subtype_order_AnetaMikulasova',
-                                                'sample_cancer_type_order_AnetaMikulasova',
-                                                'sample_cell_2_order_AnetaMikulasova',
-                                                'sample_cell_3_order_AnetaMikulasova',
-                                                'sample_cell_order_AnetaMikulasova',
-                                                'sample_organ_order_AnetaMikulasova',
-                                                'sample_organ_part_or_lineage_order_AnetaMikulasova',
-                                                'sample_organ_system_order_AnetaMikulasova']).all()
+                                                'epiATLAS_status',
+                                                'harmonized_sample_cancer_subtype_order_AnetaMikulasova',
+                                                'harmonized_sample_cancer_type_order_AnetaMikulasova',
+                                                'harmonized_sample_cell_2_order_AnetaMikulasova',
+                                                'harmonized_sample_cell_3_order_AnetaMikulasova',
+                                                'harmonized_sample_cell_order_AnetaMikulasova',
+                                                'harmonized_sample_ontology_term_high_order_fig1',
+                                                'harmonized_sample_organ_order_AnetaMikulasova',
+                                                'harmonized_sample_organ_part_or_lineage_order_AnetaMikulasova',
+                                                'harmonized_sample_organ_system_order_AnetaMikulasova']).all()
 shared_cols = old.columns.intersection(new.columns)
 assert shared_cols.size == 28
 
