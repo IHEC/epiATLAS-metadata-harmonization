@@ -97,9 +97,9 @@ def makeDatasetJson(datasetCsvFile):
 
 def main():
     # Define in and out file paths, relative to this script.
-    sampleCsvFile = r'../openrefine/v1.1/IHEC_metadata_harmonization.v1.1.csv'
-    datasetCsvFile = r'../openrefine/v1.1/epiatlas_metadata.csv'
-    hubOutFilePath = r'IA_hub.json'
+    sampleCsvFile = r'../openrefine/v1.2/IHEC_metadata_harmonization.v1.2.csv'
+    datasetCsvFile = r'../openrefine/v1.1/epiatlas_metadata.csv' # No update found.
+    hubOutFilePath = r'IHEC_metadata_harmonization.v1.2.json'
     
     # Put the pieces together
     h = Hub()
