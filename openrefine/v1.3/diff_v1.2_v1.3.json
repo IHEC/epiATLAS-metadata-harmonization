@@ -1,0 +1,32 @@
+{
+ "IHECRE00000071.3":[
+  {
+   "('harmonized_donor_life_stage', 'v1.2')":"child",
+   "('harmonized_donor_life_stage', 'v1.3')":"adult"
+  }
+ ],
+ "IHECRE00001397.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.2')":"child",
+   "('harmonized_donor_life_stage', 'v1.3')":"adult"
+  }
+ ],
+ "IHECRE00001558.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.2')":"adult",
+   "('harmonized_donor_life_stage', 'v1.3')":"child"
+  }
+ ],
+ "IHECRE00003727.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.2')":"newborn",
+   "('harmonized_donor_life_stage', 'v1.3')":"child"
+  }
+ ],
+ "IHECRE00004677.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.2')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.3')":"newborn"
+  }
+ ]
+}

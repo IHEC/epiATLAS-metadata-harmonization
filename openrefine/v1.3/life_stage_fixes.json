@@ -1,0 +1,152 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00004677",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "embryonic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "newborn"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00003727",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "newborn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "child"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001397",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "child"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "adult"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001558",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "adult"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "child"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_life_stage"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000071",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_donor_life_stage",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "child"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "adult"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_donor_life_stage"
+  }
+]
