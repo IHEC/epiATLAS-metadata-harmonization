@@ -1,32 +1,29 @@
 # Version 1.3
 
 At this time, this repository is only for **sample metadata**, _not experiment metadata_.
+For more information about experiment metadata check out the [IHEC Data Portal](https://epigenomesportal.ca/).
+You can also find this metadata on [EpiRR](https://www.ebi.ac.uk/epirr/).
 There is metadata available for **2279 EpiRR entries**.
-The CSV for the sample metadata can be found
-at [openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv](IHEC_metadata_harmonization.v1.3.csv)
-and the extended version
-at  [openrefine/v1.3/IHEC_metadata_harmonization.v1.3.extended.csv](IHEC_metadata_harmonization.v1.3.extended.csv)
+The CSV for the sample metadata can be found at [openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv](https://github.com/IHEC/epiATLAS-metadata-harmonization/blob/b7e706617772ae0b57610a99800696a4288d3bd5/openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv) and the extended version at  [openrefine/v1.3/IHEC_metadata_harmonization.v1.3.extended.csv](https://github.com/IHEC/epiATLAS-metadata-harmonization/blob/b7e706617772ae0b57610a99800696a4288d3bd5/openrefine/v1.3/IHEC_metadata_harmonization.v1.3.extended.csv)
 
 ## News
 
 - Fixed `harmonized_donor_life_stage` for 5 entries.
-- **Extended version:** In addition to the columns `harmonized_donor_sex` and `harmonized_donor_life_stage` that have
-  been complemented and corrected, based on the predictions of the EpiClass tool. The extended version now contains the
-  columns without these corrections, i.e., `${column}_uncorrected`.
-- **Extended version:** The columns containing information about whether data is available have been renamed to contain
-  the assay name, e.g., `automated_experiments_ChIP-Seq_H3K27ac`. WGBS and RNA-Seq columns have been separated by PBAT
-  vs. standard and mRNA-Seq vs. total-RNA-Seq.
+- **Extended version:** In addition to the columns `harmonized_donor_sex` and `harmonized_donor_life_stage` that have been complemented and corrected, based on the _high confidence_ predictions of the EpiClass tool, the extended version now contains the columns without these corrections, i.e., `${column}_uncorrected`.
+- **Extended version:** The columns containing information about whether data is available have been renamed to contain the assay name, e.g., `automated_experiments_ChIP-Seq_H3K27ac`. WGBS and RNA-Seq columns have been separated by PBAT vs. standard and mRNA-Seq vs. total-RNA-Seq.
+
+## Raw Files
+
+In case you are interested in the raw files that the harmonization process was based on, those can be found at [raw/EpiAtlas_EpiRR_metadata_all.csv](https://github.com/IHEC/epiATLAS-metadata-harmonization/blob/0fb3cebdab7dcf7bd0f9b0b7195e867539248a15/raw/EpiAtlas_EpiRR_metadata_all.csv).
+Note that they contain different columns, as they changed during the harmonization process.
 
 ## Diff
 
-The overall diff between v1.1 and v1.2 can be found
-at [openrefine/v1.3/diff_v1.2_v1.3.json](diff_v1.2_v1.3.json)
+The overall diff between v1.2 and v1.3 can be found at [openrefine/v1.3/diff_v1.2_v1.3.json](https://github.com/IHEC/epiATLAS-metadata-harmonization/blob/b7e706617772ae0b57610a99800696a4288d3bd5/openrefine/v1.3/diff_v1.2_v1.3.json)
 
 ## Metadata Standard
 
-Please keep in mind that we try to stay as close to
-the [IHEC Metadata Standard](https://github.com/IHEC/ihec-ecosystems/blob/master/docs/metadata/2.0/Ihec_metadata_specification.md)
-as possible.
+Please keep in mind that we try to stay as close to the [IHEC Metadata Standard](https://github.com/IHEC/ihec-ecosystems/blob/master/docs/metadata/2.0/Ihec_metadata_specification.md) as possible.
 
 ## Column descriptions:
 
