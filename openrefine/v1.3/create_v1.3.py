@@ -144,6 +144,21 @@ v1_3_df_intermediate.drop(columns=v1_3_df_intermediate.filter(like='automated_ex
 v1_3_df_intermediate.rename(columns={col: f'automated_experiments_{col}' for col in reprocessed_metadata_wide.drop(
     columns=['epirr_id_without_version', 'epiATLAS_status']).columns}, inplace=True)
 
+### add colors to harmonized_sample_ontology_intermediate
+# load the json with the colors
+color_json = json.load(open('./openrefine/v1.3/IHEC_EpiATLAS_IA_colors_Apl01_2024.json', 'r'))
+# get the entry where the key is 'harmonized_sample_ontology_intermediate'
+intermediate_colors = {}
+for color_dict in color_json:
+    if color_dict.get('harmonized_sample_ontology_intermediate'):
+        intermediate_colors.update(color_dict['harmonized_sample_ontology_intermediate'][0])
+assert intermediate_colors
+# add a column called harmonized_sample_ontology_intermediate_color to v1_3_df_intermediate right after harmonized_sample_ontology_intermediate
+v1_3_df_intermediate.insert(v1_3_df_intermediate.columns.get_loc('harmonized_sample_ontology_intermediate') + 1,
+                            'harmonized_sample_ontology_intermediate_color',
+                            v1_3_df_intermediate['harmonized_sample_ontology_intermediate'].map(intermediate_colors))
+
+### Write to csv
 v1_3_extended_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.extended.csv'
 v1_3_df_intermediate.to_csv(v1_3_extended_csv, index=False)
 
@@ -154,6 +169,7 @@ v1_3_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv'
 v1_3_df_intermediate.loc[:,
 ~(v1_3_df_intermediate.columns.str.startswith('automated')
   | v1_3_df_intermediate.columns.str.endswith('uncorrected')
+  | v1_3_df_intermediate.columns.str.endswith('color')
   | v1_3_df_intermediate.columns.str.contains('order'))].to_csv(
     v1_3_csv, index=False)
 
@@ -172,7 +188,8 @@ old.columns = old.columns.str.replace('H3K', 'ChIP-Seq_H3K')
 old.drop(columns=old.columns[old.columns.str.contains('WGBS') | old.columns.str.contains('RNA-Seq')], inplace=True)
 old.sort_index(1, inplace=True)
 new.drop(columns=new.columns[
-    new.columns.str.contains('WGBS') | new.columns.str.contains('RNA-Seq') | new.columns.str.contains('_uncorrected')],
+    new.columns.str.contains('WGBS') | new.columns.str.contains('RNA-Seq') | new.columns.str.endswith('_uncorrected') |
+                 new.columns.str.endswith('_color')],
          inplace=True)
 new.sort_index(1, inplace=True)
 assert old.columns.equals(new.columns)

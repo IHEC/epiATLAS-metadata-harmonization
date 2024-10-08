@@ -1,0 +1,225 @@
+[
+    {
+        "experiment": [
+            {
+                "H3K4me1": "236,232,56",
+                "H3K4me3": "238,30,37",
+                "H3K36me3": "13,127,66",
+                "H3K27me3": "184,185,189",
+                "H3K9me3": "144,206,219",
+                "H3K27ac": "225,148,37",
+                "Input": "30,30,30",
+                "WGBS": "81,89,168",
+                "RNA-seq": "30,176,75"
+            }
+        ]
+    },
+    {
+        "ChromHMM_color_model_18_core_K27ac": [
+            {  
+                "1_TssA": "255,0,0",
+                "2_TssFlnk": "255,69,0",
+                "3_TssFlnkU": "255,69,0",
+                "4_TssFlnkD": "255,69,0",
+                "5_Tx": "0,128,0",
+                "6_TxWk": "0,100,0",
+                "7_EnhG1": "194,225,5",
+                "8_EnhG2": "194,225,5",
+                "9_EnhA1": "255,195,77",
+                "10_EnhA2": "255,195,77",
+                "11_EnhWk": "255,255,0",
+                "12_ZNF/Rpts": "102,205,170",
+                "13_Het": "138,145,208",
+                "14_TssBiv": "205,92,92",
+                "15_EnhBiv": "189,183,107",
+                "16_ReprPC": "128,128,128",
+                "17_ReprPCWk": "192,192,192",
+                "18_Quies": "255,255,255"
+            }
+        ]
+    },
+    {
+        "Methylation_segmentation": [
+            {
+                "HMR": "202,0,32",
+                "PMD": "244,165,130",
+                "LMR": "146,197,222",
+                "UMR": "5,113,176"
+            }
+        ]
+    },
+    {
+        "harmonized_biomaterial_type": [
+            {
+                "cell line": "166,206,227",
+                "primary cell": "31,120,180",
+                "primary cell culture": "178,223,138",
+                "primary tissue": "51,160,44"
+            }
+        ]
+    },
+    {
+        "harmonized_sample_disease_high": [
+            {
+                "Cancer": "0,0,0",
+                "Disease": "255,69,0",
+                "Healthy/None": "224,224,224"
+            }
+        ]
+    },
+    {
+        "harmonized_sample_ontology_intermediate": [
+            {
+                "B cell derived cell line": "227,68,62",
+                "brain": "185,126,30",
+                "cancer cell line": "177,126,90",
+                "capillary blood": "228,102,84",
+                "colon": "66,121,77",
+                "connective tissue cell": "136,43,0",
+                "dendritic cell": "166,0,118",
+                "digestive system": "43,79,36",
+                "embryonic cell (metazoa)": "114,94,149",
+                "endoderm-derived structure": "47,71,132",
+                "endo-epithelial cell": "58,36,22",
+                "eosinophil": "198,57,171",
+                "epithelial cell derived cell line": "74,44,24",
+                "epithelial cell of endometrial gland": "89,51,26",
+                "epithelium": "105,59,28",
+                "erythroid lineage cell": "229,97,214",
+                "extraembryonic cell": "76,110,194",
+                "fibroblast derived cell line": "124,42,16",
+                "germ line cell": "100,183,237",
+                "hematopoietic cell": "224,67,44",
+                "hepatocyte": "96,195,170",
+                "induced pluripotent stem cell": "79,64,140",
+                "keratinocyte": "109,67,30",
+                "kidney": "37,159,57",
+                "kidney epithelial cell": "136,74,32",
+                "KMS-11": "230,69,81",
+                "liver": "83,156,114",
+                "lung": "22,204,125",
+                "lymph node": "61,119,17",
+                "lymphocyte of B lineage": "234,71,100",
+                "lymphoma or leukaemia cell line": "180,126,60",
+                "macrophage": "191,134,235",
+                "mammary gland epithelial cell": "121,67,30",
+                "melanocyte": "113,41,32",
+                "mesoderm-derived structure": "74,38,157",
+                "meso-epithelial cell": "152,82,34",
+                "mole": "194,169,114",
+                "monocyte": "162,90,219",
+                "mononuclear cell": "139,49,168",
+                "mucosa": "84,79,29",
+                "muscle cell": "48,127,119",
+                "muscle organ": "52,151,113",
+                "muscle precursor cell": "44,155,85",
+                "myeloid cell": "143,81,121",
+                "natural killer cell": "195,49,107",
+                "nervous system": "235,156,62",
+                "neural cell": "217,175,41",
+                "neural progenitor cell": "226,165,51",
+                "neutrophil": "224,156,210",
+                "ovary": "181,104,96",
+                "pancreas": "104,199,59",
+                "peripheral blood mononuclear cell": "150,69,193",
+                "placenta": "91,80,208",
+                "secretory cell": "36,106,96",
+                "stem cell": "74,57,107",
+                "stem cell derived cell line": "85,72,174",
+                "suprapubic skin": "228,161,129",
+                "T cell": "182,26,57",
+                "testis": "169,169,169",
+                "trophoblast": "99,145,226",
+                "uterus": "135,105,48",
+                "venous blood": "226,84,64"
+            }
+        ]
+    },
+    {
+        "harmonized_donor_sex": [
+            {
+                "female": "255,182,193",
+                "male": "191,239,255",
+                "mixed": "238,174,238",
+                "unknown": "255,255,255"
+            }
+        ]
+    },
+    {
+        "fig1_life_stage": [
+            {
+                "adult": "223,194,125",
+                "pediatric": "0,60,48",
+                "prenatal": "140,81,10",
+                "unknown": "255,255,255"
+            }
+        ]
+    },
+    {
+        "fig1_project": [
+            {
+                "BLUEPRINT": "104,139,205",
+                "CEEHRC": "204,86,106",
+                "CREST": "103,177,74",
+                "DEEP": "132,98,204",
+                "ENCODE": "200,167,71",
+                "EpiHK": "202,102,56",
+                "GIS": "75,175,144",
+                "KNIH": "195,97,170",
+                "REMC": "120,122,54"
+            }
+        ]
+    },
+    {
+        "fig1_ontology_intermediate_merged": [
+            {
+                "B lymphocyte": "234,71,100",
+                "brain": "185,126,30",
+                "cancer cell line": "177,126,90",
+                "colon": "66,121,77",
+                "connective tissue cell": "136,43,0",
+                "dendritic cell": "166,0,118",
+                "digestive system": "43,79,36",
+                "embryonic cell (metazoa)": "114,94,149",
+                "endoderm-derived structure": "47,71,132",
+                "eosinophil": "198,57,171",
+                "epithelial": "168,90,36",
+                "erythroid lineage cell": "229,97,214",
+                "extraembryonic cell": "76,110,194",
+                "germ line cell": "100,183,237",
+                "hematopoietic cell": "224,67,44",
+                "hepatocyte": "96,195,170",
+                "keratinocyte": "109,67,30",
+                "kidney": "37,159,57",
+                "liver": "83,156,114",
+                "lung": "22,204,125",
+                "lymph node": "61,119,17",
+                "macrophage": "191,134,235",
+                "melanocyte": "113,41,32",
+                "mesoderm-derived structure": "74,38,157",
+                "mole": "194,169,114",
+                "monocyte": "162,90,219",
+                "mononuclear cell": "139,49,168",
+                "mucosa": "84,79,29",
+                "muscle": "60,148,142",
+                "myeloid cell": "143,81,121",
+                "natural killer cell": "195,49,107",
+                "nervous system": "235,156,62",
+                "neural": "217,175,41",
+                "neutrophil": "224,156,210",
+                "ovary": "181,104,96",
+                "pancreas": "104,199,59",
+                "peripheral blood": "231,120,104",
+                "placenta": "91,80,208",
+                "secretory cell": "36,106,96",
+                "stem cell": "74,57,107",
+                "suprapubic skin": "228,161,129",
+                "testis": "169,169,169",
+                "T lymphocyte": "182,26,57",
+                "trophoblast": "99,145,226",
+                "uterus": "135,105,48"
+            }
+        ]
+    }
+]
+
