@@ -49,13 +49,16 @@ def makeSamplesJson(sampleCsvFile):
             # Remove "harmonized_" from key names
             newRow = {}
             for key, value in row.items():
-                newRow[key] = value
-            # # The data row, without "harmonized_" in all the field names.
-            #     if key.startswith("harmonized_"):
-            #         newRow[key.replace('harmonized_', '')] = value
-            #     else:
-            #         newRow[key] = value
+                # newRow[key] = value
+                # # Include donor_id (without 'harmonized_') duplicate, for IDP legacy compatibility.
+                # if key.startswith("harmonized_donor_id"):
+                #     newRow['donor_id'] = value
 
+                # The data row, without "harmonized_" in all the field names.
+                if key.startswith("harmonized_"):
+                    newRow[key.replace('harmonized_', '')] = value
+                else:
+                    newRow[key] = value
             # Column 'EpiRR' is used as the primary key
             key = newRow['EpiRR']
             data[key] = newRow
