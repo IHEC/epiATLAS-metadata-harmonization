@@ -1,0 +1,2280 @@
+epirr_id_without_version	Final_Manual_Group_Label	Fig1_Merged Ontology Order--sept24_with-mod	harmonized_sample_ontology_intermediate_with-mod	Fig1_Merged Ontology Order--sept24	harmonized_sample_ontology_intermediate	mod_Fig1	mod_HSOI
+IHECRE00000001	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	epithelial cell derived cell line	0	1
+IHECRE00000002	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000004	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000008	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000009	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000010	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000011	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000012	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000013	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000014	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000015	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000016	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000017	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000019	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000022	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000023	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000024	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00000026	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000027	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000028	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000031	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000032	Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00000034	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000035	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000036	Granulocyte Monocyte Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000037	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000038	Common Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000039	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000041	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000042	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000043	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000044	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000045	Venous Endothelial Cell	epithelial	meso-epithelial cell	epithelial	meso-epithelial cell	0	0
+IHECRE00000046	Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00000047	Common Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000048	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000049	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00000050	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000051	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000053	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000054	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00000055	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000056	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000058	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000059	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000060	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000061	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000063	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000064	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000067	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000068	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000069	Common Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000070	Eosinophil	eosinophil	eosinophil	eosinophil	eosinophil	0	0
+IHECRE00000071	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000072	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000073	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000074	Common Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000075	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000076	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000077	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000078	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000079	Megakaryocyte Erythroid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000080	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000081	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000083	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000084	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000085	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000087	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000088	Late Memory B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000089	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000090	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000092	Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00000094	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000095	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000096	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000097	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000098	Granulocyte Monocyte Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000099	Venous Endothelial Cell	epithelial	meso-epithelial cell	epithelial	meso-epithelial cell	0	0
+IHECRE00000100	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000101	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000102	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000103	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000104	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000105	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000106	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000107	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000108	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000109	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000110	Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00000112	Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00000113	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000114	Eosinophil	eosinophil	eosinophil	eosinophil	eosinophil	0	0
+IHECRE00000115	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000117	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000118	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000119	Late Memory B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000121	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000122	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000123	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000124	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000125	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000126	Venous Endothelial Cell	epithelial	meso-epithelial cell	epithelial	meso-epithelial cell	0	0
+IHECRE00000128	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000129	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000130	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000132	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000133	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000135	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000136	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000137	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000138	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000140	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000141	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000142	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00000144	Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00000145	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000146	Memory B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000147	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000148	Common Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000149	Common Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000150	Megakaryocyte Erythroid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000151	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000152	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00000153	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00000154	Megakaryocyte Erythroid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000155	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000157	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000158	Dendritic Cell	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00000159	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000160	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000161	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000162	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000164	Granulocyte Monocyte Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000166	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000167	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000168	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000171	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000172	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000174	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000175	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000176	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000177	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000178	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000179	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000180	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00000181	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000182	Common Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000184	Venous Endothelial Cell	epithelial	meso-epithelial cell	epithelial	meso-epithelial cell	0	0
+IHECRE00000185	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000186	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000187	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000188	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00000190	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000191	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000192	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000193	Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00000194	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000195	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000196	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000221	Glioblastoma	brain	brain	brain	brain	0	0
+IHECRE00000222	Thyroid Follicular Adenoma	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000223	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00000224	Thyroid Follicular Adenoma	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000225	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	epithelial cell derived cell line	0	1
+IHECRE00000226	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000227	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	epithelial cell derived cell line	0	1
+IHECRE00000228	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00000229	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000230	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000231	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00000232	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000233	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000234	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000235	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000236	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000237	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000238	Brain Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00000239	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000240	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00000241	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000242	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00000243	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00000244	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000246	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000247	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000248	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000249	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000250	Lung Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00000251	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000252	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000253	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00000255	Dendritic Cell	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00000256	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000257	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000258	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000259	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000260	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000261	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000262	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000263	Acute Myeloid Leukemia	mononuclear cell	peripheral blood mononuclear cell	mononuclear cell	peripheral blood mononuclear cell	0	0
+IHECRE00000264	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000265	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000266	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000267	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000269	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000270	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000271	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000273	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000274	Late Memory B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000276	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000277	Acute Myeloid Leukemia	mononuclear cell	mononuclear cell	mononuclear cell	mononuclear cell	0	0
+IHECRE00000279	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000280	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000281	T-Cell Double Positve	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000282	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000283	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000284	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000285	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000286	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000288	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000290	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00000291	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000293	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000294	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000295	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000296	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000297	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00000298	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000299	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000300	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000301	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000303	Endothelial Cell	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00000304	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000305	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000306	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000308	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000309	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000310	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000311	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000314	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000315	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000316	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000317	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000318	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000320	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000321	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000323	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000324	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000325	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000327	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000329	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000330	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000332	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000334	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000335	Memory B Lymphocyte Class Switched	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000336	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000337	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00000338	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000339	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000341	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000342	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000343	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000344	T-Cell Double Positve	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000345	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000346	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000347	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000348	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00000349	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000350	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000351	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000352	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000353	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000354	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000639	Eosinophil	eosinophil	eosinophil	eosinophil	eosinophil	0	0
+IHECRE00000641	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000642	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000644	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000645	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000647	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000648	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000649	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000650	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000651	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000653	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000654	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000656	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000658	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000659	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000661	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000662	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000663	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000664	Induced Pluripotent Stem Cell	stem cell	induced pluripotent stem cell	stem cell	induced pluripotent stem cell	0	0
+IHECRE00000665	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00000666	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000667	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000668	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000669	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000670	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000671	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000674	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000675	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000676	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000677	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000678	Brain Frontal Lobe BA11	brain	brain	brain	brain	0	0
+IHECRE00000679	Brain Frontal Lobe BA44	brain	brain	brain	brain	0	0
+IHECRE00000680	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000681	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000682	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000683	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000684	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000685	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000687	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000689	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000690	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000691	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000692	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000693	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000694	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000695	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000696	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000697	Eosinophil	eosinophil	eosinophil	eosinophil	eosinophil	0	0
+IHECRE00000698	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000699	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000700	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000701	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000702	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000703	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000704	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000706	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000707	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000709	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00000710	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000711	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000712	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000713	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000714	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000716	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000717	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000718	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000719	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000721	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000723	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000724	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000725	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000726	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000727	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000728	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000729	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000730	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000731	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000732	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000733	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000734	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000736	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000737	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000738	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000739	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000740	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000741	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000742	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000743	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000744	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000746	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000747	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000748	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000749	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000750	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000751	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000752	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000753	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000756	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000757	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000759	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000760	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000761	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000763	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000764	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000765	Eosinophil	eosinophil	eosinophil	eosinophil	eosinophil	0	0
+IHECRE00000766	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000767	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000768	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000770	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000771	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000772	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000773	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000774	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000775	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000776	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000777	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000778	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000781	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000782	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000783	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000784	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000785	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000786	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000787	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000788	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000789	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000790	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000793	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000794	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000795	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000796	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000797	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000798	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000800	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000802	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000803	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000806	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000807	Induced Pluripotent Stem Cell	stem cell	induced pluripotent stem cell	stem cell	induced pluripotent stem cell	0	0
+IHECRE00000808	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000809	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000810	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000811	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000813	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000814	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000815	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000816	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000817	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000818	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000819	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000820	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000821	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000822	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000823	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000824	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000825	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000826	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000827	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000828	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000829	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000830	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000831	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000832	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000833	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000834	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000835	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000836	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000837	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000838	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000840	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000841	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000843	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000844	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000845	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000847	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000848	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000849	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000851	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000852	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000853	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000855	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000856	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000857	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000858	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000859	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000860	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000861	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000862	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000863	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000864	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000865	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000866	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000867	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000868	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000869	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000870	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000871	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000873	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000875	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000877	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000878	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000879	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000881	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000882	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000884	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000885	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000886	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000887	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000888	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000889	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000891	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000893	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000894	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000895	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000896	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000897	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000898	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000900	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000901	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000902	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000904	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000905	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000906	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000908	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000909	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000910	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000911	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000912	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000913	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000914	Induced Pluripotent Stem Cell	stem cell	induced pluripotent stem cell	stem cell	induced pluripotent stem cell	0	0
+IHECRE00000915	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000916	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000918	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000919	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000920	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000922	Brain Frontal Lobe BA8-9	brain	brain	brain	brain	0	0
+IHECRE00000923	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000924	Amnion Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000925	Muscle Skeletal Trunk	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000926	Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000927	Adrenal Gland Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000928	Ovarian Tissue	ovary	ovary	ovary	ovary	0	0
+IHECRE00000929	Small Intestine Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00000930	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000931	Colon Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00000932	Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000933	Neurosphere	neural	neural cell	neural	neural cell	0	0
+IHECRE00000934	Thymus Tissue	endoderm-derived structure	thymus	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000935	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00000936	Heart Atrium Right Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000937	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00000938	Aorta Artery Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000939	Neurosphere	neural	neural cell	neural	neural cell	0	0
+IHECRE00000940	Brain Hippocampus	brain	brain	brain	brain	0	0
+IHECRE00000941	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00000942	Pancreatic Tissue	pancreas	pancreas	pancreas	pancreas	0	0
+IHECRE00000943	Mesenchymal Stem Cell	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00000944	Muscle Smooth Rectum	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000945	Muscle Smooth Stomach	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000946	Keratinocyte Foreskin	keratinocyte	keratinocyte	keratinocyte	keratinocyte	0	0
+IHECRE00000947	Rectum Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00000948	Brain Frontal Lobe BA46	brain	brain	brain	brain	0	0
+IHECRE00000949	Small Intestine Tissue	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000950	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000951	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00000952	Brain Cingulate Gyrus	brain	brain	brain	brain	0	0
+IHECRE00000953	Stomach Mixed Tissue	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000954	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000955	Brain Temporal Lobe	brain	brain	brain	brain	0	0
+IHECRE00000956	Fibroblast Foreskin	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00000957	Heart Ventricle Left Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000958	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000959	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00000960	Muscle Smooth Duodenum	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000961	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00000962	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00000963	Adipocyte Subcutaneous Mixed	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000964	Lung Tissue	lung	lung	lung	lung	0	0
+IHECRE00000965	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000966	Rectum Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00000967	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000968	Adipocyte	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00000969	Thymus Tissue	endoderm-derived structure	thymus	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00000970	Ectodermal Tissue	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	0	0
+IHECRE00000971	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000972	Spleen Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000973	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000974	Trophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00000975	Melanocyte Foreskin	melanocyte	melanocyte	melanocyte	melanocyte	0	0
+IHECRE00000976	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00000977	Muscle Precursor Satellite	muscle	muscle precursor cell	muscle	muscle precursor cell	0	0
+IHECRE00000978	T-Cell CD4 Memory	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000979	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00000980	Heart Ventricle Right Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00000981	Mesendodermal Tissue	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	0	0
+IHECRE00000982	Stomach Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00000983	Small Intestine Tissue	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000984	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00000985	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00000986	Brain Substantia Nigra	brain	brain	brain	brain	0	0
+IHECRE00000987	Large Intestine Mixed	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000988	Placental Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00000989	Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00000990	Neural Progenitor Cell	neural	neural cell	neural	neural cell	0	0
+IHECRE00000991	Brain Caudate Nucleus	brain	brain	brain	brain	0	0
+IHECRE00000992	Neural Progenitor Cell	neural	neural cell	neural	neural cell	0	0
+IHECRE00000993	Stomach Mixed Tissue	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00000994	Keratinocyte Foreskin	keratinocyte	keratinocyte	keratinocyte	keratinocyte	0	0
+IHECRE00000995	Muscle Skeletal	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00000996	Induced Pluripotent Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00000997	Induced Pluripotent Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00000999	Induced Pluripotent Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00001000	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00001001	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001002	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00001003	Colon Sigmoid Tissue	colon	colon	colon	colon	0	0
+IHECRE00001004	Chronic Myelogenous Leukemia	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00001005	Colon Tissue	colon	colon	colon	colon	0	0
+IHECRE00001006	Colon Sigmoid Tissue	colon	colon	colon	colon	0	0
+IHECRE00001007	Colon Tissue	colon	colon	colon	colon	0	0
+IHECRE00001008	Colon Ascending Carcinoma	colon	colon	colon	colon	0	0
+IHECRE00001009	Colon Sigmoid Adenocarcinoma	colon	colon	colon	colon	0	0
+IHECRE00001010	Colon Ascending Tissue	colon	colon	colon	colon	0	0
+IHECRE00001011	Colon Ascending Tissue	colon	colon	colon	colon	0	0
+IHECRE00001012	Colon Sigmoid Tissue	colon	colon	colon	colon	0	0
+IHECRE00001013	Colon Tissue	colon	colon	colon	colon	0	0
+IHECRE00001014	Colon Sigmoid Tissue	colon	colon	colon	colon	0	0
+IHECRE00001015	Colon Ascending Adenocarcinoma	colon	colon	colon	colon	0	0
+IHECRE00001016	Colon Ascending Tissue	colon	colon	colon	colon	0	0
+IHECRE00001017	Colon Tissue	colon	colon	colon	colon	0	0
+IHECRE00001018	Colon Tissue	colon	colon	colon	colon	0	0
+IHECRE00001019	Colon Tissue	colon	colon	colon	colon	0	0
+IHECRE00001020	Colon Tissue	colon	colon	colon	colon	0	0
+IHECRE00001021	Colon Ascending Adenocarcinoma	colon	colon	colon	colon	0	0
+IHECRE00001022	Colon Ascending Adenocarcinoma	colon	colon	colon	colon	0	0
+IHECRE00001023	Mesodermal Tissue	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	0	0
+IHECRE00001024	Mononuclear Cell	mononuclear cell	peripheral blood mononuclear cell	mononuclear cell	peripheral blood mononuclear cell	0	0
+IHECRE00001025	Colon Sigmoid Mixed Tissue	colon	colon	colon	colon	0	0
+IHECRE00001026	Melanocyte Foreskin	melanocyte	melanocyte	melanocyte	melanocyte	0	0
+IHECRE00001027	Muscle Skeletal Psoas	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00001029	Neuroepithelium	epithelial	epithelium	epithelial	epithelium	0	0
+IHECRE00001030	Esophagus Mixed	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00001031	Liver Tissue	liver	liver	liver	liver	0	0
+IHECRE00001032	Brain	brain	brain	brain	brain	0	0
+IHECRE00001033	Fibroblast Foreskin	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001034	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001035	Pancreatic Tissue	endoderm-derived structure	pancreas	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00001036	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001037	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00001038	Neuron Cell	neural	neural cell	neural	neural cell	0	0
+IHECRE00001039	Endodermal Tissue	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	0	0
+IHECRE00001040	Mesenchymal Stem Cell	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001041	Skin Fibroblast	connective tissue cell	fibroblast derived cell line	connective tissue cell	fibroblast derived cell line	0	0
+IHECRE00001043	Muscle Smooth Large Colon	colon	colon	colon	colon	0	0
+IHECRE00001044	Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00001045	Lung Tissue	lung	lung	lung	lung	0	0
+IHECRE00001046	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001047	Kidney Tissue	kidney	kidney	kidney	kidney	0	0
+IHECRE00001048	Brain Angular Gyrus	brain	brain	brain	brain	0	0
+IHECRE00001049	Heart Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00001050	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00001052	T-Cell CD4 Memory	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001053	Brain	brain	brain	brain	brain	0	0
+IHECRE00001054	Induced Pluripotent Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00001055	Induced Pluripotent Stem Cell	stem cell	induced pluripotent stem cell	stem cell	induced pluripotent stem cell	0	0
+IHECRE00001232	Colon Ascending Adenoma	colon	colon	colon	colon	0	0
+IHECRE00001233	Colon Sigmoid Mixed Tissue	colon	colon	colon	colon	0	0
+IHECRE00001234	Colon Sigmoid Tissue	colon	colon	colon	colon	0	0
+IHECRE00001235	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00001236	Thyroid Papillary Carcinoma	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00001237	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001238	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001239	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001240	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001241	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001242	Follicular Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001243	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001244	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001245	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001246	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001247	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001248	Burkitt Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001249	Monocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001250	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001251	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001252	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001254	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001255	Memory B Lymphocyte Class Switched	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001256	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001257	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001258	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001259	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001260	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001261	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001262	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001263	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001264	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001265	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001266	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001267	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001268	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001269	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001270	Burkitt Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001271	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001272	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001273	Diffuse Large B-Cell Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001274	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001275	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001277	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001278	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001279	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001280	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001281	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001284	Memory B Lymphocyte Class Switched	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001286	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001287	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001288	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001289	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001290	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001291	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001292	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001293	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001294	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001295	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001296	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001297	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001298	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001300	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001301	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001302	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001304	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001305	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001306	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001307	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00001309	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001310	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001311	Eosinophil	eosinophil	eosinophil	eosinophil	eosinophil	0	0
+IHECRE00001313	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001314	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001315	Mantle Cell Lymphoma	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001316	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001317	T-Cell Double Positve	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001318	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001319	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001320	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001322	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001323	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001324	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001325	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001326	Acute Myeloid Leukemia	mononuclear cell	peripheral blood mononuclear cell	mononuclear cell	peripheral blood mononuclear cell	0	0
+IHECRE00001327	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001330	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001331	Immature Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00001332	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001334	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001335	Lung Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001336	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001338	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001339	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001340	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001341	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001342	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001343	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001344	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001347	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001348	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001349	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001350	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001352	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001356	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001357	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001358	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001359	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001361	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001362	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001363	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001364	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001365	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001366	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001367	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001368	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001369	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001370	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001372	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001373	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001374	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001375	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001376	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001377	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001378	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001379	Mantle Cell Lymphoma	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001380	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001381	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001382	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001383	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001384	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001385	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001386	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001387	Dendritic Cell - Immature	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00001388	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001391	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001392	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001393	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001394	Diffuse Large B-Cell Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001395	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001396	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001397	Diffuse Large B-Cell Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001398	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001399	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001400	Follicular Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001401	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001402	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001404	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001405	T-Cell Memory CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001406	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001407	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001409	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001410	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001412	T-Cell Double Positve	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001413	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001414	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001415	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001416	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001417	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001418	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001419	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001420	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001421	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001422	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001423	Acute Myeloid Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001424	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001425	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001426	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001427	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001428	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001429	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001430	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001431	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001432	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001433	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001434	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001435	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001436	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00001437	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001438	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001439	Dendritic Cell - Mature	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00001440	Immature Erythrocyte	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	erythroid lineage cell	0	0
+IHECRE00001441	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001443	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001444	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001445	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00001447	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001449	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001450	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001451	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001452	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001453	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00001454	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001455	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001456	CD8 Lymphocyte	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001457	Dendritic Cell - Immature	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00001458	T-Cell Prolymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001459	T-Cell Naive CD8 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001460	Mantle Cell Lymphoma	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001461	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001463	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001464	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001465	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001466	Follicular Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001467	Mantle Cell Lymphoma	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001468	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001469	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00001470	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001471	Monocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001473	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001474	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001475	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001477	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001478	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001480	Acute Lymphoblastic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001482	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001483	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001484	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001485	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001486	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001487	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001488	T-Cell Prolymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001489	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001490	Dendritic Cell - Mature	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00001491	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001492	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001493	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001494	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001496	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001497	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001498	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001499	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001500	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001501	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001502	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001503	T-Cell Acute Lymphoblastic Leukemia	peripheral blood	capillary blood	peripheral blood	capillary blood	0	0
+IHECRE00001504	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001505	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001506	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001507	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001508	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001509	Erythroid Progenitor Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00001510	Endothelial Cell	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001511	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001512	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001513	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001516	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001517	T-Cell Prolymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001518	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001519	Diffuse Large B-Cell Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001522	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001523	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001524	T-Cell Double Positve	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001525	Acute Promyelocytic Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001526	Mantle Cell Lymphoma	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001528	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001529	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001530	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001531	T-Cell Double Positve	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001532	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001533	Burkitt Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001534	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001535	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001536	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001537	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001538	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001540	Late Memory B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001541	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001542	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001544	Diffuse Large B-Cell Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001545	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001546	Dendritic Cell - Mature	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00001547	T-Cell Double Positve	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001548	Dendritic Cell - Immature	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00001549	Multiple Myeloma	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001550	Erythroid Progenitor Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00001551	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001552	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001553	Chronic Lymphocytic Leukemia	peripheral blood	venous blood	peripheral blood	venous blood	0	0
+IHECRE00001554	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001555	Endothelial Cell	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001556	Diffuse Large B-Cell Lymphoma	lymph node	lymph node	lymph node	lymph node	0	0
+IHECRE00001557	Acute Myeloid Leukemia	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00001558	Dendritic Cell	dendritic cell	dendritic cell	dendritic cell	dendritic cell	0	0
+IHECRE00001851	Cervical Cancer	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001852	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001853	Breast Adenocarcinoma	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001854	Fibroblast	connective tissue cell	fibroblast derived cell line	connective tissue cell	fibroblast derived cell line	0	0
+IHECRE00001856	Diffuse Large B-Cell Lymphoma	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00001857	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001858	Pancreatic Cancer	epithelial	epithelial cell derived cell line	epithelial	epithelial cell derived cell line	0	0
+IHECRE00001859	Adenocaricoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00001860	T-Cell Acute Lymphoblastic Leukemia	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00001861	Diffuse Large B-Cell Lymphoma	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00001862	Pancreatic Islet Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001863	Pancreatic Islet Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001864	Adipocyte	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001865	Pancreatic Islet Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001866	Glomerular Visceral Epithelial Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001867	Adipocyte	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001868	Pancreatic Beta Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001869	Glomerular Visceral Epithelial Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001870	Pancreatic Islet Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001871	Pancreatic Islet Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00001872	Preadipocyte	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001873	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001874	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001875	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001876	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001877	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001878	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001879	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001880	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001881	Venous Endothelial Cell	epithelial	meso-epithelial cell	epithelial	meso-epithelial cell	0	0
+IHECRE00001882	Muscle Precursor Myotube	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00001883	Endometrium Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001884	Fibroblast Primary Tissue	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001885	Osteoblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001886	Keratinocyte	keratinocyte	keratinocyte	keratinocyte	keratinocyte	0	0
+IHECRE00001887	Chronic Myelogenous Leukemia	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00001888	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00001889	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00001890	Brain Astrocyte	neural	neural cell	neural	neural cell	0	0
+IHECRE00001891	Muscle Precursor Myoblast	muscle	muscle precursor cell	muscle	muscle precursor cell	0	0
+IHECRE00001892	B Lymphocyte	B lymphocyte	B cell derived cell line	B lymphocyte	B cell derived cell line	0	0
+IHECRE00001893	Hepatocarcinoma Cell Line	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001895	Hepatocarcinoma Cell Line	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001896	Hepatocarcinoma Cell Line	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001897	Hepatocarcinoma Cell Line	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001898	Hepatocarcinoma Cell Line	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001899	Hepatocarcinoma Cell Line	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00001900	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001901	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001902	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00001903	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001904	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001905	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001906	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001907	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001908	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001909	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001910	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001911	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001912	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001913	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001914	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001915	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001916	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001917	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001918	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001919	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001920	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001921	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001922	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001923	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001924	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001926	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001927	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001931	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001935	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001936	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00001952	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001953	Syncytiotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001954	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001955	Trophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001956	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001957	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001958	Trophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001959	Endometrial Epithelial Tissue	epithelial	epithelial cell of endometrial gland	epithelial	epithelial cell of endometrial gland	0	0
+IHECRE00001960	Syncytiotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001961	Endometrial Epithelial Tissue	epithelial	epithelial cell of endometrial gland	epithelial	epithelial cell of endometrial gland	0	0
+IHECRE00001962	Syncytiotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001963	Syncytiotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001964	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001965	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00001966	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00001973	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00001974	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001975	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001976	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001977	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00001978	Kidney Tissue	kidney	kidney	kidney	kidney	0	0
+IHECRE00001984	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00001987	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00001990	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00001991	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00001992	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00001997	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00001999	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002002	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002005	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00002009	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002017	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002019	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002022	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002023	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002024	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002025	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002026	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002027	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002029	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00002030	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002033	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002035	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002036	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002042	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002043	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002044	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002046	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002048	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00002049	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00002052	Kidney Tissue	kidney	kidney	kidney	kidney	0	0
+IHECRE00002053	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002054	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002058	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00002060	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002061	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00002063	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00002065	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00002066	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002067	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00002070	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002071	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00002073	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002074	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002075	Kidney Cancer	kidney	kidney	kidney	kidney	0	0
+IHECRE00002076	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00002081	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002083	B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002086	Brain Amygdala	brain	brain	brain	brain	0	0
+IHECRE00002087	T-Cell	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002158	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002159	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002160	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002161	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002162	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002163	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002164	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002165	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002166	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002168	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002169	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002170	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002171	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002172	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002173	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002174	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002175	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002176	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002177	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002178	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002179	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002180	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002181	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002182	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002183	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002184	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002185	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002186	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002187	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002188	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002189	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002190	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002191	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002192	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002193	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002194	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002195	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002196	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002197	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002198	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002199	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002200	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002201	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002202	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002203	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002204	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002205	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002206	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002207	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002208	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002209	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002210	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002211	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002212	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002213	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002214	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002215	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002216	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002217	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002218	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002219	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002220	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002221	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002222	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002223	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002224	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002225	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002226	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002227	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002228	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002229	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002230	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002231	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002232	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002233	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002234	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002235	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002236	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002237	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002238	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002239	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002240	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002241	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002242	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002243	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002244	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002245	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002246	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002247	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002248	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002249	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002250	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002251	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002252	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002253	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002254	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002255	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002256	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002257	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002258	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002259	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002260	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002261	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002262	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002263	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002264	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002265	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002266	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002267	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002268	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002269	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002270	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002271	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002272	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002273	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002274	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002275	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002276	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002277	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002278	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002279	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002280	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002281	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002282	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002283	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002284	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002285	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002286	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002287	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002288	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002289	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002290	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002291	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002292	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002293	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002294	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002295	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002296	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002297	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002298	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002299	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002300	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002301	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002302	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002303	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002304	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002305	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002306	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002307	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002308	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002309	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002310	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002311	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002312	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002313	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002314	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002315	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002316	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002317	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002318	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002319	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002320	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002321	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002322	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002323	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002324	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002325	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002326	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002327	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002328	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002329	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002330	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002331	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002332	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002333	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002334	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002335	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002336	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002337	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002338	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002339	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002340	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002341	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002342	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002343	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002344	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002345	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002346	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002347	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002348	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002349	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002350	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002351	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002352	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002353	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002354	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002355	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002356	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002357	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002358	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002359	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002360	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002361	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002362	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002363	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002364	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002365	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002366	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002367	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002368	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002369	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002370	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002371	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002372	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002373	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002374	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002375	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002376	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002377	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002378	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002379	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002380	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002381	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002382	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002383	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002384	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002385	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002386	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002387	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002388	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002389	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002390	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002391	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002392	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002393	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002394	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002395	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002396	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002397	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002398	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002399	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002400	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002401	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002402	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002403	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002404	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002405	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002406	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002407	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002408	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002409	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002410	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002411	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002412	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002413	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002414	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002415	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002416	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002417	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002418	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002419	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002420	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002421	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002422	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002423	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002424	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002425	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002426	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002427	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002428	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002430	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002431	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002432	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002433	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002436	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002437	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002438	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002439	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002440	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002441	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002442	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002443	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002444	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002445	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002446	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002447	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002448	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002449	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002450	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002451	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002452	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002453	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002454	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002455	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002456	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002457	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002458	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002459	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002460	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002461	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002462	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002463	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002464	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002465	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002466	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002467	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002468	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002469	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002470	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002471	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002472	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002473	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002474	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002475	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002476	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002477	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002478	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002479	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002480	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002481	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002482	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002483	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002484	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002485	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002486	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002487	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002488	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002489	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002490	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002491	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002492	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002493	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002494	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002495	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002496	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002497	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002498	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002499	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002500	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002501	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002502	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002503	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002504	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002505	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002506	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002507	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002508	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002509	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002510	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002511	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002512	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002513	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002514	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002515	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002516	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002517	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002518	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002519	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002520	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002522	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002523	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002524	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002525	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002526	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002527	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002528	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002529	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002530	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002531	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002532	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002533	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002534	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002535	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002536	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002537	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002538	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002539	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002540	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002541	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002542	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002543	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002544	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002545	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002546	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002547	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002548	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002549	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002550	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002551	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002552	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002553	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002554	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002555	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002556	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002557	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002558	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002559	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002560	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002561	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002562	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002563	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002564	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002565	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002566	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002567	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002568	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002569	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002570	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002571	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002572	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002573	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002574	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002575	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002576	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002577	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002578	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002579	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002580	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002581	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002582	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002583	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002584	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002585	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002586	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002587	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002588	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002589	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002590	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002591	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002592	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002593	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002594	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002595	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002596	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002597	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002598	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002599	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002600	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002601	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002602	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002603	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002604	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002605	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002606	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002607	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002608	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002609	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002610	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002611	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002612	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002613	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002614	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002615	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002617	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002618	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002619	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002620	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002621	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002622	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002623	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002624	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002625	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002626	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002627	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002628	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002629	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002630	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002631	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002632	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002633	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002634	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002635	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002636	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002637	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002638	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002639	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002640	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002641	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002642	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002643	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002644	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002645	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002646	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002647	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002648	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002649	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002650	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002651	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002652	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002653	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002654	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002655	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002656	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002657	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002658	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002659	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002660	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002661	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002662	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002663	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002664	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002665	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002666	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002667	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002668	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002669	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002670	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002671	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002672	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002673	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002674	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002675	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002676	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002677	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002679	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002680	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002681	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002682	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002683	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002684	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002685	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002686	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002687	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002688	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002689	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002690	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002691	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002692	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002693	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002694	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002695	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002696	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002697	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002698	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002699	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002700	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002701	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002702	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002703	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002704	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002705	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002706	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002707	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002708	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002709	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002710	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002711	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002712	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002713	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002714	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002715	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002716	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002717	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002718	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002719	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002720	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002721	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002722	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002723	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002724	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002725	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002726	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002727	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002728	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002732	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002733	T-Cell CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002734	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002735	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002736	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00002737	Naive CD4 Lymphocyte	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002738	Naive CD4 Lymphocyte	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002739	Naive CD4 Lymphocyte	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002740	Naive CD8 Lymphocyte	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002741	Naive CD8 Lymphocyte	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002742	Naive CD8 Lymphocyte	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00002743	Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002744	Common Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002745	Common Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002746	Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002747	Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002748	Common Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002749	Common Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002750	Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002751	Granulocyte Monocyte Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002753	Granulocyte Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002754	Granulocyte Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002755	Granulocyte Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002756	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002757	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002758	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002759	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002760	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002761	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002763	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002764	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002765	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002766	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002767	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002768	Committed Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002769	Committed Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002770	Committed Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002771	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00002773	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00002774	Megakaryocyte	myeloid cell	myeloid cell	myeloid cell	myeloid cell	0	0
+IHECRE00002776	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002777	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002778	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002779	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002780	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002781	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002782	Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002784	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002785	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002786	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002788	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002789	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002790	Multipotent Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002791	Lymphoid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002792	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002793	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002794	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00002795	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002796	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002797	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002798	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002799	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002800	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002801	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002802	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002803	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002804	Multipotent Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00002805	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002806	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002807	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00002808	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00002809	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00002810	Natural Killer Cell	natural killer cell	natural killer cell	natural killer cell	natural killer cell	0	0
+IHECRE00003105	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003106	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003107	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003108	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003109	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003110	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003111	Brain Frontal Lobe BA44-45	brain	brain	brain	brain	0	0
+IHECRE00003112	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003113	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003114	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003115	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003116	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003117	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003118	Brain Frontal Lobe BA44-45	brain	brain	brain	brain	0	0
+IHECRE00003119	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003120	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003121	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003122	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003123	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003124	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003125	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003126	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003127	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003128	Brain Frontal Lobe BA45	brain	brain	brain	brain	0	0
+IHECRE00003129	Brain Temporal Lobe BA22	brain	brain	brain	brain	0	0
+IHECRE00003131	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003132	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003133	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003134	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003136	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003137	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003138	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003139	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003140	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003142	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003143	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003144	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003145	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003146	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003147	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003148	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003150	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003151	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003152	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003153	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003154	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003155	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003156	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003157	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003158	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003159	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003160	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003161	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003162	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003163	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003164	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003165	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003166	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003167	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003168	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003169	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003171	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003172	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003173	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003174	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003175	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003176	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003177	Brain Temporal Lobe BA20-37	brain	brain	brain	brain	0	0
+IHECRE00003178	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003179	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003180	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003181	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003182	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003183	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003184	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003185	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003186	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003187	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003188	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003189	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003190	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003191	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003192	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003193	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003194	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003195	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003196	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003197	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003198	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003199	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003200	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003201	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003203	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003204	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003205	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003206	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003207	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003208	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003209	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003210	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003211	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003212	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003213	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003214	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003215	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003216	Brain Frontal Lobe BA44-45	brain	brain	brain	brain	0	0
+IHECRE00003217	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003218	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003219	Brain Frontal Lobe Prefrontal Cortex	brain	brain	brain	brain	0	0
+IHECRE00003220	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003221	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003222	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003223	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003224	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003225	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003226	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003227	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003228	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003230	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003231	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003232	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003233	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003234	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003235	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003236	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003237	Brain Frontal Lobe BA44-45	brain	brain	brain	brain	0	0
+IHECRE00003238	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003239	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003240	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003241	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003242	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003243	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003244	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003245	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003246	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003247	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003248	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003249	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003250	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003251	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003252	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003253	Brain Temporal Lobe BA20-37	brain	brain	brain	brain	0	0
+IHECRE00003254	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003255	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003256	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003257	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003258	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003259	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003260	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003261	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003262	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003263	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003264	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003265	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003266	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003267	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003268	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003269	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003270	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003271	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003272	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003273	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003274	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003275	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003276	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003277	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003278	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003279	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003280	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003281	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003282	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003283	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003284	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003285	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003286	Brain Temporal Lobe BA38	brain	brain	brain	brain	0	0
+IHECRE00003287	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003288	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003289	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003290	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003291	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003292	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003293	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003294	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003295	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003296	Brain Temporal Lobe BA20-37	brain	brain	brain	brain	0	0
+IHECRE00003297	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003298	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003299	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003300	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003301	Brain Temporal Lobe BA38	brain	brain	brain	brain	0	0
+IHECRE00003302	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003303	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003304	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003305	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003306	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003307	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003308	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003309	Brain Temporal Lobe BA38	brain	brain	brain	brain	0	0
+IHECRE00003310	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003311	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003312	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003313	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003314	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003315	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003316	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003317	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003318	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003319	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003320	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003321	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003322	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003323	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003324	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003325	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003327	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003328	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003329	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003330	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003331	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003332	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003333	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003334	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003335	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003336	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003337	Brain Frontal Lobe BA44-45	brain	brain	brain	brain	0	0
+IHECRE00003338	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003339	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003340	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003341	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003342	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003343	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003344	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003345	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003346	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003347	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003348	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003349	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003350	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003351	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003352	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003353	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003354	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003356	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003357	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003358	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003359	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003360	Brain Frontal Lobe BA44-45	brain	brain	brain	brain	0	0
+IHECRE00003361	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003362	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003363	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003364	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003365	Brain Frontal Lobe BA45	brain	brain	brain	brain	0	0
+IHECRE00003366	Brain Frontal Lobe Prefrontal Cortex	brain	brain	brain	brain	0	0
+IHECRE00003367	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003368	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003369	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003370	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003371	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003372	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003373	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003374	Brain Temporal Lobe BA20	brain	brain	brain	brain	0	0
+IHECRE00003375	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003376	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003377	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003378	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003379	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003380	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003381	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003382	Brain Temporal Lobe BA38	brain	brain	brain	brain	0	0
+IHECRE00003383	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003384	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003385	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003386	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003387	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003388	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003389	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003390	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003391	Brain Temporal Lobe BA22-41-42	brain	brain	brain	brain	0	0
+IHECRE00003392	Brain Temporal Lobe BA41-42	brain	brain	brain	brain	0	0
+IHECRE00003393	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00003394	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003395	Brain Frontal Lobe BA9	brain	brain	brain	brain	0	0
+IHECRE00003396	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003397	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003398	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003399	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003400	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003401	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003402	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003403	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003404	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003405	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003406	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003660	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003675	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00003676	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00003677	Brain Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00003678	Brain Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00003679	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00003680	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00003682	Oligodendroglioma	brain	brain	brain	brain	0	0
+IHECRE00003683	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003684	Thyroid Papillary Carcinoma	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003685	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003686	Thyroid Papillary Carcinoma	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003687	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003688	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003689	Chronic Lymphocytic Leukemia	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003690	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003691	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003692	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003693	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003694	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003695	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003696	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00003700	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003702	Neural Progenitor Cell	neural	neural progenitor cell	neural	neural progenitor cell	0	0
+IHECRE00003704	Ewing Sarcoma	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00003705	Multiple Myeloma	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00003706	Adenocaricoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00003707	Plasma B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003709	Adenocaricoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00003710	Induced Pluripotent Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003711	Muscle Cardiac	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003713	Bipolar Neuron	neural	neural cell	neural	neural cell	0	0
+IHECRE00003714	Ewing Sarcoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00003715	Endometrial Epithelial Tissue	epithelial	epithelial cell of endometrial gland	epithelial	epithelial cell of endometrial gland	0	0
+IHECRE00003716	Cytotrophoblast	extraembryonic cell	extraembryonic cell	epithelial	epithelial cell of endometrial gland	1	1
+IHECRE00003717	Pancreatic Alpha Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00003718	Preadipocyte	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003719	Preadipocyte	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003720	Mesangial Cell	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003721	Glomerular Visceral Epithelial Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00003722	Glomerular Visceral Epithelial Cell	secretory cell	secretory cell	secretory cell	secretory cell	0	0
+IHECRE00003723	Mesangial Cell	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003724	Induced Pluripotent Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003725	Neuronal Progenitor Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003726	Neuronal Progenitor Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003727	Induced Pluripotent Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003728	Neuronal Progenitor Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003729	Neuronal Progenitor Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00003730	Colon Epithelium Cell	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00003731	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003732	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003733	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003734	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003735	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003736	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003737	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003738	Muscle Skeletal Sorted	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003739	Muscle Skeletal	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00003740	Mesenchymal Stem Cell Sorted	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003741	Mesenchymal Stem Cell Sorted	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003742	Mesenchymal Stem Cell Sorted	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003743	Mesenchymal Stem Cell Sorted	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00003803	Colon Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00003804	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003805	T-Cell Memory CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003806	Macrophage	macrophage	macrophage	macrophage	macrophage	0	0
+IHECRE00003808	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003809	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003810	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003811	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003812	Colon Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00003813	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003814	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003815	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003816	T-Cell CD4 Memory	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003817	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003818	Colon Mucosa	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00003819	Hepatocyte	liver	hepatocyte	liver	hepatocyte	0	0
+IHECRE00003820	Sperm	germ line cell	germ line cell	germ line cell	germ line cell	0	0
+IHECRE00003821	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003822	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003823	Sperm	germ line cell	germ line cell	germ line cell	germ line cell	0	0
+IHECRE00003824	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003825	Megakaryocyte Erythroid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00003826	Myeloid Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00003827	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003828	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003829	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003830	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003831	Sperm	germ line cell	germ line cell	germ line cell	germ line cell	0	0
+IHECRE00003832	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003833	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003834	Erythroid Progenitor Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00003835	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003836	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003837	Haematopoietic Stem Cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00003838	Granulocyte Monocyte Progenitor	hematopoietic cell	hematopoietic cell	hematopoietic cell	hematopoietic cell	0	0
+IHECRE00003839	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003840	Sperm	germ line cell	germ line cell	germ line cell	germ line cell	0	0
+IHECRE00003841	Germinal Centre B-Cell	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00003842	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003843	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003844	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003845	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00003846	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003847	Acute Myeloid Leukemia	myeloid cell	myeloid cell	mesoderm-derived structure	mesoderm-derived structure	1	1
+IHECRE00003848	Monocyte	monocyte	monocyte	monocyte	monocyte	0	0
+IHECRE00004590	Placental Cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004591	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004592	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004593	Placental Cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004594	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004595	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004599	Syncitiotrophoblast Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00004600	Trophoblast Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00004601	Extravillous Cytotrophoblast Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00004602	Naive B Lymphocyte	B lymphocyte	lymphocyte of B lineage	B lymphocyte	lymphocyte of B lineage	0	0
+IHECRE00004603	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004604	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004605	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004606	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004607	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004608	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004609	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004610	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004611	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004612	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004613	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004614	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004615	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004616	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004617	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004618	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004619	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004620	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004621	Mammary Mature Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004622	Pancreatic Tissue	pancreas	pancreas	pancreas	pancreas	0	0
+IHECRE00004623	T-Cell Acute Lymphoblastic Leukemia	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00004624	Esophagus Mucosa	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004626	Radial Glial Cell	neural	neural cell	neural	neural cell	0	0
+IHECRE00004627	Diffuse Large B-Cell Lymphoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00004628	Neuroblastoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00004629	Muscle Skeletal Gastrocnemius	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00004631	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00004632	Vaginal Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004633	Epithelial Submaxillary Gland Carcinoma	epithelial	epithelial cell derived cell line	epithelial	epithelial cell derived cell line	0	0
+IHECRE00004634	Muscle Skeletal Gastrocnemius	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00004635	Muscle Smooth Digestive	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00004636	Muscle Skeletal Gastrocnemius	muscle	muscle organ	muscle	muscle organ	0	0
+IHECRE00004637	Adrenal Gland Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004638	Colon Carcinoma	epithelial	endo-epithelial cell	epithelial	endo-epithelial cell	0	0
+IHECRE00004639	Multiple Myeloma	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00004640	Aorta Artery Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004641	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00004643	Lung Upper Lobe	endoderm-derived structure	endoderm-derived structure	endoderm-derived structure	endoderm-derived structure	0	0
+IHECRE00004644	Neuroblastoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00004645	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004646	Adrenal Gland Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004647	Spleen Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004648	Adrenal Gland Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004649	Liver Tissue	endoderm-derived structure	endoderm-derived structure	endoderm-derived structure	endoderm-derived structure	0	0
+IHECRE00004650	Colon Sigmoid Mixed Tissue	colon	colon	colon	colon	0	0
+IHECRE00004651	Radial Glial Cell	neural	neural cell	neural	neural cell	0	0
+IHECRE00004653	T-Cell Acute Lymphoblastic Leukemia	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00004654	Esophagus Squamous Epithelium	epithelial	epithelium	epithelial	epithelium	0	0
+IHECRE00004655	Tibial Nerve Tissue	nervous system	nervous system	nervous system	nervous system	0	0
+IHECRE00004656	Pancreatic Tissue	pancreas	pancreas	pancreas	pancreas	0	0
+IHECRE00004657	Pancreatic Tissue	pancreas	pancreas	pancreas	pancreas	0	0
+IHECRE00004658	Colon Carcinoma	epithelial	epithelial cell derived cell line	epithelial	epithelial cell derived cell line	0	0
+IHECRE00004659	Kidney Cell Line	epithelial	epithelial cell derived cell line	epithelial	epithelial cell derived cell line	0	0
+IHECRE00004660	Esophagus Squamous Epithelium	epithelial	epithelium	epithelial	epithelium	0	0
+IHECRE00004661	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00004662	Neutrophil	neutrophil	neutrophil	neutrophil	neutrophil	0	0
+IHECRE00004663	Embryonic Stem Cell	stem cell	stem cell derived cell line	stem cell	stem cell derived cell line	0	0
+IHECRE00004664	Heart Ventricle Left Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004665	Esophagus Mucosa	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004666	Muscle Cardiac Myoblast	muscle	muscle precursor cell	muscle	muscle precursor cell	0	0
+IHECRE00004667	Neural Tissue	neural	neural cell	neural	neural cell	0	0
+IHECRE00004668	Esophagus Sphincter Mixed	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004669	Prostate Tissue	endoderm-derived structure	prostate	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00004670	B Lymphocyte	B lymphocyte	B cell derived cell line	B lymphocyte	B cell derived cell line	0	0
+IHECRE00004671	Spleen Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004672	Heart Atrium Right Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004673	Diffuse Large B-Cell Lymphoma	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00004674	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	epithelium	0	1
+IHECRE00004675	Skin Suprapubic	suprapubic skin	suprapubic skin	suprapubic skin	suprapubic skin	0	0
+IHECRE00004676	Adenocaricoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00004677	Fibroblast Foreskin	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004678	Muscle Cardiac	muscle	muscle cell	muscle	muscle cell	0	0
+IHECRE00004679	Esophagus Sphincter Mixed	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004680	Skin Fibroblast	connective tissue cell	fibroblast derived cell line	connective tissue cell	fibroblast derived cell line	0	0
+IHECRE00004681	Esophagus Squamous Epithelium	epithelial	epithelium	epithelial	epithelium	0	0
+IHECRE00004682	Tibial Artery Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004683	Colon Sigmoid Mixed Tissue	colon	colon	colon	colon	0	0
+IHECRE00004684	Tibial Artery Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004685	Mesendodermal Tissue	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	embryonic cell (metazoa)	0	0
+IHECRE00004686	Heart Cardioblast Stem Cell	stem cell	stem cell	stem cell	stem cell	0	0
+IHECRE00004687	Lung Carcinoma	cancer cell line	cancer cell line	epithelial	epithelial cell derived cell line	1	1
+IHECRE00004688	Uterine Tissue	uterus	uterus	uterus	uterus	0	0
+IHECRE00004689	Multiple Myeloma	Cancer cell line	cancer cell line	B lymphocyte	KMS-11	1	1
+IHECRE00004690	Mononuclear Cell	mononuclear cell	peripheral blood mononuclear cell	mononuclear cell	peripheral blood mononuclear cell	0	0
+IHECRE00004691	Diffuse Large B-Cell Lymphoma	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00004693	Diffuse Large B-Cell Lymphoma	cancer cell line	lymphoma or leukaemia cell line	cancer cell line	lymphoma or leukaemia cell line	0	0
+IHECRE00004694	Adenocaricoma	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00004695	Colon Sigmoid Mixed Tissue	colon	colon	colon	colon	0	0
+IHECRE00004696	Ascending Aorta	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004698	Colon Adenocarcinoma Cell Line	cancer cell line	cancer cell line	cancer cell line	cancer cell line	0	0
+IHECRE00004699	Stomach Mixed Tissue	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004700	Aorta Artery Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004701	Tibial Nerve Tissue	nervous system	nervous system	nervous system	nervous system	0	0
+IHECRE00004702	Fibroblast Foreskin	connective tissue cell	fibroblast derived cell line	connective tissue cell	fibroblast derived cell line	0	0
+IHECRE00004703	Lung Upper Lobe	endoderm-derived structure	endoderm-derived structure	endoderm-derived structure	endoderm-derived structure	0	0
+IHECRE00004704	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	epithelium	0	1
+IHECRE00004705	Ascending Aorta	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004707	Kidney Epithelial Cell	epithelial	kidney epithelial cell	epithelial	kidney epithelial cell	0	0
+IHECRE00004708	Peyers Patch Tissue	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00004709	Peyers Patch Tissue	mucosa	mucosa	mucosa	mucosa	0	0
+IHECRE00004711	Stomach Mixed Tissue	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004712	Neuroepithelial Stem Cell	stem cell	stem cell	stem cell	stem cell	0	0
+IHECRE00004713	Melanocyte	melanocyte	melanocyte	melanocyte	melanocyte	0	0
+IHECRE00004714	Heart Ventricle Left Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004715	Testis Tissue	testis	testis	testis	testis	0	0
+IHECRE00004716	Esophagus Mucosa	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004717	Thyroid Tissue	endoderm-derived structure	thyroid	endoderm-derived structure	endoderm-derived structure	0	1
+IHECRE00004718	Stomach Mixed Tissue	digestive system	digestive system	digestive system	digestive system	0	0
+IHECRE00004719	Tibial Nerve Tissue	nervous system	nervous system	nervous system	nervous system	0	0
+IHECRE00004723	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004724	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004725	T-Cell Naive CD4 Helper	T lymphocyte	T cell	T lymphocyte	T cell	0	0
+IHECRE00004726	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004727	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004728	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004729	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004730	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004731	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004732	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004733	Mammary Progenitor Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004734	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004735	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004736	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004737	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004738	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004739	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004740	Cytotrophoblast	extraembryonic cell	extraembryonic cell	extraembryonic cell	extraembryonic cell	0	0
+IHECRE00004875	Mammary Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004876	Trophoblast Tissue	placenta	trophoblast	placenta	trophoblast	0	0
+IHECRE00004877	Amniotic Membrane Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00004878	Brain Frontal Lobe BA11	brain	brain	brain	brain	0	0
+IHECRE00004879	Chorion Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004880	Basal Plate And Chorionic Villi Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00004881	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00004882	Brain Frontal Lobe BA11	brain	brain	brain	brain	0	0
+IHECRE00004883	Chorionic Villi Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00004884	Basal Plate And Chorionic Villi Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00004885	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004886	Chorion Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004887	Neurosphere	neural	neural progenitor cell	neural	neural progenitor cell	0	0
+IHECRE00004888	Breast Fibroblast	connective tissue cell	connective tissue cell	connective tissue cell	connective tissue cell	0	0
+IHECRE00004889	Brain Astrocyte	neural	neural cell	neural	neural cell	0	0
+IHECRE00004890	Trophoblast Tissue	placenta	trophoblast	placenta	trophoblast	0	0
+IHECRE00004891	Chorion Tissue	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	mesoderm-derived structure	0	0
+IHECRE00004892	Brain Hippocampal Formation	brain	brain	brain	brain	0	0
+IHECRE00004893	Mammary Luminal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	mammary gland epithelial cell	0	0
+IHECRE00004894	Neurosphere	neural	neural progenitor cell	neural	neural progenitor cell	0	0
+IHECRE00004895	Neurosphere	neural	neural progenitor cell	neural	neural progenitor cell	0	0
+IHECRE00004896	Mammary Basal Epithelial Cell	epithelial	mammary gland epithelial cell	epithelial	meso-epithelial cell	0	1
+IHECRE00004897	Chorionic Villi Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00004899	Brain Insular Cortes	brain	brain	brain	brain	0	0
+IHECRE00004900	Chorionic Villi Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00004901	Liver Tissue	liver	liver	liver	liver	0	0
+IHECRE00004902	Brain Cortex	neural	neural progenitor cell	neural	neural progenitor cell	0	0
+IHECRE00004903	Trophoblast Tissue	placenta	trophoblast	placenta	trophoblast	0	0
+IHECRE00004904	Neurosphere	neural	neural progenitor cell	neural	neural progenitor cell	0	0
+IHECRE00004905	Mononuclear Cell	mononuclear cell	peripheral blood mononuclear cell	mononuclear cell	peripheral blood mononuclear cell	0	0
+IHECRE00004906	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00004907	Melanocyte Mole Derived	mole	mole	mole	mole	0	0
+IHECRE00004908	Basal Plate And Chorionic Villi Tissue	placenta	placenta	placenta	placenta	0	0
+IHECRE00004909	Neuroepithelium	epithelial	epithelium	epithelial	epithelium	0	0
+IHECRE00004910	Brain Ganglionic Eminence	neural	neural progenitor cell	neural	neural progenitor cell	0	0
+IHECRE00004911	Brain Cerebellum	brain	brain	brain	brain	0	0
+IHECRE00004912	Amniotic Membrane Tissue	placenta	placenta	placenta	placenta	0	0
