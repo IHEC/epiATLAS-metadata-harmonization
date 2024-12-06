@@ -266,10 +266,69 @@ sort_columns = [
     "EpiRR"
 ]
 
+
+order_fig1 = [
+    "brain", "nervous system", "neural", "cancer cell line", "mole", "colon",
+    "digestive system", "mucosa", "secretory cell", "muscle", "kidney", "liver",
+    "hepatocyte", "lung", "lymph node", "pancreas", "embryonic cell (metazoa)",
+    "endoderm-derived structure", "mesoderm-derived structure",
+    "extraembryonic cell", "placenta", "stem cell", "trophoblast",
+    "germ line cell", "peripheral blood", "hematopoietic cell",
+    "B lymphocyte", "T lymphocyte", "natural killer cell", "myeloid cell",
+    "dendritic cell", "eosinophil", "erythroid lineage cell",
+    "mononuclear cell", "monocyte", "macrophage", "neutrophil",
+    "connective tissue cell", "epithelial", "suprapubic skin", "keratinocyte",
+    "melanocyte", "ovary", "uterus", "testis"
+]
+
+# Convert the column to a categorical type with the specified order
+v1_3_extended_df['harmonized_sample_ontology_term_high_order_fig1'] = pd.Categorical(
+    v1_3_extended_df['harmonized_sample_ontology_term_high_order_fig1'],
+    categories=order_fig1,
+    ordered=True
+)
+
+order_intermediate = [
+    "brain", "nervous system", "neural progenitor cell", "neural cell",
+    "lymphoma or leukaemia cell line", "cancer cell line", "KMS-11",
+    "colon", "digestive system", "mucosa", "secretory cell",
+    "muscle precursor cell", "muscle cell", "muscle organ",
+    "kidney", "hepatocyte", "liver", "lung", "lymph node", "pancreas",
+    "embryonic cell (metazoa)", "induced pluripotent stem cell",
+    "stem cell derived cell line", "stem cell", "germ line cell",
+    "endoderm-derived structure",
+    "thyroid gland", "thymus", "prostate gland",
+    "mesoderm-derived structure",
+    "extraembryonic cell", "placenta", "trophoblast",
+    "venous blood", "capillary blood",
+    "hematopoietic cell", "lymphocyte of B lineage", "B cell derived cell line",
+    "T cell", "natural killer cell", "myeloid cell", "dendritic cell",
+    "eosinophil", "erythroid lineage cell",
+    "peripheral blood mononuclear cell", "mononuclear cell",
+    "monocyte", "macrophage", "neutrophil",
+    "connective tissue cell", "fibroblast derived cell line",
+    "epithelial cell derived cell line", "vein endothelial cell",
+    "meso-epithelial cell",
+    "mammary gland epithelial cell", "mammary gland cell line", "epithelium",
+    "epithelial cell of endometrial gland", "endo-epithelial cell",
+    "kidney epithelial cell",
+    "suprapubic skin", "keratinocyte", "melanocyte", "mole",
+    "ovary", "uterus", "testis",
+]
+
+# Convert the column to a categorical type with the specified order
+v1_3_extended_df['harmonized_sample_ontology_intermediate'] = pd.Categorical(
+    v1_3_extended_df['harmonized_sample_ontology_intermediate'],
+    categories=order_intermediate,
+    ordered=True
+)
+
 # Sort the DataFrame
 v1_3_extended_df.sort_values(
     by=sort_columns,
-    key=lambda col: col if col.name == "automated_harmonized_donor_age_in_years" else col.str.casefold(),
+    key=lambda col: col if col.name in ["automated_harmonized_donor_age_in_years",
+                                        "harmonized_sample_ontology_term_high_order_fig1",
+                                        "harmonized_sample_ontology_intermediate"] else col.str.casefold(),
     inplace=True
 )
 v1_3_extended_df.to_csv(v1_3_extended_csv, index=False)

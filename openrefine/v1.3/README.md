@@ -9,7 +9,7 @@ The CSV for the sample metadata can be found at [openrefine/v1.3/IHEC_metadata_h
 ## News
 
 - New column `harmonized_sample_label` which is a sample label based on sample ontology and sample disease using common terms that might connect multiple ontologies or columns by Martin Hirst.
-- Ordering of rows is now based on the following columns (sorting ignores case; age sorted as double) in this order: `harmonized_sample_ontology_term_high_order_fig1`, `harmonized_sample_ontology_intermediate`, `harmonized_sample_label`, `harmonized_sample_disease_high`, `harmonized_sample_disease_intermediate`, `harmonized_donor_sex`, `automated_harmonized_donor_age_in_years`, and `EpiRR`.
+- Ordering of rows is now based on the following columns (`harmonized_sample_ontology_term_high_order_fig1` and `harmonized_sample_ontology_intermediate` ordered manually; age sorted as double; other columns sorted ignoring case) in this order: `harmonized_sample_ontology_term_high_order_fig1`, `harmonized_sample_ontology_intermediate`, `harmonized_sample_label`, `harmonized_sample_disease_high`, `harmonized_sample_disease_intermediate`, `harmonized_donor_sex`, `automated_harmonized_donor_age_in_years`, and `EpiRR`.
 - Some changes in `harmonized_sample_ontology_intermediate`.
 - Fixed `harmonized_donor_life_stage` for 5 entries.
 - **Extended version:** `harmonized_sample_ontology_term_high_order_fig1_color` contains a coloring for each value in `harmonized_sample_ontology_term_high_order_fig1`.
@@ -88,58 +88,4 @@ The table below describes the columns included in the metadata table and the ext
 | automated_experiments_WGBS_PBAT                               | \"                                                                  | **Extended only** Contains the uuid for observed data. Imputed WGBS can be found in column `automated_experiments_WGBS_standard`.                                                                                                                                                           | 132 (5.8%)     |
 | automated_experiments_RNA-Seq_mRNA-Seq                        | \"                                                                  | **Extended only** Contains the uuid for observed data. RNA-Seq data not imputed at this point.                                                                                                                                                                                              | 396 (17.4%)    |
 | automated_experiments_RNA-Seq_total-RNA-Seq                   | \"                                                                  | **Extended only** Contains the uuid for observed data. RNA-Seq data not imputed at this point.                                                                                                                                                                                              | 1159 (50.9%)   |
-| epirr_id_without_version                                      | `IHECRE00000001`                                                    | EpiRR identifier without version.                                                                                                                                                                                                                                                           | 2279 (100.0%)  || Column                                                        | Examples   | Explanation   | # Not Null (%)   |
-|---------------------------------------------------------------|------------|---------------|------------------|
-| EpiRR                                                         |            |               | 2279 (100.0%)    |
-| project                                                       |            |               | 2279 (100.0%)    |
-| harmonized_biomaterial_type                                   |            |               | 2279 (100.0%)    |
-| harmonized_sample_label                                       |            |               | 2279 (100.0%)    |
-| harmonized_sample_ontology_intermediate                       |            |               | 2279 (100.0%)    |
-| harmonized_sample_ontology_intermediate_color                 |            |               | 2246 (98.6%)     |
-| harmonized_sample_disease_high                                |            |               | 2279 (100.0%)    |
-| harmonized_sample_disease_intermediate                        |            |               | 2279 (100.0%)    |
-| harmonized_EpiRR_status                                       |            |               | 2279 (100.0%)    |
-| epiATLAS_status                                               |            |               | 2279 (100.0%)    |
-| harmonized_cell_type                                          |            |               | 1561 (68.5%)     |
-| harmonized_cell_line                                          |            |               | 73 (3.2%)        |
-| harmonized_tissue_type                                        |            |               | 2008 (88.1%)     |
-| harmonized_sample_ontology_curie                              |            |               | 2279 (100.0%)    |
-| harmonized_cell_markers                                       |            |               | 1144 (50.2%)     |
-| automated_harmonized_sample_ontology                          |            |               | 2279 (100.0%)    |
-| automated_harmonized_sample_ontology_term                     |            |               | 2279 (100.0%)    |
-| harmonized_sample_ontology_term_high_order_fig1               |            |               | 2279 (100.0%)    |
-| harmonized_sample_ontology_term_high_order_fig1_color         |            |               | 2279 (100.0%)    |
-| harmonized_sample_organ_system_order_AnetaMikulasova          |            |               | 2279 (100.0%)    |
-| harmonized_sample_organ_order_AnetaMikulasova                 |            |               | 2279 (100.0%)    |
-| harmonized_sample_organ_part_or_lineage_order_AnetaMikulasova |            |               | 2279 (100.0%)    |
-| harmonized_sample_cell_order_AnetaMikulasova                  |            |               | 2279 (100.0%)    |
-| harmonized_sample_cell_2_order_AnetaMikulasova                |            |               | 2279 (100.0%)    |
-| harmonized_sample_cell_3_order_AnetaMikulasova                |            |               | 2279 (100.0%)    |
-| harmonized_sample_cancer_type_order_AnetaMikulasova           |            |               | 2279 (100.0%)    |
-| harmonized_sample_cancer_subtype_order_AnetaMikulasova        |            |               | 2279 (100.0%)    |
-| harmonized_sample_disease                                     |            |               | 2142 (94.0%)     |
-| harmonized_sample_disease_ontology_curie                      |            |               | 2142 (94.0%)     |
-| automated_harmonized_sample_disease_ontology_curie_ncit       |            |               | 2134 (93.6%)     |
-| harmonized_donor_type                                         |            |               | 2279 (100.0%)    |
-| harmonized_donor_id                                           |            |               | 2116 (92.8%)     |
-| harmonized_donor_age                                          |            |               | 2279 (100.0%)    |
-| harmonized_donor_age_unit                                     |            |               | 2279 (100.0%)    |
-| automated_harmonized_donor_age_in_years                       |            |               | 1678 (73.6%)     |
-| harmonized_donor_life_stage                                   |            |               | 2279 (100.0%)    |
-| harmonized_donor_life_stage_uncorrected                       |            |               | 2279 (100.0%)    |
-| harmonized_donor_sex                                          |            |               | 2279 (100.0%)    |
-| harmonized_donor_sex_uncorrected                              |            |               | 2279 (100.0%)    |
-| harmonized_donor_health_status                                |            |               | 982 (43.1%)      |
-| harmonized_donor_health_status_ontology_curie                 |            |               | 982 (43.1%)      |
-| automated_harmonized_donor_health_status_ontology_curie_ncit  |            |               | 961 (42.2%)      |
-| automated_experiments_ChIP-Seq_H3K27ac                        |            |               | 1698 (74.5%)     |
-| automated_experiments_ChIP-Seq_H3K27me3                       |            |               | 1698 (74.5%)     |
-| automated_experiments_ChIP-Seq_H3K36me3                       |            |               | 1698 (74.5%)     |
-| automated_experiments_ChIP-Seq_H3K4me1                        |            |               | 1698 (74.5%)     |
-| automated_experiments_ChIP-Seq_H3K4me3                        |            |               | 1698 (74.5%)     |
-| automated_experiments_ChIP-Seq_H3K9me3                        |            |               | 1698 (74.5%)     |
-| automated_experiments_WGBS_standard                           |            |               | 1859 (81.6%)     |
-| automated_experiments_WGBS_PBAT                               |            |               | 132 (5.8%)       |
-| automated_experiments_RNA-Seq_mRNA-Seq                        |            |               | 396 (17.4%)      |
-| automated_experiments_RNA-Seq_total-RNA-Seq                   |            |               | 1159 (50.9%)     |
-| epirr_id_without_version                                      |            |               | 2279 (100.0%)    |
+| epirr_id_without_version                                      | `IHECRE00000001`                                                    | EpiRR identifier without version.                                                                                                                                                                                                                                                           | 2279 (100.0%)  |
