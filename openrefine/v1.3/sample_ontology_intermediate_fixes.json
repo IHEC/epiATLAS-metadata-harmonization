@@ -1,0 +1,658 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "KMS-11"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cancer cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001035",
+                "l": "IHECRE00001035"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "pancreas"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004669",
+                "l": "IHECRE00004669"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "prostate gland"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000934",
+                "l": "IHECRE00000934"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00000969",
+                "l": "IHECRE00000969"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "thymus"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "automated_harmonized_sample_ontology_term",
+          "expression": "value",
+          "columnName": "automated_harmonized_sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "thyroid gland",
+                "l": "thyroid gland"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "thyroid gland"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "automated_harmonized_sample_ontology_term",
+          "expression": "value",
+          "columnName": "automated_harmonized_sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "right lobe of liver",
+                "l": "right lobe of liver"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "liver"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "automated_harmonized_sample_ontology_term",
+          "expression": "value",
+          "columnName": "automated_harmonized_sample_ontology_term",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "upper lobe of left lung",
+                "l": "upper lobe of left lung"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "endoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lung"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00000001",
+                "l": "IHECRE00000001"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00000227",
+                "l": "IHECRE00000227"
+              }
+            },
+            {
+              "v": {
+                "v": "IHECRE00000225",
+                "l": "IHECRE00000225"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "epithelial cell derived cell line"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mammary gland cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001851|IHECRE00001853|IHECRE00001893|IHECRE00001895|IHECRE00001896|IHECRE00001897|IHECRE00001898|IHECRE00001899|IHECRE00003704|IHECRE00004687",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "epithelial cell derived cell line"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cancer cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00003716",
+                "l": "IHECRE00003716"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CL:0009084"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL:0008036"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00003716",
+                "l": "IHECRE00003716"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "epithelial cell of endometrial gland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "extravillous trophoblast"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00003716",
+                "l": "IHECRE00003716"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "epithelial cell of endometrial gland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "extraembryonic cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000242|IHECRE00000959|IHECRE00004605|IHECRE00004609|IHECRE00004610|IHECRE00004611|IHECRE00004726|IHECRE00004729|IHECRE00004732|IHECRE00004896",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "meso-epithelial cell",
+                "l": "meso-epithelial cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "myoepithelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myoepithelial cell of mammary gland"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000242|IHECRE00000959|IHECRE00004605|IHECRE00004609|IHECRE00004610|IHECRE00004611|IHECRE00004726|IHECRE00004729|IHECRE00004732|IHECRE00004896",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "meso-epithelial cell",
+                "l": "meso-epithelial cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CL:0000185"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL:0002324"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00000242|IHECRE00000959|IHECRE00004605|IHECRE00004609|IHECRE00004610|IHECRE00004611|IHECRE00004726|IHECRE00004729|IHECRE00004732|IHECRE00004896",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "meso-epithelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mammary gland epithelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "meso-epithelial cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "vein endothelial cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mammary gland epithelial cell",
+                "l": "mammary gland epithelial cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "myoepithelial cell of mammary gland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "basal-myoepithelial cell of mammary gland"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  }
+]

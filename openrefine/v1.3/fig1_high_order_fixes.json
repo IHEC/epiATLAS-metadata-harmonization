@@ -1,0 +1,222 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00004689",
+                "l": "IHECRE00004689"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_term_high_order_fig1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "B lymphocyte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cancer cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_term_high_order_fig1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001851|IHECRE00001853|IHECRE00001893|IHECRE00001895|IHECRE00001896|IHECRE00001897|IHECRE00001898|IHECRE00001899|IHECRE00003704|IHECRE00004687",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_term_high_order_fig1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "epithelial"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cancer cell line"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_term_high_order_fig1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00003716",
+                "l": "IHECRE00003716"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_term_high_order_fig1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "epithelial"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "extraembryonic cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_term_high_order_fig1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_term_high_order_fig1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "hepatocyte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "liver"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_term_high_order_fig1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "epirr_id_without_version",
+          "expression": "value",
+          "columnName": "epirr_id_without_version",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "IHECRE00001445",
+                "l": "IHECRE00001445"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_term_high_order_fig1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mesoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "B lymphocyte"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_term_high_order_fig1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "EpiRR",
+          "columnName": "EpiRR",
+          "query": "IHECRE00001436|IHECRE00001469|IHECRE00003824|IHECRE00003829|IHECRE00003830|IHECRE00003833|IHECRE00003835|IHECRE00003843|IHECRE00003844|IHECRE00003846|IHECRE00003847",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_term_high_order_fig1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mesoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myeloid cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_term_high_order_fig1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_term_high_order_fig1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "trophoblast"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "placenta"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_term_high_order_fig1"
+  }
+]

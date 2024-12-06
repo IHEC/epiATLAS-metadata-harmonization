@@ -19,6 +19,12 @@ run([openrefine_client, '--create', v1_2_csv], check=True)
 # here we manually solve some mapping issues and conflicts and the resulting json is then used in this script
 run([openrefine_client, '--apply', './openrefine/v1.3/life_stage_fixes.json', intermediate_project_name],
     check=True)
+run([openrefine_client, '--apply', './openrefine/v1.3/fig1_high_order_fixes.json', intermediate_project_name],
+    check=True)
+run([openrefine_client, '--apply', './openrefine/v1.3/sample_ontology_intermediate_fixes.json', intermediate_project_name],
+    check=True)
+
+
 
 v1_3_intermediate_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.extended.intermediate.csv'
 run([openrefine_client, '--export', f'--output={v1_3_intermediate_csv}', intermediate_project_name],
@@ -158,19 +164,122 @@ v1_3_df_intermediate.insert(v1_3_df_intermediate.columns.get_loc('harmonized_sam
                             'harmonized_sample_ontology_intermediate_color',
                             v1_3_df_intermediate['harmonized_sample_ontology_intermediate'].map(intermediate_colors))
 
+# get the entry where the key is 'harmonized_sample_ontology_intermediate'
+fig1_colors = {}
+for color_dict in color_json:
+    if color_dict.get('fig1_ontology_intermediate_merged'):
+        fig1_colors.update(color_dict['fig1_ontology_intermediate_merged'][0])
+assert fig1_colors
+# add a column called harmonized_sample_ontology_intermediate_color to v1_3_df_intermediate right after harmonized_sample_ontology_intermediate
+v1_3_df_intermediate.insert(v1_3_df_intermediate.columns.get_loc('harmonized_sample_ontology_term_high_order_fig1') + 1,
+                            'harmonized_sample_ontology_term_high_order_fig1_color',
+                            v1_3_df_intermediate['harmonized_sample_ontology_term_high_order_fig1'].map(fig1_colors))
+
+# Read the file with the Manual_Groups
+manual_groups = pd.read_csv('./openrefine/v1.3/EpiAtlas_Manual_Groups+mod_HSOI.tsv', sep='\t')
+
+# check that order of epirr_id_without_version is the same in manual_groups and v1_3_df_intermediate
+manual_groups = manual_groups.set_index('epirr_id_without_version').loc[v1_3_df_intermediate['epirr_id_without_version']].reset_index()
+assert manual_groups['epirr_id_without_version'].equals(v1_3_df_intermediate['epirr_id_without_version'])
+
+# insert Final_Manual_Group_Label from manual_groups into v1_3_df_intermediate after harmonized_sample_ontology_intermediate_color
+v1_3_df_intermediate.insert(v1_3_df_intermediate.columns.get_loc('harmonized_biomaterial_type') + 1,
+                            'harmonized_sample_label',
+                            manual_groups['Final_Manual_Group_Label'])
+
 ### Write to csv
 v1_3_extended_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.extended.csv'
 v1_3_df_intermediate.to_csv(v1_3_extended_csv, index=False)
 
-v1_3_df_intermediate.insert(len(v1_3_df_intermediate.columns) - 1, 'epirr_id_without_version',
-                            v1_3_df_intermediate.pop('epirr_id_without_version'))
+# for this step,
+with open('./openrefine/v1.3/Routput.txt', 'w') as f:
+    run(['conda', 'run', '-n', 'v1_2_r_env', 'Rscript', 'add_higher_order_v1.3.R'], check=True, cwd='./openrefine/v1.3',
+        stdout=f)
+
+
+v1_3_extended_df = pd.read_csv(v1_3_extended_csv)
+
+v1_3_extended_df = v1_3_extended_df[["EpiRR",
+                                     "project",
+                                     "harmonized_biomaterial_type",
+                                     "harmonized_sample_label",
+                                     "harmonized_sample_ontology_intermediate",
+                                     "harmonized_sample_ontology_intermediate_color",
+                                     "harmonized_sample_disease_high",
+                                     "harmonized_sample_disease_intermediate",
+                                     "harmonized_EpiRR_status",
+                                     "epiATLAS_status",
+                                     "harmonized_cell_type",
+                                     "harmonized_cell_line",
+                                     "harmonized_tissue_type",
+                                     "harmonized_sample_ontology_curie",
+                                     "harmonized_cell_markers",
+                                     "automated_harmonized_sample_ontology",
+                                     "automated_harmonized_sample_ontology_term",
+                                     "harmonized_sample_ontology_term_high_order_fig1",
+                                     "harmonized_sample_ontology_term_high_order_fig1_color",
+                                     "harmonized_sample_organ_system_order_AnetaMikulasova",
+                                     "harmonized_sample_organ_order_AnetaMikulasova",
+                                     "harmonized_sample_organ_part_or_lineage_order_AnetaMikulasova",
+                                     "harmonized_sample_cell_order_AnetaMikulasova",
+                                     "harmonized_sample_cell_2_order_AnetaMikulasova",
+                                     "harmonized_sample_cell_3_order_AnetaMikulasova",
+                                     "harmonized_sample_cancer_type_order_AnetaMikulasova",
+                                     "harmonized_sample_cancer_subtype_order_AnetaMikulasova",
+                                     "harmonized_sample_disease",
+                                     "harmonized_sample_disease_ontology_curie",
+                                     "automated_harmonized_sample_disease_ontology_curie_ncit",
+                                     "harmonized_donor_type",
+                                     "harmonized_donor_id",
+                                     "harmonized_donor_age",
+                                     "harmonized_donor_age_unit",
+                                     "automated_harmonized_donor_age_in_years",
+                                     "harmonized_donor_life_stage",
+                                     "harmonized_donor_life_stage_uncorrected",
+                                     "harmonized_donor_sex",
+                                     "harmonized_donor_sex_uncorrected",
+                                     "harmonized_donor_health_status",
+                                     "harmonized_donor_health_status_ontology_curie",
+                                     "automated_harmonized_donor_health_status_ontology_curie_ncit",
+                                     'automated_experiments_ChIP-Seq_H3K27ac',
+                                     'automated_experiments_ChIP-Seq_H3K27me3',
+                                     'automated_experiments_ChIP-Seq_H3K36me3',
+                                     'automated_experiments_ChIP-Seq_H3K4me1',
+                                     'automated_experiments_ChIP-Seq_H3K4me3',
+                                     'automated_experiments_ChIP-Seq_H3K9me3',
+                                     'automated_experiments_WGBS_standard',
+                                     'automated_experiments_WGBS_PBAT',
+                                     'automated_experiments_RNA-Seq_mRNA-Seq',
+                                     'automated_experiments_RNA-Seq_total-RNA-Seq',
+                                     "epirr_id_without_version"]]
+
+# order the rows by: harmonized_sample_ontology_term_high_order_fig1, harmonized_sample_ontology_intermediate, harmonized_sample_label, harmonized_sample_disease_high, harmonized_sample_disease_intermediate, harmonized_donor_sex, automated_harmonized_donor_age_in_years, EpiRR
+# Define the columns to sort by
+sort_columns = [
+    "harmonized_sample_ontology_term_high_order_fig1",
+    "harmonized_sample_ontology_intermediate",
+    "harmonized_sample_label",
+    "harmonized_sample_disease_high",
+    "harmonized_sample_disease_intermediate",
+    "harmonized_donor_sex",
+    "automated_harmonized_donor_age_in_years",
+    "EpiRR"
+]
+
+# Sort the DataFrame
+v1_3_extended_df.sort_values(
+    by=sort_columns,
+    key=lambda col: col if col.name == "automated_harmonized_donor_age_in_years" else col.str.casefold(),
+    inplace=True
+)
+v1_3_extended_df.to_csv(v1_3_extended_csv, index=False)
 
 v1_3_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv'
-v1_3_df_intermediate.loc[:,
-~(v1_3_df_intermediate.columns.str.startswith('automated')
-  | v1_3_df_intermediate.columns.str.endswith('uncorrected')
-  | v1_3_df_intermediate.columns.str.endswith('color')
-  | v1_3_df_intermediate.columns.str.contains('order'))].to_csv(
+v1_3_extended_df.loc[:,
+~(v1_3_extended_df.columns.str.startswith('automated')
+  | v1_3_extended_df.columns.str.endswith('uncorrected')
+  | v1_3_extended_df.columns.str.endswith('color')
+  | v1_3_extended_df.columns.str.contains('order'))].to_csv(
     v1_3_csv, index=False)
 
 ### Compare v1.2 and v1.3
@@ -189,7 +298,7 @@ old.drop(columns=old.columns[old.columns.str.contains('WGBS') | old.columns.str.
 old.sort_index(1, inplace=True)
 new.drop(columns=new.columns[
     new.columns.str.contains('WGBS') | new.columns.str.contains('RNA-Seq') | new.columns.str.endswith('_uncorrected') |
-                 new.columns.str.endswith('_color')],
+                 new.columns.str.endswith('_color') | new.columns.str.endswith('harmonized_sample_label')],
          inplace=True)
 new.sort_index(1, inplace=True)
 assert old.columns.equals(new.columns)
@@ -200,6 +309,6 @@ diff_tbl.apply(lambda x: [x.dropna()], axis=1).to_json('openrefine/v1.3/diff_v1.
 # print column in markdown format
 
 na_props = pd.DataFrame.from_dict({col: {'Column': col, 'Examples': '', 'Explanation': '',
-                                         '# Not Null (%)': f'{v1_3_df_intermediate[col].notnull().sum()} ({v1_3_df_intermediate[col].notnull().mean() * 100:.1f}%)'}
-                                   for col in v1_3_df_intermediate.columns}, orient='index')
+                                         '# Not Null (%)': f'{v1_3_extended_df[col].notnull().sum()} ({v1_3_extended_df[col].notnull().mean() * 100:.1f}%)'}
+                                   for col in v1_3_extended_df.columns}, orient='index')
 na_props.to_markdown('openrefine/v1.3/README.md', index=False, tablefmt='github', mode='a')

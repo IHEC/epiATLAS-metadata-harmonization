@@ -1,8 +1,136 @@
 {
+ "IHECRE00000001.4":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland cell line"
+  }
+ ],
+ "IHECRE00000045.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"vein endothelial cell"
+  }
+ ],
  "IHECRE00000071.3":[
   {
    "('harmonized_donor_life_stage', 'v1.2')":"child",
    "('harmonized_donor_life_stage', 'v1.3')":"adult"
+  }
+ ],
+ "IHECRE00000099.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"vein endothelial cell"
+  }
+ ],
+ "IHECRE00000126.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"vein endothelial cell"
+  }
+ ],
+ "IHECRE00000184.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"vein endothelial cell"
+  }
+ ],
+ "IHECRE00000222.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00000224.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00000225.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland cell line"
+  }
+ ],
+ "IHECRE00000227.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland cell line"
+  }
+ ],
+ "IHECRE00000230.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00000233.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00000235.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00000236.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00000242.3":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00000934.7":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thymus"
+  }
+ ],
+ "IHECRE00000959.6":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00000969.7":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thymus"
+  }
+ ],
+ "IHECRE00001035.6":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"pancreas"
+  }
+ ],
+ "IHECRE00001235.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00001236.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
   }
  ],
  "IHECRE00001397.1":[
@@ -11,10 +139,252 @@
    "('harmonized_donor_life_stage', 'v1.3')":"adult"
   }
  ],
+ "IHECRE00001436.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00001445.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"B lymphocyte"
+  }
+ ],
+ "IHECRE00001469.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
  "IHECRE00001558.1":[
   {
    "('harmonized_donor_life_stage', 'v1.2')":"adult",
    "('harmonized_donor_life_stage', 'v1.3')":"child"
+  }
+ ],
+ "IHECRE00001851.6":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001852.7":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001853.6":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001873.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001874.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001875.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001876.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001877.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001878.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001879.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001880.2":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001881.7":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"vein endothelial cell"
+  }
+ ],
+ "IHECRE00001893.6":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001895.1":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001896.1":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001897.1":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001898.1":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001899.1":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00001900.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001901.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00001902.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003683.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003684.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003685.2":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003686.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003690.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003691.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003693.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003694.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003695.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003696.3":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00003704.6":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00003716.2":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"epithelial cell of endometrial gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"extravillous trophoblast",
+   "('harmonized_cell_type', 'v1.2')":"epithelial cell of endometrial gland",
+   "('harmonized_cell_type', 'v1.3')":"extravillous trophoblast",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"CL:0009084",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0008036",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell of endometrial gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"extraembryonic cell",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"extraembryonic cell"
   }
  ],
  "IHECRE00003727.1":[
@@ -23,10 +393,282 @@
    "('harmonized_donor_life_stage', 'v1.3')":"child"
   }
  ],
+ "IHECRE00003804.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003808.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003809.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003810.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003811.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003813.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003814.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003817.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003819.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"hepatocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00003824.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003829.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003830.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003833.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003835.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003843.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003844.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003846.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00003847.4":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
+  }
+ ],
+ "IHECRE00004605.1":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004609.2":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004610.2":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004611.2":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004631.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00004641.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00004643.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"lung"
+  }
+ ],
+ "IHECRE00004649.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"liver"
+  }
+ ],
+ "IHECRE00004661.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00004669.6":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"prostate gland"
+  }
+ ],
  "IHECRE00004677.5":[
   {
    "('harmonized_donor_life_stage', 'v1.2')":"embryonic",
    "('harmonized_donor_life_stage', 'v1.3')":"newborn"
+  }
+ ],
+ "IHECRE00004687.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"epithelial cell derived cell line",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"epithelial",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00004689.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"KMS-11",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"cancer cell line",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"B lymphocyte",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"cancer cell line"
+  }
+ ],
+ "IHECRE00004703.5":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"lung"
+  }
+ ],
+ "IHECRE00004717.2":[
+  {
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"endoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"thyroid gland"
+  }
+ ],
+ "IHECRE00004726.1":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004729.1":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004732.1":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004876.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"trophoblast",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"placenta"
+  }
+ ],
+ "IHECRE00004890.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"trophoblast",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"placenta"
+  }
+ ],
+ "IHECRE00004896.1":[
+  {
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"myoepithelial cell",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_cell_type', 'v1.2')":"myoepithelial cell",
+   "('harmonized_cell_type', 'v1.3')":"basal-myoepithelial cell of mammary gland",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"CL:0000185",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0002324",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"meso-epithelial cell",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"mammary gland epithelial cell"
+  }
+ ],
+ "IHECRE00004903.1":[
+  {
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"trophoblast",
+   "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"placenta"
   }
  ]
 }
