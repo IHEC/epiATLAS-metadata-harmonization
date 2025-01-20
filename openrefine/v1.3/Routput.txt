@@ -1,7 +1,7 @@
 * The library is already synchronized with the lockfile.
           used (Mb) gc trigger   (Mb)  max used   (Mb)
-Ncells 1629166 87.1   30087759 1606.9  37609698 2008.6
-Vcells 5538547 42.3  152617335 1164.4 166001095 1266.5
+Ncells 1629160 87.1   30030996 1603.9  37538744 2004.8
+Vcells 5538541 42.3  152500188 1163.5 166407943 1269.6
 [1] "automated_harmonized_sample_disease_ontology_curie_ncit"
    unique_terms_higher_order unique_terms_intermediate_order
 1:                        13                              29

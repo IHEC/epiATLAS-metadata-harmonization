@@ -154,7 +154,7 @@ v1_3_df_intermediate.rename(columns={col: f'automated_experiments_{col}' for col
 
 ### add colors to harmonized_sample_ontology_intermediate
 # load the json with the colors
-color_json = json.load(open('./openrefine/v1.3/IHEC_EpiATLAS_IA_colors_2025.json', 'r'))
+color_json = json.load(open('./openrefine/v1.3/IHEC_EpiATLAS_IA_colors_Jan20_2025.json', 'r'))
 
 # get the entry where the key is 'harmonized_sample_ontology_intermediate'
 intermediate_colors = {}
