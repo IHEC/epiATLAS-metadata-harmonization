@@ -141,18 +141,53 @@
  ],
  "IHECRE00001436.1":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"blast cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00001445.1":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"lymphocyte of B lineage",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.3')":"lymphocyte of B lineage",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000945",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"lymphocyte of B lineage",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"B lymphocyte"
   }
  ],
  "IHECRE00001469.1":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"blast cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
@@ -449,54 +484,162 @@
  ],
  "IHECRE00003824.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003829.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003830.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003833.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003835.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003843.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003844.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003846.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }
  ],
  "IHECRE00003847.4":[
   {
+   "('automated_harmonized_sample_ontology', 'v1.2')":"UBERON",
+   "('automated_harmonized_sample_ontology', 'v1.3')":"CL",
+   "('automated_harmonized_sample_ontology_term', 'v1.2')":"bone marrow",
+   "('automated_harmonized_sample_ontology_term', 'v1.3')":"myeloid cell",
+   "('harmonized_biomaterial_type', 'v1.2')":"primary tissue",
+   "('harmonized_biomaterial_type', 'v1.3')":"primary cell",
+   "('harmonized_cell_type', 'v1.2')":"mononuclear cell",
+   "('harmonized_cell_type', 'v1.3')":"myeloid cell",
+   "('harmonized_sample_ontology_curie', 'v1.2')":"UBERON:0002371",
+   "('harmonized_sample_ontology_curie', 'v1.3')":"CL:0000763",
+   "('harmonized_sample_ontology_intermediate', 'v1.2')":"mesoderm-derived structure",
+   "('harmonized_sample_ontology_intermediate', 'v1.3')":"myeloid cell",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.2')":"mesoderm-derived structure",
    "('harmonized_sample_ontology_term_high_order_fig1', 'v1.3')":"myeloid cell"
   }

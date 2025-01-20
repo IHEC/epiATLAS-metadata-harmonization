@@ -102,6 +102,7 @@
                 "lymphocyte of B lineage": "234,71,100",
                 "lymphoma or leukaemia cell line": "180,126,60",
                 "macrophage": "191,134,235",
+                "mammary gland cell line": "121,67,30",
                 "mammary gland epithelial cell": "121,67,30",
                 "melanocyte": "113,41,32",
                 "mesoderm-derived structure": "74,38,157",
@@ -123,14 +124,18 @@
                 "pancreas": "104,199,59",
                 "peripheral blood mononuclear cell": "150,69,193",
                 "placenta": "91,80,208",
+                "prostate gland": "36,106,96",
                 "secretory cell": "36,106,96",
                 "stem cell": "74,57,107",
                 "stem cell derived cell line": "85,72,174",
                 "suprapubic skin": "228,161,129",
                 "T cell": "182,26,57",
                 "testis": "169,169,169",
+                "thymus": "47,71,132",
+                "thyroid gland": "36,106,96",
                 "trophoblast": "99,145,226",
                 "uterus": "135,105,48",
+                "vein endothelial cell": "74,38,157",
                 "venous blood": "226,84,64"
             }
         ]

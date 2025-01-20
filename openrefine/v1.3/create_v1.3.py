@@ -23,6 +23,8 @@ run([openrefine_client, '--apply', './openrefine/v1.3/fig1_high_order_fixes.json
     check=True)
 run([openrefine_client, '--apply', './openrefine/v1.3/sample_ontology_intermediate_fixes.json', intermediate_project_name],
     check=True)
+run([openrefine_client, '--apply', './openrefine/v1.3/biomaterial_fixes.json', intermediate_project_name],
+    check=True)
 
 
 
@@ -152,7 +154,8 @@ v1_3_df_intermediate.rename(columns={col: f'automated_experiments_{col}' for col
 
 ### add colors to harmonized_sample_ontology_intermediate
 # load the json with the colors
-color_json = json.load(open('./openrefine/v1.3/IHEC_EpiATLAS_IA_colors_Apl01_2024.json', 'r'))
+color_json = json.load(open('./openrefine/v1.3/IHEC_EpiATLAS_IA_colors_2025.json', 'r'))
+
 # get the entry where the key is 'harmonized_sample_ontology_intermediate'
 intermediate_colors = {}
 for color_dict in color_json:
@@ -164,16 +167,39 @@ v1_3_df_intermediate.insert(v1_3_df_intermediate.columns.get_loc('harmonized_sam
                             'harmonized_sample_ontology_intermediate_color',
                             v1_3_df_intermediate['harmonized_sample_ontology_intermediate'].map(intermediate_colors))
 
-# get the entry where the key is 'harmonized_sample_ontology_intermediate'
+# change the color for the single EpiRR with epirr_id_without_version == "IHECRE00001445" to 234,71,100
+v1_3_df_intermediate.loc[v1_3_df_intermediate['epirr_id_without_version'] == "IHECRE00001445",
+                            'harmonized_sample_ontology_intermediate_color'] = '234,71,100'
+
+# get the entry where the key is 'fig1_ontology_intermediate_merged'
 fig1_colors = {}
 for color_dict in color_json:
     if color_dict.get('fig1_ontology_intermediate_merged'):
         fig1_colors.update(color_dict['fig1_ontology_intermediate_merged'][0])
 assert fig1_colors
-# add a column called harmonized_sample_ontology_intermediate_color to v1_3_df_intermediate right after harmonized_sample_ontology_intermediate
+# add a column called harmonized_sample_ontology_term_high_order_fig1_color to v1_3_df_intermediate right after harmonized_sample_ontology_term_high_order_fig1
 v1_3_df_intermediate.insert(v1_3_df_intermediate.columns.get_loc('harmonized_sample_ontology_term_high_order_fig1') + 1,
                             'harmonized_sample_ontology_term_high_order_fig1_color',
                             v1_3_df_intermediate['harmonized_sample_ontology_term_high_order_fig1'].map(fig1_colors))
+
+# read the excel file with Martin Hirst's colors from openrefine/v1.3/metadata_v1.3_extended_color_MH.xlsx
+mh_colors = pd.read_excel('./openrefine/v1.3/metadata_v1.3_extended_color_MH.xlsx')
+# remove rows where EpiRR is nan or does not start with "IHEC"
+mh_colors = mh_colors[mh_colors['EpiRR'].str.startswith('IHEC') & mh_colors['EpiRR'].notnull()]
+color_merging_cols = ["EpiRR",
+                      # "harmonized_sample_ontology_intermediate",
+                      "harmonized_sample_ontology_intermediate_color",
+                      # "harmonized_sample_ontology_term_high_order_fig1",
+                      "harmonized_sample_ontology_term_high_order_fig1_color"]
+# merge mh_colors with v1_3_df_intermediate on EpiRR using only the columns in color_merging_cols
+mh_colors = mh_colors[color_merging_cols]
+mh_colors.index = mh_colors.EpiRR
+mh_colors.sort_index(0, inplace=True)
+v1_3_color_check = v1_3_df_intermediate[color_merging_cols].copy()
+v1_3_color_check.index = v1_3_color_check.EpiRR
+v1_3_color_check.sort_index(0, inplace=True)
+color_diff = v1_3_color_check.compare(mh_colors)
+assert (color_diff.index == ['IHECRE00004674.6', 'IHECRE00004704.5']).all()
 
 # Read the file with the Manual_Groups
 manual_groups = pd.read_csv('./openrefine/v1.3/EpiAtlas_Manual_Groups+mod_HSOI.tsv', sep='\t')
@@ -331,14 +357,32 @@ v1_3_extended_df.sort_values(
                                         "harmonized_sample_ontology_intermediate"] else col.str.casefold(),
     inplace=True
 )
+# add a columnn add the end of the table called "EpiRR_ordering" with the number of the row
+v1_3_extended_df['EpiRR_ordering'] = range(1, len(v1_3_extended_df) + 1)
+
+# write the DataFrame to a csv file
 v1_3_extended_df.to_csv(v1_3_extended_csv, index=False)
 
 v1_3_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv'
-v1_3_extended_df.loc[:,
-~(v1_3_extended_df.columns.str.startswith('automated')
-  | v1_3_extended_df.columns.str.endswith('uncorrected')
-  | v1_3_extended_df.columns.str.endswith('color')
-  | v1_3_extended_df.columns.str.contains('order'))].to_csv(
+# v1_3_extended_df.loc[:,
+# ~(v1_3_extended_df.columns.str.startswith('automated')
+#   | v1_3_extended_df.columns.str.endswith('uncorrected')
+#   | v1_3_extended_df.columns.str.endswith('color')
+#   | v1_3_extended_df.columns.str.contains('order'))].to_csv(
+#     v1_3_csv, index=False)
+
+updated_column_mapping = {
+    "EpiRR_ordering": "EpiRR Ordering",
+    "EpiRR": "EpiRR",
+    "harmonized_sample_disease_high": "Disease",
+    "harmonized_sample_ontology_term_high_order_fig1": "Broad Biospecimen Label",
+    "harmonized_sample_ontology_term_high_order_fig1_color": "Broad Colour",
+    "harmonized_sample_ontology_intermediate": "Intermediate Biospecimen Label",
+    "harmonized_sample_ontology_intermediate_color": "Intermediate Colour",
+    "harmonized_sample_label": "Curated Biospecimen Label"
+}
+# write the DataFrame to a csv file using the names in updated_column_mapping and only those columns
+v1_3_extended_df.loc[:, list(updated_column_mapping.keys())].rename(columns=updated_column_mapping).to_csv(
     v1_3_csv, index=False)
 
 ### Compare v1.2 and v1.3
@@ -357,7 +401,8 @@ old.drop(columns=old.columns[old.columns.str.contains('WGBS') | old.columns.str.
 old.sort_index(1, inplace=True)
 new.drop(columns=new.columns[
     new.columns.str.contains('WGBS') | new.columns.str.contains('RNA-Seq') | new.columns.str.endswith('_uncorrected') |
-                 new.columns.str.endswith('_color') | new.columns.str.endswith('harmonized_sample_label')],
+                 new.columns.str.endswith('_color') | new.columns.str.endswith('harmonized_sample_label') |
+                 new.columns.str.endswith('EpiRR_ordering')],
          inplace=True)
 new.sort_index(1, inplace=True)
 assert old.columns.equals(new.columns)

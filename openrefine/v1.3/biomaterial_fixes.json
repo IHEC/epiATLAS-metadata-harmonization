@@ -1,0 +1,507 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mesoderm-derived structure",
+                "l": "mesoderm-derived structure"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_type",
+          "expression": "value",
+          "columnName": "harmonized_cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "blast cell",
+                "l": "blast cell"
+              }
+            },
+            {
+              "v": {
+                "v": "mononuclear cell",
+                "l": "mononuclear cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_biomaterial_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "primary tissue"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primary cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_biomaterial_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_type",
+          "expression": "value",
+          "columnName": "harmonized_cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "blast cell",
+                "l": "blast cell"
+              }
+            },
+            {
+              "v": {
+                "v": "mononuclear cell",
+                "l": "mononuclear cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mesoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myeloid cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "myeloid cell",
+                "l": "myeloid cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "UBERON:0002371",
+                "l": "UBERON:0002371"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "blast cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myeloid cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "myeloid cell",
+                "l": "myeloid cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_cell_type",
+          "expression": "value",
+          "columnName": "harmonized_cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "non-terminally differentiated cell",
+                "l": "non-terminally differentiated cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0002371"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL:0000763"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "myeloid cell",
+                "l": "myeloid cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "UBERON:0002371",
+                "l": "UBERON:0002371"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mononuclear cell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "myeloid cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "myeloid cell",
+                "l": "myeloid cell"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0002371"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL:0000763"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mesoderm-derived structure",
+                "l": "mesoderm-derived structure"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_curie",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_curie",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "UBERON:0002371",
+                "l": "UBERON:0002371"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_cell_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "lymphocyte of B lineage"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_cell_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_sample_ontology_intermediate",
+          "expression": "value",
+          "columnName": "harmonized_sample_ontology_intermediate",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "mesoderm-derived structure",
+                "l": "mesoderm-derived structure"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_curie",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UBERON:0002371"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CL:0000945"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_curie"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_type",
+          "expression": "value",
+          "columnName": "harmonized_cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "lymphocyte of B lineage",
+                "l": "lymphocyte of B lineage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_sample_ontology_intermediate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mesoderm-derived structure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "lymphocyte of B lineage"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_sample_ontology_intermediate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "harmonized_cell_type",
+          "expression": "value",
+          "columnName": "harmonized_cell_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "lymphocyte of B lineage",
+                "l": "lymphocyte of B lineage"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "harmonized_biomaterial_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "primary tissue"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "primary cell"
+      }
+    ],
+    "description": "Mass edit cells in column harmonized_biomaterial_type"
+  }
+]

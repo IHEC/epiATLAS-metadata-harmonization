@@ -1,7 +1,7 @@
 * The library is already synchronized with the lockfile.
           used (Mb) gc trigger   (Mb)  max used   (Mb)
-Ncells 1629306 87.1   31391176 1676.5  39238970 2095.6
-Vcells 5538221 42.3  141953656 1083.1 172608757 1317.0
+Ncells 1629166 87.1   30087759 1606.9  37609698 2008.6
+Vcells 5538547 42.3  152617335 1164.4 166001095 1266.5
 [1] "automated_harmonized_sample_disease_ontology_curie_ncit"
    unique_terms_higher_order unique_terms_intermediate_order
 1:                        13                              29
@@ -129,15 +129,22 @@ Vcells 5538221 42.3  141953656 1083.1 172608757 1317.0
    automated_harmonized_sample_ontology unique_terms_higher_order
 1:                                  EFO                        12
 2:                                   CL                        14
-3:                               UBERON                        15
+3:                               UBERON                        14
    unique_terms_intermediate_order
 1:                              28
 2:                              28
 3:                              26
+[1] "Some harmonized_sample_ontology_intermediate are not in the list of ancestors:"
+   harmonized_biomaterial_type harmonized_sample_ontology_curie
+1:                primary cell                       CL:0000653
+   harmonized_cell_type harmonized_tissue_type harmonized_cell_line
+1:             podocyte                                            
+   harmonized_sample_ontology_intermediate n_EpiRR n_project
+1:                          secretory cell       4         1
    automated_harmonized_sample_ontology unique_terms_higher_order
 1:                                  EFO                        12
 2:                                   CL                        15
-3:                               UBERON                        14
+3:                               UBERON                        15
    unique_terms_intermediate_order
 1:                              22
 2:                              29
