@@ -1,4 +1,4 @@
-EpiRR Ordering,EpiRR,Disease,Broad Biospecimen Label,Broad Colour,Intermediate Biospecimen Label,Intermediate Colour,Curated Biospecimen Label
+EpiRR Ordering,EpiRR,Biospecimen Disease,Broad Biospecimen Label,Broad Colour,Intermediate Biospecimen Label,Intermediate Colour,Curated Biospecimen Label
 1,IHECRE00001032.6,Healthy/None,brain,"185,126,30",brain,"185,126,30",Brain
 2,IHECRE00001053.7,Healthy/None,brain,"185,126,30",brain,"185,126,30",Brain
 3,IHECRE00002063.1,Healthy/None,brain,"185,126,30",brain,"185,126,30",Brain Amygdala

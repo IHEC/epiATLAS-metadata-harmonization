@@ -5,7 +5,7 @@ library(rols)
 library(data.table)
 
 #loading IHEC df
-main_csv <- 'IHEC_metadata_harmonization.v1.3.extended.csv'
+main_csv <- 'IHEC_sample_metadata_harmonization.v1.3_extended.csv'
 original_dt <- fread(main_csv)
 separator <- '::'
 

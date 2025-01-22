@@ -214,7 +214,7 @@ v1_3_df_intermediate.insert(v1_3_df_intermediate.columns.get_loc('harmonized_bio
                             manual_groups['Final_Manual_Group_Label'])
 
 ### Write to csv
-v1_3_extended_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.extended.csv'
+v1_3_extended_csv = './openrefine/v1.3/IHEC_sample_metadata_harmonization.v1.3_extended.csv'
 v1_3_df_intermediate.to_csv(v1_3_extended_csv, index=False)
 
 # for this step,
@@ -363,7 +363,7 @@ v1_3_extended_df['EpiRR_ordering'] = range(1, len(v1_3_extended_df) + 1)
 # write the DataFrame to a csv file
 v1_3_extended_df.to_csv(v1_3_extended_csv, index=False)
 
-v1_3_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv'
+v1_3_csv = './openrefine/v1.3/IHEC_sample_metadata_harmonization.v1.3.csv'
 # v1_3_extended_df.loc[:,
 # ~(v1_3_extended_df.columns.str.startswith('automated')
 #   | v1_3_extended_df.columns.str.endswith('uncorrected')
@@ -374,7 +374,7 @@ v1_3_csv = './openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv'
 updated_column_mapping = {
     "EpiRR_ordering": "EpiRR Ordering",
     "EpiRR": "EpiRR",
-    "harmonized_sample_disease_high": "Disease",
+    "harmonized_sample_disease_high": "Biospecimen Disease",
     "harmonized_sample_ontology_term_high_order_fig1": "Broad Biospecimen Label",
     "harmonized_sample_ontology_term_high_order_fig1_color": "Broad Colour",
     "harmonized_sample_ontology_intermediate": "Intermediate Biospecimen Label",
