@@ -4,7 +4,7 @@ At this time, this repository is only for **sample metadata**, _not experiment m
 For more information about experiment metadata check out the [IHEC Data Portal](https://epigenomesportal.ca/) and [EpiATLAS](https://ihec-epigenomes.org/epiatlas/data/).
 You can also find this metadata on [EpiRR](https://www.ebi.ac.uk/epirr/).
 The current version of the sample metadata contains **2279 EpiRR entries**.
-The CSV for the core sample metadata can be found at [openrefine/v1.3/IHEC_metadata_harmonization.v1.3.csv](IHEC_metadata_harmonization.v1.3.csv) and the extended version at  [openrefine/v1.3/IHEC_sample_metadata_harmonization.v1.3_extended.csv](IHEC_sample_metadata_harmonization.v1.3_extended.csv)
+The CSV for the core sample metadata can be found at [openrefine/v1.3/IHEC_sample_metadata_harmonization.v1.3.csv](IHEC_metadata_harmonization.v1.3.csv) and the extended version at  [openrefine/v1.3/IHEC_sample_metadata_harmonization.v1.3_extended.csv](IHEC_sample_metadata_harmonization.v1.3_extended.csv)
 
 ## News
 
