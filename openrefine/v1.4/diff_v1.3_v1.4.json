@@ -1,0 +1,332 @@
+{
+ "IHECRE00000001.4":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000664.3":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000807.3":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000914.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000941.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000961.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000962.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000985.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000996.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000997.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00000999.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001000.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001037.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001050.8":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001054.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001055.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001851.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001853.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001854.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001856.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"child",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001858.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001859.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001860.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001861.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"child",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001889.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001892.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001895.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001896.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00001897.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00003700.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00003704.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00003705.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00003706.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00003709.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00003710.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00003714.7":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004599.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"fetal",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004600.1":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"fetal",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004623.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004627.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"child",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004633.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004639.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004653.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004659.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004663.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004670.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004673.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"child",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004676.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004687.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004689.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004691.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004693.6":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"child",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004694.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"adult",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004698.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"embryonic",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ],
+ "IHECRE00004702.5":[
+  {
+   "('harmonized_donor_life_stage', 'v1.3')":"newborn",
+   "('harmonized_donor_life_stage', 'v1.4')":"unknown"
+  }
+ ]
+}
