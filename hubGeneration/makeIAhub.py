@@ -43,7 +43,8 @@ def makeSamplesJson(sampleCsvFile):
     # Open a DictReader
     with open(sampleCsvFile, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
-         
+        
+        fields_to_include = get_fields_to_include()
         # Convert each row into a dictionary and add it to data{}
         for row in csvReader:
             # Remove "harmonized_" from key names
@@ -53,12 +54,15 @@ def makeSamplesJson(sampleCsvFile):
                 # # Include donor_id (without 'harmonized_') duplicate, for IDP legacy compatibility.
                 # if key.startswith("harmonized_donor_id"):
                 #     newRow['donor_id'] = value
-
-                # The data row, without "harmonized_" in all the field names.
-                if key.startswith("harmonized_"):
-                    newRow[key.replace('harmonized_', '')] = value
-                else:
-                    newRow[key] = value
+                if key in fields_to_include:
+                    # The data row, without "harmonized_" in all the field names.
+                    if key.startswith("harmonized_"):
+                        newRow[key.replace('harmonized_', '')] = value
+                    # But keep the automated_ in the key name.
+                    elif "_harmonized" in key:
+                        newRow[key.replace('_harmonized', '')] = value    
+                    else:
+                        newRow[key] = value
             # Column 'EpiRR' is used as the primary key
             key = newRow['EpiRR']
             data[key] = newRow
@@ -98,11 +102,51 @@ def makeDatasetJson(datasetCsvFile):
             data[key]["sample_id"] = row['epirr_id']
     return data
 
+# Not all sample metadata from the _extended .csv are necessary.  Only include these ones.
+def get_fields_to_include():
+    fields_to_include = [
+        "EpiRR",
+        "project",
+        "harmonized_biomaterial_type",
+        "harmonized_sample_label",
+        "harmonized_sample_ontology_intermediate",
+        "harmonized_sample_disease_high",
+        "harmonized_sample_disease_intermediate",
+        "harmonized_EpiRR_status",
+        "epiATLAS_status",
+        "harmonized_cell_type",
+        "harmonized_cell_line",
+        "harmonized_tissue_type",
+        "harmonized_sample_ontology_curie",
+        "harmonized_cell_markers",
+        "automated_harmonized_sample_ontology",
+        "automated_harmonized_sample_ontology_term",
+        "harmonized_sample_disease",
+        "harmonized_sample_disease_ontology_curie",
+        "automated_harmonized_sample_disease_ontology_curie_ncit",
+        "harmonized_donor_type",
+        "harmonized_donor_id",
+        "harmonized_donor_age",
+        "harmonized_donor_age_unit",
+        "automated_harmonized_donor_age_in_years",
+        "harmonized_donor_life_stage",
+        "harmonized_donor_life_stage_uncorrected",
+        "harmonized_donor_sex",
+        "harmonized_donor_sex_uncorrected",
+        "harmonized_donor_health_status",
+        "harmonized_donor_health_status_ontology_curie",
+        "automated_harmonized_donor_health_status_ontology_curie_ncit",
+        "epirr_id_without_version",
+    ]
+    return fields_to_include
+
 def main():
     # Define in and out file paths, relative to this script.
-    sampleCsvFile = r'../openrefine/v1.2/IHEC_metadata_harmonization.v1.2.csv'
+    # sampleCsvFile = r'../openrefine/v1.2/IHEC_metadata_harmonization.v1.2.csv'
+    sampleCsvFile = r'../openrefine/v2.0/IHEC_sample_metadata_harmonization.v2.0_extended.csv'
     datasetCsvFile = r'../openrefine/v1.1/epiatlas_metadata.csv' # No update found.
-    hubOutFilePath = r'IHEC_metadata_harmonization.v1.2.json'
+    # hubOutFilePath = r'IHEC_metadata_harmonization.v1.2.json'
+    hubOutFilePath = r'IHEC_metadata_harmonization.v2.0.json'
     
     # Put the pieces together
     h = Hub()

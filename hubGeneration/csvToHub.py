@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # Converts IHEC_metadata_hormonization.vX.X.csv file to json format, with EpiRR used as the primary key.
 # This was the initial script version that evolved into ./makeIAhub.py
+# This file is DEPRECATED.
 import csv
 import json
  
